@@ -1,1 +1,108 @@
-{}
+{
+  "noun:Anrufen": {
+    "kind": "noun",
+    "slug": "Anrufen",
+    "url": "https://www.verbformen.de/deklination/substantive/Anrufen.htm",
+    "status": "included",
+    "found_via": "anrufen",
+    "first_seen": "2026-10-06T13:48:36+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:50:10+00:00",
+    "hash": "2afa9f182f309dce"
+  },
+  "noun:Haben": {
+    "kind": "noun",
+    "slug": "Haben",
+    "url": "https://www.verbformen.de/deklination/substantive/Haben.htm",
+    "status": "excluded",
+    "found_via": "haben",
+    "first_seen": "2026-10-06T13:48:00+00:00",
+    "listing_level": null,
+    "detail_level": "C2",
+    "fetched_at": "2026-10-06T13:49:51+00:00"
+  },
+  "noun:Sein": {
+    "kind": "noun",
+    "slug": "Sein",
+    "url": "https://www.verbformen.de/deklination/substantive/Sein.htm",
+    "status": "excluded",
+    "found_via": "sein",
+    "first_seen": "2026-10-06T13:48:12+00:00",
+    "listing_level": null,
+    "detail_level": "C2",
+    "fetched_at": "2026-10-06T13:49:59+00:00"
+  },
+  "noun:Stadt": {
+    "kind": "noun",
+    "slug": "Stadt",
+    "url": "https://www.verbformen.de/deklination/substantive/Stadt.htm",
+    "status": "included",
+    "found_via": "Stadt",
+    "first_seen": "2026-10-06T13:48:51+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:50:17+00:00",
+    "hash": "a58e080f0f577c1a"
+  },
+  "noun:Tisch": {
+    "kind": "noun",
+    "slug": "Tisch",
+    "url": "https://www.verbformen.de/deklination/substantive/Tisch.htm",
+    "status": "included",
+    "found_via": "Tisch",
+    "first_seen": "2026-10-06T13:48:44+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:50:13+00:00",
+    "hash": "addf951013e7a4be"
+  },
+  "verb:anrufen": {
+    "kind": "verb",
+    "slug": "anrufen",
+    "url": "https://www.verbformen.de/konjugation/anrufen.htm",
+    "status": "included",
+    "found_via": "anrufen",
+    "first_seen": "2026-10-06T13:48:36+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:50:06+00:00",
+    "hash": "5c1235ee17f69d94"
+  },
+  "verb:gehen": {
+    "kind": "verb",
+    "slug": "gehen",
+    "url": "https://www.verbformen.de/konjugation/gehen.htm",
+    "status": "included",
+    "found_via": "gehen",
+    "first_seen": "2026-10-06T13:48:24+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:50:03+00:00",
+    "hash": "2584cc7c67b0c4cc"
+  },
+  "verb:haben": {
+    "kind": "verb",
+    "slug": "haben",
+    "url": "https://www.verbformen.de/konjugation/haben.htm",
+    "status": "included",
+    "found_via": "haben",
+    "first_seen": "2026-10-06T13:48:00+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:49:48+00:00",
+    "hash": "a1f3fdf124b3b2de"
+  },
+  "verb:sein": {
+    "kind": "verb",
+    "slug": "sein",
+    "url": "https://www.verbformen.de/konjugation/sein.htm",
+    "status": "included",
+    "found_via": "sein",
+    "first_seen": "2026-10-06T13:48:12+00:00",
+    "listing_level": null,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-06T13:49:55+00:00",
+    "hash": "b3ebd3b4ac5046e0"
+  }
+}

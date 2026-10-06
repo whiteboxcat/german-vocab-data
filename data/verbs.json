@@ -1,1 +1,692 @@
-[]
+[
+  {
+    "id": "anrufen",
+    "type": "verb",
+    "infinitive": "anrufen",
+    "level": "A1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "ruft an",
+    "praeteritum_3sg": "rief an",
+    "perfekt_3sg": "hat angerufen",
+    "partizip2": "angerufen",
+    "separable_prefix": "an",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "rufe an",
+        "du": "rufst an",
+        "er": "ruft an",
+        "wir": "rufen an",
+        "ihr": "ruft an",
+        "sie": "rufen an"
+      },
+      "Präteritum": {
+        "ich": "rief an",
+        "du": "riefst an",
+        "er": "rief an",
+        "wir": "riefen an",
+        "ihr": "rieft an",
+        "sie": "riefen an"
+      },
+      "Perfekt": {
+        "ich": "habe angerufen",
+        "du": "hast angerufen",
+        "er": "hat angerufen",
+        "wir": "haben angerufen",
+        "ihr": "habt angerufen",
+        "sie": "haben angerufen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte angerufen",
+        "du": "hattest angerufen",
+        "er": "hatte angerufen",
+        "wir": "hatten angerufen",
+        "ihr": "hattet angerufen",
+        "sie": "hatten angerufen"
+      },
+      "Futur I": {
+        "ich": "werde anrufen",
+        "du": "wirst anrufen",
+        "er": "wird anrufen",
+        "wir": "werden anrufen",
+        "ihr": "werdet anrufen",
+        "sie": "werden anrufen"
+      },
+      "Futur II": {
+        "ich": "werde angerufen haben",
+        "du": "wirst angerufen haben",
+        "er": "wird angerufen haben",
+        "wir": "werden angerufen haben",
+        "ihr": "werdet angerufen haben",
+        "sie": "werden angerufen haben"
+      }
+    },
+    "imperative": [
+      "ich rufe an",
+      "du rufst an",
+      "er ruft an",
+      "wir rufen an",
+      "ihr ruft an",
+      "sie rufen an"
+    ],
+    "english": [
+      "call",
+      "phone",
+      "call up",
+      "give a ring",
+      "phone in",
+      "ring",
+      "ring up",
+      "announce",
+      "appeal",
+      "appeal to",
+      "buzz",
+      "call (about)",
+      "call out",
+      "call upon",
+      "challenge",
+      "contact",
+      "cry out",
+      "give a bell",
+      "give a call",
+      "give a tinkle",
+      "invocate",
+      "invoke",
+      "make a (phone) call",
+      "shout over",
+      "telephone"
+    ],
+    "definitions_de": [
+      "auf sich aufmerksam machen, indem man ruft, jemanden namentlich rufen, rufen (nach), verlangen (nach)",
+      "jemanden bitten, sich als Helfer, Vermittler oder dergleichen entscheidend in etwas einzuschalten/auf etwas Einfluss zu nehmen, rufen (nach), verlangen (nach), anflehen, beten, bitten",
+      "mit jemandem telefonisch in Verbindung treten, antelefonieren/antelephonieren, durchrufen, anbimmeln, anklingeln, telefonieren/telephonieren",
+      "etwas durch (lautes) Rufen bekannt geben, mitteilen, verkünden, angeben, ankündigen, ansagen, ausrufen, ausschreien"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hast du angerufen",
+        "en": "You called?"
+      },
+      {
+        "de": "Hat Lucy schon angerufen",
+        "en": "Lucy called already?"
+      },
+      {
+        "de": "Keiner hat die Polizei angerufen",
+        "en": "No one called the police."
+      },
+      {
+        "de": "Danke, dass du",
+        "en": "Thank you for calling."
+      },
+      {
+        "de": "Ich ruf",
+        "en": "I'll call back in twenty minutes."
+      },
+      {
+        "de": "Ruf mich bitte so bald wie möglich an",
+        "en": "Please call me as soon as possible."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/anrufen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/anrufen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/anrufen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/anrufen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/anrufen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/anrufen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/anrufen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/anrufen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/anrufen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/anrufen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/anrufen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/anrufen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/anrufen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/anrufen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/anrufen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/anrufen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/anrufen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/anrufen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/anrufen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/anrufen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/anrufen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/anrufen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/anrufen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/anrufen.htm",
+    "first_seen": "2026-10-06T13:48:36+00:00",
+    "updated_at": "2026-10-06T13:50:06+00:00",
+    "hash": "5c1235ee17f69d94"
+  },
+  {
+    "id": "gehen",
+    "type": "verb",
+    "infinitive": "gehen",
+    "level": "A1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "sein"
+    ],
+    "auxiliary_raw": "sein",
+    "present_3sg": "geht",
+    "praeteritum_3sg": "ging",
+    "perfekt_3sg": "ist gegangen",
+    "partizip2": "gegangen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "durch+A",
+      "zu+D",
+      "vor+D",
+      "gegen+A",
+      "in+A",
+      "von+D",
+      "an+A",
+      "um+A",
+      "über+D",
+      "hinter+D",
+      "neben+D",
+      "über+A",
+      "in+D",
+      "mit+D",
+      "nach+D",
+      "an+D",
+      "auf+A"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., Dat., durch+A, zu+D, vor+D, gegen+A, in+A, von+D, an+A, um+A, über+D, hinter+D, neben+D, über+A, in+D, mit+D, nach+D, an+D, auf+A, wie, als",
+    "indicative": {
+      "Präsens": {
+        "ich": "gehe",
+        "du": "gehst",
+        "er": "geht",
+        "wir": "gehen",
+        "ihr": "geht",
+        "sie": "gehen"
+      },
+      "Präteritum": {
+        "ich": "ging",
+        "du": "gingst",
+        "er": "ging",
+        "wir": "gingen",
+        "ihr": "gingt",
+        "sie": "gingen"
+      },
+      "Perfekt": {
+        "ich": "bin gegangen",
+        "du": "bist gegangen",
+        "er": "ist gegangen",
+        "wir": "sind gegangen",
+        "ihr": "seid gegangen",
+        "sie": "sind gegangen"
+      },
+      "Plusquamperfekt": {
+        "ich": "war gegangen",
+        "du": "warst gegangen",
+        "er": "war gegangen",
+        "wir": "waren gegangen",
+        "ihr": "wart gegangen",
+        "sie": "waren gegangen"
+      },
+      "Futur I": {
+        "ich": "werde geh(e)n",
+        "du": "wirst geh(e)n",
+        "er": "wird geh(e)n",
+        "wir": "werden geh(e)n",
+        "ihr": "werdet geh(e)n",
+        "sie": "werden geh(e)n"
+      },
+      "Futur II": {
+        "ich": "werde gegangen sein",
+        "du": "wirst gegangen sein",
+        "er": "wird gegangen sein",
+        "wir": "werden gegangen sein",
+        "ihr": "werdet gegangen sein",
+        "sie": "werden gegangen sein"
+      }
+    },
+    "imperative": [
+      "ich gehe",
+      "du gehst",
+      "er geht",
+      "wir gehen",
+      "ihr geht",
+      "sie gehen"
+    ],
+    "english": [
+      "go",
+      "walk",
+      "leave",
+      "move",
+      "be bought a lot",
+      "be off",
+      "come along (with)",
+      "do",
+      "go (with)",
+      "go from to",
+      "go on",
+      "go out with",
+      "go with",
+      "head for",
+      "last",
+      "lead somewhere",
+      "pace",
+      "prove",
+      "race-walk",
+      "sell",
+      "step into",
+      "walk (behind)",
+      "went",
+      "depart",
+      "quit"
+    ],
+    "definitions_de": [
+      "sich schreitend, schrittweise fortbewegen, in eine veränderte Lebenssituation eintreten, laufen",
+      "einen Ort oder eine Zusammenkunft verlassen, abhauen, abmarschieren, aufbrechen, weggehen",
+      "einen anderen Ort aufsuchen, um dort die mit dem anderen Verb beschriebene Handlung auszuführen",
+      "funktionsfähig sein, funktionieren, laufen, intakt sein"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich gehe jetzt.",
+        "en": "I'm taking off now."
+      },
+      {
+        "de": "Ich geh nach Hause.",
+        "en": "I'm going home."
+      },
+      {
+        "de": "Die Uhr geh",
+        "en": "The clock does not run."
+      },
+      {
+        "de": "Ich geh",
+        "en": "I am going to the hairdresser."
+      },
+      {
+        "de": "Ich geh",
+        "en": "I am going across the street."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/gehen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/gehen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/gehen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/gehen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/gehen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/gehen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/gehen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/gehen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/gehen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/gehen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/gehen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/gehen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/gehen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/gehen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/gehen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/gehen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/gehen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/gehen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/gehen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/gehen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/gehen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/gehen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/gehen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/gehen.htm",
+    "first_seen": "2026-10-06T13:48:24+00:00",
+    "updated_at": "2026-10-06T13:50:03+00:00",
+    "hash": "2584cc7c67b0c4cc"
+  },
+  {
+    "id": "haben",
+    "type": "verb",
+    "infinitive": "haben",
+    "level": "A1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "hat",
+    "praeteritum_3sg": "hatte",
+    "perfekt_3sg": "hat gehabt",
+    "partizip2": "gehabt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "zu+D",
+      "vor+D",
+      "gegen+A",
+      "von+D",
+      "bei+D",
+      "in+D",
+      "mit+D",
+      "an+D",
+      "hinter+D"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., zu+D, vor+D, gegen+A, von+D, bei+D, in+D, mit+D, an+D, hinter+D, als",
+    "indicative": {
+      "Präsens": {
+        "ich": "habe",
+        "du": "hast",
+        "er": "hat",
+        "wir": "haben",
+        "ihr": "habt",
+        "sie": "haben"
+      },
+      "Präteritum": {
+        "ich": "hatte",
+        "du": "hattest",
+        "er": "hatte",
+        "wir": "hatten",
+        "ihr": "hattet",
+        "sie": "hatten"
+      },
+      "Perfekt": {
+        "ich": "habe gehabt",
+        "du": "hast gehabt",
+        "er": "hat gehabt",
+        "wir": "haben gehabt",
+        "ihr": "habt gehabt",
+        "sie": "haben gehabt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gehabt",
+        "du": "hattest gehabt",
+        "er": "hatte gehabt",
+        "wir": "hatten gehabt",
+        "ihr": "hattet gehabt",
+        "sie": "hatten gehabt"
+      },
+      "Futur I": {
+        "ich": "werde haben",
+        "du": "wirst haben",
+        "er": "wird haben",
+        "wir": "werden haben",
+        "ihr": "werdet haben",
+        "sie": "werden haben"
+      },
+      "Futur II": {
+        "ich": "werde gehabt haben",
+        "du": "wirst gehabt haben",
+        "er": "wird gehabt haben",
+        "wir": "werden gehabt haben",
+        "ihr": "werdet gehabt haben",
+        "sie": "werden gehabt haben"
+      }
+    },
+    "imperative": [
+      "ich habe",
+      "du hast",
+      "er hat",
+      "wir haben",
+      "ihr habt",
+      "sie haben"
+    ],
+    "english": [
+      "have",
+      "possess",
+      "have with one",
+      "be available",
+      "be free",
+      "got",
+      "had",
+      "has",
+      "have got",
+      "have to",
+      "having",
+      "must",
+      "own",
+      "stand on ceremony"
+    ],
+    "definitions_de": [
+      "eine Sache besitzen, besitzen, es gehört (einem), es gehört",
+      "eine Sache kann etwas enthalten, enthalten",
+      "etwas tun müssen, zur Erfüllung einer Aufgabe/zum Vollzug einer Tätigkeit gezwungen oder verpflichtet sein, müssen",
+      "etwas empfinden, auch gegenüber einer Person oder Sache und sich entsprechend aufführen, empfinden, verspüren, fühlen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich hab",
+        "en": "I have one."
+      },
+      {
+        "de": "Alle hatten Hunger.",
+        "en": "Everyone was hungry."
+      },
+      {
+        "de": "Du hast Fieber.",
+        "en": "You've got a fever."
+      },
+      {
+        "de": "Er",
+        "en": "He had success."
+      },
+      {
+        "de": "Du",
+        "en": "You had beer."
+      },
+      {
+        "de": "Ich hab was.",
+        "en": "I have something."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/haben.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/haben.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/haben.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/haben.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/haben.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/haben.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/haben.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/haben.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/haben.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/haben.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/haben.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/haben.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/haben.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/haben.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/haben.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/haben.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/haben.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/haben.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/haben.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/haben.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/haben.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/haben.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/haben.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/haben.htm",
+    "first_seen": "2026-10-06T13:48:00+00:00",
+    "updated_at": "2026-10-06T13:49:48+00:00",
+    "hash": "a1f3fdf124b3b2de"
+  },
+  {
+    "id": "sein",
+    "type": "verb",
+    "infinitive": "sein",
+    "level": "A1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "sein"
+    ],
+    "auxiliary_raw": "sein",
+    "present_3sg": "ist",
+    "praeteritum_3sg": "war",
+    "perfekt_3sg": "ist gewesen",
+    "partizip2": "gewesen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk",
+      "Dat",
+      "Gen"
+    ],
+    "prepositions": [
+      "für+A",
+      "gegen+A",
+      "bei+D",
+      "in+D",
+      "von+D",
+      "außer+D",
+      "an+D",
+      "nach+D",
+      "aus+D"
+    ],
+    "usage_pattern_raw": "Akk., Dat., Gen., für+A, gegen+A, bei+D, in+D, von+D, außer+D, an+D, nach+D, aus+D, wie, als",
+    "indicative": {
+      "Präsens": {
+        "ich": "bin",
+        "du": "bist",
+        "er": "ist",
+        "wir": "sind",
+        "ihr": "seid",
+        "sie": "sind"
+      },
+      "Präteritum": {
+        "ich": "war",
+        "du": "warst",
+        "er": "war",
+        "wir": "waren",
+        "ihr": "wart",
+        "sie": "waren"
+      },
+      "Perfekt": {
+        "ich": "bin gewesen",
+        "du": "bist gewesen",
+        "er": "ist gewesen",
+        "wir": "sind gewesen",
+        "ihr": "seid gewesen",
+        "sie": "sind gewesen"
+      },
+      "Plusquamperfekt": {
+        "ich": "war gewesen",
+        "du": "warst gewesen",
+        "er": "war gewesen",
+        "wir": "waren gewesen",
+        "ihr": "wart gewesen",
+        "sie": "waren gewesen"
+      },
+      "Futur I": {
+        "ich": "werde sein",
+        "du": "wirst sein",
+        "er": "wird sein",
+        "wir": "werden sein",
+        "ihr": "werdet sein",
+        "sie": "werden sein"
+      },
+      "Futur II": {
+        "ich": "werde gewesen sein",
+        "du": "wirst gewesen sein",
+        "er": "wird gewesen sein",
+        "wir": "werden gewesen sein",
+        "ihr": "werdet gewesen sein",
+        "sie": "werden gewesen sein"
+      }
+    },
+    "imperative": [
+      "ich bin",
+      "du bist",
+      "er ist",
+      "wir sind",
+      "ihr seid",
+      "sie sind"
+    ],
+    "english": [
+      "be",
+      "exist",
+      "been",
+      "be (against)",
+      "be (in)",
+      "be (of) opinion",
+      "be an opponent (of)",
+      "be opposed to",
+      "be subjected",
+      "belong (to)",
+      "stay"
+    ],
+    "definitions_de": [
+      "sich in einem angegeben Zustand befinden, sich den angegebenen Umständen ausgesetzt sehen",
+      "sich am genannten Ort befinden",
+      "existieren",
+      "sich fühlen, jemandem gehören, existieren, darstellen, (etwas) darstellen, seine"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Japanisch ist schwer.",
+        "en": "Japanese is hard."
+      },
+      {
+        "de": "Bananen",
+        "en": "Bananas are yellow."
+      },
+      {
+        "de": "Sie waren schmutzig.",
+        "en": "They were dirty."
+      },
+      {
+        "de": "Du bist lustig.",
+        "en": "You're funny."
+      },
+      {
+        "de": "Ich bin froh.",
+        "en": "I am happy."
+      },
+      {
+        "de": "Wer seid ihr?",
+        "en": "Who are you?"
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/sein.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/sein.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/sein.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/sein.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/sein.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/sein.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/sein.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/sein.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/sein.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/sein.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/sein.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/sein.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/sein.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/sein.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/sein.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/sein.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/sein.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/sein.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/sein.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/sein.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/sein.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/sein.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/sein.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/sein.htm",
+    "first_seen": "2026-10-06T13:48:12+00:00",
+    "updated_at": "2026-10-06T13:49:55+00:00",
+    "hash": "b3ebd3b4ac5046e0"
+  }
+]
