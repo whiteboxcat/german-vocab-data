@@ -83,6 +83,7 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
     pending = [w for w in words if _days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck]
     print(f"Discovery: {len(pending)} of {len(words)} candidate words to look up (budget {budget} this run)")
     seeds = {w.lower() for w in load_seed_words()}
+    rank_of = {w.lower(): i for i, w in enumerate(words)}  # seeds first, then by frequency
     done = unreadable = 0
     for w in pending[:budget]:
         resp = client.get(f"/suche/?w={quote(w)}")
@@ -113,6 +114,9 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
                     "found_via": w, "first_seen": now_iso(),
                 })
                 reg["listing_level"] = lvl
+                r = rank_of.get(w.lower())
+                if r is not None and r < reg.get("rank", 10**9):
+                    reg["rank"] = r
                 added += 1
         store.candidates[w.lower()] = {"checked": now_iso(), "added": added}
         done += 1
@@ -185,6 +189,8 @@ def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) 
             "kind": ckind, "slug": cslug, "url": client.abs_url(m.group(1)), "status": "pending",
             "found_via": reg.get("found_via"), "first_seen": now_iso(),
         })
+        if "rank" in reg and reg["rank"] < target.get("rank", 10**9):
+            target["rank"] = reg["rank"]
         if target["status"] != "alias":
             return fetch_entry(client, store, target | {"key": ckey}, targets)
         return "alias"
@@ -209,7 +215,7 @@ def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) 
     reg.pop("parse_error", None)
     reg["status"] = "included"
 
-    rec = {"id": slug, **rec}
+    rec = {"id": slug, **rec, "rank": reg.get("rank")}  # lower rank = more common; the app teaches these first
     h = content_hash(rec)
     old = store.records[kind].get(slug)
     if old and reg.get("hash") == h:
