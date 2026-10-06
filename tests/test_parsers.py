@@ -68,3 +68,14 @@ def test_search_listing():
     assert rows["Tisch"]["headword_norm"] == "tisch"
     assert rows["tischen"]["listing_level"] is None and rows["tischen"]["kind"] == "verb"
     assert rows["Tischbein"]["listing_level"] == "C2"
+
+
+def test_search_live_page():
+    """Real verbformen search page (saved Oct 2026): results are div.bTrf blocks with onclick links."""
+    rows = {r["slug"]: r for r in parse_search(load("search_tisch_live.html"))}
+    assert rows["Tisch"]["kind"] == "noun" and rows["Tisch"]["listing_level"] == "A1"
+    assert rows["Tisch"]["headword_norm"] == "tisch"
+    assert rows["tischen"]["kind"] == "verb" and rows["tischen"]["listing_level"] is None
+    assert rows["Tischbein"]["listing_level"] == "C2"
+    assert "tischfertig" not in rows  # adjective
+    assert len(rows) >= 15

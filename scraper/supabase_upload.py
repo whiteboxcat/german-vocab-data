@@ -55,7 +55,19 @@ def main() -> int:
             for x in batch:
                 uploaded[f"{table}:{x['id']}"] = x["hash"]
         total += len(todo)
-        print(f"{table}: {len(todo)} uploaded ({len(recs)} total)")
+        # Remove rows that are no longer in the data (merged duplicates, level changes).
+        current = {r["id"] for r in recs}
+        stale = [k.split(":", 1)[1] for k in uploaded if k.startswith(f"{table}:") and k.split(":", 1)[1] not in current]
+        for i in range(0, len(stale), 100):
+            ids = ",".join('"' + x.replace('"', '') + '"' for x in stale[i:i + 100])
+            r = sess.delete(f"{url}/rest/v1/{table}", params={"id": f"in.({ids})"}, timeout=60)
+            if r.status_code >= 300:
+                print(f"Deleting old rows from {table} failed: HTTP {r.status_code} {r.text[:300]}")
+                write_json(uploaded_path, uploaded)
+                return 1
+        for x in stale:
+            uploaded.pop(f"{table}:{x}", None)
+        print(f"{table}: {len(todo)} uploaded, {len(stale)} removed ({len(recs)} total)")
 
     meta = read_json(DATA_DIR / "meta.json", {})
     r = sess.post(f"{url}/rest/v1/meta?on_conflict=key", json=[

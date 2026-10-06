@@ -18,10 +18,11 @@ import requests
 from .config import SEEDS_DIR, current_interval_days, load_config
 from .http import OutOfTime, PoliteClient, RateLimited
 from .parse_noun import REQUIRED_NOUN_FIELDS, parse_noun
-from .parse_search import parse_search
+from .parse_search import parse_search, slug_from_url
 from .parse_verb import REQUIRED_VERB_FIELDS, parse_verb
 from .store import Store, archive_html, content_hash, now_iso
 
+CANONICAL_RE = re.compile(r'<link[^>]+rel="canonical"[^>]+href="([^"]+)"')
 WORD_RE = re.compile(r"^[A-Za-zÄÖÜäöüß-]{2,40}$")
 
 
@@ -145,7 +146,7 @@ def probe_direct(client: PoliteClient, word: str) -> list[dict]:
 def due_entries(store: Store, interval_days: float, targets: set[str]) -> list[dict]:
     due = []
     for key, e in store.registry.items():
-        if e["status"] == "removed":
+        if e["status"] in ("removed", "alias"):
             continue
         if e["status"] == "excluded" and e.get("detail_level") not in targets:
             continue
@@ -166,6 +167,27 @@ def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) 
         return "removed"
     if resp.status != 200:
         return f"http_{resp.status}"
+
+    # Some URLs show another word's page (e.g. .../Anrufen.htm shows "Anruf"). Follow the canonical
+    # link so each word is stored once, under its real ID.
+    m = CANONICAL_RE.search(resp.text)
+    canon = slug_from_url(m.group(1)) if m else None
+    if canon and canon != (kind, slug):
+        ckind, cslug = canon
+        reg["status"] = "alias"
+        reg["alias_of"] = f"{ckind}:{cslug}"
+        reg["fetched_at"] = now_iso()
+        if slug in store.records[kind]:
+            del store.records[kind][slug]
+            store.changes.append({"key": key, "change": f"merged_into_{ckind}:{cslug}"})
+        ckey = f"{ckind}:{cslug}"
+        target = store.registry.setdefault(ckey, {
+            "kind": ckind, "slug": cslug, "url": client.abs_url(m.group(1)), "status": "pending",
+            "found_via": reg.get("found_via"), "first_seen": now_iso(),
+        })
+        if target["status"] != "alias":
+            return fetch_entry(client, store, target | {"key": ckey}, targets)
+        return "alias"
 
     parser, required = (parse_noun, REQUIRED_NOUN_FIELDS) if kind == "noun" else (parse_verb, REQUIRED_VERB_FIELDS)
     rec = parser(resp.text, e["url"])
