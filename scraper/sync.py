@@ -67,10 +67,13 @@ def _days_since(iso: str | None) -> float:
 
 
 # --------------------------------------------------------------------------- phases
-def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, targets: set[str]) -> int:
+def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, targets: set[str],
+             limit: int | None = None) -> int:
     disc = cfg["discovery"]
     recheck = float(disc["recheck_candidates_after_days"])
     budget = int(disc["max_searches_per_run"])
+    if limit:  # test runs stay quick: no more searches than the page limit
+        budget = min(budget, limit)
     pending = [w for w in words if _days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck]
     print(f"Discovery: {len(pending)} of {len(words)} candidate words to look up (budget {budget} this run)")
     done = 0
@@ -92,7 +95,7 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
                 added += 1
         store.candidates[w.lower()] = {"checked": now_iso(), "added": added}
         done += 1
-        if done % 50 == 0:
+        if done % 25 == 0:
             store.save_state()
             print(f"  … {done} searches, registry has {len(store.registry)} entries")
     return done
@@ -181,7 +184,7 @@ def run(force: bool = False, limit: int | None = None, skip_discovery: bool = Fa
     stop_reason = "finished"
     try:
         if discovery_pending:
-            discover(client, store, words, cfg, targets)
+            discover(client, store, words, cfg, targets, limit)
             store.save_state()
         due = due_entries(store, interval, targets)
         if limit:

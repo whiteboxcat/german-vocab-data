@@ -28,6 +28,8 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     timeout-minutes: 345
+    env:
+      PYTHONUNBUFFERED: "1"   # show progress in the log as it happens
     steps:
       - uses: actions/checkout@v4
 
@@ -68,5 +70,9 @@ jobs:
           else
             VERSION=$(python -c "import json;print(json.load(open('data/meta.json'))['data_version'])")
             git commit -m "Vocabulary sync $(date -u +%F) (data version $VERSION)"
-            git push
+            # If the code changed on main while this run was going, put the data commit on top of it.
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              sleep 10
+            done
           fi
