@@ -1,0 +1,221 @@
+"""Main entry point: discover words at the target level(s), fetch their pages, store what changed.
+
+Usage:
+    python -m scraper.sync              # does work only if something is due (weekly, later monthly)
+    python -m scraper.sync --force      # re-check everything now
+    python -m scraper.sync --limit 20   # small test run: at most 20 detail pages
+"""
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import re
+import time
+from urllib.parse import quote
+
+import requests
+
+from .config import SEEDS_DIR, current_interval_days, load_config
+from .http import OutOfTime, PoliteClient, RateLimited
+from .parse_noun import REQUIRED_NOUN_FIELDS, parse_noun
+from .parse_search import parse_search
+from .parse_verb import REQUIRED_VERB_FIELDS, parse_verb
+from .store import Store, archive_html, content_hash, now_iso
+
+WORD_RE = re.compile(r"^[A-Za-zÄÖÜäöüß-]{2,40}$")
+
+
+# --------------------------------------------------------------------------- candidates
+def load_candidate_words(cfg: dict) -> list[str]:
+    words: list[str] = []
+    for path in sorted(SEEDS_DIR.glob("*.txt")):
+        for ln in path.read_text(encoding="utf-8").splitlines():
+            w = ln.split("#", 1)[0].strip()
+            if w and WORD_RE.match(w):
+                words.append(w)
+    disc = cfg["discovery"]
+    url, top_n = disc.get("frequency_list_url"), int(disc.get("frequency_top_n", 0))
+    if url and top_n > 0:
+        try:
+            r = requests.get(url, timeout=60)
+            r.raise_for_status()
+            n = 0
+            for ln in r.text.splitlines():
+                w = ln.split(" ", 1)[0].strip()
+                if WORD_RE.match(w):
+                    words.append(w)
+                    n += 1
+                    if n >= top_n:
+                        break
+        except requests.RequestException as e:
+            print(f"! frequency list unavailable ({e}); using seed words only")
+    seen, out = set(), []
+    for w in words:
+        if w.lower() not in seen:
+            seen.add(w.lower())
+            out.append(w)
+    return out
+
+
+def _days_since(iso: str | None) -> float:
+    if not iso:
+        return 1e9
+    then = dt.datetime.fromisoformat(iso)
+    if then.tzinfo is None:
+        then = then.replace(tzinfo=dt.timezone.utc)
+    return (dt.datetime.now(dt.timezone.utc) - then).total_seconds() / 86400
+
+
+# --------------------------------------------------------------------------- phases
+def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, targets: set[str]) -> int:
+    disc = cfg["discovery"]
+    recheck = float(disc["recheck_candidates_after_days"])
+    budget = int(disc["max_searches_per_run"])
+    pending = [w for w in words if _days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck]
+    print(f"Discovery: {len(pending)} of {len(words)} candidate words to look up (budget {budget} this run)")
+    done = 0
+    for w in pending[:budget]:
+        resp = client.get(f"/suche/?w={quote(w)}")
+        if resp.status != 200:
+            continue
+        added = 0
+        for e in parse_search(resp.text):
+            key = f"{e['kind']}:{e['slug']}"
+            exact = e["headword_norm"] == w.lower()
+            lvl = e["listing_level"]
+            if (lvl in targets) or (lvl is None and exact):
+                reg = store.registry.setdefault(key, {
+                    "kind": e["kind"], "slug": e["slug"], "url": e["url"], "status": "pending",
+                    "found_via": w, "first_seen": now_iso(),
+                })
+                reg["listing_level"] = lvl
+                added += 1
+        store.candidates[w.lower()] = {"checked": now_iso(), "added": added}
+        done += 1
+        if done % 50 == 0:
+            store.save_state()
+            print(f"  … {done} searches, registry has {len(store.registry)} entries")
+    return done
+
+
+def due_entries(store: Store, interval_days: float, targets: set[str]) -> list[dict]:
+    due = []
+    for key, e in store.registry.items():
+        if e["status"] == "removed":
+            continue
+        if e["status"] == "excluded" and e.get("detail_level") not in targets:
+            continue
+        if _days_since(e.get("fetched_at")) >= interval_days - 0.25:
+            due.append(e | {"key": key})
+    due.sort(key=lambda e: e.get("fetched_at") or "")
+    return due
+
+
+def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) -> str:
+    key, kind, slug = e["key"], e["kind"], e["slug"]
+    reg = store.registry[key]
+    resp = client.get(e["url"])
+    if resp.status == 404:
+        reg["status"] = "removed"
+        reg["fetched_at"] = now_iso()
+        store.changes.append({"key": key, "change": "removed_from_site"})
+        return "removed"
+    if resp.status != 200:
+        return f"http_{resp.status}"
+
+    parser, required = (parse_noun, REQUIRED_NOUN_FIELDS) if kind == "noun" else (parse_verb, REQUIRED_VERB_FIELDS)
+    rec = parser(resp.text, e["url"])
+    reg["detail_level"] = rec["level"]
+    reg["fetched_at"] = now_iso()
+    if rec["level"] not in targets:
+        reg["status"] = "excluded"
+        if slug in store.records[kind]:  # level changed on the site → drop from output (history stays in Git)
+            del store.records[kind][slug]
+            store.changes.append({"key": key, "change": f"level_changed_to_{rec['level']}"})
+        return "excluded"
+
+    missing = [f for f in required if not rec.get(f)]
+    if missing:
+        archive_html(kind, slug, resp.text, sub="_parse_errors")
+        reg["parse_error"] = missing
+        print(f"  ! {key}: could not read {missing} — kept previous data, saved page to archive/_parse_errors/")
+        return "parse_error"
+    reg.pop("parse_error", None)
+    reg["status"] = "included"
+
+    rec = {"id": slug, **rec}
+    h = content_hash(rec)
+    old = store.records[kind].get(slug)
+    if old and reg.get("hash") == h:
+        return "unchanged"
+    rec["first_seen"] = (old or {}).get("first_seen") or reg.get("first_seen") or now_iso()
+    rec["updated_at"] = now_iso()
+    rec["hash"] = h
+    store.records[kind][slug] = rec
+    reg["hash"] = h
+    archive_html(kind, slug, resp.text)
+    store.changes.append({"key": key, "change": "updated" if old else "added"})
+    return "updated" if old else "added"
+
+
+# --------------------------------------------------------------------------- main
+def run(force: bool = False, limit: int | None = None, skip_discovery: bool = False) -> int:
+    cfg = load_config()
+    targets = set(cfg["target_levels"])
+    interval = 0 if force else current_interval_days(cfg)
+    deadline = time.time() + float(cfg["max_runtime_minutes"]) * 60
+    store = Store()
+
+    words = [] if skip_discovery else load_candidate_words(cfg)
+    recheck = float(cfg["discovery"]["recheck_candidates_after_days"])
+    discovery_pending = any(_days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck for w in words)
+    due = due_entries(store, interval, targets)
+    print(f"Target levels {sorted(targets)} · interval {interval} days · {len(due)} entries due · "
+          f"discovery {'pending' if discovery_pending else 'up to date'}")
+    if not due and not discovery_pending:
+        print("Nothing due. Exiting.")
+        return 0
+
+    client = PoliteClient(cfg["http"], deadline)
+    stats: dict[str, int] = {}
+    stop_reason = "finished"
+    try:
+        if discovery_pending:
+            discover(client, store, words, cfg, targets)
+            store.save_state()
+        due = due_entries(store, interval, targets)
+        if limit:
+            due = due[:limit]
+        print(f"Fetching {len(due)} word pages")
+        for i, e in enumerate(due, 1):
+            result = fetch_entry(client, store, e, targets)
+            stats[result] = stats.get(result, 0) + 1
+            if i % 25 == 0:
+                store.save_state()
+                print(f"  … {i}/{len(due)} {stats}")
+    except RateLimited as ex:
+        stop_reason = f"paused: site is rate-limiting ({ex}); the next run continues"
+    except OutOfTime:
+        stop_reason = "paused: time budget used; the next run continues"
+    finally:
+        store.meta["last_run"] = now_iso()
+        store.meta["last_run_result"] = stop_reason
+        store.save_state()
+        store.save_outputs(sorted(targets))
+
+    print(f"Done ({stop_reason}). Requests: {client.requests_made}. Results: {stats}. "
+          f"Changes: {len(store.changes)}. Data version: {store.meta['data_version']}")
+    return 0
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--force", action="store_true", help="re-check every word now, ignoring the schedule")
+    ap.add_argument("--limit", type=int, help="fetch at most N word pages (for testing)")
+    ap.add_argument("--skip-discovery", action="store_true", help="only refresh words already known")
+    a = ap.parse_args()
+    raise SystemExit(run(force=a.force, limit=a.limit, skip_discovery=a.skip_discovery))
+
+
+if __name__ == "__main__":
+    main()

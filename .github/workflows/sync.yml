@@ -1,0 +1,72 @@
+name: Sync vocabulary from verbformen.de
+
+on:
+  schedule:
+    # Runs daily at 03:17 UTC (10:17 Jakarta). The script itself decides whether anything is due:
+    # words are re-checked every 7 days, switching to every 30 days after the date in config.json.
+    # A big first crawl spreads itself over several days automatically.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-check every word now (ignore the schedule)"
+        type: boolean
+        default: false
+      limit:
+        description: "Test run: fetch at most N word pages (empty = no limit)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vocab-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Parser tests
+        run: python -m pytest -q
+
+      - name: Canary (stop if the site layout changed)
+        run: python -m scraper.canary
+
+      - name: Sync
+        run: |
+          ARGS=""
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          python -m scraper.sync $ARGS
+
+      - name: Upload to Supabase (skipped if secrets are not set)
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -m scraper.supabase_upload
+
+      - name: Commit changes
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data archive
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            VERSION=$(python -c "import json;print(json.load(open('data/meta.json'))['data_version'])")
+            git commit -m "Vocabulary sync $(date -u +%F) (data version $VERSION)"
+            git push
+          fi
