@@ -11,6 +11,7 @@ import time
 from .config import load_config
 from .http import PoliteClient
 from .parse_noun import parse_noun
+from .parse_search import parse_search
 from .parse_verb import parse_verb
 from .store import archive_html
 
@@ -49,7 +50,19 @@ def main() -> int:
             problems.append(f"{path}: conjugation table (Präsens) not found")
         print(f"checked {path}: english={rec.get('english', [])[:3]} examples={len(rec.get('examples', []))}")
 
-    hard = [p for p in problems if "examples is empty" not in p]
+    # The search page is used to find words. Check it too, and keep a copy for debugging.
+    resp = client.get("/suche/?w=tisch")
+    if resp.status == 200:
+        archive_html("search", "search_tisch", resp.text, sub="_canary")
+        rows = parse_search(resp.text)
+        tisch = next((r for r in rows if r["slug"] == "Tisch"), None)
+        print(f"checked /suche/?w=tisch: {len(rows)} entries, Tisch level={tisch and tisch['listing_level']}")
+        if not tisch:
+            problems.append("search page: entry for Tisch not found — discovery falls back to direct pages (WARN)")
+    else:
+        problems.append(f"search page: HTTP {resp.status} (WARN)")
+
+    hard = [p for p in problems if "examples is empty" not in p and "WARN" not in p]
     for p in problems:
         print(("ERROR " if p in hard else "WARN  ") + p)
     if hard:

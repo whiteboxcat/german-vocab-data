@@ -26,13 +26,18 @@ WORD_RE = re.compile(r"^[A-Za-zÄÖÜäöüß-]{2,40}$")
 
 
 # --------------------------------------------------------------------------- candidates
-def load_candidate_words(cfg: dict) -> list[str]:
+def load_seed_words() -> list[str]:
     words: list[str] = []
     for path in sorted(SEEDS_DIR.glob("*.txt")):
         for ln in path.read_text(encoding="utf-8").splitlines():
             w = ln.split("#", 1)[0].strip()
             if w and WORD_RE.match(w):
                 words.append(w)
+    return words
+
+
+def load_candidate_words(cfg: dict) -> list[str]:
+    words: list[str] = load_seed_words()
     disc = cfg["discovery"]
     url, top_n = disc.get("frequency_list_url"), int(disc.get("frequency_top_n", 0))
     if url and top_n > 0:
@@ -76,13 +81,28 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
         budget = min(budget, limit)
     pending = [w for w in words if _days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck]
     print(f"Discovery: {len(pending)} of {len(words)} candidate words to look up (budget {budget} this run)")
-    done = 0
+    seeds = {w.lower() for w in load_seed_words()}
+    done = unreadable = 0
     for w in pending[:budget]:
         resp = client.get(f"/suche/?w={quote(w)}")
         if resp.status != 200:
             continue
+        entries = parse_search(resp.text)
+        if not entries:
+            unreadable += 1
+            if unreadable >= 15 and done == 0:
+                print("! Search pages can't be read; stopping discovery for this run (layout probably changed)")
+                break
+            if unreadable <= 3:
+                archive_html("search", quote(w, safe=""), resp.text, sub="_search_debug")
+            # Search page not readable: for your own seed words, try the word's own page directly.
+            # Other words are left unchecked so they're retried once the search parser is fixed.
+            if w.lower() in seeds:
+                entries = probe_direct(client, w)
+            if not entries:
+                continue
         added = 0
-        for e in parse_search(resp.text):
+        for e in entries:
             key = f"{e['kind']}:{e['slug']}"
             exact = e["headword_norm"] == w.lower()
             lvl = e["listing_level"]
@@ -98,7 +118,28 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
         if done % 25 == 0:
             store.save_state()
             print(f"  … {done} searches, registry has {len(store.registry)} entries")
+    if unreadable:
+        print(f"! {unreadable} search pages could not be read (saved examples in archive/_search_debug/)")
     return done
+
+
+UMLAUT_SLUG = str.maketrans({"ä": "a3", "ö": "o3", "ü": "u3", "Ä": "A3", "Ö": "O3", "Ü": "U3", "ß": "s5"})
+
+
+def probe_direct(client: PoliteClient, word: str) -> list[dict]:
+    """Try /konjugation/<word>.htm and /deklination/substantive/<Word>.htm without the search page."""
+    found = []
+    tries = []
+    if word[:1].islower():
+        tries.append(("verb", word.lower(), "/konjugation/"))
+    tries.append(("noun", word[:1].upper() + word[1:], "/deklination/substantive/"))
+    for kind, form, prefix in tries:
+        slug = form.translate(UMLAUT_SLUG)
+        resp = client.get(f"{prefix}{quote(slug)}.htm")
+        if resp.status == 200:
+            found.append({"kind": kind, "slug": slug, "url": client.abs_url(f"{prefix}{slug}.htm"),
+                          "headword_norm": word.lower(), "listing_level": None})
+    return found
 
 
 def due_entries(store: Store, interval_days: float, targets: set[str]) -> list[dict]:
