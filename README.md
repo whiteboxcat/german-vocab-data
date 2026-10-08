@@ -12,9 +12,11 @@ audio links. Source: [verbformen.de](https://www.verbformen.de/) (CC BY-SA 4.0, 
 GitHub Actions (daily check, 03:17 UTC)
   └─ canary: are haben / anrufen / Tisch still read correctly?  ── no → stop, email you
   └─ sync: anything due?  ── no → exit in seconds
-        1. discovery: look up candidate words on verbformen search, keep those at target level
-        2. fetch each word page slowly (~1 every 2.5–3.5 s), parse it
-        3. compare a fingerprint (hash) with last time → only changed words are saved
+        1. fetch word pages already found (first ~60% of the time), parse them
+        2. discovery: look up more candidate words on verbformen search
+        3. fetch what discovery just found
+        (one request every 4–5 s; slows down automatically if the site says "too many requests")
+        only words whose fingerprint (hash) changed are saved
   └─ upload new/changed rows to Supabase (if secrets are set)
   └─ commit data/ + archive/ to this repo  → full history, your permanent backup
 ```
@@ -41,6 +43,21 @@ GitHub Actions (daily check, 03:17 UTC)
 | `config.json` | Levels, schedule, speed — the only file you normally edit |
 | `seeds/my_words.txt` | Add your own words here |
 | `supabase/schema.sql` | Database tables, run once in Supabase |
+
+## Daily health check
+
+Every day, even when no words are due, the job compares three numbers for nouns and verbs:
+**source** (target-level words found on verbformen so far; the site publishes no total, so this
+grows while discovery runs), **local** (`data/*.json`) and **Supabase** (rows in the tables).
+Supabase is compared row by row using each word's fingerprint.
+
+- Missing, outdated or extra Supabase rows → repaired straight away.
+- Words missing from `data/` → queued and downloaded again by the sync.
+- The result goes to `data/health.json` and to the Supabase table `sync_health`
+  (one row per day; run `supabase/health.sql` once to create it). That daily write also keeps
+  a free Supabase project from pausing for inactivity.
+
+Status values: `ok`, `downloading` (healthy, still fetching found words), `repaired`, `problem`.
 
 ## Common changes
 

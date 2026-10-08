@@ -74,7 +74,7 @@ def _days_since(iso: str | None) -> float:
 
 # --------------------------------------------------------------------------- phases
 def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, targets: set[str],
-             limit: int | None = None) -> int:
+             limit: int | None = None, stop_at: float | None = None) -> int:
     disc = cfg["discovery"]
     recheck = float(disc["recheck_candidates_after_days"])
     budget = int(disc["max_searches_per_run"])
@@ -86,6 +86,9 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
     rank_of = {w.lower(): i for i, w in enumerate(words)}  # seeds first, then by frequency
     done = unreadable = 0
     for w in pending[:budget]:
+        if stop_at and time.time() > stop_at:
+            print(f"  discovery: stopping after {done} searches to leave time for fetching")
+            break
         resp = client.get(f"/suche/?w={quote(w)}")
         if resp.status != 200:
             continue
@@ -122,7 +125,7 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
         done += 1
         if done % 25 == 0:
             store.save_state()
-            print(f"  … {done} searches, registry has {len(store.registry)} entries")
+            print(f"  … {done} searches, registry has {len(store.registry)} entries · {client.summary()}")
     if unreadable:
         print(f"! {unreadable} search pages could not be read (saved examples in archive/_search_debug/)")
     return done
@@ -251,20 +254,38 @@ def run(force: bool = False, limit: int | None = None, skip_discovery: bool = Fa
     client = PoliteClient(cfg["http"], deadline)
     stats: dict[str, int] = {}
     stop_reason = "finished"
-    try:
-        if discovery_pending:
-            discover(client, store, words, cfg, targets, limit)
-            store.save_state()
+    total_secs = float(cfg["max_runtime_minutes"]) * 60
+    fetch_share = float(cfg.get("fetch_time_share", 0.6))
+
+    def fetch_phase(label: str, stop_at: float) -> None:
         due = due_entries(store, interval, targets)
         if limit:
             due = due[:limit]
-        print(f"Fetching {len(due)} word pages")
+        if not due:
+            return
+        print(f"{label}: fetching {len(due)} word pages")
         for i, e in enumerate(due, 1):
+            if time.time() > stop_at:
+                print(f"  {label}: time share used after {i - 1} pages; continuing with the next step")
+                break
             result = fetch_entry(client, store, e, targets)
             stats[result] = stats.get(result, 0) + 1
             if i % 25 == 0:
                 store.save_state()
-                print(f"  … {i}/{len(due)} {stats}")
+                store.save_outputs(sorted(targets))  # keep data/ current even if the run is cut off
+                print(f"  … {i}/{len(due)} {stats} · {client.summary()}")
+
+    try:
+        # 1) Words already found come first: they turn into data straight away.
+        #    If discovery still has work, keep part of the time for it.
+        first_stop = time.time() + (total_secs * fetch_share if discovery_pending else total_secs)
+        fetch_phase("Step 1", first_stop)
+        # 2) Look for more words with the remaining time.
+        if discovery_pending:
+            discover(client, store, words, cfg, targets, limit, stop_at=deadline - total_secs * 0.15)
+            store.save_state()
+            # 3) Fetch what discovery just found, with whatever time is left.
+            fetch_phase("Step 3", deadline)
     except RateLimited as ex:
         stop_reason = f"paused: site is rate-limiting ({ex}); the next run continues"
     except OutOfTime:
@@ -272,10 +293,11 @@ def run(force: bool = False, limit: int | None = None, skip_discovery: bool = Fa
     finally:
         store.meta["last_run"] = now_iso()
         store.meta["last_run_result"] = stop_reason
+        store.meta["last_run_stats"] = {"results": stats, **client.stats()}
         store.save_state()
         store.save_outputs(sorted(targets))
 
-    print(f"Done ({stop_reason}). Requests: {client.requests_made}. Results: {stats}. "
+    print(f"Done ({stop_reason}). {client.summary()}. Results: {stats}. "
           f"Changes: {len(store.changes)}. Data version: {store.meta['data_version']}")
     return 0
 

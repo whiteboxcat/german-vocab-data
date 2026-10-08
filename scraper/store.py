@@ -58,6 +58,8 @@ class Store:
             "verb": {r["id"]: r for r in read_json(DATA_DIR / "verbs.json", [])},
         }
         self.changes: list[dict] = []
+        self._changes_written = 0      # how many of self.changes are already in the change log
+        self._version_bumped = False   # data_version goes up once per run, however often we save
 
     def save_state(self) -> None:
         write_json(STATE_DIR / "registry.json", dict(sorted(self.registry.items())))
@@ -71,13 +73,17 @@ class Store:
             rows = [r for r in self.records[kind].values() if r.get("level") in target_levels]
             write_json(DATA_DIR / fname, sorted(rows, key=sort_key))
 
-        if self.changes:
-            self.meta["data_version"] = int(self.meta.get("data_version", 0)) + 1
+        new = self.changes[self._changes_written:]
+        if new:
+            if not self._version_bumped:
+                self.meta["data_version"] = int(self.meta.get("data_version", 0)) + 1
+                self._version_bumped = True
             self.meta["changed_at"] = now_iso()
             day = dt.date.today().isoformat()
             log_path = DATA_DIR / "changes" / f"{day}.json"
             existing = read_json(log_path, [])
-            write_json(log_path, existing + self.changes)
+            write_json(log_path, existing + new)
+            self._changes_written = len(self.changes)
         self.meta["target_levels"] = target_levels
         self.meta["counts"] = {
             "nouns": sum(1 for r in self.records["noun"].values() if r.get("level") in target_levels),

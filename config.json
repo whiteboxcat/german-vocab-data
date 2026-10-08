@@ -1,28 +1,32 @@
 {
   "_comment": "Settings for the verbformen.de sync. Edit values here; no code changes needed.",
-
-  "target_levels": ["A1"],
-
+  "target_levels": [
+    "A1"
+  ],
   "sync_interval_days": 7,
   "switch_to_monthly_on": "2026-11-08",
   "monthly_interval_days": 30,
-
   "discovery": {
     "frequency_list_url": "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/de/de_50k.txt",
     "frequency_top_n": 5000,
     "recheck_candidates_after_days": 120,
     "max_searches_per_run": 2500
   },
-
   "http": {
     "base_url": "https://www.verbformen.de",
     "user_agent": "german-vocab-data/1.0 (personal learning app; +https://github.com/whiteboxcat/german-vocab-data)",
-    "delay_seconds": 2.5,
+    "delay_seconds": 4.0,
     "jitter_seconds": 1.0,
     "timeout_seconds": 30,
     "max_retries": 4,
-    "max_consecutive_429": 6
+    "max_consecutive_429": 6,
+    "max_delay_seconds": 20
   },
-
-  "max_runtime_minutes": 320
+  "max_runtime_minutes": 300,
+  "fetch_time_share": 0.6,
+  "health": {
+    "_comment": "Daily check: words found on verbformen vs local files vs Supabase. A mismatch triggers a repair.",
+    "repair_supabase_on_mismatch": true,
+    "refetch_missing_local_words": true
+  }
 }

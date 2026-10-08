@@ -39,9 +39,16 @@ class PoliteClient:
             "User-Agent": http_cfg["user_agent"],
             "Accept-Language": "de,en;q=0.8",
         })
+        self.base_delay = self.delay
+        self.max_delay = float(http_cfg.get("max_delay_seconds", 20))
         self._last = 0.0
         self._consecutive_429 = 0
+        self._calm_streak = 0
         self.requests_made = 0
+        self.rate_limited = 0
+        self.errors = 0
+        self.waited_seconds = 0.0
+        self._started = time.time()
         self._robots = urllib.robotparser.RobotFileParser()
         self._robots_loaded = False
 
@@ -68,6 +75,36 @@ class PoliteClient:
         if sleep_for > 0:
             time.sleep(sleep_for)
 
+    def _sleep(self, seconds: float) -> None:
+        seconds = max(0.0, min(seconds, self.time_left() - 30))
+        self.waited_seconds += seconds
+        time.sleep(seconds)
+
+    def _slow_down(self) -> None:
+        self.delay = min(self.max_delay, self.delay * 1.5)
+        self._calm_streak = 0
+
+    def _calm(self) -> None:
+        # After 40 calm answers in a row, speed up a little again (never below the configured delay).
+        self._calm_streak += 1
+        if self._calm_streak >= 40 and self.delay > self.base_delay:
+            self.delay = max(self.base_delay, self.delay * 0.85)
+            self._calm_streak = 0
+
+    def stats(self) -> dict:
+        elapsed = max(1.0, time.time() - self._started)
+        return {
+            "requests": self.requests_made, "rate_limited": self.rate_limited, "errors": self.errors,
+            "minutes": round(elapsed / 60, 1), "waited_minutes": round(self.waited_seconds / 60, 1),
+            "seconds_per_request": round(elapsed / max(1, self.requests_made), 1),
+            "final_delay": round(self.delay, 1),
+        }
+
+    def summary(self) -> str:
+        s = self.stats()
+        return (f"{s['requests']} requests, {s['seconds_per_request']}s each, "
+                f"{s['rate_limited']} rate-limited, {s['errors']} errors, delay now {s['final_delay']}s")
+
     # -- main entry ------------------------------------------------------
     def get(self, path_or_url: str) -> Response:
         url = self.abs_url(path_or_url)
@@ -85,26 +122,33 @@ class PoliteClient:
                 r = self.session.get(url, timeout=self.timeout, allow_redirects=True)
             except requests.RequestException:
                 self._last = time.time()
-                time.sleep(min(backoff, 30))
+                self.errors += 1
+                self._slow_down()
+                self._sleep(min(backoff, 30))
                 continue
             self._last = time.time()
             self.requests_made += 1
 
             if r.status_code == 429 or r.status_code == 503:
+                self.rate_limited += 1
                 self._consecutive_429 += 1
+                self._slow_down()
                 if self._consecutive_429 >= self.max_429:
                     raise RateLimited(f"{self._consecutive_429} rate-limit answers in a row")
                 retry_after = r.headers.get("Retry-After", "")
-                wait = float(retry_after) if retry_after.isdigit() else backoff
-                print(f"  [429] waiting {wait:.0f}s before retrying {url}")
-                time.sleep(min(wait, max(self.time_left() - 30, 0)))
-                backoff = min(backoff * 2, 900)
+                wait = min(float(retry_after), 300) if retry_after.isdigit() else backoff
+                print(f"  [429] waiting {wait:.0f}s, delay now {self.delay:.1f}s ({url})")
+                self._sleep(wait)
+                backoff = min(backoff * 2, 300)
                 continue
 
             self._consecutive_429 = 0
             if r.status_code >= 500:
-                time.sleep(min(backoff, 60))
+                self.errors += 1
+                self._slow_down()
+                self._sleep(min(backoff, 60))
                 continue
+            self._calm()
             r.encoding = r.encoding or "utf-8"
             return Response(r.url, r.status_code, r.text)
 

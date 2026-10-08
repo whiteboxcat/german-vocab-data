@@ -46,6 +46,9 @@ jobs:
       - name: Canary (stop if the site layout changed)
         run: python -m scraper.canary
 
+      - name: Health check, part 1 (queue words missing from data/)
+        run: python -m scraper.health --local-only
+
       - name: Sync
         run: |
           ARGS=""
@@ -54,10 +57,18 @@ jobs:
           python -m scraper.sync $ARGS
 
       - name: Upload to Supabase (skipped if secrets are not set)
+        if: always()
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python -m scraper.supabase_upload
+
+      - name: Health check, part 2 (compare source / local / Supabase, repair, record)
+        if: always()
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -m scraper.health
 
       - name: Commit changes
         if: always()
