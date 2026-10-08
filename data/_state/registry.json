@@ -3,101 +3,138 @@
     "kind": "noun",
     "slug": "Abend",
     "url": "https://www.verbformen.de/deklination/substantive/Abend.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "abend",
     "first_seen": "2026-10-07T11:20:45+00:00",
     "listing_level": "A1",
-    "rank": 254
+    "rank": 254,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:27:40+00:00",
+    "hash": "a024eb6c0bea05e9"
   },
   "noun:Abendessen": {
     "kind": "noun",
     "slug": "Abendessen",
     "url": "https://www.verbformen.de/deklination/substantive/Abendessen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "abend",
     "first_seen": "2026-10-07T11:20:45+00:00",
     "listing_level": "A1",
-    "rank": 254
+    "rank": 254,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:27:45+00:00",
+    "hash": "4c16745d876918a4"
   },
   "noun:Ah": {
     "kind": "noun",
     "slug": "Ah",
     "url": "https://www.verbformen.de/deklination/substantive/Ah.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "ah",
     "first_seen": "2026-10-07T13:24:28+00:00",
     "listing_level": null,
-    "rank": 507
+    "rank": 507,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T03:27:50+00:00"
   },
   "noun:Ahnung": {
     "kind": "noun",
     "slug": "Ahnung",
     "url": "https://www.verbformen.de/deklination/substantive/Ahnung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ahnung",
     "first_seen": "2026-10-07T12:28:08+00:00",
     "listing_level": "A1",
-    "rank": 395
+    "rank": 395,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:27:55+00:00",
+    "hash": "6dd21d2ae46e32c5"
   },
   "noun:Altbau": {
     "kind": "noun",
     "slug": "Altbau",
     "url": "https://www.verbformen.de/deklination/substantive/Altbau.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "alt",
     "first_seen": "2026-10-07T14:09:08+00:00",
     "listing_level": "A1",
-    "rank": 594
+    "rank": 594,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:28:00+00:00",
+    "hash": "435ad93295deb33c"
+  },
+  "noun:Alte": {
+    "kind": "noun",
+    "slug": "Alte",
+    "url": "https://www.verbformen.de/deklination/substantive/Alte.htm",
+    "status": "excluded",
+    "found_via": "alte",
+    "first_seen": "2026-10-08T03:28:05+00:00",
+    "rank": 593,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T03:28:29+00:00"
   },
   "noun:Alte_fem": {
     "kind": "noun",
     "slug": "Alte_fem",
     "url": "https://www.verbformen.de/deklination/substantive/Alte_fem.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "alte",
     "first_seen": "2026-10-07T14:09:04+00:00",
     "listing_level": null,
-    "rank": 593
+    "rank": 593,
+    "alias_of": "noun:Alte",
+    "fetched_at": "2026-10-08T03:28:05+00:00"
   },
   "noun:Alte_mask": {
     "kind": "noun",
     "slug": "Alte_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Alte_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "alte",
     "first_seen": "2026-10-07T14:09:04+00:00",
     "listing_level": null,
-    "rank": 593
+    "rank": 593,
+    "alias_of": "noun:Alte",
+    "fetched_at": "2026-10-08T03:28:14+00:00"
   },
   "noun:Alte_neut": {
     "kind": "noun",
     "slug": "Alte_neut",
     "url": "https://www.verbformen.de/deklination/substantive/Alte_neut.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "alte",
     "first_seen": "2026-10-07T14:09:04+00:00",
     "listing_level": null,
-    "rank": 593
+    "rank": 593,
+    "alias_of": "noun:Alte",
+    "fetched_at": "2026-10-08T03:28:24+00:00"
   },
   "noun:Alter": {
     "kind": "noun",
     "slug": "Alter",
     "url": "https://www.verbformen.de/deklination/substantive/Alter.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "alter",
     "first_seen": "2026-10-07T13:24:16+00:00",
     "listing_level": "A1",
-    "rank": 504
+    "rank": 504,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:28:34+00:00",
+    "hash": "602317b6193ee9d9"
   },
   "noun:Angst": {
     "kind": "noun",
     "slug": "Angst",
     "url": "https://www.verbformen.de/deklination/substantive/Angst.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "angst",
     "first_seen": "2026-10-07T11:27:37+00:00",
     "listing_level": "A1",
-    "rank": 267
+    "rank": 267,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:28:39+00:00",
+    "hash": "d39811741ad68c0b"
   },
   "noun:Anrufen": {
     "kind": "noun",
@@ -115,241 +152,323 @@
     "kind": "noun",
     "slug": "Arbeit",
     "url": "https://www.verbformen.de/deklination/substantive/Arbeit.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "arbeit",
     "first_seen": "2026-10-07T11:39:32+00:00",
     "listing_level": "A1",
-    "rank": 296
+    "rank": 296,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:28:44+00:00",
+    "hash": "e7fc889cb744dd52"
   },
   "noun:Arzt": {
     "kind": "noun",
     "slug": "Arzt",
     "url": "https://www.verbformen.de/deklination/substantive/Arzt.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "arzt",
     "first_seen": "2026-10-07T15:09:39+00:00",
     "listing_level": "A1",
-    "rank": 723
+    "rank": 723,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:28:50+00:00",
+    "hash": "d95e1e8c2b9d648b"
   },
   "noun:Arzthelferin": {
     "kind": "noun",
     "slug": "Arzthelferin",
     "url": "https://www.verbformen.de/deklination/substantive/Arzthelferin.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nur",
     "first_seen": "2026-10-07T10:26:33+00:00",
     "listing_level": "A1",
-    "rank": 47
+    "rank": 47,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:28:55+00:00",
+    "hash": "e371c13a77ed32ca"
   },
   "noun:Auge": {
     "kind": "noun",
     "slug": "Auge",
     "url": "https://www.verbformen.de/deklination/substantive/Auge.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "augen",
     "first_seen": "2026-10-07T12:35:36+00:00",
     "listing_level": "A1",
-    "rank": 402
+    "rank": 402,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:00+00:00",
+    "hash": "885b2066ff926f6f"
   },
   "noun:Aussicht": {
     "kind": "noun",
     "slug": "Aussicht",
     "url": "https://www.verbformen.de/deklination/substantive/Aussicht.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "chance",
     "first_seen": "2026-10-07T13:39:28+00:00",
     "listing_level": "A1",
-    "rank": 538
+    "rank": 538,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:05+00:00",
+    "hash": "52370ea906f1a6fc"
   },
   "noun:Auto": {
     "kind": "noun",
     "slug": "Auto",
     "url": "https://www.verbformen.de/deklination/substantive/Auto.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "auto",
     "first_seen": "2026-10-07T12:28:23+00:00",
     "listing_level": "A1",
-    "rank": 399
+    "rank": 399,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:10+00:00",
+    "hash": "0688f166350fb113"
   },
   "noun:Autobahn": {
     "kind": "noun",
     "slug": "Autobahn",
     "url": "https://www.verbformen.de/deklination/substantive/Autobahn.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "auto",
     "first_seen": "2026-10-07T12:28:23+00:00",
     "listing_level": "A1",
-    "rank": 399
+    "rank": 399,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:15+00:00",
+    "hash": "97cf5e488ea398cd"
   },
   "noun:Baby": {
     "kind": "noun",
     "slug": "Baby",
     "url": "https://www.verbformen.de/deklination/substantive/Baby.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "baby",
     "first_seen": "2026-10-07T12:20:31+00:00",
     "listing_level": "A1",
-    "rank": 370
+    "rank": 370,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:20+00:00",
+    "hash": "787d29c9f19ee804"
   },
   "noun:Babysitter": {
     "kind": "noun",
     "slug": "Babysitter",
     "url": "https://www.verbformen.de/deklination/substantive/Babysitter.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "baby",
     "first_seen": "2026-10-07T12:20:31+00:00",
     "listing_level": "A1",
-    "rank": 370
+    "rank": 370,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:25+00:00",
+    "hash": "a96727e53b1e71b3"
   },
   "noun:Besserung": {
     "kind": "noun",
     "slug": "Besserung",
     "url": "https://www.verbformen.de/deklination/substantive/Besserung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "besser",
     "first_seen": "2026-10-07T10:54:32+00:00",
     "listing_level": "A1",
-    "rank": 204
+    "rank": 204,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:30+00:00",
+    "hash": "d6bbc8bee90a0358"
   },
   "noun:Bett": {
     "kind": "noun",
     "slug": "Bett",
     "url": "https://www.verbformen.de/deklination/substantive/Bett.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bett",
     "first_seen": "2026-10-07T13:43:14+00:00",
     "listing_level": "A1",
-    "rank": 550
+    "rank": 550,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:36+00:00",
+    "hash": "8db0328723c551b6"
   },
   "noun:Bildgeschichte": {
     "kind": "noun",
     "slug": "Bildgeschichte",
     "url": "https://www.verbformen.de/deklination/substantive/Bildgeschichte.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "geschichte",
     "first_seen": "2026-10-07T13:20:30+00:00",
     "listing_level": "A1",
-    "rank": 492
+    "rank": 492,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:40+00:00",
+    "hash": "2fec200ca0109ec8"
   },
   "noun:Bitte": {
     "kind": "noun",
     "slug": "Bitte",
     "url": "https://www.verbformen.de/deklination/substantive/Bitte.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bitte",
     "first_seen": "2026-10-07T10:29:16+00:00",
     "listing_level": "A1",
-    "rank": 90
+    "rank": 90,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:46+00:00",
+    "hash": "7f22a518358fa47d"
   },
   "noun:Bruder": {
     "kind": "noun",
     "slug": "Bruder",
     "url": "https://www.verbformen.de/deklination/substantive/Bruder.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bruder",
     "first_seen": "2026-10-07T12:05:36+00:00",
     "listing_level": "A1",
-    "rank": 341
+    "rank": 341,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:52+00:00",
+    "hash": "a35ddc0be3de732d"
   },
   "noun:Bu3ro": {
     "kind": "noun",
     "slug": "Bu3ro",
     "url": "https://www.verbformen.de/deklination/substantive/Bu3ro.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "büro",
     "first_seen": "2026-10-07T14:39:11+00:00",
     "listing_level": "A1",
-    "rank": 655
+    "rank": 655,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:29:57+00:00",
+    "hash": "063eb5dc6f6bfaef"
   },
   "noun:Buch": {
     "kind": "noun",
     "slug": "Buch",
     "url": "https://www.verbformen.de/deklination/substantive/Buch.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "buch",
     "first_seen": "2026-10-07T15:09:16+00:00",
     "listing_level": "A1",
-    "rank": 717
+    "rank": 717,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:02+00:00",
+    "hash": "79ee8b73c2b5b56c"
   },
   "noun:Dank": {
     "kind": "noun",
     "slug": "Dank",
     "url": "https://www.verbformen.de/deklination/substantive/Dank.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "danke",
     "first_seen": "2026-10-07T10:29:54+00:00",
     "listing_level": "A1",
-    "rank": 100
+    "rank": 100,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:07+00:00",
+    "hash": "8f51cc1ca47d1539"
   },
   "noun:Deckel": {
     "kind": "noun",
     "slug": "Deckel",
     "url": "https://www.verbformen.de/deklination/substantive/Deckel.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hat",
     "first_seen": "2026-10-07T10:25:43+00:00",
     "listing_level": "A1",
-    "rank": 33
+    "rank": 33,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:12+00:00",
+    "hash": "d9b6ee58768380bb"
   },
   "noun:Design": {
     "kind": "noun",
     "slug": "Design",
     "url": "https://www.verbformen.de/deklination/substantive/Design.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "des",
     "first_seen": "2026-10-07T10:32:01+00:00",
     "listing_level": "A1",
-    "rank": 134
+    "rank": 134,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:16+00:00",
+    "hash": "e5df1307506017ab"
   },
   "noun:Designer": {
     "kind": "noun",
     "slug": "Designer",
     "url": "https://www.verbformen.de/deklination/substantive/Designer.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "des",
     "first_seen": "2026-10-07T10:32:01+00:00",
     "listing_level": "A1",
-    "rank": 134
+    "rank": 134,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:21+00:00",
+    "hash": "ee26770eb7d51703"
+  },
+  "noun:Ding": {
+    "kind": "noun",
+    "slug": "Ding",
+    "url": "https://www.verbformen.de/deklination/substantive/Ding.htm",
+    "status": "included",
+    "found_via": "dinge",
+    "first_seen": "2026-10-08T03:30:27+00:00",
+    "rank": 387,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:42+00:00",
+    "hash": "36e5cfe52b6fa224"
   },
   "noun:Ding_se": {
     "kind": "noun",
     "slug": "Ding_se",
     "url": "https://www.verbformen.de/deklination/substantive/Ding_se.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "dinge",
     "first_seen": "2026-10-07T12:24:37+00:00",
     "listing_level": "A1",
-    "rank": 387
+    "rank": 387,
+    "alias_of": "noun:Ding",
+    "fetched_at": "2026-10-08T03:30:27+00:00"
   },
   "noun:Ding_sr": {
     "kind": "noun",
     "slug": "Ding_sr",
     "url": "https://www.verbformen.de/deklination/substantive/Ding_sr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "dinge",
     "first_seen": "2026-10-07T12:24:37+00:00",
     "listing_level": "A1",
-    "rank": 387
+    "rank": 387,
+    "alias_of": "noun:Ding",
+    "fetched_at": "2026-10-08T03:30:37+00:00"
   },
   "noun:Doktor": {
     "kind": "noun",
     "slug": "Doktor",
     "url": "https://www.verbformen.de/deklination/substantive/Doktor.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "doktor",
     "first_seen": "2026-10-07T14:42:51+00:00",
     "listing_level": "A1",
-    "rank": 665
+    "rank": 665,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:47+00:00",
+    "hash": "8e0303dea060eb34"
   },
   "noun:Einweihungsparty": {
     "kind": "noun",
     "slug": "Einweihungsparty",
     "url": "https://www.verbformen.de/deklination/substantive/Einweihungsparty.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:52+00:00",
+    "hash": "fd06160a1bb4782f"
   },
   "noun:Eltern": {
     "kind": "noun",
@@ -359,257 +478,336 @@
     "found_via": "eltern",
     "first_seen": "2026-10-07T14:05:44+00:00",
     "listing_level": "A1",
-    "rank": 588
+    "rank": 588,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:30:57+00:00",
+    "parse_error": [
+      "article"
+    ]
   },
   "noun:Ende": {
     "kind": "noun",
     "slug": "Ende",
     "url": "https://www.verbformen.de/deklination/substantive/Ende.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ende",
     "first_seen": "2026-10-07T12:24:27+00:00",
     "listing_level": "A1",
-    "rank": 384
+    "rank": 384,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:01+00:00",
+    "hash": "37a82ea5b5500fda"
   },
   "noun:Entschuldigung": {
     "kind": "noun",
     "slug": "Entschuldigung",
     "url": "https://www.verbformen.de/deklination/substantive/Entschuldigung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "entschuldigung",
     "first_seen": "2026-10-07T13:50:34+00:00",
     "listing_level": "A1",
-    "rank": 555
+    "rank": 555,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:06+00:00",
+    "hash": "5c081f0e3dc8b533"
   },
   "noun:Essen": {
     "kind": "noun",
     "slug": "Essen",
     "url": "https://www.verbformen.de/deklination/substantive/Essen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "essen",
     "first_seen": "2026-10-07T11:24:33+00:00",
     "listing_level": "A1",
-    "rank": 266
+    "rank": 266,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:11+00:00",
+    "hash": "fa6e6c2b1c6d08ce"
   },
   "noun:Familie": {
     "kind": "noun",
     "slug": "Familie",
     "url": "https://www.verbformen.de/deklination/substantive/Familie.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "familie",
     "first_seen": "2026-10-07T11:43:00+00:00",
     "listing_level": "A1",
-    "rank": 303
+    "rank": 303,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:16+00:00",
+    "hash": "56c5945797d9e91c"
   },
   "noun:Fehler": {
     "kind": "noun",
     "slug": "Fehler",
     "url": "https://www.verbformen.de/deklination/substantive/Fehler.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "fehler",
     "first_seen": "2026-10-07T14:28:00+00:00",
     "listing_level": "A1",
-    "rank": 638
+    "rank": 638,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:21+00:00",
+    "hash": "80ec734c50e67ce6"
   },
   "noun:Feier": {
     "kind": "noun",
     "slug": "Feier",
     "url": "https://www.verbformen.de/deklination/substantive/Feier.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:27+00:00",
+    "hash": "818a878add4cd16c"
   },
   "noun:Ferienende": {
     "kind": "noun",
     "slug": "Ferienende",
     "url": "https://www.verbformen.de/deklination/substantive/Ferienende.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ende",
     "first_seen": "2026-10-07T12:24:27+00:00",
     "listing_level": "A1",
-    "rank": 384
+    "rank": 384,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:32+00:00",
+    "hash": "612c0ffc10e657a0"
   },
   "noun:Fest": {
     "kind": "noun",
     "slug": "Fest",
     "url": "https://www.verbformen.de/deklination/substantive/Fest.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "fest",
     "first_seen": "2026-10-07T14:12:44+00:00",
     "listing_level": "A1",
-    "rank": 603
+    "rank": 603,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:37+00:00",
+    "hash": "8abd9ea72ab4ff40"
   },
   "noun:Feuer": {
     "kind": "noun",
     "slug": "Feuer",
     "url": "https://www.verbformen.de/deklination/substantive/Feuer.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "feuer",
     "first_seen": "2026-10-07T14:54:26+00:00",
     "listing_level": "A1",
-    "rank": 689
+    "rank": 689,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:42+00:00",
+    "hash": "a16d9004ef522a18"
   },
   "noun:Film": {
     "kind": "noun",
     "slug": "Film",
     "url": "https://www.verbformen.de/deklination/substantive/Film.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "film",
     "first_seen": "2026-10-07T14:43:07+00:00",
     "listing_level": "A1",
-    "rank": 669
+    "rank": 669,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:47+00:00",
+    "hash": "576e1863f3f24584"
   },
   "noun:Frage": {
     "kind": "noun",
     "slug": "Frage",
     "url": "https://www.verbformen.de/deklination/substantive/Frage.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "fragen",
     "first_seen": "2026-10-07T11:42:44+00:00",
     "listing_level": "A1",
-    "rank": 299
+    "rank": 299,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:52+00:00",
+    "hash": "df7fdbc356369aa4"
   },
   "noun:Fragebogen": {
     "kind": "noun",
     "slug": "Fragebogen",
     "url": "https://www.verbformen.de/deklination/substantive/Fragebogen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "frage",
     "first_seen": "2026-10-07T12:09:35+00:00",
     "listing_level": "A1",
-    "rank": 356
+    "rank": 356,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:31:57+00:00",
+    "hash": "8265a4b0939e22f4"
   },
   "noun:Frau": {
     "kind": "noun",
     "slug": "Frau",
     "url": "https://www.verbformen.de/deklination/substantive/Frau.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "frau",
     "first_seen": "2026-10-07T10:33:20+00:00",
     "listing_level": "A1",
-    "rank": 154
+    "rank": 154,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:02+00:00",
+    "hash": "797d1ec2edc30e4f"
   },
   "noun:Freund": {
     "kind": "noun",
     "slug": "Freund",
     "url": "https://www.verbformen.de/deklination/substantive/Freund.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "freund",
     "first_seen": "2026-10-07T11:24:09+00:00",
     "listing_level": "A1",
-    "rank": 260
+    "rank": 260,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:07+00:00",
+    "hash": "da713546de3c5107"
   },
   "noun:Freundin": {
     "kind": "noun",
     "slug": "Freundin",
     "url": "https://www.verbformen.de/deklination/substantive/Freundin.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "freund",
     "first_seen": "2026-10-07T11:24:09+00:00",
     "listing_level": "A1",
-    "rank": 260
+    "rank": 260,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:12+00:00",
+    "hash": "b41cddefaf758635"
   },
   "noun:Frohsinn": {
     "kind": "noun",
     "slug": "Frohsinn",
     "url": "https://www.verbformen.de/deklination/substantive/Frohsinn.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "froh",
     "first_seen": "2026-10-07T15:09:42+00:00",
     "listing_level": "A1",
-    "rank": 724
+    "rank": 724,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:17+00:00",
+    "hash": "40e0221e16d4ce08"
   },
   "noun:Fu3hrung": {
     "kind": "noun",
     "slug": "Fu3hrung",
     "url": "https://www.verbformen.de/deklination/substantive/Fu3hrung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gib",
     "first_seen": "2026-10-07T12:13:01+00:00",
     "listing_level": "A1",
-    "rank": 363
+    "rank": 363,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:22+00:00",
+    "hash": "576d8d3cd84f1251"
   },
   "noun:Gabel": {
     "kind": "noun",
     "slug": "Gabel",
     "url": "https://www.verbformen.de/deklination/substantive/Gabel.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gab",
     "first_seen": "2026-10-07T12:13:16+00:00",
     "listing_level": "A1",
-    "rank": 367
+    "rank": 367,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:27+00:00",
+    "hash": "7148a21d3d1e176f"
   },
   "noun:Ganze": {
     "kind": "noun",
     "slug": "Ganze",
     "url": "https://www.verbformen.de/deklination/substantive/Ganze.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "ganze",
     "first_seen": "2026-10-07T11:35:53+00:00",
     "listing_level": null,
-    "rank": 286
+    "rank": 286,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T03:32:32+00:00"
   },
   "noun:Geburtstagsparty": {
     "kind": "noun",
     "slug": "Geburtstagsparty",
     "url": "https://www.verbformen.de/deklination/substantive/Geburtstagsparty.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:37+00:00",
+    "hash": "d58e814bfcf1291e"
   },
   "noun:Geld": {
     "kind": "noun",
     "slug": "Geld",
     "url": "https://www.verbformen.de/deklination/substantive/Geld.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "geld",
     "first_seen": "2026-10-07T10:50:50+00:00",
     "listing_level": "A1",
-    "rank": 193
+    "rank": 193,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:43+00:00",
+    "hash": "155ee846e5e20a05"
   },
   "noun:Geschichte": {
     "kind": "noun",
     "slug": "Geschichte",
     "url": "https://www.verbformen.de/deklination/substantive/Geschichte.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "geschichte",
     "first_seen": "2026-10-07T13:20:30+00:00",
     "listing_level": "A1",
-    "rank": 492
+    "rank": 492,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:48+00:00",
+    "hash": "2a5746cdd50ffc0a"
   },
   "noun:Glu3ck": {
     "kind": "noun",
     "slug": "Glu3ck",
     "url": "https://www.verbformen.de/deklination/substantive/Glu3ck.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "glück",
     "first_seen": "2026-10-07T12:24:06+00:00",
     "listing_level": "A1",
-    "rank": 379
+    "rank": 379,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:53+00:00",
+    "hash": "02f8d8069c28b639"
   },
   "noun:Grillparty": {
     "kind": "noun",
     "slug": "Grillparty",
     "url": "https://www.verbformen.de/deklination/substantive/Grillparty.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:32:57+00:00",
+    "hash": "6aa42f7506adba91"
   },
   "noun:Gro3s5e": {
     "kind": "noun",
     "slug": "Gro3s5e",
     "url": "https://www.verbformen.de/deklination/substantive/Gro3s5e.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "große",
     "first_seen": "2026-10-07T12:58:15+00:00",
     "listing_level": "A1",
-    "rank": 458
+    "rank": 458,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:02+00:00",
+    "hash": "d77bbf293af6e11f"
   },
   "noun:Gros5eltern": {
     "kind": "noun",
@@ -619,7 +817,12 @@
     "found_via": "große",
     "first_seen": "2026-10-07T12:58:15+00:00",
     "listing_level": "A1",
-    "rank": 458
+    "rank": 458,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:07+00:00",
+    "parse_error": [
+      "article"
+    ]
   },
   "noun:Haben": {
     "kind": "noun",
@@ -636,141 +839,194 @@
     "kind": "noun",
     "slug": "Haltestelle",
     "url": "https://www.verbformen.de/deklination/substantive/Haltestelle.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "halte",
     "first_seen": "2026-10-07T15:24:40+00:00",
     "listing_level": "A1",
-    "rank": 753
+    "rank": 753,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:12+00:00",
+    "hash": "2cae0beca5d7051e"
   },
   "noun:Hand": {
     "kind": "noun",
     "slug": "Hand",
     "url": "https://www.verbformen.de/deklination/substantive/Hand.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hand",
     "first_seen": "2026-10-07T12:58:18+00:00",
     "listing_level": "A1",
-    "rank": 459
+    "rank": 459,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:17+00:00",
+    "hash": "67adf8d5c77854d4"
   },
   "noun:Handball": {
     "kind": "noun",
     "slug": "Handball",
     "url": "https://www.verbformen.de/deklination/substantive/Handball.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hand",
     "first_seen": "2026-10-07T12:58:18+00:00",
     "listing_level": "A1",
-    "rank": 459
+    "rank": 459,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:21+00:00",
+    "hash": "7be82c1bba6f8031"
   },
   "noun:Haus": {
     "kind": "noun",
     "slug": "Haus",
     "url": "https://www.verbformen.de/deklination/substantive/Haus.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hause",
     "first_seen": "2026-10-07T11:20:27+00:00",
     "listing_level": "A1",
-    "rank": 249
+    "rank": 249,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:26+00:00",
+    "hash": "7e7e38d9138e821c"
   },
   "noun:Hausaufgabe": {
     "kind": "noun",
     "slug": "Hausaufgabe",
     "url": "https://www.verbformen.de/deklination/substantive/Hausaufgabe.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "haus",
     "first_seen": "2026-10-07T11:20:49+00:00",
     "listing_level": "A1",
-    "rank": 255
+    "rank": 255,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:31+00:00",
+    "hash": "56b92ad6a154600d"
   },
   "noun:Herr": {
     "kind": "noun",
     "slug": "Herr",
     "url": "https://www.verbformen.de/deklination/substantive/Herr.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sir",
     "first_seen": "2026-10-07T10:57:44+00:00",
     "listing_level": "A1",
-    "rank": 207
+    "rank": 207,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:37+00:00",
+    "hash": "c3ad574fdf22cd08"
   },
   "noun:Herz": {
     "kind": "noun",
     "slug": "Herz",
     "url": "https://www.verbformen.de/deklination/substantive/Herz.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "herz",
     "first_seen": "2026-10-07T14:05:52+00:00",
     "listing_level": "A1",
-    "rank": 590
+    "rank": 590,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:41+00:00",
+    "hash": "74a538b3329f49b7"
   },
   "noun:Hilfe": {
     "kind": "noun",
     "slug": "Hilfe",
     "url": "https://www.verbformen.de/deklination/substantive/Hilfe.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hilfe",
     "first_seen": "2026-10-07T11:54:24+00:00",
     "listing_level": "A1",
-    "rank": 323
+    "rank": 323,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:46+00:00",
+    "hash": "89c920143e39909b"
   },
   "noun:Hochzeit": {
     "kind": "noun",
     "slug": "Hochzeit",
     "url": "https://www.verbformen.de/deklination/substantive/Hochzeit.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hey",
     "first_seen": "2026-10-07T10:31:34+00:00",
     "listing_level": "A1",
-    "rank": 127
+    "rank": 127,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:51+00:00",
+    "hash": "b68ed21930deb8da"
   },
   "noun:Hund": {
     "kind": "noun",
     "slug": "Hund",
     "url": "https://www.verbformen.de/deklination/substantive/Hund.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hund",
     "first_seen": "2026-10-07T14:43:14+00:00",
     "listing_level": "A1",
-    "rank": 671
+    "rank": 671,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:33:56+00:00",
+    "hash": "9ffdbc4d5fb1b9f1"
+  },
+  "noun:Hut": {
+    "kind": "noun",
+    "slug": "Hut",
+    "url": "https://www.verbformen.de/deklination/substantive/Hut.htm",
+    "status": "included",
+    "found_via": "hat",
+    "first_seen": "2026-10-08T03:34:01+00:00",
+    "rank": 33,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:06+00:00",
+    "hash": "ef87559dca719ca9"
   },
   "noun:Hut_mask": {
     "kind": "noun",
     "slug": "Hut_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Hut_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "hat",
     "first_seen": "2026-10-07T10:25:43+00:00",
     "listing_level": "A1",
-    "rank": 33
+    "rank": 33,
+    "alias_of": "noun:Hut",
+    "fetched_at": "2026-10-08T03:34:01+00:00"
   },
   "noun:Idee": {
     "kind": "noun",
     "slug": "Idee",
     "url": "https://www.verbformen.de/deklination/substantive/Idee.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "idee",
     "first_seen": "2026-10-07T12:43:17+00:00",
     "listing_level": "A1",
-    "rank": 428
+    "rank": 428,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:11+00:00",
+    "hash": "7da9dab596f6367f"
   },
   "noun:Jacke": {
     "kind": "noun",
     "slug": "Jacke",
     "url": "https://www.verbformen.de/deklination/substantive/Jacke.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ja",
     "first_seen": "2026-10-07T10:25:01+00:00",
     "listing_level": "A1",
-    "rank": 22
+    "rank": 22,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:16+00:00",
+    "hash": "79398dc9547ac3c2"
   },
   "noun:Jahr": {
     "kind": "noun",
     "slug": "Jahr",
     "url": "https://www.verbformen.de/deklination/substantive/Jahr.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "jahre",
     "first_seen": "2026-10-07T11:50:22+00:00",
     "listing_level": "A1",
-    "rank": 308
+    "rank": 308,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:22+00:00",
+    "hash": "a58b918c347dc41c"
   },
   "noun:Jeans": {
     "kind": "noun",
@@ -780,197 +1036,280 @@
     "found_via": "je",
     "first_seen": "2026-10-07T12:54:24+00:00",
     "listing_level": "A1",
-    "rank": 445
+    "rank": 445,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:27+00:00",
+    "parse_error": [
+      "article"
+    ]
   },
   "noun:Job": {
     "kind": "noun",
     "slug": "Job",
     "url": "https://www.verbformen.de/deklination/substantive/Job.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "job",
     "first_seen": "2026-10-07T12:54:34+00:00",
     "listing_level": "A1",
-    "rank": 448
+    "rank": 448,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:32+00:00",
+    "hash": "40ecb1d36a4ad753"
+  },
+  "noun:Junge": {
+    "kind": "noun",
+    "slug": "Junge",
+    "url": "https://www.verbformen.de/deklination/substantive/Junge.htm",
+    "status": "included",
+    "found_via": "junge",
+    "first_seen": "2026-10-08T03:34:36+00:00",
+    "rank": 292,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:51+00:00",
+    "hash": "9fe991f9436bb77a"
   },
   "noun:Junge_mask": {
     "kind": "noun",
     "slug": "Junge_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Junge_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "junge",
     "first_seen": "2026-10-07T11:39:16+00:00",
     "listing_level": "A1",
-    "rank": 292
+    "rank": 292,
+    "alias_of": "noun:Junge",
+    "fetched_at": "2026-10-08T03:34:36+00:00"
   },
   "noun:Junge_neut": {
     "kind": "noun",
     "slug": "Junge_neut",
     "url": "https://www.verbformen.de/deklination/substantive/Junge_neut.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "junge",
     "first_seen": "2026-10-07T11:39:16+00:00",
     "listing_level": "A1",
-    "rank": 292
+    "rank": 292,
+    "alias_of": "noun:Junge",
+    "fetched_at": "2026-10-08T03:34:46+00:00"
   },
   "noun:Kaffee": {
     "kind": "noun",
     "slug": "Kaffee",
     "url": "https://www.verbformen.de/deklination/substantive/Kaffee.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kaffee",
     "first_seen": "2026-10-07T14:58:12+00:00",
     "listing_level": "A1",
-    "rank": 701
+    "rank": 701,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:34:56+00:00",
+    "hash": "62f3bd38cdc450b7"
   },
   "noun:Kaffeehaus": {
     "kind": "noun",
     "slug": "Kaffeehaus",
     "url": "https://www.verbformen.de/deklination/substantive/Kaffeehaus.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kaffee",
     "first_seen": "2026-10-07T14:58:12+00:00",
     "listing_level": "A1",
-    "rank": 701
+    "rank": 701,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:00+00:00",
+    "hash": "e3aad95ef450644e"
   },
   "noun:Kamel": {
     "kind": "noun",
     "slug": "Kamel",
     "url": "https://www.verbformen.de/deklination/substantive/Kamel.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kam",
     "first_seen": "2026-10-07T11:58:10+00:00",
     "listing_level": "A1",
-    "rank": 335
+    "rank": 335,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:06+00:00",
+    "hash": "6c0873e04b946b1f"
   },
   "noun:Kamera": {
     "kind": "noun",
     "slug": "Kamera",
     "url": "https://www.verbformen.de/deklination/substantive/Kamera.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kam",
     "first_seen": "2026-10-07T11:58:10+00:00",
     "listing_level": "A1",
-    "rank": 335
+    "rank": 335,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:10+00:00",
+    "hash": "f78abd9260aeeaa1"
   },
   "noun:Kanne": {
     "kind": "noun",
     "slug": "Kanne",
     "url": "https://www.verbformen.de/deklination/substantive/Kanne.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kann",
     "first_seen": "2026-10-07T10:27:04+00:00",
     "listing_level": "A1",
-    "rank": 55
+    "rank": 55,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:15+00:00",
+    "hash": "eb339e1ed31b798d"
   },
   "noun:Kind": {
     "kind": "noun",
     "slug": "Kind",
     "url": "https://www.verbformen.de/deklination/substantive/Kind.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kinder",
     "first_seen": "2026-10-07T11:35:37+00:00",
     "listing_level": "A1",
-    "rank": 282
+    "rank": 282,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:20+00:00",
+    "hash": "a29e2f41e25dfd47"
   },
   "noun:Klar": {
     "kind": "noun",
     "slug": "Klar",
     "url": "https://www.verbformen.de/deklination/substantive/Klar.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "klar",
     "first_seen": "2026-10-07T10:42:45+00:00",
     "listing_level": null,
-    "rank": 176
+    "rank": 176,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T03:35:25+00:00"
   },
   "noun:Ko3nig": {
     "kind": "noun",
     "slug": "Ko3nig",
     "url": "https://www.verbformen.de/deklination/substantive/Ko3nig.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "könig",
     "first_seen": "2026-10-07T14:50:51+00:00",
     "listing_level": "A1",
-    "rank": 680
+    "rank": 680,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:30+00:00",
+    "hash": "da770a446973c968"
   },
   "noun:Ko3rper": {
     "kind": "noun",
     "slug": "Ko3rper",
     "url": "https://www.verbformen.de/deklination/substantive/Ko3rper.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "körper",
     "first_seen": "2026-10-07T15:42:53+00:00",
     "listing_level": "A1",
-    "rank": 786
+    "rank": 786,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:35+00:00",
+    "hash": "b74f0b1ae4972e9c"
   },
   "noun:Kopf": {
     "kind": "noun",
     "slug": "Kopf",
     "url": "https://www.verbformen.de/deklination/substantive/Kopf.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kopf",
     "first_seen": "2026-10-07T12:20:46+00:00",
     "listing_level": "A1",
-    "rank": 374
+    "rank": 374,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:40+00:00",
+    "hash": "e7720c758e580af5"
+  },
+  "noun:Kranke": {
+    "kind": "noun",
+    "slug": "Kranke",
+    "url": "https://www.verbformen.de/deklination/substantive/Kranke.htm",
+    "status": "pending",
+    "found_via": "krank",
+    "first_seen": "2026-10-08T03:35:44+00:00",
+    "rank": 718,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:35:59+00:00",
+    "parse_error": [
+      "english"
+    ]
   },
   "noun:Kranke_fem": {
     "kind": "noun",
     "slug": "Kranke_fem",
     "url": "https://www.verbformen.de/deklination/substantive/Kranke_fem.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "krank",
     "first_seen": "2026-10-07T15:09:20+00:00",
     "listing_level": "A1",
-    "rank": 718
+    "rank": 718,
+    "alias_of": "noun:Kranke",
+    "fetched_at": "2026-10-08T03:35:44+00:00"
   },
   "noun:Kranke_mask": {
     "kind": "noun",
     "slug": "Kranke_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Kranke_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "krank",
     "first_seen": "2026-10-07T15:09:20+00:00",
     "listing_level": "A1",
-    "rank": 718
+    "rank": 718,
+    "alias_of": "noun:Kranke",
+    "fetched_at": "2026-10-08T03:35:54+00:00"
   },
   "noun:Krankenhaus": {
     "kind": "noun",
     "slug": "Krankenhaus",
     "url": "https://www.verbformen.de/deklination/substantive/Krankenhaus.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "krank",
     "first_seen": "2026-10-07T15:09:20+00:00",
     "listing_level": "A1",
-    "rank": 718
+    "rank": 718,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:36:03+00:00",
+    "hash": "ab443e0d19ce3534"
   },
   "noun:Krankenschwester": {
     "kind": "noun",
     "slug": "Krankenschwester",
     "url": "https://www.verbformen.de/deklination/substantive/Krankenschwester.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nur",
     "first_seen": "2026-10-07T10:26:33+00:00",
     "listing_level": "A1",
-    "rank": 47
+    "rank": 47,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:39:09+00:00",
+    "hash": "1fae2a880eabb26c"
   },
   "noun:Land": {
     "kind": "noun",
     "slug": "Land",
     "url": "https://www.verbformen.de/deklination/substantive/Land.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "land",
     "first_seen": "2026-10-07T13:24:31+00:00",
     "listing_level": "A1",
-    "rank": 508
+    "rank": 508,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:39:20+00:00",
+    "hash": "6e2320b4fa14d434"
   },
   "noun:Leben": {
     "kind": "noun",
     "slug": "Leben",
     "url": "https://www.verbformen.de/deklination/substantive/Leben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "leben",
     "first_seen": "2026-10-07T10:32:09+00:00",
     "listing_level": "A1",
-    "rank": 136
+    "rank": 136,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:39:30+00:00",
+    "hash": "9cb94060641835cf"
   },
   "noun:Leute": {
     "kind": "noun",
@@ -980,667 +1319,935 @@
     "found_via": "leute",
     "first_seen": "2026-10-07T10:42:53+00:00",
     "listing_level": "A1",
-    "rank": 178
+    "rank": 178,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:39:39+00:00",
+    "parse_error": [
+      "article"
+    ]
   },
   "noun:Licht": {
     "kind": "noun",
     "slug": "Licht",
     "url": "https://www.verbformen.de/deklination/substantive/Licht.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "licht",
     "first_seen": "2026-10-07T15:28:25+00:00",
     "listing_level": "A1",
-    "rank": 764
+    "rank": 764,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:39:50+00:00",
+    "hash": "aa782a176dd77d9d"
   },
   "noun:Liebe": {
     "kind": "noun",
     "slug": "Liebe",
     "url": "https://www.verbformen.de/deklination/substantive/Liebe.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "liebe",
     "first_seen": "2026-10-07T10:50:32+00:00",
     "listing_level": "A1",
-    "rank": 188
+    "rank": 188,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:40:00+00:00",
+    "hash": "f079f83d218ae3bf"
   },
   "noun:Luftballon": {
     "kind": "noun",
     "slug": "Luftballon",
     "url": "https://www.verbformen.de/deklination/substantive/Luftballon.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "luft",
     "first_seen": "2026-10-07T14:58:16+00:00",
     "listing_level": "A1",
-    "rank": 702
+    "rank": 702,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:43:11+00:00",
+    "hash": "cdd12ee80478fdab"
   },
   "noun:Ma3dchen": {
     "kind": "noun",
     "slug": "Ma3dchen",
     "url": "https://www.verbformen.de/deklination/substantive/Ma3dchen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "mädchen",
     "first_seen": "2026-10-07T11:20:33+00:00",
     "listing_level": "A1",
-    "rank": 251
+    "rank": 251,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:43:33+00:00",
+    "hash": "9085022a75f8cf98"
   },
   "noun:Mache": {
     "kind": "noun",
     "slug": "Mache",
     "url": "https://www.verbformen.de/deklination/substantive/Mache.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "mache",
     "first_seen": "2026-10-07T12:09:38+00:00",
     "listing_level": null,
-    "rank": 357
+    "rank": 357,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T03:43:54+00:00"
   },
   "noun:Magazin": {
     "kind": "noun",
     "slug": "Magazin",
     "url": "https://www.verbformen.de/deklination/substantive/Magazin.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "mag",
     "first_seen": "2026-10-07T12:12:50+00:00",
     "listing_level": "A1",
-    "rank": 360
+    "rank": 360,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:44:15+00:00",
+    "hash": "e6cafab87481e07f"
+  },
+  "noun:Mal": {
+    "kind": "noun",
+    "slug": "Mal",
+    "url": "https://www.verbformen.de/deklination/substantive/Mal.htm",
+    "status": "included",
+    "found_via": "mal",
+    "first_seen": "2026-10-08T03:44:36+00:00",
+    "rank": 60,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:48:40+00:00",
+    "hash": "d4e341fff9072737"
   },
   "noun:Mal_se": {
     "kind": "noun",
     "slug": "Mal_se",
     "url": "https://www.verbformen.de/deklination/substantive/Mal_se.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mal",
     "first_seen": "2026-10-07T10:27:23+00:00",
     "listing_level": "A1",
-    "rank": 60
+    "rank": 60,
+    "alias_of": "noun:Mal",
+    "fetched_at": "2026-10-08T03:44:36+00:00"
   },
   "noun:Mal_sru": {
     "kind": "noun",
     "slug": "Mal_sru",
     "url": "https://www.verbformen.de/deklination/substantive/Mal_sru.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mal",
     "first_seen": "2026-10-07T10:27:23+00:00",
     "listing_level": "A1",
-    "rank": 60
+    "rank": 60,
+    "alias_of": "noun:Mal",
+    "fetched_at": "2026-10-08T03:48:19+00:00"
   },
   "noun:Mama": {
     "kind": "noun",
     "slug": "Mama",
     "url": "https://www.verbformen.de/deklination/substantive/Mama.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "mom",
     "first_seen": "2026-10-07T12:39:34+00:00",
     "listing_level": "A1",
-    "rank": 417
+    "rank": 417,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:49:01+00:00",
+    "hash": "5dfb3c9524723e6d"
+  },
+  "noun:Mann": {
+    "kind": "noun",
+    "slug": "Mann",
+    "url": "https://www.verbformen.de/deklination/substantive/Mann.htm",
+    "status": "included",
+    "found_via": "mann",
+    "first_seen": "2026-10-08T03:49:22+00:00",
+    "rank": 104,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:50:26+00:00",
+    "hash": "0ab4cbeb2fa80e08"
   },
   "noun:Mann_sru": {
     "kind": "noun",
     "slug": "Mann_sru",
     "url": "https://www.verbformen.de/deklination/substantive/Mann_sru.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mann",
     "first_seen": "2026-10-07T10:30:08+00:00",
     "listing_level": "A1",
-    "rank": 104
+    "rank": 104,
+    "alias_of": "noun:Mann",
+    "fetched_at": "2026-10-08T03:49:22+00:00"
   },
   "noun:Mann_sx": {
     "kind": "noun",
     "slug": "Mann_sx",
     "url": "https://www.verbformen.de/deklination/substantive/Mann_sx.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mann",
     "first_seen": "2026-10-07T10:30:08+00:00",
     "listing_level": "A1",
-    "rank": 104
+    "rank": 104,
+    "alias_of": "noun:Mann",
+    "fetched_at": "2026-10-08T03:50:05+00:00"
+  },
+  "noun:Mensch": {
+    "kind": "noun",
+    "slug": "Mensch",
+    "url": "https://www.verbformen.de/deklination/substantive/Mensch.htm",
+    "status": "included",
+    "found_via": "menschen",
+    "first_seen": "2026-10-08T03:53:48+00:00",
+    "rank": 265,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:54:52+00:00",
+    "hash": "d592e0f40dc2b27d"
   },
   "noun:Mensch_mask": {
     "kind": "noun",
     "slug": "Mensch_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Mensch_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "menschen",
     "first_seen": "2026-10-07T11:24:28+00:00",
     "listing_level": "A1",
-    "rank": 265
+    "rank": 265,
+    "alias_of": "noun:Mensch",
+    "fetched_at": "2026-10-08T03:53:48+00:00"
   },
   "noun:Mensch_neut": {
     "kind": "noun",
     "slug": "Mensch_neut",
     "url": "https://www.verbformen.de/deklination/substantive/Mensch_neut.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mensch",
     "first_seen": "2026-10-07T13:57:45+00:00",
     "listing_level": "A1",
-    "rank": 573
+    "rank": 573,
+    "alias_of": "noun:Mensch",
+    "fetched_at": "2026-10-08T03:54:30+00:00"
   },
   "noun:Minute": {
     "kind": "noun",
     "slug": "Minute",
     "url": "https://www.verbformen.de/deklination/substantive/Minute.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:55:13+00:00",
+    "hash": "8a90dcc8e90bbd7b"
   },
   "noun:Miss": {
     "kind": "noun",
     "slug": "Miss",
     "url": "https://www.verbformen.de/deklination/substantive/Miss.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "miss",
     "first_seen": "2026-10-07T13:12:57+00:00",
     "listing_level": null,
-    "rank": 484
+    "rank": 484,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T03:55:34+00:00"
   },
   "noun:Mitarbeiter": {
     "kind": "noun",
     "slug": "Mitarbeiter",
     "url": "https://www.verbformen.de/deklination/substantive/Mitarbeiter.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "mit",
     "first_seen": "2026-10-07T10:25:08+00:00",
     "listing_level": "A1",
-    "rank": 24
+    "rank": 24,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:58:55+00:00",
+    "hash": "05a8f6364fe3562c"
   },
   "noun:Mo3glichkeit": {
     "kind": "noun",
     "slug": "Mo3glichkeit",
     "url": "https://www.verbformen.de/deklination/substantive/Mo3glichkeit.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "chance",
     "first_seen": "2026-10-07T13:39:28+00:00",
     "listing_level": "A1",
-    "rank": 538
+    "rank": 538,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T03:59:16+00:00",
+    "hash": "d355e269b344211f"
+  },
+  "noun:Moment": {
+    "kind": "noun",
+    "slug": "Moment",
+    "url": "https://www.verbformen.de/deklination/substantive/Moment.htm",
+    "status": "included",
+    "found_via": "moment",
+    "first_seen": "2026-10-08T03:59:37+00:00",
+    "rank": 291,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:00:41+00:00",
+    "hash": "b7890f259fb7baf1"
   },
   "noun:Moment_mask": {
     "kind": "noun",
     "slug": "Moment_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Moment_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "alias_of": "noun:Moment",
+    "fetched_at": "2026-10-08T03:59:37+00:00"
   },
   "noun:Moment_neut": {
     "kind": "noun",
     "slug": "Moment_neut",
     "url": "https://www.verbformen.de/deklination/substantive/Moment_neut.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "alias_of": "noun:Moment",
+    "fetched_at": "2026-10-08T04:00:19+00:00"
   },
   "noun:Morgen": {
     "kind": "noun",
     "slug": "Morgen",
     "url": "https://www.verbformen.de/deklination/substantive/Morgen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "morgen",
     "first_seen": "2026-10-07T10:42:49+00:00",
     "listing_level": "A1",
-    "rank": 177
+    "rank": 177,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:04:04+00:00",
+    "hash": "476901b8b9bacbd3"
   },
   "noun:Mu3tze": {
     "kind": "noun",
     "slug": "Mu3tze",
     "url": "https://www.verbformen.de/deklination/substantive/Mu3tze.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hat",
     "first_seen": "2026-10-07T10:25:43+00:00",
     "listing_level": "A1",
-    "rank": 33
+    "rank": 33,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:04:24+00:00",
+    "hash": "8be35b08ec2b425c"
   },
   "noun:Musik": {
     "kind": "noun",
     "slug": "Musik",
     "url": "https://www.verbformen.de/deklination/substantive/Musik.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "musik",
     "first_seen": "2026-10-07T11:39:28+00:00",
     "listing_level": "A1",
-    "rank": 295
+    "rank": 295,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:04:46+00:00",
+    "hash": "0061eb3f48413ff5"
   },
   "noun:Musikanlage": {
     "kind": "noun",
     "slug": "Musikanlage",
     "url": "https://www.verbformen.de/deklination/substantive/Musikanlage.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "musik",
     "first_seen": "2026-10-07T11:39:28+00:00",
     "listing_level": "A1",
-    "rank": 295
+    "rank": 295,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:05:06+00:00",
+    "hash": "b579faf143736112"
+  },
+  "noun:Mutter": {
+    "kind": "noun",
+    "slug": "Mutter",
+    "url": "https://www.verbformen.de/deklination/substantive/Mutter.htm",
+    "status": "included",
+    "found_via": "mutter",
+    "first_seen": "2026-10-08T04:05:27+00:00",
+    "rank": 197,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:09:32+00:00",
+    "hash": "d7595a7f9b658580"
   },
   "noun:Mutter_kku": {
     "kind": "noun",
     "slug": "Mutter_kku",
     "url": "https://www.verbformen.de/deklination/substantive/Mutter_kku.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mutter",
     "first_seen": "2026-10-07T10:54:06+00:00",
     "listing_level": "A1",
-    "rank": 197
+    "rank": 197,
+    "alias_of": "noun:Mutter",
+    "fetched_at": "2026-10-08T04:05:27+00:00"
   },
   "noun:Mutter_kn": {
     "kind": "noun",
     "slug": "Mutter_kn",
     "url": "https://www.verbformen.de/deklination/substantive/Mutter_kn.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "mutter",
     "first_seen": "2026-10-07T10:54:06+00:00",
     "listing_level": "A1",
-    "rank": 197
+    "rank": 197,
+    "alias_of": "noun:Mutter",
+    "fetched_at": "2026-10-08T04:06:10+00:00"
   },
   "noun:Nachbar": {
     "kind": "noun",
     "slug": "Nachbar",
     "url": "https://www.verbformen.de/deklination/substantive/Nachbar.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nach",
     "first_seen": "2026-10-07T10:28:24+00:00",
     "listing_level": "A1",
-    "rank": 76
+    "rank": 76,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:09:53+00:00",
+    "hash": "ae20695c86bc9b1a"
   },
   "noun:Nachricht": {
     "kind": "noun",
     "slug": "Nachricht",
     "url": "https://www.verbformen.de/deklination/substantive/Nachricht.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nachricht",
     "first_seen": "2026-10-07T15:35:38+00:00",
     "listing_level": "A1",
-    "rank": 767
+    "rank": 767,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:10:14+00:00",
+    "hash": "edd6736e5c4fa34e"
   },
   "noun:Nacht": {
     "kind": "noun",
     "slug": "Nacht",
     "url": "https://www.verbformen.de/deklination/substantive/Nacht.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nacht",
     "first_seen": "2026-10-07T11:05:30+00:00",
     "listing_level": "A1",
-    "rank": 219
+    "rank": 219,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:10:36+00:00",
+    "hash": "031ec3b6455237d8"
   },
   "noun:Nachteil": {
     "kind": "noun",
     "slug": "Nachteil",
     "url": "https://www.verbformen.de/deklination/substantive/Nachteil.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nacht",
     "first_seen": "2026-10-07T11:05:30+00:00",
     "listing_level": "A1",
-    "rank": 219
+    "rank": 219,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:10:57+00:00",
+    "hash": "fcf5e7f54d348d94"
   },
   "noun:Name": {
     "kind": "noun",
     "slug": "Name",
     "url": "https://www.verbformen.de/deklination/substantive/Name.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "namen",
     "first_seen": "2026-10-07T12:20:38+00:00",
     "listing_level": "A1",
-    "rank": 372
+    "rank": 372,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:11:18+00:00",
+    "hash": "cad8e4b894db5a42"
   },
   "noun:Netzwerk": {
     "kind": "noun",
     "slug": "Netzwerk",
     "url": "https://www.verbformen.de/deklination/substantive/Netzwerk.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nett",
     "first_seen": "2026-10-07T13:20:46+00:00",
     "listing_level": "A1",
-    "rank": 496
+    "rank": 496,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:14:40+00:00",
+    "hash": "fb765a887168efa8"
   },
   "noun:Neuero3ffnung": {
     "kind": "noun",
     "slug": "Neuero3ffnung",
     "url": "https://www.verbformen.de/deklination/substantive/Neuero3ffnung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "neue",
     "first_seen": "2026-10-07T12:39:42+00:00",
     "listing_level": "A1",
-    "rank": 419
+    "rank": 419,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:15:01+00:00",
+    "hash": "a6aefa9a4a8b64d9"
   },
   "noun:Nummer": {
     "kind": "noun",
     "slug": "Nummer",
     "url": "https://www.verbformen.de/deklination/substantive/Nummer.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nummer",
     "first_seen": "2026-10-07T14:20:34+00:00",
     "listing_level": "A1",
-    "rank": 616
+    "rank": 616,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:15:22+00:00",
+    "hash": "9fad9dd503de9d88"
   },
   "noun:Oh": {
     "kind": "noun",
     "slug": "Oh",
     "url": "https://www.verbformen.de/deklination/substantive/Oh.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "oh",
     "first_seen": "2026-10-07T10:29:01+00:00",
     "listing_level": null,
-    "rank": 86
+    "rank": 86,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T04:15:42+00:00"
   },
   "noun:Ohr": {
     "kind": "noun",
     "slug": "Ohr",
     "url": "https://www.verbformen.de/deklination/substantive/Ohr.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "oh",
     "first_seen": "2026-10-07T10:29:01+00:00",
     "listing_level": "A1",
-    "rank": 86
+    "rank": 86,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:16:03+00:00",
+    "hash": "b4f3dd09fd86278c"
   },
   "noun:Okay": {
     "kind": "noun",
     "slug": "Okay",
     "url": "https://www.verbformen.de/deklination/substantive/Okay.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "okay",
     "first_seen": "2026-10-07T10:31:05+00:00",
     "listing_level": null,
-    "rank": 119
+    "rank": 119,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T04:16:25+00:00"
   },
   "noun:Onkel": {
     "kind": "noun",
     "slug": "Onkel",
     "url": "https://www.verbformen.de/deklination/substantive/Onkel.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "onkel",
     "first_seen": "2026-10-07T15:13:22+00:00",
     "listing_level": "A1",
-    "rank": 734
+    "rank": 734,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:17:46+00:00",
+    "hash": "3b1a960bf1897cea"
   },
   "noun:Ordnung": {
     "kind": "noun",
     "slug": "Ordnung",
     "url": "https://www.verbformen.de/deklination/substantive/Ordnung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ordnung",
     "first_seen": "2026-10-07T11:12:51+00:00",
     "listing_level": "A1",
-    "rank": 240
+    "rank": 240,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:18:08+00:00",
+    "hash": "5bcbe0d183a8caf9"
+  },
+  "noun:Ort": {
+    "kind": "noun",
+    "slug": "Ort",
+    "url": "https://www.verbformen.de/deklination/substantive/Ort.htm",
+    "status": "included",
+    "found_via": "ort",
+    "first_seen": "2026-10-08T04:18:29+00:00",
+    "rank": 524,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:20:14+00:00",
+    "hash": "f31d27b70db56ae6"
   },
   "noun:Ort_mask_se": {
     "kind": "noun",
     "slug": "Ort_mask_se",
     "url": "https://www.verbformen.de/deklination/substantive/Ort_mask_se.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ort",
     "first_seen": "2026-10-07T13:35:33+00:00",
     "listing_level": "A1",
-    "rank": 524
+    "rank": 524,
+    "alias_of": "noun:Ort",
+    "fetched_at": "2026-10-08T04:18:29+00:00"
   },
   "noun:Ort_neut_se": {
     "kind": "noun",
     "slug": "Ort_neut_se",
     "url": "https://www.verbformen.de/deklination/substantive/Ort_neut_se.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ort",
     "first_seen": "2026-10-07T13:35:33+00:00",
     "listing_level": "A1",
-    "rank": 524
+    "rank": 524,
+    "alias_of": "noun:Ort",
+    "fetched_at": "2026-10-08T04:19:11+00:00"
   },
   "noun:Ort_neut_sru": {
     "kind": "noun",
     "slug": "Ort_neut_sru",
     "url": "https://www.verbformen.de/deklination/substantive/Ort_neut_sru.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ort",
     "first_seen": "2026-10-07T13:35:33+00:00",
     "listing_level": "A1",
-    "rank": 524
+    "rank": 524,
+    "alias_of": "noun:Ort",
+    "fetched_at": "2026-10-08T04:19:53+00:00"
   },
   "noun:Paar": {
     "kind": "noun",
     "slug": "Paar",
     "url": "https://www.verbformen.de/deklination/substantive/Paar.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "paar",
     "first_seen": "2026-10-07T10:54:17+00:00",
     "listing_level": "A1",
-    "rank": 200
+    "rank": 200,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:23:36+00:00",
+    "hash": "ce45d5989b0fbfa5"
+  },
+  "noun:Papa": {
+    "kind": "noun",
+    "slug": "Papa",
+    "url": "https://www.verbformen.de/deklination/substantive/Papa.htm",
+    "status": "included",
+    "found_via": "dad",
+    "first_seen": "2026-10-08T04:23:57+00:00",
+    "rank": 366,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:25:01+00:00",
+    "hash": "a751f4c9e8121e2f"
   },
   "noun:Papa_sk": {
     "kind": "noun",
     "slug": "Papa_sk",
     "url": "https://www.verbformen.de/deklination/substantive/Papa_sk.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "dad",
     "first_seen": "2026-10-07T12:13:13+00:00",
     "listing_level": "A1",
-    "rank": 366
+    "rank": 366,
+    "alias_of": "noun:Papa",
+    "fetched_at": "2026-10-08T04:23:57+00:00"
   },
   "noun:Papa_ss": {
     "kind": "noun",
     "slug": "Papa_ss",
     "url": "https://www.verbformen.de/deklination/substantive/Papa_ss.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "dad",
     "first_seen": "2026-10-07T12:13:13+00:00",
     "listing_level": "A1",
-    "rank": 366
+    "rank": 366,
+    "alias_of": "noun:Papa",
+    "fetched_at": "2026-10-08T04:24:39+00:00"
   },
   "noun:Papagei": {
     "kind": "noun",
     "slug": "Papagei",
     "url": "https://www.verbformen.de/deklination/substantive/Papagei.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "papa",
     "first_seen": "2026-10-07T14:13:17+00:00",
     "listing_level": "A1",
-    "rank": 612
+    "rank": 612,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:25:22+00:00",
+    "hash": "7dbe695dd75e6b62"
   },
   "noun:Party": {
     "kind": "noun",
     "slug": "Party",
     "url": "https://www.verbformen.de/deklination/substantive/Party.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:28:43+00:00",
+    "hash": "fbd10ea022b2d273"
   },
   "noun:Pass": {
     "kind": "noun",
     "slug": "Pass",
     "url": "https://www.verbformen.de/deklination/substantive/Pass.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "pass",
     "first_seen": "2026-10-07T14:28:19+00:00",
     "listing_level": "A1",
-    "rank": 643
+    "rank": 643,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:29:04+00:00",
+    "hash": "e289bd9f69fec0ec"
   },
   "noun:Passagier": {
     "kind": "noun",
     "slug": "Passagier",
     "url": "https://www.verbformen.de/deklination/substantive/Passagier.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "pass",
     "first_seen": "2026-10-07T14:28:19+00:00",
     "listing_level": "A1",
-    "rank": 643
+    "rank": 643,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:29:25+00:00",
+    "hash": "0ecee45bf8b0feae"
   },
   "noun:Person": {
     "kind": "noun",
     "slug": "Person",
     "url": "https://www.verbformen.de/deklination/substantive/Person.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:29:46+00:00",
+    "hash": "87afe52adb0dd477"
   },
   "noun:Plan": {
     "kind": "noun",
     "slug": "Plan",
     "url": "https://www.verbformen.de/deklination/substantive/Plan.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "plan",
     "first_seen": "2026-10-07T14:24:36+00:00",
     "listing_level": "A1",
-    "rank": 632
+    "rank": 632,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:30:07+00:00",
+    "hash": "d8f158ce0ffed8c2"
   },
   "noun:Platz": {
     "kind": "noun",
     "slug": "Platz",
     "url": "https://www.verbformen.de/deklination/substantive/Platz.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "platz",
     "first_seen": "2026-10-07T14:13:07+00:00",
     "listing_level": "A1",
-    "rank": 609
+    "rank": 609,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:30:27+00:00",
+    "hash": "ceb864d6bc65fea6"
   },
   "noun:Polizei": {
     "kind": "noun",
     "slug": "Polizei",
     "url": "https://www.verbformen.de/deklination/substantive/Polizei.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "polizei",
     "first_seen": "2026-10-07T12:35:40+00:00",
     "listing_level": "A1",
-    "rank": 403
+    "rank": 403,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:33:49+00:00",
+    "hash": "b6d19e88e00b91ed"
   },
   "noun:Problem": {
     "kind": "noun",
     "slug": "Problem",
     "url": "https://www.verbformen.de/deklination/substantive/Problem.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "problem",
     "first_seen": "2026-10-07T11:50:30+00:00",
     "listing_level": "A1",
-    "rank": 310
+    "rank": 310,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:34:10+00:00",
+    "hash": "ff8600aa4ed473e0"
   },
   "noun:Punkt": {
     "kind": "noun",
     "slug": "Punkt",
     "url": "https://www.verbformen.de/deklination/substantive/Punkt.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:34:31+00:00",
+    "hash": "f66bf78bd6f90e72"
   },
   "noun:Restaurant": {
     "kind": "noun",
     "slug": "Restaurant",
     "url": "https://www.verbformen.de/deklination/substantive/Restaurant.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "rest",
     "first_seen": "2026-10-07T15:39:30+00:00",
     "listing_level": "A1",
-    "rank": 780
+    "rank": 780,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:34:52+00:00",
+    "hash": "523a3fb35afc16ca"
   },
   "noun:Sache": {
     "kind": "noun",
     "slug": "Sache",
     "url": "https://www.verbformen.de/deklination/substantive/Sache.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sache",
     "first_seen": "2026-10-07T11:54:20+00:00",
     "listing_level": "A1",
-    "rank": 322
+    "rank": 322,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:35:13+00:00",
+    "hash": "058f9c59cd60eabf"
   },
   "noun:Sachertorte": {
     "kind": "noun",
     "slug": "Sachertorte",
     "url": "https://www.verbformen.de/deklination/substantive/Sachertorte.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sache",
     "first_seen": "2026-10-07T11:54:20+00:00",
     "listing_level": "A1",
-    "rank": 322
+    "rank": 322,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:35:35+00:00",
+    "hash": "de6fcbe8b5d15c55"
   },
   "noun:Sahne": {
     "kind": "noun",
     "slug": "Sahne",
     "url": "https://www.verbformen.de/deklination/substantive/Sahne.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sah",
     "first_seen": "2026-10-07T12:50:34+00:00",
     "listing_level": "A1",
-    "rank": 432
+    "rank": 432,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:35:56+00:00",
+    "hash": "1474f4270ee7162d"
   },
   "noun:Schatz": {
     "kind": "noun",
     "slug": "Schatz",
     "url": "https://www.verbformen.de/deklination/substantive/Schatz.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schatz",
     "first_seen": "2026-10-07T13:09:22+00:00",
     "listing_level": "A1",
-    "rank": 475
+    "rank": 475,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:39:18+00:00",
+    "hash": "2a2be9f78125e7ba"
   },
   "noun:Schiff": {
     "kind": "noun",
     "slug": "Schiff",
     "url": "https://www.verbformen.de/deklination/substantive/Schiff.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schiff",
     "first_seen": "2026-10-07T14:50:40+00:00",
     "listing_level": "A1",
-    "rank": 677
+    "rank": 677,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:39:39+00:00",
+    "hash": "358a63ae58e7ac4b"
   },
   "noun:Schlu3ssel": {
     "kind": "noun",
     "slug": "Schlu3ssel",
     "url": "https://www.verbformen.de/deklination/substantive/Schlu3ssel.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schlüssel",
     "first_seen": "2026-10-07T15:39:26+00:00",
     "listing_level": "A1",
-    "rank": 779
+    "rank": 779,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:40:01+00:00",
+    "hash": "b8ff681435f45a25"
   },
   "noun:Schu3ler": {
     "kind": "noun",
     "slug": "Schu3ler",
     "url": "https://www.verbformen.de/deklination/substantive/Schu3ler.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schule",
     "first_seen": "2026-10-07T13:50:30+00:00",
     "listing_level": "A1",
-    "rank": 554
+    "rank": 554,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:40:22+00:00",
+    "hash": "12b8330286319e58"
   },
   "noun:Schu3lerin": {
     "kind": "noun",
     "slug": "Schu3lerin",
     "url": "https://www.verbformen.de/deklination/substantive/Schu3lerin.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schule",
     "first_seen": "2026-10-07T13:50:30+00:00",
     "listing_level": "A1",
-    "rank": 554
+    "rank": 554,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:40:42+00:00",
+    "hash": "ca3bfdfa13748a35"
   },
   "noun:Schule": {
     "kind": "noun",
     "slug": "Schule",
     "url": "https://www.verbformen.de/deklination/substantive/Schule.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schule",
     "first_seen": "2026-10-07T13:50:30+00:00",
     "listing_level": "A1",
-    "rank": 554
+    "rank": 554,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:41:03+00:00",
+    "hash": "ba0b1e51941b9a3f"
   },
   "noun:Schwester": {
     "kind": "noun",
     "slug": "Schwester",
     "url": "https://www.verbformen.de/deklination/substantive/Schwester.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nur",
     "first_seen": "2026-10-07T10:26:33+00:00",
     "listing_level": "A1",
-    "rank": 47
+    "rank": 47,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:44:26+00:00",
+    "hash": "6c3f7a2646c094c1"
   },
   "noun:Sehenswu3rdigkeit": {
     "kind": "noun",
     "slug": "Sehenswu3rdigkeit",
     "url": "https://www.verbformen.de/deklination/substantive/Sehenswu3rdigkeit.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sehen",
     "first_seen": "2026-10-07T10:30:23+00:00",
     "listing_level": "A1",
-    "rank": 108
+    "rank": 108,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:44:47+00:00",
+    "hash": "95d7529d439077af"
   },
   "noun:Sein": {
     "kind": "noun",
@@ -1657,61 +2264,79 @@
     "kind": "noun",
     "slug": "Seite",
     "url": "https://www.verbformen.de/deklination/substantive/Seite.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "seit",
     "first_seen": "2026-10-07T11:09:28+00:00",
     "listing_level": "A1",
-    "rank": 234
+    "rank": 234,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:45:08+00:00",
+    "hash": "a40c1c70a0ebd3d5"
   },
   "noun:Sekunde": {
     "kind": "noun",
     "slug": "Sekunde",
     "url": "https://www.verbformen.de/deklination/substantive/Sekunde.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:45:29+00:00",
+    "hash": "47a180c8cfc4daa1"
   },
   "noun:Selbstbedienung": {
     "kind": "noun",
     "slug": "Selbstbedienung",
     "url": "https://www.verbformen.de/deklination/substantive/Selbstbedienung.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "selbst",
     "first_seen": "2026-10-07T10:57:52+00:00",
     "listing_level": "A1",
-    "rank": 209
+    "rank": 209,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:45:50+00:00",
+    "hash": "44365537e7f235a6"
   },
   "noun:Sohn": {
     "kind": "noun",
     "slug": "Sohn",
     "url": "https://www.verbformen.de/deklination/substantive/Sohn.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sohn",
     "first_seen": "2026-10-07T11:50:33+00:00",
     "listing_level": "A1",
-    "rank": 311
+    "rank": 311,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:46:12+00:00",
+    "hash": "453a9f9bd271999e"
   },
   "noun:Spas5": {
     "kind": "noun",
     "slug": "Spas5",
     "url": "https://www.verbformen.de/deklination/substantive/Spas5.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "spaß",
     "first_seen": "2026-10-07T13:27:51+00:00",
     "listing_level": "A1",
-    "rank": 513
+    "rank": 513,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:49:34+00:00",
+    "hash": "54cb2ecb8eb73a40"
   },
   "noun:Spiel": {
     "kind": "noun",
     "slug": "Spiel",
     "url": "https://www.verbformen.de/deklination/substantive/Spiel.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "spielen",
     "first_seen": "2026-10-07T12:57:55+00:00",
     "listing_level": "A1",
-    "rank": 453
+    "rank": 453,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:49:55+00:00",
+    "hash": "dddf0fd741eff563"
   },
   "noun:Stadt": {
     "kind": "noun",
@@ -1729,151 +2354,215 @@
     "kind": "noun",
     "slug": "Stelle",
     "url": "https://www.verbformen.de/deklination/substantive/Stelle.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:50:16+00:00",
+    "hash": "b9a8b1f1ac3bcaf5"
   },
   "noun:Stras5e": {
     "kind": "noun",
     "slug": "Stras5e",
     "url": "https://www.verbformen.de/deklination/substantive/Stras5e.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "straße",
     "first_seen": "2026-10-07T15:12:51+00:00",
     "listing_level": "A1",
-    "rank": 726
+    "rank": 726,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:50:38+00:00",
+    "hash": "a31ba2465aa0a54d"
   },
   "noun:Stras5enbahn": {
     "kind": "noun",
     "slug": "Stras5enbahn",
     "url": "https://www.verbformen.de/deklination/substantive/Stras5enbahn.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "straße",
     "first_seen": "2026-10-07T15:12:51+00:00",
     "listing_level": "A1",
-    "rank": 726
+    "rank": 726,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:50:59+00:00",
+    "hash": "0a8d6224198d7300"
   },
   "noun:Stu3ck": {
     "kind": "noun",
     "slug": "Stu3ck",
     "url": "https://www.verbformen.de/deklination/substantive/Stu3ck.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "stück",
     "first_seen": "2026-10-07T15:27:58+00:00",
     "listing_level": "A1",
-    "rank": 757
+    "rank": 757,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:51:20+00:00",
+    "hash": "8bbbc3af533e6929"
   },
   "noun:Stunde": {
     "kind": "noun",
     "slug": "Stunde",
     "url": "https://www.verbformen.de/deklination/substantive/Stunde.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "moment",
     "first_seen": "2026-10-07T11:39:12+00:00",
     "listing_level": "A1",
-    "rank": 291
+    "rank": 291,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:51:41+00:00",
+    "hash": "0c0243fe4d57fe23"
+  },
+  "noun:Tag": {
+    "kind": "noun",
+    "slug": "Tag",
+    "url": "https://www.verbformen.de/deklination/substantive/Tag.htm",
+    "status": "included",
+    "found_via": "tag",
+    "first_seen": "2026-10-08T04:53:03+00:00",
+    "rank": 184,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:54:49+00:00",
+    "hash": "5e736fc0972f8b09"
   },
   "noun:Tag_mask_se": {
     "kind": "noun",
     "slug": "Tag_mask_se",
     "url": "https://www.verbformen.de/deklination/substantive/Tag_mask_se.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "tag",
     "first_seen": "2026-10-07T10:43:15+00:00",
     "listing_level": "A1",
-    "rank": 184
+    "rank": 184,
+    "alias_of": "noun:Tag",
+    "fetched_at": "2026-10-08T04:53:03+00:00"
   },
   "noun:Tag_mask_ss": {
     "kind": "noun",
     "slug": "Tag_mask_ss",
     "url": "https://www.verbformen.de/deklination/substantive/Tag_mask_ss.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "tag",
     "first_seen": "2026-10-07T10:43:15+00:00",
     "listing_level": "A1",
-    "rank": 184
+    "rank": 184,
+    "alias_of": "noun:Tag",
+    "fetched_at": "2026-10-08T04:53:45+00:00"
   },
   "noun:Tag_neut_ss": {
     "kind": "noun",
     "slug": "Tag_neut_ss",
     "url": "https://www.verbformen.de/deklination/substantive/Tag_neut_ss.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "tag",
     "first_seen": "2026-10-07T10:43:15+00:00",
     "listing_level": "A1",
-    "rank": 184
+    "rank": 184,
+    "alias_of": "noun:Tag",
+    "fetched_at": "2026-10-08T04:54:27+00:00"
   },
   "noun:Tagebuch": {
     "kind": "noun",
     "slug": "Tagebuch",
     "url": "https://www.verbformen.de/deklination/substantive/Tagebuch.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "tag",
     "first_seen": "2026-10-07T10:43:15+00:00",
     "listing_level": "A1",
-    "rank": 184
+    "rank": 184,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:55:09+00:00",
+    "hash": "e8b5ad8e4fb11891"
+  },
+  "noun:Teil": {
+    "kind": "noun",
+    "slug": "Teil",
+    "url": "https://www.verbformen.de/deklination/substantive/Teil.htm",
+    "status": "included",
+    "found_via": "teil",
+    "first_seen": "2026-10-08T04:58:32+00:00",
+    "rank": 571,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:59:36+00:00",
+    "hash": "a2ff9d9fdd69f210"
   },
   "noun:Teil_mask": {
     "kind": "noun",
     "slug": "Teil_mask",
     "url": "https://www.verbformen.de/deklination/substantive/Teil_mask.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "teil",
     "first_seen": "2026-10-07T13:54:37+00:00",
     "listing_level": "A1",
-    "rank": 571
+    "rank": 571,
+    "alias_of": "noun:Teil",
+    "fetched_at": "2026-10-08T04:58:32+00:00"
   },
   "noun:Teil_neut": {
     "kind": "noun",
     "slug": "Teil_neut",
     "url": "https://www.verbformen.de/deklination/substantive/Teil_neut.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "teil",
     "first_seen": "2026-10-07T13:54:37+00:00",
     "listing_level": "A1",
-    "rank": 571
+    "rank": 571,
+    "alias_of": "noun:Teil",
+    "fetched_at": "2026-10-08T04:59:14+00:00"
   },
   "noun:Telefon": {
     "kind": "noun",
     "slug": "Telefon",
     "url": "https://www.verbformen.de/deklination/substantive/Telefon.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "telefon",
     "first_seen": "2026-10-07T14:24:21+00:00",
     "listing_level": "A1",
-    "rank": 628
+    "rank": 628,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T04:59:57+00:00",
+    "hash": "e4147b4fd00b0a6c"
   },
   "noun:Telefonanlage": {
     "kind": "noun",
     "slug": "Telefonanlage",
     "url": "https://www.verbformen.de/deklination/substantive/Telefonanlage.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "telefon",
     "first_seen": "2026-10-07T14:24:21+00:00",
     "listing_level": "A1",
-    "rank": 628
+    "rank": 628,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:00:18+00:00",
+    "hash": "a6574f725d2ad77e"
   },
   "noun:Theater": {
     "kind": "noun",
     "slug": "Theater",
     "url": "https://www.verbformen.de/deklination/substantive/Theater.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "the",
     "first_seen": "2026-10-07T13:50:23+00:00",
     "listing_level": "A1",
-    "rank": 552
+    "rank": 552,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:03:40+00:00",
+    "hash": "6c715451befa4943"
   },
   "noun:Theaterbesuch": {
     "kind": "noun",
     "slug": "Theaterbesuch",
     "url": "https://www.verbformen.de/deklination/substantive/Theaterbesuch.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "the",
     "first_seen": "2026-10-07T13:50:23+00:00",
     "listing_level": "A1",
-    "rank": 552
+    "rank": 552,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:04:02+00:00",
+    "hash": "ef865feacdd1e419"
   },
   "noun:Tisch": {
     "kind": "noun",
@@ -1891,291 +2580,396 @@
     "kind": "noun",
     "slug": "Tochter",
     "url": "https://www.verbformen.de/deklination/substantive/Tochter.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "tochter",
     "first_seen": "2026-10-07T12:43:09+00:00",
     "listing_level": "A1",
-    "rank": 426
+    "rank": 426,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:04:22+00:00",
+    "hash": "7f4d07090d3d0fb6"
   },
   "noun:Total": {
     "kind": "noun",
     "slug": "Total",
     "url": "https://www.verbformen.de/deklination/substantive/Total.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "total",
     "first_seen": "2026-10-07T15:20:28+00:00",
     "listing_level": null,
-    "rank": 735
+    "rank": 735,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T05:04:43+00:00"
   },
   "noun:Treffen": {
     "kind": "noun",
     "slug": "Treffen",
     "url": "https://www.verbformen.de/deklination/substantive/Treffen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "treffen",
     "first_seen": "2026-10-07T12:39:15+00:00",
     "listing_level": "A1",
-    "rank": 412
+    "rank": 412,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:05:04+00:00",
+    "hash": "f61f37dea1355c10"
   },
   "noun:Tu3r": {
     "kind": "noun",
     "slug": "Tu3r",
     "url": "https://www.verbformen.de/deklination/substantive/Tu3r.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "tür",
     "first_seen": "2026-10-07T12:28:19+00:00",
     "listing_level": "A1",
-    "rank": 398
+    "rank": 398,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:05:26+00:00",
+    "hash": "4da48f1b29d31c51"
   },
   "noun:Tu3te": {
     "kind": "noun",
     "slug": "Tu3te",
     "url": "https://www.verbformen.de/deklination/substantive/Tu3te.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "tut",
     "first_seen": "2026-10-07T10:31:53+00:00",
     "listing_level": "A1",
-    "rank": 132
+    "rank": 132,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:05:47+00:00",
+    "hash": "29aca55d6398c569"
   },
   "noun:Typ": {
     "kind": "noun",
     "slug": "Typ",
     "url": "https://www.verbformen.de/deklination/substantive/Typ.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "typ",
     "first_seen": "2026-10-07T13:50:52+00:00",
     "listing_level": "A1",
-    "rank": 560
+    "rank": 560,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:09:09+00:00",
+    "hash": "ab1da15fdcf1533b"
   },
   "noun:Uhr": {
     "kind": "noun",
     "slug": "Uhr",
     "url": "https://www.verbformen.de/deklination/substantive/Uhr.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "uhr",
     "first_seen": "2026-10-07T12:13:20+00:00",
     "listing_level": "A1",
-    "rank": 368
+    "rank": 368,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:09:30+00:00",
+    "hash": "3282536ee94e44b9"
   },
   "noun:Vater": {
     "kind": "noun",
     "slug": "Vater",
     "url": "https://www.verbformen.de/deklination/substantive/Vater.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "vater",
     "first_seen": "2026-10-07T10:42:57+00:00",
     "listing_level": "A1",
-    "rank": 179
+    "rank": 179,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:09:51+00:00",
+    "hash": "17260e5984dce243"
   },
   "noun:Versuch": {
     "kind": "noun",
     "slug": "Versuch",
     "url": "https://www.verbformen.de/deklination/substantive/Versuch.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "versuchen",
     "first_seen": "2026-10-07T13:09:10+00:00",
     "listing_level": "A1",
-    "rank": 472
+    "rank": 472,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:10:13+00:00",
+    "hash": "da6726dfca2cf6c4"
   },
   "noun:Wasser": {
     "kind": "noun",
     "slug": "Wasser",
     "url": "https://www.verbformen.de/deklination/substantive/Wasser.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wasser",
     "first_seen": "2026-10-07T13:13:09+00:00",
     "listing_level": "A1",
-    "rank": 487
+    "rank": 487,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:10:34+00:00",
+    "hash": "dff8682425b16053"
   },
   "noun:Weg": {
     "kind": "noun",
     "slug": "Weg",
     "url": "https://www.verbformen.de/deklination/substantive/Weg.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "weg",
     "first_seen": "2026-10-07T10:31:45+00:00",
     "listing_level": "A1",
-    "rank": 130
+    "rank": 130,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:10:55+00:00",
+    "hash": "abbe965aca48ba21"
   },
   "noun:Welt": {
     "kind": "noun",
     "slug": "Welt",
     "url": "https://www.verbformen.de/deklination/substantive/Welt.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "welt",
     "first_seen": "2026-10-07T11:27:48+00:00",
     "listing_level": "A1",
-    "rank": 270
+    "rank": 270,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:14:18+00:00",
+    "hash": "ae88cf5fcbffcb17"
   },
   "noun:Wiedersehen": {
     "kind": "noun",
     "slug": "Wiedersehen",
     "url": "https://www.verbformen.de/deklination/substantive/Wiedersehen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wiedersehen",
     "first_seen": "2026-10-07T14:09:17+00:00",
     "listing_level": "A1",
-    "rank": 596
+    "rank": 596,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:14:39+00:00",
+    "hash": "d8238168c4bd67d0"
+  },
+  "noun:Willkommen": {
+    "kind": "noun",
+    "slug": "Willkommen",
+    "url": "https://www.verbformen.de/deklination/substantive/Willkommen.htm",
+    "status": "excluded",
+    "found_via": "willkommen",
+    "first_seen": "2026-10-08T05:15:00+00:00",
+    "rank": 631,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T05:15:21+00:00"
   },
   "noun:Willkommen_neut": {
     "kind": "noun",
     "slug": "Willkommen_neut",
     "url": "https://www.verbformen.de/deklination/substantive/Willkommen_neut.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "willkommen",
     "first_seen": "2026-10-07T14:24:32+00:00",
     "listing_level": null,
-    "rank": 631
+    "rank": 631,
+    "alias_of": "noun:Willkommen",
+    "fetched_at": "2026-10-08T05:15:00+00:00"
   },
   "noun:Woche": {
     "kind": "noun",
     "slug": "Woche",
     "url": "https://www.verbformen.de/deklination/substantive/Woche.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wo",
     "first_seen": "2026-10-07T10:28:53+00:00",
     "listing_level": "A1",
-    "rank": 84
+    "rank": 84,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:15:42+00:00",
+    "hash": "17edbcc4343494ab"
   },
   "noun:Wochenende": {
     "kind": "noun",
     "slug": "Wochenende",
     "url": "https://www.verbformen.de/deklination/substantive/Wochenende.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wo",
     "first_seen": "2026-10-07T10:28:53+00:00",
     "listing_level": "A1",
-    "rank": 84
+    "rank": 84,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:16:03+00:00",
+    "hash": "937550f056fe4775"
   },
   "noun:Wohl": {
     "kind": "noun",
     "slug": "Wohl",
     "url": "https://www.verbformen.de/deklination/substantive/Wohl.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wohl",
     "first_seen": "2026-10-07T10:50:28+00:00",
     "listing_level": "A1",
-    "rank": 187
+    "rank": 187,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:19:25+00:00",
+    "hash": "787ac39ae05b3b6b"
   },
   "noun:Wohnungssuche": {
     "kind": "noun",
     "slug": "Wohnungssuche",
     "url": "https://www.verbformen.de/deklination/substantive/Wohnungssuche.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "suche",
     "first_seen": "2026-10-07T15:05:59+00:00",
     "listing_level": "A1",
-    "rank": 713
+    "rank": 713,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:19:46+00:00",
+    "hash": "42cc93e9059ea156"
   },
   "noun:Wort": {
     "kind": "noun",
     "slug": "Wort",
     "url": "https://www.verbformen.de/deklination/substantive/Wort.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wort",
     "first_seen": "2026-10-07T13:50:38+00:00",
     "listing_level": "A1",
-    "rank": 556
+    "rank": 556,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:20:07+00:00",
+    "hash": "cd5c4a39c3e6f006"
   },
   "noun:Zeit": {
     "kind": "noun",
     "slug": "Zeit",
     "url": "https://www.verbformen.de/deklination/substantive/Zeit.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "zeit",
     "first_seen": "2026-10-07T10:32:17+00:00",
     "listing_level": "A1",
-    "rank": 138
+    "rank": 138,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:20:28+00:00",
+    "hash": "c5e75262b48e97ec"
   },
   "noun:Zimmer": {
     "kind": "noun",
     "slug": "Zimmer",
     "url": "https://www.verbformen.de/deklination/substantive/Zimmer.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "zimmer",
     "first_seen": "2026-10-07T13:24:36+00:00",
     "listing_level": "A1",
-    "rank": 509
+    "rank": 509,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:20:50+00:00",
+    "hash": "4c2e42d1b75f5911"
   },
   "noun:Zuru3ck": {
     "kind": "noun",
     "slug": "Zuru3ck",
     "url": "https://www.verbformen.de/deklination/substantive/Zuru3ck.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "zurück",
     "first_seen": "2026-10-07T10:33:54+00:00",
     "listing_level": null,
-    "rank": 163
+    "rank": 163,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T05:21:10+00:00"
+  },
+  "verb:abfahren": {
+    "kind": "verb",
+    "slug": "abfahren",
+    "url": "https://www.verbformen.de/konjugation/abfahren.htm",
+    "status": "included",
+    "found_via": "fahren",
+    "first_seen": "2026-10-08T05:21:31+00:00",
+    "rank": 371,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:23:36+00:00",
+    "hash": "786fa67c1008286f"
   },
   "verb:abfahren_hat": {
     "kind": "verb",
     "slug": "abfahren_hat",
     "url": "https://www.verbformen.de/konjugation/abfahren_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fahren",
     "first_seen": "2026-10-07T12:20:34+00:00",
     "listing_level": "A1",
-    "rank": 371
+    "rank": 371,
+    "alias_of": "verb:abfahren",
+    "fetched_at": "2026-10-08T05:21:31+00:00"
   },
   "verb:abfahren_ist": {
     "kind": "verb",
     "slug": "abfahren_ist",
     "url": "https://www.verbformen.de/konjugation/abfahren_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fahren",
     "first_seen": "2026-10-07T12:20:34+00:00",
     "listing_level": "A1",
-    "rank": 371
+    "rank": 371,
+    "alias_of": "verb:abfahren",
+    "fetched_at": "2026-10-08T05:23:14+00:00"
   },
   "verb:abgeben": {
     "kind": "verb",
     "slug": "abgeben",
     "url": "https://www.verbformen.de/konjugation/abgeben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "geben",
     "first_seen": "2026-10-07T11:09:24+00:00",
     "listing_level": "A1",
-    "rank": 233
+    "rank": 233,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:23:57+00:00",
+    "hash": "dc8d67f1b774383f"
   },
   "verb:abholen": {
     "kind": "verb",
     "slug": "abholen",
     "url": "https://www.verbformen.de/konjugation/abholen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "holen",
     "first_seen": "2026-10-07T13:20:39+00:00",
     "listing_level": "A1",
-    "rank": 494
+    "rank": 494,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:24:18+00:00",
+    "hash": "b7ee6082b140bbd9"
   },
   "verb:absagen": {
     "kind": "verb",
     "slug": "absagen",
     "url": "https://www.verbformen.de/konjugation/absagen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sagen",
     "first_seen": "2026-10-07T10:29:47+00:00",
     "listing_level": "A1",
-    "rank": 98
+    "rank": 98,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:24:39+00:00",
+    "hash": "863e8e6897c74cbd"
   },
   "verb:ankommen": {
     "kind": "verb",
     "slug": "ankommen",
     "url": "https://www.verbformen.de/konjugation/ankommen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kommen",
     "first_seen": "2026-10-07T10:32:28+00:00",
     "listing_level": "A1",
-    "rank": 141
+    "rank": 141,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:25:00+00:00",
+    "hash": "db48cd8ab6539c5c"
   },
   "verb:anmachen": {
     "kind": "verb",
     "slug": "anmachen",
     "url": "https://www.verbformen.de/konjugation/anmachen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "machen",
     "first_seen": "2026-10-07T10:29:50+00:00",
     "listing_level": "A1",
-    "rank": 99
+    "rank": 99,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:25:22+00:00",
+    "hash": "851001abf753c5ee"
   },
   "verb:anrufen": {
     "kind": "verb",
@@ -2194,131 +2988,190 @@
     "kind": "verb",
     "slug": "ansehen",
     "url": "https://www.verbformen.de/konjugation/ansehen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sehen",
     "first_seen": "2026-10-07T10:30:23+00:00",
     "listing_level": "A1",
-    "rank": 108
+    "rank": 108,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:25:43+00:00",
+    "hash": "c0b7b1d8fcee0218"
   },
   "verb:ansprechen": {
     "kind": "verb",
     "slug": "ansprechen",
     "url": "https://www.verbformen.de/konjugation/ansprechen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sprechen",
     "first_seen": "2026-10-07T11:54:02+00:00",
     "listing_level": "A1",
-    "rank": 318
+    "rank": 318,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:26:04+00:00",
+    "hash": "b5d294009341cded"
+  },
+  "verb:anziehen": {
+    "kind": "verb",
+    "slug": "anziehen",
+    "url": "https://www.verbformen.de/konjugation/anziehen.htm",
+    "status": "included",
+    "found_via": "ziehen",
+    "first_seen": "2026-10-08T05:26:25+00:00",
+    "rank": 705,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:28:29+00:00",
+    "hash": "ffca14dd8f4cb7e2"
   },
   "verb:anziehen_hat": {
     "kind": "verb",
     "slug": "anziehen_hat",
     "url": "https://www.verbformen.de/konjugation/anziehen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ziehen",
     "first_seen": "2026-10-07T15:05:29+00:00",
     "listing_level": "A1",
-    "rank": 705
+    "rank": 705,
+    "alias_of": "verb:anziehen",
+    "fetched_at": "2026-10-08T05:26:25+00:00"
   },
   "verb:anziehen_ist": {
     "kind": "verb",
     "slug": "anziehen_ist",
     "url": "https://www.verbformen.de/konjugation/anziehen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ziehen",
     "first_seen": "2026-10-07T15:05:29+00:00",
     "listing_level": "A1",
-    "rank": 705
+    "rank": 705,
+    "alias_of": "verb:anziehen",
+    "fetched_at": "2026-10-08T05:28:08+00:00"
   },
   "verb:arbeiten": {
     "kind": "verb",
     "slug": "arbeiten",
     "url": "https://www.verbformen.de/konjugation/arbeiten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "arbeit",
     "first_seen": "2026-10-07T11:39:32+00:00",
     "listing_level": "A1",
-    "rank": 296
+    "rank": 296,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:28:50+00:00",
+    "hash": "c821dccc02f6f04f"
   },
   "verb:aufho3ren": {
     "kind": "verb",
     "slug": "aufho3ren",
     "url": "https://www.verbformen.de/konjugation/aufho3ren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hören",
     "first_seen": "2026-10-07T11:12:59+00:00",
     "listing_level": "A1",
-    "rank": 242
+    "rank": 242,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:29:11+00:00",
+    "hash": "0c79707308e8caed"
   },
   "verb:aufmachen": {
     "kind": "verb",
     "slug": "aufmachen",
     "url": "https://www.verbformen.de/konjugation/aufmachen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "machen",
     "first_seen": "2026-10-07T10:29:50+00:00",
     "listing_level": "A1",
-    "rank": 99
+    "rank": 99,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:29:32+00:00",
+    "hash": "b58f870464582bee"
   },
   "verb:aufrufen": {
     "kind": "verb",
     "slug": "aufrufen",
     "url": "https://www.verbformen.de/konjugation/aufrufen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "rufen",
     "first_seen": "2026-10-07T15:12:55+00:00",
     "listing_level": "A1",
-    "rank": 727
+    "rank": 727,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:29:53+00:00",
+    "hash": "139491742c92ef20"
   },
   "verb:aufschreiben": {
     "kind": "verb",
     "slug": "aufschreiben",
     "url": "https://www.verbformen.de/konjugation/aufschreiben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schreiben",
     "first_seen": "2026-10-07T15:43:13+00:00",
     "listing_level": "A1",
-    "rank": 791
+    "rank": 791,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:30:14+00:00",
+    "hash": "25df88f5db6bdf7d"
+  },
+  "verb:aufstehen": {
+    "kind": "verb",
+    "slug": "aufstehen",
+    "url": "https://www.verbformen.de/konjugation/aufstehen.htm",
+    "status": "included",
+    "found_via": "stehen",
+    "first_seen": "2026-10-08T05:30:35+00:00",
+    "rank": 404,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:31:39+00:00",
+    "hash": "f8d7dafd2c62ffd1"
   },
   "verb:aufstehen_hat": {
     "kind": "verb",
     "slug": "aufstehen_hat",
     "url": "https://www.verbformen.de/konjugation/aufstehen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "stehen",
     "first_seen": "2026-10-07T12:35:43+00:00",
     "listing_level": "A1",
-    "rank": 404
+    "rank": 404,
+    "alias_of": "verb:aufstehen",
+    "fetched_at": "2026-10-08T05:30:35+00:00"
   },
   "verb:aufstehen_ist": {
     "kind": "verb",
     "slug": "aufstehen_ist",
     "url": "https://www.verbformen.de/konjugation/aufstehen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "stehen",
     "first_seen": "2026-10-07T12:35:43+00:00",
     "listing_level": "A1",
-    "rank": 404
+    "rank": 404,
+    "alias_of": "verb:aufstehen",
+    "fetched_at": "2026-10-08T05:31:18+00:00"
   },
   "verb:aushaben": {
     "kind": "verb",
     "slug": "aushaben",
     "url": "https://www.verbformen.de/konjugation/aushaben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "habe",
     "first_seen": "2026-10-07T10:26:18+00:00",
     "listing_level": "A1",
-    "rank": 43
+    "rank": 43,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:33:00+00:00",
+    "hash": "c1a716257fb68eba"
   },
   "verb:aushalten": {
     "kind": "verb",
     "slug": "aushalten",
     "url": "https://www.verbformen.de/konjugation/aushalten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "halten",
     "first_seen": "2026-10-07T11:57:55+00:00",
     "listing_level": "A1",
-    "rank": 331
+    "rank": 331,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:33:21+00:00",
+    "hash": "e3109922cfaff1c1"
   },
   "verb:ausmachen": {
     "kind": "verb",
@@ -2328,477 +3181,693 @@
     "found_via": "machen",
     "first_seen": "2026-10-07T10:29:50+00:00",
     "listing_level": "A1",
-    "rank": 99
+    "rank": 99,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:33:42+00:00",
+    "parse_error": [
+      "english"
+    ]
   },
   "verb:aussehen": {
     "kind": "verb",
     "slug": "aussehen",
     "url": "https://www.verbformen.de/konjugation/aussehen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sehen",
     "first_seen": "2026-10-07T10:30:23+00:00",
     "listing_level": "A1",
-    "rank": 108
+    "rank": 108,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:34:03+00:00",
+    "hash": "d053ca10e1c921cc"
   },
   "verb:aussuchen": {
     "kind": "verb",
     "slug": "aussuchen",
     "url": "https://www.verbformen.de/konjugation/aussuchen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "suchen",
     "first_seen": "2026-10-07T12:54:16+00:00",
     "listing_level": "A1",
-    "rank": 443
+    "rank": 443,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:34:24+00:00",
+    "hash": "b1c88a0becca2ba4"
+  },
+  "verb:ausziehen": {
+    "kind": "verb",
+    "slug": "ausziehen",
+    "url": "https://www.verbformen.de/konjugation/ausziehen.htm",
+    "status": "included",
+    "found_via": "ziehen",
+    "first_seen": "2026-10-08T05:34:45+00:00",
+    "rank": 705,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:35:48+00:00",
+    "hash": "0ccb3ba0be6aed73"
   },
   "verb:ausziehen_hat": {
     "kind": "verb",
     "slug": "ausziehen_hat",
     "url": "https://www.verbformen.de/konjugation/ausziehen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ziehen",
     "first_seen": "2026-10-07T15:05:29+00:00",
     "listing_level": "A1",
-    "rank": 705
+    "rank": 705,
+    "alias_of": "verb:ausziehen",
+    "fetched_at": "2026-10-08T05:34:45+00:00"
   },
   "verb:ausziehen_ist": {
     "kind": "verb",
     "slug": "ausziehen_ist",
     "url": "https://www.verbformen.de/konjugation/ausziehen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ziehen",
     "first_seen": "2026-10-07T15:05:29+00:00",
     "listing_level": "A1",
-    "rank": 705
+    "rank": 705,
+    "alias_of": "verb:ausziehen",
+    "fetched_at": "2026-10-08T05:35:27+00:00"
   },
   "verb:baden": {
     "kind": "verb",
     "slug": "baden",
     "url": "https://www.verbformen.de/konjugation/baden.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "immer",
     "first_seen": "2026-10-07T10:29:20+00:00",
     "listing_level": "A1",
-    "rank": 91
+    "rank": 91,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:36:10+00:00",
+    "hash": "c821192a22d52fe1"
   },
   "verb:bedeuten": {
     "kind": "verb",
     "slug": "bedeuten",
     "url": "https://www.verbformen.de/konjugation/bedeuten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bedeutet",
     "first_seen": "2026-10-07T13:20:42+00:00",
     "listing_level": "A1",
-    "rank": 495
+    "rank": 495,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:36:30+00:00",
+    "hash": "da8b65c7ef630eeb"
+  },
+  "verb:bekommen": {
+    "kind": "verb",
+    "slug": "bekommen",
+    "url": "https://www.verbformen.de/konjugation/bekommen.htm",
+    "status": "included",
+    "found_via": "bekommen",
+    "first_seen": "2026-10-08T05:36:52+00:00",
+    "rank": 373,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:38:56+00:00",
+    "hash": "fc30e25968650eb4"
   },
   "verb:bekommen_hat": {
     "kind": "verb",
     "slug": "bekommen_hat",
     "url": "https://www.verbformen.de/konjugation/bekommen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "bekommen",
     "first_seen": "2026-10-07T12:20:42+00:00",
     "listing_level": "A1",
-    "rank": 373
+    "rank": 373,
+    "alias_of": "verb:bekommen",
+    "fetched_at": "2026-10-08T05:36:52+00:00"
   },
   "verb:bekommen_ist": {
     "kind": "verb",
     "slug": "bekommen_ist",
     "url": "https://www.verbformen.de/konjugation/bekommen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "bekommen",
     "first_seen": "2026-10-07T12:20:42+00:00",
     "listing_level": "A1",
-    "rank": 373
+    "rank": 373,
+    "alias_of": "verb:bekommen",
+    "fetched_at": "2026-10-08T05:38:35+00:00"
+  },
+  "verb:bereiten": {
+    "kind": "verb",
+    "slug": "bereiten",
+    "url": "https://www.verbformen.de/konjugation/bereiten.htm",
+    "status": "included",
+    "found_via": "bereit",
+    "first_seen": "2026-10-08T05:39:18+00:00",
+    "rank": 393,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:40:21+00:00",
+    "hash": "89a6af87d1f03b1f"
   },
   "verb:bereiten_regelm": {
     "kind": "verb",
     "slug": "bereiten_regelm",
     "url": "https://www.verbformen.de/konjugation/bereiten_regelm.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "bereit",
     "first_seen": "2026-10-07T12:28:00+00:00",
     "listing_level": "A1",
-    "rank": 393
+    "rank": 393,
+    "alias_of": "verb:bereiten",
+    "fetched_at": "2026-10-08T05:39:18+00:00"
   },
   "verb:bereiten_unr": {
     "kind": "verb",
     "slug": "bereiten_unr",
     "url": "https://www.verbformen.de/konjugation/bereiten_unr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "bereit",
     "first_seen": "2026-10-07T12:28:00+00:00",
     "listing_level": "A1",
-    "rank": 393
+    "rank": 393,
+    "alias_of": "verb:bereiten",
+    "fetched_at": "2026-10-08T05:40:00+00:00"
   },
   "verb:beschreiben": {
     "kind": "verb",
     "slug": "beschreiben",
     "url": "https://www.verbformen.de/konjugation/beschreiben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schreiben",
     "first_seen": "2026-10-07T15:43:13+00:00",
     "listing_level": "A1",
-    "rank": 791
+    "rank": 791,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:40:42+00:00",
+    "hash": "033769978b018a31"
   },
   "verb:besuchen": {
     "kind": "verb",
     "slug": "besuchen",
     "url": "https://www.verbformen.de/konjugation/besuchen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "suchen",
     "first_seen": "2026-10-07T12:54:16+00:00",
     "listing_level": "A1",
-    "rank": 443
+    "rank": 443,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:41:03+00:00",
+    "hash": "676a1902341d0049"
+  },
+  "verb:bewegen": {
+    "kind": "verb",
+    "slug": "bewegen",
+    "url": "https://www.verbformen.de/konjugation/bewegen.htm",
+    "status": "included",
+    "found_via": "wegen",
+    "first_seen": "2026-10-08T05:41:25+00:00",
+    "rank": 248,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:43:29+00:00",
+    "hash": "78e55a134dd854f6"
   },
   "verb:bewegen_regelm": {
     "kind": "verb",
     "slug": "bewegen_regelm",
     "url": "https://www.verbformen.de/konjugation/bewegen_regelm.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "wegen",
     "first_seen": "2026-10-07T11:20:23+00:00",
     "listing_level": "A1",
-    "rank": 248
+    "rank": 248,
+    "alias_of": "verb:bewegen",
+    "fetched_at": "2026-10-08T05:41:25+00:00"
   },
   "verb:bewegen_unr": {
     "kind": "verb",
     "slug": "bewegen_unr",
     "url": "https://www.verbformen.de/konjugation/bewegen_unr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "wegen",
     "first_seen": "2026-10-07T11:20:23+00:00",
     "listing_level": "A1",
-    "rank": 248
+    "rank": 248,
+    "alias_of": "verb:bewegen",
+    "fetched_at": "2026-10-08T05:43:07+00:00"
   },
   "verb:binden": {
     "kind": "verb",
     "slug": "binden",
     "url": "https://www.verbformen.de/konjugation/binden.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bin",
     "first_seen": "2026-10-07T10:26:26+00:00",
     "listing_level": "A1",
-    "rank": 45
+    "rank": 45,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:43:50+00:00",
+    "hash": "ce596aee799dcba3"
   },
   "verb:bitten": {
     "kind": "verb",
     "slug": "bitten",
     "url": "https://www.verbformen.de/konjugation/bitten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bitte",
     "first_seen": "2026-10-07T10:29:16+00:00",
     "listing_level": "A1",
-    "rank": 90
+    "rank": 90,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:44:11+00:00",
+    "hash": "bacb9024c20a6eec"
   },
   "verb:bleiben": {
     "kind": "verb",
     "slug": "bleiben",
     "url": "https://www.verbformen.de/konjugation/bleiben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bleiben",
     "first_seen": "2026-10-07T11:27:41+00:00",
     "listing_level": "A1",
-    "rank": 268
+    "rank": 268,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:44:32+00:00",
+    "hash": "d9f7d457930fdda4"
   },
   "verb:brauchen": {
     "kind": "verb",
     "slug": "brauchen",
     "url": "https://www.verbformen.de/konjugation/brauchen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "brauchen",
     "first_seen": "2026-10-07T11:39:05+00:00",
     "listing_level": "A1",
-    "rank": 289
+    "rank": 289,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:44:53+00:00",
+    "hash": "6bdc14dc158bbcda"
   },
   "verb:bringen": {
     "kind": "verb",
     "slug": "bringen",
     "url": "https://www.verbformen.de/konjugation/bringen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "bringen",
     "first_seen": "2026-10-07T11:35:49+00:00",
     "listing_level": "A1",
-    "rank": 285
+    "rank": 285,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:45:14+00:00",
+    "hash": "279c0f98c71b08a0"
   },
   "verb:danken": {
     "kind": "verb",
     "slug": "danken",
     "url": "https://www.verbformen.de/konjugation/danken.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "danke",
     "first_seen": "2026-10-07T10:29:54+00:00",
     "listing_level": "A1",
-    "rank": 100
+    "rank": 100,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:45:35+00:00",
+    "hash": "ec4e56959dc2164f"
   },
   "verb:dazugeho3ren": {
     "kind": "verb",
     "slug": "dazugeho3ren",
     "url": "https://www.verbformen.de/konjugation/dazugeho3ren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hören",
     "first_seen": "2026-10-07T11:12:59+00:00",
     "listing_level": "A1",
-    "rank": 242
+    "rank": 242,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:45:56+00:00",
+    "hash": "a0e51f6b859c70a8"
   },
   "verb:denken": {
     "kind": "verb",
     "slug": "denken",
     "url": "https://www.verbformen.de/konjugation/denken.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "dachte",
     "first_seen": "2026-10-07T10:54:28+00:00",
     "listing_level": "A1",
-    "rank": 203
+    "rank": 203,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:46:17+00:00",
+    "hash": "8359ceec91d11bc8"
   },
   "verb:drankommen": {
     "kind": "verb",
     "slug": "drankommen",
     "url": "https://www.verbformen.de/konjugation/drankommen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "dran",
     "first_seen": "2026-10-07T12:39:23+00:00",
     "listing_level": "A1",
-    "rank": 414
+    "rank": 414,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:46:38+00:00",
+    "hash": "facb72247fe55b96"
   },
   "verb:du3rfen": {
     "kind": "verb",
     "slug": "du3rfen",
     "url": "https://www.verbformen.de/konjugation/du3rfen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "darf",
     "first_seen": "2026-10-07T11:28:14+00:00",
     "listing_level": "A1",
-    "rank": 277
+    "rank": 277,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:47:00+00:00",
+    "hash": "f151c1fd6809c1cb"
   },
   "verb:einatmen": {
     "kind": "verb",
     "slug": "einatmen",
     "url": "https://www.verbformen.de/konjugation/einatmen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ein",
     "first_seen": "2026-10-07T10:24:54+00:00",
     "listing_level": "A1",
-    "rank": 20
+    "rank": 20,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:48:21+00:00",
+    "hash": "2565e32299be7133"
   },
   "verb:einkaufen": {
     "kind": "verb",
     "slug": "einkaufen",
     "url": "https://www.verbformen.de/konjugation/einkaufen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kaufen",
     "first_seen": "2026-10-07T15:24:22+00:00",
     "listing_level": "A1",
-    "rank": 748
+    "rank": 748,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:48:42+00:00",
+    "hash": "5f3d3868cc73099c"
   },
   "verb:einsammeln": {
     "kind": "verb",
     "slug": "einsammeln",
     "url": "https://www.verbformen.de/konjugation/einsammeln.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "eins",
     "first_seen": "2026-10-07T12:27:49+00:00",
     "listing_level": "A1",
-    "rank": 390
+    "rank": 390,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:49:03+00:00",
+    "hash": "e4c5ce0830d5a7fe"
   },
   "verb:einschlafen": {
     "kind": "verb",
     "slug": "einschlafen",
     "url": "https://www.verbformen.de/konjugation/einschlafen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schlafen",
     "first_seen": "2026-10-07T13:50:55+00:00",
     "listing_level": "A1",
-    "rank": 561
+    "rank": 561,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:49:24+00:00",
+    "hash": "832027fe1ae26104"
+  },
+  "verb:enden": {
+    "kind": "verb",
+    "slug": "enden",
+    "url": "https://www.verbformen.de/konjugation/enden.htm",
+    "status": "included",
+    "found_via": "ende",
+    "first_seen": "2026-10-08T05:49:45+00:00",
+    "rank": 384,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:50:48+00:00",
+    "hash": "cf1cb3e67dbc6dce"
   },
   "verb:enden_hat": {
     "kind": "verb",
     "slug": "enden_hat",
     "url": "https://www.verbformen.de/konjugation/enden_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ende",
     "first_seen": "2026-10-07T12:24:27+00:00",
     "listing_level": "A1",
-    "rank": 384
+    "rank": 384,
+    "alias_of": "verb:enden",
+    "fetched_at": "2026-10-08T05:49:45+00:00"
   },
   "verb:enden_ist": {
     "kind": "verb",
     "slug": "enden_ist",
     "url": "https://www.verbformen.de/konjugation/enden_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ende",
     "first_seen": "2026-10-07T12:24:27+00:00",
     "listing_level": "A1",
-    "rank": 384
+    "rank": 384,
+    "alias_of": "verb:enden",
+    "fetched_at": "2026-10-08T05:50:27+00:00"
   },
   "verb:entschuldigen": {
     "kind": "verb",
     "slug": "entschuldigen",
     "url": "https://www.verbformen.de/konjugation/entschuldigen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "entschuldigen",
     "first_seen": "2026-10-07T13:42:59+00:00",
     "listing_level": "A1",
-    "rank": 546
+    "rank": 546,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:51:09+00:00",
+    "hash": "53b8bedb8390222f"
   },
   "verb:erga3nzen": {
     "kind": "verb",
     "slug": "erga3nzen",
     "url": "https://www.verbformen.de/konjugation/erga3nzen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "ganze",
     "first_seen": "2026-10-07T11:35:53+00:00",
     "listing_level": "A1",
-    "rank": 286
+    "rank": 286,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:51:31+00:00",
+    "hash": "a57815b79c8e47ef"
   },
   "verb:erkla3ren": {
     "kind": "verb",
     "slug": "erkla3ren",
     "url": "https://www.verbformen.de/konjugation/erkla3ren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "erklären",
     "first_seen": "2026-10-07T15:20:40+00:00",
     "listing_level": "A1",
-    "rank": 738
+    "rank": 738,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:51:52+00:00",
+    "hash": "76dc44e9e2f30c8b"
   },
   "verb:erza3hlen": {
     "kind": "verb",
     "slug": "erza3hlen",
     "url": "https://www.verbformen.de/konjugation/erza3hlen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "erzählt",
     "first_seen": "2026-10-07T13:09:41+00:00",
     "listing_level": "A1",
-    "rank": 480
+    "rank": 480,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:53:13+00:00",
+    "hash": "4338eda9ffa53051"
   },
   "verb:essen": {
     "kind": "verb",
     "slug": "essen",
     "url": "https://www.verbformen.de/konjugation/essen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "essen",
     "first_seen": "2026-10-07T11:24:33+00:00",
     "listing_level": "A1",
-    "rank": 266
+    "rank": 266,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:53:34+00:00",
+    "hash": "28326d80691b8333"
+  },
+  "verb:fahren": {
+    "kind": "verb",
+    "slug": "fahren",
+    "url": "https://www.verbformen.de/konjugation/fahren.htm",
+    "status": "included",
+    "found_via": "fahren",
+    "first_seen": "2026-10-08T05:53:55+00:00",
+    "rank": 371,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:54:59+00:00",
+    "hash": "fe2a107ff45d6f8b"
   },
   "verb:fahren_hat": {
     "kind": "verb",
     "slug": "fahren_hat",
     "url": "https://www.verbformen.de/konjugation/fahren_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fahren",
     "first_seen": "2026-10-07T12:20:34+00:00",
     "listing_level": "A1",
-    "rank": 371
+    "rank": 371,
+    "alias_of": "verb:fahren",
+    "fetched_at": "2026-10-08T05:53:55+00:00"
   },
   "verb:fahren_ist": {
     "kind": "verb",
     "slug": "fahren_ist",
     "url": "https://www.verbformen.de/konjugation/fahren_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fahren",
     "first_seen": "2026-10-07T12:20:34+00:00",
     "listing_level": "A1",
-    "rank": 371
+    "rank": 371,
+    "alias_of": "verb:fahren",
+    "fetched_at": "2026-10-08T05:54:38+00:00"
   },
   "verb:feiern": {
     "kind": "verb",
     "slug": "feiern",
     "url": "https://www.verbformen.de/konjugation/feiern.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "party",
     "first_seen": "2026-10-07T15:20:36+00:00",
     "listing_level": "A1",
-    "rank": 737
+    "rank": 737,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:55:20+00:00",
+    "hash": "5d97fa2ffe896b3c"
   },
   "verb:fernsehen": {
     "kind": "verb",
     "slug": "fernsehen",
     "url": "https://www.verbformen.de/konjugation/fernsehen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sehen",
     "first_seen": "2026-10-07T10:30:23+00:00",
     "listing_level": "A1",
-    "rank": 108
+    "rank": 108,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:55:41+00:00",
+    "hash": "1ef46d534ffe1512"
   },
   "verb:filmen": {
     "kind": "verb",
     "slug": "filmen",
     "url": "https://www.verbformen.de/konjugation/filmen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "film",
     "first_seen": "2026-10-07T14:43:07+00:00",
     "listing_level": "A1",
-    "rank": 669
+    "rank": 669,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:56:02+00:00",
+    "hash": "5f7c0b100b42c59c"
   },
   "verb:finden": {
     "kind": "verb",
     "slug": "finden",
     "url": "https://www.verbformen.de/konjugation/finden.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "finden",
     "first_seen": "2026-10-07T11:05:34+00:00",
     "listing_level": "A1",
-    "rank": 220
+    "rank": 220,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:56:23+00:00",
+    "hash": "df78498ea969aaa7"
+  },
+  "verb:fragen": {
+    "kind": "verb",
+    "slug": "fragen",
+    "url": "https://www.verbformen.de/konjugation/fragen.htm",
+    "status": "included",
+    "found_via": "fragen",
+    "first_seen": "2026-10-08T05:56:44+00:00",
+    "rank": 299,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:58:47+00:00",
+    "hash": "decb98aaca7c5803"
   },
   "verb:fragen_regelm": {
     "kind": "verb",
     "slug": "fragen_regelm",
     "url": "https://www.verbformen.de/konjugation/fragen_regelm.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fragen",
     "first_seen": "2026-10-07T11:42:44+00:00",
     "listing_level": "A1",
-    "rank": 299
+    "rank": 299,
+    "alias_of": "verb:fragen",
+    "fetched_at": "2026-10-08T05:56:44+00:00"
   },
   "verb:fragen_unr": {
     "kind": "verb",
     "slug": "fragen_unr",
     "url": "https://www.verbformen.de/konjugation/fragen_unr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fragen",
     "first_seen": "2026-10-07T11:42:44+00:00",
     "listing_level": "A1",
-    "rank": 299
+    "rank": 299,
+    "alias_of": "verb:fragen",
+    "fetched_at": "2026-10-08T05:58:26+00:00"
   },
   "verb:fu3hlen": {
     "kind": "verb",
     "slug": "fu3hlen",
     "url": "https://www.verbformen.de/konjugation/fu3hlen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "fühle",
     "first_seen": "2026-10-07T15:09:23+00:00",
     "listing_level": "A1",
-    "rank": 719
+    "rank": 719,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:59:07+00:00",
+    "hash": "71cef807c3587962"
   },
   "verb:funktionieren": {
     "kind": "verb",
     "slug": "funktionieren",
     "url": "https://www.verbformen.de/konjugation/funktionieren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "funktioniert",
     "first_seen": "2026-10-07T14:50:58+00:00",
     "listing_level": "A1",
-    "rank": 682
+    "rank": 682,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:59:28+00:00",
+    "hash": "4354695d49ea36c2"
   },
   "verb:geben": {
     "kind": "verb",
     "slug": "geben",
     "url": "https://www.verbformen.de/konjugation/geben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gibt",
     "first_seen": "2026-10-07T10:31:01+00:00",
     "listing_level": "A1",
-    "rank": 118
+    "rank": 118,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T05:59:49+00:00",
+    "hash": "a524d31ec4a0ac14"
   },
   "verb:gefallen": {
     "kind": "verb",
     "slug": "gefallen",
     "url": "https://www.verbformen.de/konjugation/gefallen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gefallen",
     "first_seen": "2026-10-07T13:27:48+00:00",
     "listing_level": "A1",
-    "rank": 512
+    "rank": 512,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:00:11+00:00",
+    "hash": "e75f78dffef931ac"
   },
   "verb:gehen": {
     "kind": "verb",
@@ -2817,31 +3886,40 @@
     "kind": "verb",
     "slug": "geho3ren",
     "url": "https://www.verbformen.de/konjugation/geho3ren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gehört",
     "first_seen": "2026-10-07T10:57:55+00:00",
     "listing_level": "A1",
-    "rank": 210
+    "rank": 210,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:00:32+00:00",
+    "hash": "8f4894f1ffb24260"
   },
   "verb:gernhaben": {
     "kind": "verb",
     "slug": "gernhaben",
     "url": "https://www.verbformen.de/konjugation/gernhaben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gern",
     "first_seen": "2026-10-07T11:57:45+00:00",
     "listing_level": "A1",
-    "rank": 328
+    "rank": 328,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:00:53+00:00",
+    "hash": "381e127fd492282a"
   },
   "verb:glauben": {
     "kind": "verb",
     "slug": "glauben",
     "url": "https://www.verbformen.de/konjugation/glauben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "glaube",
     "first_seen": "2026-10-07T10:43:04+00:00",
     "listing_level": "A1",
-    "rank": 181
+    "rank": 181,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:01:14+00:00",
+    "hash": "703de0b4c4dec5e4"
   },
   "verb:haben": {
     "kind": "verb",
@@ -2860,261 +3938,368 @@
     "kind": "verb",
     "slug": "halten",
     "url": "https://www.verbformen.de/konjugation/halten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "halt",
     "first_seen": "2026-10-07T11:50:49+00:00",
     "listing_level": "A1",
-    "rank": 315
+    "rank": 315,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:01:36+00:00",
+    "hash": "523666e61391dd95"
   },
   "verb:heiraten": {
     "kind": "verb",
     "slug": "heiraten",
     "url": "https://www.verbformen.de/konjugation/heiraten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "heiraten",
     "first_seen": "2026-10-07T15:12:59+00:00",
     "listing_level": "A1",
-    "rank": 728
+    "rank": 728,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:01:57+00:00",
+    "hash": "a428803cadaeea95"
+  },
+  "verb:heis5en": {
+    "kind": "verb",
+    "slug": "heis5en",
+    "url": "https://www.verbformen.de/konjugation/heis5en.htm",
+    "status": "included",
+    "found_via": "heißt",
+    "first_seen": "2026-10-08T06:03:18+00:00",
+    "rank": 302,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:04:22+00:00",
+    "hash": "56923ec44e9e92f9"
   },
   "verb:heis5en_regelm": {
     "kind": "verb",
     "slug": "heis5en_regelm",
     "url": "https://www.verbformen.de/konjugation/heis5en_regelm.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "heißt",
     "first_seen": "2026-10-07T11:42:56+00:00",
     "listing_level": "A1",
-    "rank": 302
+    "rank": 302,
+    "alias_of": "verb:heis5en",
+    "fetched_at": "2026-10-08T06:03:18+00:00"
   },
   "verb:heis5en_unr": {
     "kind": "verb",
     "slug": "heis5en_unr",
     "url": "https://www.verbformen.de/konjugation/heis5en_unr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "heißt",
     "first_seen": "2026-10-07T11:42:56+00:00",
     "listing_level": "A1",
-    "rank": 302
+    "rank": 302,
+    "alias_of": "verb:heis5en",
+    "fetched_at": "2026-10-08T06:04:01+00:00"
   },
   "verb:helfen": {
     "kind": "verb",
     "slug": "helfen",
     "url": "https://www.verbformen.de/konjugation/helfen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "helfen",
     "first_seen": "2026-10-07T11:05:26+00:00",
     "listing_level": "A1",
-    "rank": 218
+    "rank": 218,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:04:44+00:00",
+    "hash": "cf576f305116d744"
   },
   "verb:ho3ren": {
     "kind": "verb",
     "slug": "ho3ren",
     "url": "https://www.verbformen.de/konjugation/ho3ren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "gehört",
     "first_seen": "2026-10-07T10:57:55+00:00",
     "listing_level": "A1",
-    "rank": 210
+    "rank": 210,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:05:05+00:00",
+    "hash": "ee2ce934d817c622"
   },
   "verb:hoffen": {
     "kind": "verb",
     "slug": "hoffen",
     "url": "https://www.verbformen.de/konjugation/hoffen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hoffe",
     "first_seen": "2026-10-07T13:05:53+00:00",
     "listing_level": "A1",
-    "rank": 468
+    "rank": 468,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:05:27+00:00",
+    "hash": "377288cec536f76d"
   },
   "verb:holen": {
     "kind": "verb",
     "slug": "holen",
     "url": "https://www.verbformen.de/konjugation/holen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "holen",
     "first_seen": "2026-10-07T13:20:39+00:00",
     "listing_level": "A1",
-    "rank": 494
+    "rank": 494,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:05:48+00:00",
+    "hash": "f63407975482be30"
   },
   "verb:interessieren": {
     "kind": "verb",
     "slug": "interessieren",
     "url": "https://www.verbformen.de/konjugation/interessieren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "interessiert",
     "first_seen": "2026-10-07T15:24:33+00:00",
     "listing_level": "A1",
-    "rank": 751
+    "rank": 751,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:06:09+00:00",
+    "hash": "c2394319ee73e3f0"
   },
   "verb:jobben": {
     "kind": "verb",
     "slug": "jobben",
     "url": "https://www.verbformen.de/konjugation/jobben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "job",
     "first_seen": "2026-10-07T12:54:34+00:00",
     "listing_level": "A1",
-    "rank": 448
+    "rank": 448,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:06:30+00:00",
+    "hash": "4fe6e8fdd955c8b3"
   },
   "verb:jungen": {
     "kind": "verb",
     "slug": "jungen",
     "url": "https://www.verbformen.de/konjugation/jungen.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "jungen",
     "first_seen": "2026-10-07T14:20:42+00:00",
     "listing_level": null,
-    "rank": 618
+    "rank": 618,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T06:06:51+00:00"
   },
   "verb:kaufen": {
     "kind": "verb",
     "slug": "kaufen",
     "url": "https://www.verbformen.de/konjugation/kaufen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kaufen",
     "first_seen": "2026-10-07T15:24:22+00:00",
     "listing_level": "A1",
-    "rank": 748
+    "rank": 748,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:07:13+00:00",
+    "hash": "aba166b3dcde90ec"
   },
   "verb:kennen": {
     "kind": "verb",
     "slug": "kennen",
     "url": "https://www.verbformen.de/konjugation/kennen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kennen",
     "first_seen": "2026-10-07T12:09:24+00:00",
     "listing_level": "A1",
-    "rank": 353
+    "rank": 353,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:08:34+00:00",
+    "hash": "2a68968eef14f9f9"
   },
   "verb:kennenlernen": {
     "kind": "verb",
     "slug": "kennenlernen",
     "url": "https://www.verbformen.de/konjugation/kennenlernen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kennen",
     "first_seen": "2026-10-07T12:09:24+00:00",
     "listing_level": "A1",
-    "rank": 353
+    "rank": 353,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:08:54+00:00",
+    "hash": "eddd6168ab800694"
   },
   "verb:klingen": {
     "kind": "verb",
     "slug": "klingen",
     "url": "https://www.verbformen.de/konjugation/klingen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "klingt",
     "first_seen": "2026-10-07T14:13:03+00:00",
     "listing_level": "A1",
-    "rank": 608
+    "rank": 608,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:09:15+00:00",
+    "hash": "0922dfc754d1732a"
   },
   "verb:ko3nnen": {
     "kind": "verb",
     "slug": "ko3nnen",
     "url": "https://www.verbformen.de/konjugation/ko3nnen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kann",
     "first_seen": "2026-10-07T10:27:04+00:00",
     "listing_level": "A1",
-    "rank": 55
+    "rank": 55,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:09:37+00:00",
+    "hash": "afff7aba15fc5409"
   },
   "verb:kommen": {
     "kind": "verb",
     "slug": "kommen",
     "url": "https://www.verbformen.de/konjugation/kommen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "komm",
     "first_seen": "2026-10-07T10:30:53+00:00",
     "listing_level": "A1",
-    "rank": 116
+    "rank": 116,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:09:59+00:00",
+    "hash": "5eaa5a0cd22b845f"
   },
   "verb:kriegen": {
     "kind": "verb",
     "slug": "kriegen",
     "url": "https://www.verbformen.de/konjugation/kriegen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "krieg",
     "first_seen": "2026-10-07T13:39:36+00:00",
     "listing_level": "A1",
-    "rank": 540
+    "rank": 540,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:10:20+00:00",
+    "hash": "2c923146cf51847d"
   },
   "verb:ku3mmern": {
     "kind": "verb",
     "slug": "ku3mmern",
     "url": "https://www.verbformen.de/konjugation/ku3mmern.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "kümmern",
     "first_seen": "2026-10-07T15:35:54+00:00",
     "listing_level": "A1",
-    "rank": 771
+    "rank": 771,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:10:41+00:00",
+    "hash": "6931cbbc69237dd5"
+  },
+  "verb:laufen": {
+    "kind": "verb",
+    "slug": "laufen",
+    "url": "https://www.verbformen.de/konjugation/laufen.htm",
+    "status": "included",
+    "found_via": "läuft",
+    "first_seen": "2026-10-08T06:11:02+00:00",
+    "rank": 481,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:12:07+00:00",
+    "hash": "6dd77a0209dceade"
   },
   "verb:laufen_hat": {
     "kind": "verb",
     "slug": "laufen_hat",
     "url": "https://www.verbformen.de/konjugation/laufen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "läuft",
     "first_seen": "2026-10-07T13:12:45+00:00",
     "listing_level": "A1",
-    "rank": 481
+    "rank": 481,
+    "alias_of": "verb:laufen",
+    "fetched_at": "2026-10-08T06:11:02+00:00"
   },
   "verb:laufen_ist": {
     "kind": "verb",
     "slug": "laufen_ist",
     "url": "https://www.verbformen.de/konjugation/laufen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "läuft",
     "first_seen": "2026-10-07T13:12:45+00:00",
     "listing_level": "A1",
-    "rank": 481
+    "rank": 481,
+    "alias_of": "verb:laufen",
+    "fetched_at": "2026-10-08T06:11:45+00:00"
   },
   "verb:leben": {
     "kind": "verb",
     "slug": "leben",
     "url": "https://www.verbformen.de/konjugation/leben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "leben",
     "first_seen": "2026-10-07T10:32:09+00:00",
     "listing_level": "A1",
-    "rank": 136
+    "rank": 136,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:13:28+00:00",
+    "hash": "4a3f8275835e3a6e"
   },
   "verb:lernen": {
     "kind": "verb",
     "slug": "lernen",
     "url": "https://www.verbformen.de/konjugation/lernen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "lernen",
     "first_seen": "2026-10-07T14:54:07+00:00",
     "listing_level": "A1",
-    "rank": 684
+    "rank": 684,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:13:49+00:00",
+    "hash": "043e52ffe324a9bc"
   },
   "verb:lieben": {
     "kind": "verb",
     "slug": "lieben",
     "url": "https://www.verbformen.de/konjugation/lieben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "liebe",
     "first_seen": "2026-10-07T10:50:32+00:00",
     "listing_level": "A1",
-    "rank": 188
+    "rank": 188,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:14:10+00:00",
+    "hash": "f4f0045ae0325227"
+  },
+  "verb:liegen": {
+    "kind": "verb",
+    "slug": "liegen",
+    "url": "https://www.verbformen.de/konjugation/liegen.htm",
+    "status": "included",
+    "found_via": "liegt",
+    "first_seen": "2026-10-08T06:14:31+00:00",
+    "rank": 442,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:15:34+00:00",
+    "hash": "68cfb4f8e0a74774"
   },
   "verb:liegen_hat": {
     "kind": "verb",
     "slug": "liegen_hat",
     "url": "https://www.verbformen.de/konjugation/liegen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "liegt",
     "first_seen": "2026-10-07T12:54:12+00:00",
     "listing_level": "A1",
-    "rank": 442
+    "rank": 442,
+    "alias_of": "verb:liegen",
+    "fetched_at": "2026-10-08T06:14:31+00:00"
   },
   "verb:liegen_ist": {
     "kind": "verb",
     "slug": "liegen_ist",
     "url": "https://www.verbformen.de/konjugation/liegen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "liegt",
     "first_seen": "2026-10-07T12:54:12+00:00",
     "listing_level": "A1",
-    "rank": 442
+    "rank": 442,
+    "alias_of": "verb:liegen",
+    "fetched_at": "2026-10-08T06:15:13+00:00"
   },
   "verb:lo3sen": {
     "kind": "verb",
@@ -3124,257 +4309,377 @@
     "found_via": "los",
     "first_seen": "2026-10-07T10:29:35+00:00",
     "listing_level": "A1",
-    "rank": 95
+    "rank": 95,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:15:56+00:00",
+    "parse_error": [
+      "english"
+    ]
+  },
+  "verb:machen": {
+    "kind": "verb",
+    "slug": "machen",
+    "url": "https://www.verbformen.de/konjugation/machen.htm",
+    "status": "included",
+    "found_via": "machen",
+    "first_seen": "2026-10-08T06:16:17+00:00",
+    "rank": 99,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:17:21+00:00",
+    "hash": "4c32140425cdf7a0"
   },
   "verb:machen_hat": {
     "kind": "verb",
     "slug": "machen_hat",
     "url": "https://www.verbformen.de/konjugation/machen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "machen",
     "first_seen": "2026-10-07T10:29:50+00:00",
     "listing_level": "A1",
-    "rank": 99
+    "rank": 99,
+    "alias_of": "verb:machen",
+    "fetched_at": "2026-10-08T06:16:17+00:00"
   },
   "verb:machen_ist": {
     "kind": "verb",
     "slug": "machen_ist",
     "url": "https://www.verbformen.de/konjugation/machen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "machen",
     "first_seen": "2026-10-07T10:29:50+00:00",
     "listing_level": "A1",
-    "rank": 99
+    "rank": 99,
+    "alias_of": "verb:machen",
+    "fetched_at": "2026-10-08T06:16:59+00:00"
   },
   "verb:malen": {
     "kind": "verb",
     "slug": "malen",
     "url": "https://www.verbformen.de/konjugation/malen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "mal",
     "first_seen": "2026-10-07T10:27:23+00:00",
     "listing_level": "A1",
-    "rank": 60
+    "rank": 60,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:18:42+00:00",
+    "hash": "67ce92f77f0833eb"
   },
   "verb:meinen": {
     "kind": "verb",
     "slug": "meinen",
     "url": "https://www.verbformen.de/konjugation/meinen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "meine",
     "first_seen": "2026-10-07T10:27:42+00:00",
     "listing_level": "A1",
-    "rank": 65
+    "rank": 65,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:19:04+00:00",
+    "hash": "32ad71c84a0772f3"
   },
   "verb:mo3chten": {
     "kind": "verb",
     "slug": "mo3chten",
     "url": "https://www.verbformen.de/konjugation/mo3chten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "möchte",
     "first_seen": "2026-10-07T10:57:59+00:00",
     "listing_level": "A1",
-    "rank": 211
+    "rank": 211,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:19:25+00:00",
+    "hash": "f439b3a6d4c33a8f"
   },
   "verb:mo3gen": {
     "kind": "verb",
     "slug": "mo3gen",
     "url": "https://www.verbformen.de/konjugation/mo3gen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "möchte",
     "first_seen": "2026-10-07T10:57:59+00:00",
     "listing_level": "A1",
-    "rank": 211
+    "rank": 211,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:19:47+00:00",
+    "hash": "52cc528b9fa2209b"
   },
   "verb:mu3ssen": {
     "kind": "verb",
     "slug": "mu3ssen",
     "url": "https://www.verbformen.de/konjugation/mu3ssen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "muss",
     "first_seen": "2026-10-07T10:28:35+00:00",
     "listing_level": "A1",
-    "rank": 79
+    "rank": 79,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:20:08+00:00",
+    "hash": "f3e29ff1710d9491"
+  },
+  "verb:nachfragen": {
+    "kind": "verb",
+    "slug": "nachfragen",
+    "url": "https://www.verbformen.de/konjugation/nachfragen.htm",
+    "status": "included",
+    "found_via": "fragen",
+    "first_seen": "2026-10-08T06:20:29+00:00",
+    "rank": 299,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:21:31+00:00",
+    "hash": "ab1eb049dcf594cd"
   },
   "verb:nachfragen_regelm": {
     "kind": "verb",
     "slug": "nachfragen_regelm",
     "url": "https://www.verbformen.de/konjugation/nachfragen_regelm.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fragen",
     "first_seen": "2026-10-07T11:42:44+00:00",
     "listing_level": "A1",
-    "rank": 299
+    "rank": 299,
+    "alias_of": "verb:nachfragen",
+    "fetched_at": "2026-10-08T06:20:29+00:00"
   },
   "verb:nachfragen_unr": {
     "kind": "verb",
     "slug": "nachfragen_unr",
     "url": "https://www.verbformen.de/konjugation/nachfragen_unr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "fragen",
     "first_seen": "2026-10-07T11:42:44+00:00",
     "listing_level": "A1",
-    "rank": 299
+    "rank": 299,
+    "alias_of": "verb:nachfragen",
+    "fetched_at": "2026-10-08T06:21:10+00:00"
   },
   "verb:nehmen": {
     "kind": "verb",
     "slug": "nehmen",
     "url": "https://www.verbformen.de/konjugation/nehmen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nehmen",
     "first_seen": "2026-10-07T11:35:33+00:00",
     "listing_level": "A1",
-    "rank": 281
+    "rank": 281,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:21:53+00:00",
+    "hash": "88c5134bde468ad6"
   },
   "verb:nennen": {
     "kind": "verb",
     "slug": "nennen",
     "url": "https://www.verbformen.de/konjugation/nennen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nennen",
     "first_seen": "2026-10-07T14:54:18+00:00",
     "listing_level": "A1",
-    "rank": 687
+    "rank": 687,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:22:13+00:00",
+    "hash": "f8b2fcb6a2729a4b"
   },
   "verb:nummerieren": {
     "kind": "verb",
     "slug": "nummerieren",
     "url": "https://www.verbformen.de/konjugation/nummerieren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "nummer",
     "first_seen": "2026-10-07T14:20:34+00:00",
     "listing_level": "A1",
-    "rank": 616
+    "rank": 616,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:23:35+00:00",
+    "hash": "7c335545d69bf6de"
   },
   "verb:passen": {
     "kind": "verb",
     "slug": "passen",
     "url": "https://www.verbformen.de/konjugation/passen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "pass",
     "first_seen": "2026-10-07T14:28:19+00:00",
     "listing_level": "A1",
-    "rank": 643
+    "rank": 643,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:23:56+00:00",
+    "hash": "620980f539cf1a00"
+  },
+  "verb:passieren": {
+    "kind": "verb",
+    "slug": "passieren",
+    "url": "https://www.verbformen.de/konjugation/passieren.htm",
+    "status": "included",
+    "found_via": "passiert",
+    "first_seen": "2026-10-08T06:24:17+00:00",
+    "rank": 202,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:25:20+00:00",
+    "hash": "bcd1428cb3d20207"
   },
   "verb:passieren_hat": {
     "kind": "verb",
     "slug": "passieren_hat",
     "url": "https://www.verbformen.de/konjugation/passieren_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "passiert",
     "first_seen": "2026-10-07T10:54:24+00:00",
     "listing_level": "A1",
-    "rank": 202
+    "rank": 202,
+    "alias_of": "verb:passieren",
+    "fetched_at": "2026-10-08T06:24:17+00:00"
   },
   "verb:passieren_ist": {
     "kind": "verb",
     "slug": "passieren_ist",
     "url": "https://www.verbformen.de/konjugation/passieren_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "passiert",
     "first_seen": "2026-10-07T10:54:24+00:00",
     "listing_level": "A1",
-    "rank": 202
+    "rank": 202,
+    "alias_of": "verb:passieren",
+    "fetched_at": "2026-10-08T06:24:58+00:00"
   },
   "verb:planen": {
     "kind": "verb",
     "slug": "planen",
     "url": "https://www.verbformen.de/konjugation/planen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "plan",
     "first_seen": "2026-10-07T14:24:36+00:00",
     "listing_level": "A1",
-    "rank": 632
+    "rank": 632,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:25:41+00:00",
+    "hash": "7049843b68049833"
   },
   "verb:reden": {
     "kind": "verb",
     "slug": "reden",
     "url": "https://www.verbformen.de/konjugation/reden.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "reden",
     "first_seen": "2026-10-07T10:50:24+00:00",
     "listing_level": "A1",
-    "rank": 186
+    "rank": 186,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:26:02+00:00",
+    "hash": "51b12342c72691de"
   },
   "verb:rufen": {
     "kind": "verb",
     "slug": "rufen",
     "url": "https://www.verbformen.de/konjugation/rufen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "hallo",
     "first_seen": "2026-10-07T10:41:03+00:00",
     "listing_level": "A1",
-    "rank": 165
+    "rank": 165,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:26:23+00:00",
+    "hash": "d21c10ba37a8a628"
   },
   "verb:sagen": {
     "kind": "verb",
     "slug": "sagen",
     "url": "https://www.verbformen.de/konjugation/sagen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sagen",
     "first_seen": "2026-10-07T10:29:47+00:00",
     "listing_level": "A1",
-    "rank": 98
+    "rank": 98,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:26:44+00:00",
+    "hash": "a6e3d73095be3b4b"
+  },
+  "verb:schaffen": {
+    "kind": "verb",
+    "slug": "schaffen",
+    "url": "https://www.verbformen.de/konjugation/schaffen.htm",
+    "status": "included",
+    "found_via": "schaffen",
+    "first_seen": "2026-10-08T06:27:05+00:00",
+    "rank": 660,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:28:08+00:00",
+    "hash": "cf2cf25df130932b"
   },
   "verb:schaffen_regelm": {
     "kind": "verb",
     "slug": "schaffen_regelm",
     "url": "https://www.verbformen.de/konjugation/schaffen_regelm.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "schaffen",
     "first_seen": "2026-10-07T14:39:30+00:00",
     "listing_level": "A1",
-    "rank": 660
+    "rank": 660,
+    "alias_of": "verb:schaffen",
+    "fetched_at": "2026-10-08T06:27:05+00:00"
   },
   "verb:schaffen_unr": {
     "kind": "verb",
     "slug": "schaffen_unr",
     "url": "https://www.verbformen.de/konjugation/schaffen_unr.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "schaffen",
     "first_seen": "2026-10-07T14:39:30+00:00",
     "listing_level": "A1",
-    "rank": 660
+    "rank": 660,
+    "alias_of": "verb:schaffen",
+    "fetched_at": "2026-10-08T06:27:47+00:00"
   },
   "verb:scheinen": {
     "kind": "verb",
     "slug": "scheinen",
     "url": "https://www.verbformen.de/konjugation/scheinen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "scheint",
     "first_seen": "2026-10-07T14:05:48+00:00",
     "listing_level": "A1",
-    "rank": 589
+    "rank": 589,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:34:45+00:00",
+    "hash": "c8cb10fca1df2296"
   },
   "verb:schlafen": {
     "kind": "verb",
     "slug": "schlafen",
     "url": "https://www.verbformen.de/konjugation/schlafen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schlafen",
     "first_seen": "2026-10-07T13:50:55+00:00",
     "listing_level": "A1",
-    "rank": 561
+    "rank": 561,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:35:07+00:00",
+    "hash": "bc1e285cca927de7"
   },
   "verb:schreiben": {
     "kind": "verb",
     "slug": "schreiben",
     "url": "https://www.verbformen.de/konjugation/schreiben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "schreiben",
     "first_seen": "2026-10-07T15:43:13+00:00",
     "listing_level": "A1",
-    "rank": 791
+    "rank": 791,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:35:28+00:00",
+    "hash": "c08de452a1ea0b31"
   },
   "verb:sehen": {
     "kind": "verb",
     "slug": "sehen",
     "url": "https://www.verbformen.de/konjugation/sehen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sehen",
     "first_seen": "2026-10-07T10:30:23+00:00",
     "listing_level": "A1",
-    "rank": 108
+    "rank": 108,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:35:49+00:00",
+    "hash": "5ace0dd9b41f2d42"
   },
   "verb:sein": {
     "kind": "verb",
@@ -3389,324 +4694,469 @@
     "hash": "b3ebd3b4ac5046e0",
     "rank": 9
   },
+  "verb:setzen": {
+    "kind": "verb",
+    "slug": "setzen",
+    "url": "https://www.verbformen.de/konjugation/setzen.htm",
+    "status": "included",
+    "found_via": "setzen",
+    "first_seen": "2026-10-08T06:36:10+00:00",
+    "rank": 622,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:38:15+00:00",
+    "hash": "112a577dc8df8401"
+  },
   "verb:setzen_hat": {
     "kind": "verb",
     "slug": "setzen_hat",
     "url": "https://www.verbformen.de/konjugation/setzen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "setzen",
     "first_seen": "2026-10-07T14:20:57+00:00",
     "listing_level": "A1",
-    "rank": 622
+    "rank": 622,
+    "alias_of": "verb:setzen",
+    "fetched_at": "2026-10-08T06:36:10+00:00"
   },
   "verb:setzen_ist": {
     "kind": "verb",
     "slug": "setzen_ist",
     "url": "https://www.verbformen.de/konjugation/setzen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "setzen",
     "first_seen": "2026-10-07T14:20:57+00:00",
     "listing_level": "A1",
-    "rank": 622
+    "rank": 622,
+    "alias_of": "verb:setzen",
+    "fetched_at": "2026-10-08T06:37:54+00:00"
   },
   "verb:sieben": {
     "kind": "verb",
     "slug": "sieben",
     "url": "https://www.verbformen.de/konjugation/sieben.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sie",
     "first_seen": "2026-10-07T10:24:04+00:00",
     "listing_level": "A1",
-    "rank": 7
+    "rank": 7,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:38:36+00:00",
+    "hash": "e77f9c2c70a19cd9"
+  },
+  "verb:sitzen": {
+    "kind": "verb",
+    "slug": "sitzen",
+    "url": "https://www.verbformen.de/konjugation/sitzen.htm",
+    "status": "included",
+    "found_via": "sitzen",
+    "first_seen": "2026-10-08T06:38:57+00:00",
+    "rank": 775,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:40:00+00:00",
+    "hash": "4d002d74b29b996c"
   },
   "verb:sitzen_hat": {
     "kind": "verb",
     "slug": "sitzen_hat",
     "url": "https://www.verbformen.de/konjugation/sitzen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "sitzen",
     "first_seen": "2026-10-07T15:39:11+00:00",
     "listing_level": "A1",
-    "rank": 775
+    "rank": 775,
+    "alias_of": "verb:sitzen",
+    "fetched_at": "2026-10-08T06:38:57+00:00"
   },
   "verb:sitzen_ist": {
     "kind": "verb",
     "slug": "sitzen_ist",
     "url": "https://www.verbformen.de/konjugation/sitzen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "sitzen",
     "first_seen": "2026-10-07T15:39:11+00:00",
     "listing_level": "A1",
-    "rank": 775
+    "rank": 775,
+    "alias_of": "verb:sitzen",
+    "fetched_at": "2026-10-08T06:39:39+00:00"
   },
   "verb:sollen": {
     "kind": "verb",
     "slug": "sollen",
     "url": "https://www.verbformen.de/konjugation/sollen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "soll",
     "first_seen": "2026-10-07T10:31:20+00:00",
     "listing_level": "A1",
-    "rank": 123
+    "rank": 123,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:40:22+00:00",
+    "hash": "c1b37fa8cc799181"
   },
   "verb:spielen": {
     "kind": "verb",
     "slug": "spielen",
     "url": "https://www.verbformen.de/konjugation/spielen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "spielen",
     "first_seen": "2026-10-07T12:57:55+00:00",
     "listing_level": "A1",
-    "rank": 453
+    "rank": 453,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:40:42+00:00",
+    "hash": "5d2d45b4c78edce3"
   },
   "verb:sprechen": {
     "kind": "verb",
     "slug": "sprechen",
     "url": "https://www.verbformen.de/konjugation/sprechen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "sprechen",
     "first_seen": "2026-10-07T11:54:02+00:00",
     "listing_level": "A1",
-    "rank": 318
+    "rank": 318,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:41:04+00:00",
+    "hash": "3576de1d46c041d1"
+  },
+  "verb:stehen": {
+    "kind": "verb",
+    "slug": "stehen",
+    "url": "https://www.verbformen.de/konjugation/stehen.htm",
+    "status": "included",
+    "found_via": "steht",
+    "first_seen": "2026-10-08T06:41:25+00:00",
+    "rank": 293,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:43:28+00:00",
+    "hash": "65b089a53b762120"
   },
   "verb:stehen_hat": {
     "kind": "verb",
     "slug": "stehen_hat",
     "url": "https://www.verbformen.de/konjugation/stehen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "steht",
     "first_seen": "2026-10-07T11:39:21+00:00",
     "listing_level": "A1",
-    "rank": 293
+    "rank": 293,
+    "alias_of": "verb:stehen",
+    "fetched_at": "2026-10-08T06:41:25+00:00"
   },
   "verb:stehen_ist": {
     "kind": "verb",
     "slug": "stehen_ist",
     "url": "https://www.verbformen.de/konjugation/stehen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "steht",
     "first_seen": "2026-10-07T11:39:21+00:00",
     "listing_level": "A1",
-    "rank": 293
+    "rank": 293,
+    "alias_of": "verb:stehen",
+    "fetched_at": "2026-10-08T06:43:07+00:00"
   },
   "verb:stellen": {
     "kind": "verb",
     "slug": "stellen",
     "url": "https://www.verbformen.de/konjugation/stellen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "stellen",
     "first_seen": "2026-10-07T13:57:53+00:00",
     "listing_level": "A1",
-    "rank": 575
+    "rank": 575,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:43:49+00:00",
+    "hash": "beacddee39dba9bf"
   },
   "verb:stimmen": {
     "kind": "verb",
     "slug": "stimmen",
     "url": "https://www.verbformen.de/konjugation/stimmen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "stimmt",
     "first_seen": "2026-10-07T11:35:28+00:00",
     "listing_level": "A1",
-    "rank": 280
+    "rank": 280,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:44:10+00:00",
+    "hash": "cc2fc72741d057d4"
   },
   "verb:suchen": {
     "kind": "verb",
     "slug": "suchen",
     "url": "https://www.verbformen.de/konjugation/suchen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "suchen",
     "first_seen": "2026-10-07T12:54:16+00:00",
     "listing_level": "A1",
-    "rank": 443
+    "rank": 443,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:44:31+00:00",
+    "hash": "62592223fc95a84e"
   },
   "verb:telefonieren": {
     "kind": "verb",
     "slug": "telefonieren",
     "url": "https://www.verbformen.de/konjugation/telefonieren.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "telefon",
     "first_seen": "2026-10-07T14:24:21+00:00",
     "listing_level": "A1",
-    "rank": 628
+    "rank": 628,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:44:53+00:00",
+    "hash": "6653201086f5dbab"
+  },
+  "verb:treffen": {
+    "kind": "verb",
+    "slug": "treffen",
+    "url": "https://www.verbformen.de/konjugation/treffen.htm",
+    "status": "included",
+    "found_via": "treffen",
+    "first_seen": "2026-10-08T06:45:14+00:00",
+    "rank": 412,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:46:18+00:00",
+    "hash": "06a5a60a7098e614"
   },
   "verb:treffen_hat": {
     "kind": "verb",
     "slug": "treffen_hat",
     "url": "https://www.verbformen.de/konjugation/treffen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "treffen",
     "first_seen": "2026-10-07T12:39:15+00:00",
     "listing_level": "A1",
-    "rank": 412
+    "rank": 412,
+    "alias_of": "verb:treffen",
+    "fetched_at": "2026-10-08T06:45:14+00:00"
   },
   "verb:treffen_ist": {
     "kind": "verb",
     "slug": "treffen_ist",
     "url": "https://www.verbformen.de/konjugation/treffen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "treffen",
     "first_seen": "2026-10-07T12:39:15+00:00",
     "listing_level": "A1",
-    "rank": 412
+    "rank": 412,
+    "alias_of": "verb:treffen",
+    "fetched_at": "2026-10-08T06:45:57+00:00"
   },
   "verb:trinken": {
     "kind": "verb",
     "slug": "trinken",
     "url": "https://www.verbformen.de/konjugation/trinken.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "trinken",
     "first_seen": "2026-10-07T13:58:11+00:00",
     "listing_level": "A1",
-    "rank": 580
+    "rank": 580,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:46:39+00:00",
+    "hash": "04ad824615ccd116"
   },
   "verb:tun": {
     "kind": "verb",
     "slug": "tun",
     "url": "https://www.verbformen.de/konjugation/tun.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "tun",
     "first_seen": "2026-10-07T10:30:12+00:00",
     "listing_level": "A1",
-    "rank": 105
+    "rank": 105,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:48:01+00:00",
+    "hash": "361dff7773db14fd"
   },
   "verb:typen": {
     "kind": "verb",
     "slug": "typen",
     "url": "https://www.verbformen.de/konjugation/typen.htm",
-    "status": "pending",
+    "status": "excluded",
     "found_via": "typen",
     "first_seen": "2026-10-07T15:24:29+00:00",
     "listing_level": null,
-    "rank": 750
+    "rank": 750,
+    "detail_level": null,
+    "fetched_at": "2026-10-08T06:48:22+00:00"
   },
   "verb:vergessen": {
     "kind": "verb",
     "slug": "vergessen",
     "url": "https://www.verbformen.de/konjugation/vergessen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "vergessen",
     "first_seen": "2026-10-07T12:09:31+00:00",
     "listing_level": "A1",
-    "rank": 355
+    "rank": 355,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:48:42+00:00",
+    "hash": "9d6db12b9795d262"
   },
   "verb:verstehen": {
     "kind": "verb",
     "slug": "verstehen",
     "url": "https://www.verbformen.de/konjugation/verstehen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "verstehe",
     "first_seen": "2026-10-07T11:58:03+00:00",
     "listing_level": "A1",
-    "rank": 333
+    "rank": 333,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:49:04+00:00",
+    "hash": "05815bf775dbcfa0"
   },
   "verb:vorstellen": {
     "kind": "verb",
     "slug": "vorstellen",
     "url": "https://www.verbformen.de/konjugation/vorstellen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "vorstellen",
     "first_seen": "2026-10-07T15:43:28+00:00",
     "listing_level": "A1",
-    "rank": 795
+    "rank": 795,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:49:26+00:00",
+    "hash": "d15762d14e270ba0"
   },
   "verb:wa3hlen": {
     "kind": "verb",
     "slug": "wa3hlen",
     "url": "https://www.verbformen.de/konjugation/wa3hlen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wahl",
     "first_seen": "2026-10-07T15:20:48+00:00",
     "listing_level": "A1",
-    "rank": 740
+    "rank": 740,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:49:46+00:00",
+    "hash": "dbb0cf8fc4e7eb01"
   },
   "verb:warten": {
     "kind": "verb",
     "slug": "warten",
     "url": "https://www.verbformen.de/konjugation/warten.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "warte",
     "first_seen": "2026-10-07T11:24:20+00:00",
     "listing_level": "A1",
-    "rank": 263
+    "rank": 263,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:50:07+00:00",
+    "hash": "c37e996297b569fe"
   },
   "verb:waschen": {
     "kind": "verb",
     "slug": "waschen",
     "url": "https://www.verbformen.de/konjugation/waschen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "was",
     "first_seen": "2026-10-07T10:24:42+00:00",
     "listing_level": "A1",
-    "rank": 17
+    "rank": 17,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:50:29+00:00",
+    "hash": "4c7230dcb9eedb0e"
   },
   "verb:weitersuchen": {
     "kind": "verb",
     "slug": "weitersuchen",
     "url": "https://www.verbformen.de/konjugation/weitersuchen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "suchen",
     "first_seen": "2026-10-07T12:54:16+00:00",
     "listing_level": "A1",
-    "rank": 443
+    "rank": 443,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:50:49+00:00",
+    "hash": "8f3a8e533b15c6dc"
   },
   "verb:werden": {
     "kind": "verb",
     "slug": "werden",
     "url": "https://www.verbformen.de/konjugation/werden.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "wird",
     "first_seen": "2026-10-07T10:27:53+00:00",
     "listing_level": "A1",
-    "rank": 68
+    "rank": 68,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:51:11+00:00",
+    "hash": "1bea609e4c4e6066"
   },
   "verb:wissen": {
     "kind": "verb",
     "slug": "wissen",
     "url": "https://www.verbformen.de/konjugation/wissen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "weiß",
     "first_seen": "2026-10-07T10:28:13+00:00",
     "listing_level": "A1",
-    "rank": 73
+    "rank": 73,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:51:31+00:00",
+    "hash": "3645896af97a7faf"
   },
   "verb:wollen": {
     "kind": "verb",
     "slug": "wollen",
     "url": "https://www.verbformen.de/konjugation/wollen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "will",
     "first_seen": "2026-10-07T10:28:42+00:00",
     "listing_level": "A1",
-    "rank": 81
+    "rank": 81,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:51:53+00:00",
+    "hash": "2d8b554338e8266a"
   },
   "verb:zeigen": {
     "kind": "verb",
     "slug": "zeigen",
     "url": "https://www.verbformen.de/konjugation/zeigen.htm",
-    "status": "pending",
+    "status": "included",
     "found_via": "zeigen",
     "first_seen": "2026-10-07T13:28:13+00:00",
     "listing_level": "A1",
-    "rank": 519
+    "rank": 519,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:53:14+00:00",
+    "hash": "26eac575af2c4d45"
+  },
+  "verb:ziehen": {
+    "kind": "verb",
+    "slug": "ziehen",
+    "url": "https://www.verbformen.de/konjugation/ziehen.htm",
+    "status": "included",
+    "found_via": "ziehen",
+    "first_seen": "2026-10-08T06:53:35+00:00",
+    "rank": 705,
+    "detail_level": "A1",
+    "fetched_at": "2026-10-08T06:54:39+00:00",
+    "hash": "bcf669a84b088925"
   },
   "verb:ziehen_hat": {
     "kind": "verb",
     "slug": "ziehen_hat",
     "url": "https://www.verbformen.de/konjugation/ziehen_hat.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ziehen",
     "first_seen": "2026-10-07T15:05:29+00:00",
     "listing_level": "A1",
-    "rank": 705
+    "rank": 705,
+    "alias_of": "verb:ziehen",
+    "fetched_at": "2026-10-08T06:53:35+00:00"
   },
   "verb:ziehen_ist": {
     "kind": "verb",
     "slug": "ziehen_ist",
     "url": "https://www.verbformen.de/konjugation/ziehen_ist.htm",
-    "status": "pending",
+    "status": "alias",
     "found_via": "ziehen",
     "first_seen": "2026-10-07T15:05:29+00:00",
     "listing_level": "A1",
-    "rank": 705
+    "rank": 705,
+    "alias_of": "verb:ziehen",
+    "fetched_at": "2026-10-08T06:54:17+00:00"
   }
 }

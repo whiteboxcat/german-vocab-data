@@ -1,0 +1,58 @@
+{
+  "latest": {
+    "check_date": "2026-10-08",
+    "checked_at": "2026-10-08T06:54:47+00:00",
+    "status": "ok",
+    "target_levels": [
+      "A1"
+    ],
+    "source_nouns": 181,
+    "source_verbs": 135,
+    "downloaded_nouns": 176,
+    "downloaded_verbs": 133,
+    "waiting_nouns": 0,
+    "waiting_verbs": 0,
+    "unreadable": 7,
+    "local_nouns": 176,
+    "local_verbs": 133,
+    "db_nouns": 176,
+    "db_verbs": 133,
+    "data_version": 2,
+    "candidates_checked": 711,
+    "last_sync_result": "finished",
+    "requests": 508,
+    "rate_limited": 58,
+    "problems": [],
+    "actions": [],
+    "saved_to_supabase": "saved"
+  },
+  "history": [
+    {
+      "check_date": "2026-10-08",
+      "checked_at": "2026-10-08T06:54:47+00:00",
+      "status": "ok",
+      "target_levels": [
+        "A1"
+      ],
+      "source_nouns": 181,
+      "source_verbs": 135,
+      "downloaded_nouns": 176,
+      "downloaded_verbs": 133,
+      "waiting_nouns": 0,
+      "waiting_verbs": 0,
+      "unreadable": 7,
+      "local_nouns": 176,
+      "local_verbs": 133,
+      "db_nouns": 176,
+      "db_verbs": 133,
+      "data_version": 2,
+      "candidates_checked": 711,
+      "last_sync_result": "finished",
+      "requests": 508,
+      "rate_limited": 58,
+      "problems": [],
+      "actions": [],
+      "saved_to_supabase": "saved"
+    }
+  ]
+}
