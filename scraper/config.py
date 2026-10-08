@@ -15,7 +15,8 @@ STATE_DIR = DATA_DIR / "_state"
 def load_config() -> dict:
     with open(ROOT / "config.json", encoding="utf-8") as f:
         cfg = json.load(f)
-    cfg.pop("_comment", None)
+    for k in [k for k in cfg if k.startswith("_")]:
+        cfg.pop(k)
     return cfg
 
 

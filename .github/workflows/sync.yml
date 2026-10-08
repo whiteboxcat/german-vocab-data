@@ -2,10 +2,13 @@ name: Sync vocabulary from verbformen.de
 
 on:
   schedule:
-    # Runs daily at 03:17 UTC (10:17 Jakarta). The script itself decides whether anything is due:
+    # Runs daily at 03:17 UTC (10:17 Jakarta) and 15:17 UTC (22:17 Jakarta). The script itself decides whether anything is due:
     # words are re-checked every 7 days, switching to every 30 days after the date in config.json.
     # A big first crawl spreads itself over several days automatically.
     - cron: "17 3 * * *"
+    # A second daily run while the big A1–C2 crawl is going. Same polite speed (about 12 requests a
+    # minute); it just gets through the list in half the days. Remove this line once the crawl is done.
+    - cron: "17 15 * * *"
   workflow_dispatch:
     inputs:
       force:

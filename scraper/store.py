@@ -32,6 +32,22 @@ def write_json(path: Path, obj) -> None:
     tmp.replace(path)
 
 
+LEVELS_DIR = DATA_DIR / "levels"
+FILE_FOR = {"noun": "nouns.json", "verb": "verbs.json"}
+
+
+def load_records(kind: str) -> list[dict]:
+    """All saved words of one kind: data/levels/<LEVEL>/<kind>s.json, plus the old single file if present."""
+    rows: dict[str, dict] = {}
+    legacy = DATA_DIR / FILE_FOR[kind]
+    for r in read_json(legacy, []):
+        rows[r["id"]] = r
+    for path in sorted(LEVELS_DIR.glob(f"*/{FILE_FOR[kind]}")):
+        for r in read_json(path, []):
+            rows[r["id"]] = r
+    return list(rows.values())
+
+
 def content_hash(record: dict) -> str:
     stable = {k: v for k, v in record.items() if k not in VOLATILE_KEYS}
     blob = json.dumps(stable, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
@@ -39,6 +55,7 @@ def content_hash(record: dict) -> str:
 
 
 def archive_html(kind: str, slug: str, html: str, sub: str | None = None) -> Path:
+    """Save a compressed copy of a page (raw pages are 30–40 KB each, so only some levels keep one)."""
     folder = ARCHIVE_DIR / (sub or (kind + "s"))
     folder.mkdir(parents=True, exist_ok=True)
     path = folder / f"{slug}.html.gz"
@@ -54,8 +71,8 @@ class Store:
         self.candidates: dict[str, dict] = read_json(STATE_DIR / "candidates.json", {})
         self.meta: dict = read_json(DATA_DIR / "meta.json", {"data_version": 0})
         self.records: dict[str, dict[str, dict]] = {
-            "noun": {r["id"]: r for r in read_json(DATA_DIR / "nouns.json", [])},
-            "verb": {r["id"]: r for r in read_json(DATA_DIR / "verbs.json", [])},
+            "noun": {r["id"]: r for r in load_records("noun")},
+            "verb": {r["id"]: r for r in load_records("verb")},
         }
         self.changes: list[dict] = []
         self._changes_written = 0      # how many of self.changes are already in the change log
@@ -69,9 +86,20 @@ class Store:
         def sort_key(r):
             return ((r.get("lemma") or r.get("infinitive") or r["id"]).lower(), r["id"])
 
-        for kind, fname in (("noun", "nouns.json"), ("verb", "verbs.json")):
-            rows = [r for r in self.records[kind].values() if r.get("level") in target_levels]
-            write_json(DATA_DIR / fname, sorted(rows, key=sort_key))
+        # One folder per level (data/levels/A1/nouns.json …) keeps files small and lets the app
+        # download only the levels it needs.
+        for kind, fname in FILE_FOR.items():
+            for level in target_levels:
+                rows = [r for r in self.records[kind].values() if r.get("level") == level]
+                path = LEVELS_DIR / level / fname
+                if rows or path.exists():
+                    write_json(path, sorted(rows, key=sort_key))
+            for path in LEVELS_DIR.glob(f"*/{fname}"):          # levels no longer targeted
+                if path.parent.name not in target_levels:
+                    path.unlink()
+            legacy = DATA_DIR / fname                           # old single-file layout
+            if legacy.exists():
+                legacy.unlink()
 
         new = self.changes[self._changes_written:]
         if new:
@@ -85,6 +113,12 @@ class Store:
             write_json(log_path, existing + new)
             self._changes_written = len(self.changes)
         self.meta["target_levels"] = target_levels
+        self.meta["counts_by_level"] = {
+            level: {
+                "nouns": sum(1 for r in self.records["noun"].values() if r.get("level") == level),
+                "verbs": sum(1 for r in self.records["verb"].values() if r.get("level") == level),
+            } for level in target_levels
+        }
         self.meta["counts"] = {
             "nouns": sum(1 for r in self.records["noun"].values() if r.get("level") in target_levels),
             "verbs": sum(1 for r in self.records["verb"].values() if r.get("level") in target_levels),

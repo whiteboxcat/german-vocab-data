@@ -34,7 +34,7 @@ GitHub Actions (daily check, 03:17 UTC)
 
 | Path | What it is |
 |---|---|
-| `data/nouns.json`, `data/verbs.json` | The dataset your app uses |
+| `data/levels/<LEVEL>/nouns.json`, `verbs.json` | The dataset your app uses, one folder per level (A1 … C2) |
 | `data/meta.json` | `data_version` (goes up whenever anything changes), counts, last run |
 | `data/changes/YYYY-MM-DD.json` | What was added / updated / removed on each day |
 | `data/_state/` | Sync bookkeeping (which words exist, when checked, fingerprints) |
@@ -61,9 +61,12 @@ Status values: `ok`, `downloading` (healthy, still fetching found words), `repai
 
 ## Common changes
 
-- **Add A2 (later B1, B2):** in `config.json` set `"target_levels": ["A1", "A2"]`. Words
-  already seen at A2 get fetched on the next run; discovery picks up the rest. For B1/B2, also
-  raise `frequency_top_n` (e.g. 12000).
+- **Levels:** `target_levels` is A1–C2. verbformen tags most rare words C2, so C1/C2 cover the
+  words found among the `frequency_top_n` (20,000) most common German words, not the whole dictionary.
+  `archive_levels` (A1–B2) decides which levels keep a raw page copy; pages are 30–40 KB each.
+- **Speed:** about 12 requests a minute (`delay_seconds` 4.5 + up to 1 s jitter). verbformen refused
+  requests at around 20 a minute, so don't go faster. While the big crawl runs, the job runs twice a
+  day (second `cron` line in the workflow); remove that line when the crawl is finished.
 - **Run now:** GitHub → *Actions* → *Sync vocabulary* → *Run workflow*.
   Tick *force* to re-check every word, or put `20` in *limit* for a quick test.
 - **Change the schedule:** edit `sync_interval_days`, `switch_to_monthly_on`, `monthly_interval_days`.

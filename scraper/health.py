@@ -6,7 +6,7 @@
 Three numbers per word type (nouns / verbs):
   source  – words verbformen tags with a target level that we have found so far
             (verbformen has no published total, so this grows while discovery runs)
-  local   – words in data/nouns.json / data/verbs.json
+  local   – words in data/levels/<LEVEL>/nouns.json and verbs.json
   db      – rows in the Supabase tables
 
 Repairs:
@@ -26,7 +26,7 @@ import sys
 import requests
 
 from .config import DATA_DIR, STATE_DIR, load_config
-from .store import now_iso, read_json, write_json
+from .store import load_records, now_iso, read_json, write_json
 from .supabase_upload import NOUN_COLS, VERB_COLS, _headers, _row
 
 TABLES = (("noun", "nouns", "nouns.json", NOUN_COLS), ("verb", "verbs", "verbs.json", VERB_COLS))
@@ -58,7 +58,7 @@ def check_local(registry: dict, fix: bool) -> dict:
     """Words marked as downloaded but missing from data/*.json get queued for download again."""
     report = {}
     for kind, _table, fname, _cols in TABLES:
-        ids = {r["id"] for r in read_json(DATA_DIR / fname, [])}
+        ids = {r["id"] for r in load_records(kind)}
         missing = [k for k, e in registry.items()
                    if e["kind"] == kind and e["status"] == "included" and e["slug"] not in ids]
         if fix:
@@ -94,7 +94,7 @@ def reconcile_supabase(sess: requests.Session, url: str, repair: bool) -> dict:
     uploaded: dict[str, str] = read_json(uploaded_path, {})
     report = {}
     for kind, table, fname, cols in TABLES:
-        local = {r["id"]: r for r in read_json(DATA_DIR / fname, [])}
+        local = {r["id"]: r for r in load_records(kind)}
         db = _db_rows(sess, url, table)
         if db is None:
             report[kind] = {"db": None, "error": f"could not read table {table}"}

@@ -22,6 +22,7 @@ from .parse_search import parse_search, slug_from_url
 from .parse_verb import REQUIRED_VERB_FIELDS, parse_verb
 from .store import Store, archive_html, content_hash, now_iso
 
+ARCHIVE_LEVELS: set[str] = set()   # filled from config.json in run()
 CANONICAL_RE = re.compile(r'<link[^>]+rel="canonical"[^>]+href="([^"]+)"')
 WORD_RE = re.compile(r"^[A-Za-zÄÖÜäöüß-]{2,40}$")
 
@@ -63,6 +64,13 @@ def load_candidate_words(cfg: dict) -> list[str]:
     return out
 
 
+def candidate_due(c: dict | None, recheck_days: float, targets: set[str]) -> bool:
+    """A search word is due if never searched, searched long ago, or searched before levels were added."""
+    if not c or _days_since(c.get("checked")) > recheck_days:
+        return True
+    return not targets.issubset(set(c.get("levels", ["A1"])))
+
+
 def _days_since(iso: str | None) -> float:
     if not iso:
         return 1e9
@@ -80,7 +88,7 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
     budget = int(disc["max_searches_per_run"])
     if limit:  # test runs stay quick: no more searches than the page limit
         budget = min(budget, limit)
-    pending = [w for w in words if _days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck]
+    pending = [w for w in words if candidate_due(store.candidates.get(w.lower()), recheck, targets)]
     print(f"Discovery: {len(pending)} of {len(words)} candidate words to look up (budget {budget} this run)")
     seeds = {w.lower() for w in load_seed_words()}
     rank_of = {w.lower(): i for i, w in enumerate(words)}  # seeds first, then by frequency
@@ -121,7 +129,7 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
                 if r is not None and r < reg.get("rank", 10**9):
                     reg["rank"] = r
                 added += 1
-        store.candidates[w.lower()] = {"checked": now_iso(), "added": added}
+        store.candidates[w.lower()] = {"checked": now_iso(), "added": added, "levels": sorted(targets)}
         done += 1
         if done % 25 == 0:
             store.save_state()
@@ -159,7 +167,14 @@ def due_entries(store: Store, interval_days: float, targets: set[str]) -> list[d
             continue
         if _days_since(e.get("fetched_at")) >= interval_days - 0.25:
             due.append(e | {"key": key})
-    due.sort(key=lambda e: e.get("fetched_at") or "")
+    order = ["A1", "A2", "B1", "B2", "C1", "C2"]
+
+    def priority(e):
+        lvl = e.get("detail_level") or e.get("listing_level")
+        return (e.get("fetched_at") or "",                       # never fetched first, then oldest
+                order.index(lvl) if lvl in order else len(order),  # easier levels first
+                e.get("rank", 10**9))                               # common words first
+    due.sort(key=priority)
     return due
 
 
@@ -228,7 +243,8 @@ def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) 
     rec["hash"] = h
     store.records[kind][slug] = rec
     reg["hash"] = h
-    archive_html(kind, slug, resp.text)
+    if rec["level"] in ARCHIVE_LEVELS:
+        archive_html(kind, slug, resp.text)
     store.changes.append({"key": key, "change": "updated" if old else "added"})
     return "updated" if old else "added"
 
@@ -237,13 +253,15 @@ def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) 
 def run(force: bool = False, limit: int | None = None, skip_discovery: bool = False) -> int:
     cfg = load_config()
     targets = set(cfg["target_levels"])
+    ARCHIVE_LEVELS.clear()
+    ARCHIVE_LEVELS.update(cfg.get("archive_levels", cfg["target_levels"]))
     interval = 0 if force else current_interval_days(cfg)
     deadline = time.time() + float(cfg["max_runtime_minutes"]) * 60
     store = Store()
 
     words = [] if skip_discovery else load_candidate_words(cfg)
     recheck = float(cfg["discovery"]["recheck_candidates_after_days"])
-    discovery_pending = any(_days_since(store.candidates.get(w.lower(), {}).get("checked")) > recheck for w in words)
+    discovery_pending = any(candidate_due(store.candidates.get(w.lower()), recheck, targets) for w in words)
     due = due_entries(store, interval, targets)
     print(f"Target levels {sorted(targets)} · interval {interval} days · {len(due)} entries due · "
           f"discovery {'pending' if discovery_pending else 'up to date'}")

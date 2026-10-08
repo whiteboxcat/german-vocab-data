@@ -11,7 +11,7 @@ import sys
 import requests
 
 from .config import DATA_DIR, STATE_DIR
-from .store import now_iso, read_json, write_json
+from .store import load_records, now_iso, read_json, write_json
 
 NOUN_COLS = ("lemma", "article", "plural", "level", "english")
 VERB_COLS = ("infinitive", "level", "auxiliaries", "present_3sg", "praeteritum_3sg", "partizip2",
@@ -42,8 +42,8 @@ def main() -> int:
     sess = requests.Session()
     sess.headers.update(_headers(key))
     total = 0
-    for table, fname, cols in (("nouns", "nouns.json", NOUN_COLS), ("verbs", "verbs.json", VERB_COLS)):
-        recs = read_json(DATA_DIR / fname, [])
+    for table, kind, cols in (("nouns", "noun", NOUN_COLS), ("verbs", "verb", VERB_COLS)):
+        recs = load_records(kind)
         todo = [r for r in recs if uploaded.get(f"{table}:{r['id']}") != r["hash"]]
         for i in range(0, len(todo), 200):
             batch = todo[i:i + 200]
@@ -73,6 +73,7 @@ def main() -> int:
     r = sess.post(f"{url}/rest/v1/meta?on_conflict=key", json=[
         {"key": "data_version", "value": meta.get("data_version", 0)},
         {"key": "counts", "value": meta.get("counts", {})},
+        {"key": "counts_by_level", "value": meta.get("counts_by_level", {})},
         {"key": "changed_at", "value": meta.get("changed_at")},
     ], timeout=30)
     if r.status_code >= 300:
