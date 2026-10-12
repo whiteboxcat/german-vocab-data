@@ -88,3 +88,11 @@ def test_search_page_without_nouns_or_verbs():
     assert parse_search(html) == []
     assert page_has_results(html)
     assert not page_has_results("<html><body>Bitte warten …</body></html>")
+
+
+def test_examples_keep_the_whole_sentence():
+    """Real page (Oct 2026): the verb in examples is split into highlighted pieces (w|ä|sch|t)."""
+    v = parse_verb(load("verb_waschen_live.html"), "https://www.verbformen.de/konjugation/waschen.htm")
+    des = [e["de"] for e in v["examples"]]
+    assert "Er wäscht sich." in des, des
+    assert all(len(d.split()) >= 2 and d[-1] in ".!?" for d in des), des

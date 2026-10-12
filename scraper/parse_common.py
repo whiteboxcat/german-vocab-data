@@ -13,6 +13,9 @@ from .textutil import (
 
 BASE = "https://www.verbformen.de/"
 
+# Bump this whenever a parser fix should be applied to words already saved (see scraper/reparse.py).
+PARSER_VERSION = 2
+
 
 def parse_level(text: str) -> str | None:
     t = norm_quotes(text)
@@ -67,12 +70,15 @@ def parse_examples(soup: BeautifulSoup, limit: int = 6) -> list[dict]:
         if img is None:
             continue
         en = text_after_img(img)
-        img.decompose()
+        # German = all text in the item that comes before the English flag (or the line break before it).
+        # Don't match by content: the highlighted verb is split into pieces like "w", "ä", "sch".
         de_parts = []
-        for s in el.strings:
-            if en and s.strip() and s.strip() in en:
+        for node in el.descendants:
+            if node is img or getattr(node, "name", None) == "br":
                 break
-            de_parts.append(s)
+            if isinstance(node, str) and not getattr(node, "name", None):
+                if not any(p.name == "a" for p in node.parents if p is not el and getattr(p, "name", None)):
+                    de_parts.append(str(node))
         de = clean("".join(de_parts).replace('"', ""))
         de = re.sub(r"\s+([.,!?;:])", r"\1", de)
         if de and en:

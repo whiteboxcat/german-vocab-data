@@ -49,6 +49,15 @@ jobs:
       - name: Canary (stop if the site layout changed)
         run: python -m scraper.canary
 
+      - name: Apply parser fixes to saved words
+        run: python -m scraper.reparse
+
+      - name: Upload fixes to Supabase straight away
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -m scraper.supabase_upload
+
       - name: Health check, part 1 (queue words missing from data/)
         run: python -m scraper.health --local-only
 
