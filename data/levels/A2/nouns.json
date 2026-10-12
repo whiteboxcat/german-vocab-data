@@ -32,7 +32,7 @@
         "en": "In our society, those who earn little are precisely the people whose work is indispensable for our community, such as elderly caregivers, police officers, and garbage collectors."
       },
       {
-        "de": "Diese Veranstaltung richtet sich ausschließlich an examinierte Altenpfleger",
+        "de": "Diese Veranstaltung richtet sich ausschließlich an examinierte Altenpfleger.",
         "en": "This event is aimed exclusively at qualified elderly caregivers."
       }
     ],
@@ -45,8 +45,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Altenpfleger.htm",
     "rank": 593,
     "first_seen": "2026-10-08T14:11:26+00:00",
-    "updated_at": "2026-10-08T20:49:05+00:00",
-    "hash": "7b459a6b70577667"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "9324ade25a86f812"
   },
   {
     "id": "Alternative",
@@ -81,27 +81,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Du hast eine Alternative",
+        "de": "Du hast eine Alternative.",
         "en": "You have an alternative."
       },
       {
-        "de": "Es gibt keine Alternative",
+        "de": "Es gibt keine Alternativen.",
         "en": "There were no alternatives."
       },
       {
-        "de": "Das ist die günstigere Alternative",
+        "de": "Das ist die günstigere Alternative.",
         "en": "This is the cheaper alternative."
       },
       {
-        "de": "Ich wähle die",
+        "de": "Ich wähle die Alternative für Deutschland.",
         "en": "I vote for the Alternative for Germany."
       },
       {
-        "de": "Gibt es zu deinem Vorschlag keine Alternative",
+        "de": "Gibt es zu deinem Vorschlag keine Alternative?",
         "en": "Is there no alternative to your proposal?"
       },
       {
-        "de": "Wir haben keine Alternative",
+        "de": "Wir haben keine Alternative.",
         "en": "We've got no alternative."
       }
     ],
@@ -114,8 +114,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Alternative.htm",
     "rank": 504,
     "first_seen": "2026-10-08T13:32:56+00:00",
-    "updated_at": "2026-10-08T20:46:34+00:00",
-    "hash": "e0ab26d372e649ff"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "ead2541850a7bfae"
   },
   {
     "id": "Art",
@@ -194,6 +194,115 @@
     "hash": "fb23ef168295eef4"
   },
   {
+    "id": "Arztkittel",
+    "type": "noun",
+    "lemma": "Arztkittel",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Arztkittel",
+    "genitive": "Arztkittels",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "doctor's overall",
+      "doctor's coat",
+      "lab coat",
+      "medical gown"
+    ],
+    "definitions_de": [
+      "[Medizin] Mantel, den Ärzte im Dienst über ihrer Kleidung tragen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Ärztin sagte dies sehr entschieden und erst jetzt fiel mir auf, dass sie gar keinen Arztkittel trug.",
+        "en": "The doctor said this very decisively and only now did I realize that she wasn't wearing a doctor's coat at all."
+      },
+      {
+        "de": "Tatsächlich ist er so etwas wie ein Dandy und trägt sogar ein seidenes Taschentuch in der Brusttasche seines Arztkittels.",
+        "en": "In fact, he is something like a dandy and even carries a silk handkerchief in the breast pocket of his doctor's coat."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Arztkittel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Arztkittel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Arztkittel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arztkittel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Arztkittel.htm",
+    "rank": 723,
+    "first_seen": "2026-10-12T08:11:43+00:00",
+    "updated_at": "2026-10-12T08:51:01+00:00",
+    "hash": "bacbf64ec9af5cf2"
+  },
+  {
+    "id": "Arztpraxis",
+    "type": "noun",
+    "lemma": "Arztpraxis",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Arztpraxen",
+    "genitive": "Arztpraxis",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "doctor's office",
+      "medical practice",
+      "doctor's practice",
+      "doctor's surgery",
+      "surgery"
+    ],
+    "definitions_de": [
+      "[Körper] Arbeitsstätte eines niedergelassen Allgemeinmediziners oder Facharztes"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wann ist die Arztpraxis geöffnet?",
+        "en": "When is the doctor's surgery open?"
+      },
+      {
+        "de": "Die Arztpraxis ist am Mittwoch geschlossen.",
+        "en": "The doctor's office is closed on Wednesday."
+      },
+      {
+        "de": "Die Arztpraxis findet sich im zweiten Stock.",
+        "en": "The doctor's office is located on the second floor."
+      },
+      {
+        "de": "Im Winter sind die Wartezimmer in den Arztpraxen noch voller als sonst.",
+        "en": "In winter, the waiting rooms in doctors' offices are even fuller than usual."
+      },
+      {
+        "de": "Du befindest dich nun in einer Arztpraxis.",
+        "en": "You are here now in a doctor's surgery."
+      },
+      {
+        "de": "In der Arztpraxis behandelt der Arzt die Patienten.",
+        "en": "In the doctor's office, the doctor treats the patients."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Arztpraxis.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Arztpraxis.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Arztpraxis.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arztpraxis.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Arztpraxis.htm",
+    "rank": 723,
+    "first_seen": "2026-10-12T08:11:43+00:00",
+    "updated_at": "2026-10-12T08:51:22+00:00",
+    "hash": "15c910c5494ef301"
+  },
+  {
     "id": "Blut",
     "type": "noun",
     "lemma": "Blut",
@@ -229,7 +338,7 @@
         "en": "Blood is red."
       },
       {
-        "de": "Alles ist voller Blut",
+        "de": "Alles ist voller Blut.",
         "en": "Everything is full of blood."
       },
       {
@@ -245,7 +354,7 @@
         "en": "My blood is no redder than yours."
       },
       {
-        "de": "Auf dem Papier ist ein Tropfen Blut",
+        "de": "Auf dem Papier ist ein Tropfen Blut.",
         "en": "On the paper is a drop of blood."
       }
     ],
@@ -258,8 +367,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Blut.htm",
     "rank": 586,
     "first_seen": "2026-10-08T14:08:58+00:00",
-    "updated_at": "2026-10-08T20:48:48+00:00",
-    "hash": "242d9948ce43c67d"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "8247b45b95bf9c1a"
   },
   {
     "id": "Chance",
@@ -293,27 +402,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Chance",
+        "de": "Die Chancen sind gleich.",
         "en": "The chances are even."
       },
       {
-        "de": "Du bekommst eine Chance",
+        "de": "Du bekommst eine Chance.",
         "en": "You get a chance."
       },
       {
-        "de": "Jeder verdient eine zweite Chance",
+        "de": "Jeder verdient eine zweite Chance.",
         "en": "Everyone deserves a second chance."
       },
       {
-        "de": "Bitte gib mir eine zweite Chance",
+        "de": "Bitte gib mir eine zweite Chance.",
         "en": "Please give me a second chance."
       },
       {
-        "de": "Wir hatten keine Chance",
+        "de": "Wir hatten keine Chancen auf den Sieg.",
         "en": "We had no chance of winning."
       },
       {
-        "de": "Besaß ich eine Chance",
+        "de": "Besaß ich eine Chance?",
         "en": "Did I have a chance?"
       }
     ],
@@ -326,8 +435,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Chance.htm",
     "rank": 538,
     "first_seen": "2026-10-08T13:46:58+00:00",
-    "updated_at": "2026-10-08T20:47:39+00:00",
-    "hash": "b2609746cb09a006"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "26d617a5fb0444e8"
   },
   {
     "id": "Dach",
@@ -359,7 +468,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er repariert das Dach",
+        "de": "Er repariert das Dach.",
         "en": "He repairs the roof."
       },
       {
@@ -367,7 +476,7 @@
         "en": "The roof is made of wood."
       },
       {
-        "de": "Es regnet auf alle Dächer",
+        "de": "Es regnet auf alle Dächer.",
         "en": "It is raining on all roofs."
       },
       {
@@ -375,7 +484,7 @@
         "en": "The roof of the house is red."
       },
       {
-        "de": "Der Pleitegeier sitzt ihm auf dem Dach",
+        "de": "Der Pleitegeier sitzt ihm auf dem Dach.",
         "en": "The bankruptcy vulture is sitting on his roof."
       },
       {
@@ -392,8 +501,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Dach.htm",
     "rank": 48,
     "first_seen": "2026-10-08T10:51:10+00:00",
-    "updated_at": "2026-10-08T15:04:34+00:00",
-    "hash": "16135cada24b1de7"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "2a8fc225483b04a5"
   },
   {
     "id": "Direktor",
@@ -432,11 +541,11 @@
         "en": "I have become a director."
       },
       {
-        "de": "Ich beschwere mich beim Direktor",
+        "de": "Ich beschwere mich beim Direktor.",
         "en": "I am complaining to the principal."
       },
       {
-        "de": "Jane ist die Sekretärin des Direktor",
+        "de": "Jane ist die Sekretärin des Direktors.",
         "en": "Jane is the director's secretary."
       },
       {
@@ -461,8 +570,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Direktor.htm",
     "rank": 49,
     "first_seen": "2026-10-08T10:51:16+00:00",
-    "updated_at": "2026-10-08T15:04:55+00:00",
-    "hash": "7639656757913e23"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "2f375c4cc415cb60"
   },
   {
     "id": "Doktorin",
@@ -491,7 +600,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Maria ist die neue Doktorin",
+        "de": "Maria ist die neue Doktorin.",
         "en": "Mary is the new doctor."
       },
       {
@@ -512,8 +621,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Doktorin.htm",
     "rank": 665,
     "first_seen": "2026-10-08T14:41:52+00:00",
-    "updated_at": "2026-10-08T20:49:54+00:00",
-    "hash": "5d2a1891841f1f33"
+    "updated_at": "2026-10-12T04:28:15+00:00",
+    "hash": "066c83cbccce1647"
   },
   {
     "id": "Einsatz",
@@ -574,27 +683,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Feuerwehr ist im Einsatz",
+        "de": "Die Feuerwehr ist im Einsatz.",
         "en": "The fire brigade is in attendance."
       },
       {
-        "de": "Du spielst mit sehr hohem Einsatz",
+        "de": "Du spielst mit sehr hohem Einsatz.",
         "en": "You are playing with a very high stake."
       },
       {
-        "de": "Du spielst mit einem sehr hohen Einsatz",
+        "de": "Du spielst mit einem sehr hohen Einsatz.",
         "en": "You are playing with a very high stake."
       },
       {
-        "de": "Das KSK ist eine Gruppe für schwierige Einsätz",
+        "de": "Das KSK ist eine Gruppe für schwierige Einsätze.",
         "en": "The KSK is a group for difficult missions."
       },
       {
-        "de": "Es sind viele Soldaten im Einsatz",
+        "de": "Es sind viele Soldaten im Einsatz.",
         "en": "There are many soldiers on duty."
       },
       {
-        "de": "Blei kommt in vielen Bereichen zum Einsatz",
+        "de": "Blei kommt in vielen Bereichen zum Einsatz.",
         "en": "Lead is used in many areas."
       }
     ],
@@ -607,8 +716,83 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Einsatz.htm",
     "rank": 390,
     "first_seen": "2026-10-08T12:43:41+00:00",
-    "updated_at": "2026-10-08T20:44:36+00:00",
-    "hash": "bf3153b87ccf40a1"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "3d32b8664746fbec"
+  },
+  {
+    "id": "Erde",
+    "type": "noun",
+    "lemma": "Erde",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Erden",
+    "genitive": "Erde",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "earth",
+      "ground",
+      "land",
+      "soil",
+      "dirt",
+      "earth plate",
+      "floor",
+      "ground wire",
+      "life on earth",
+      "rare earth",
+      "terra",
+      "this life",
+      "world",
+      "this world"
+    ],
+    "definitions_de": [
+      "[Umwelt] der feste Boden, die Landoberfläche der Erde, Boden, Erdboden, Grund, Untergrund",
+      "belebter und dritter, von der Sonne aus gezählter Planet in unserem Sonnensystem, Blauer Planet, Gaia, Terra, Welt, Erdenrund",
+      "[Umwelt] kurz für tonerdeähnliches Metalloxid, die so genannte Seltene Erde",
+      "[Umwelt] die trockenen Landmassen der Erdoberfläche, Festland, Land"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Erde ist rund.",
+        "en": "The earth is round."
+      },
+      {
+        "de": "Warum dreht sich die Erde?",
+        "en": "Why does the Earth spin?"
+      },
+      {
+        "de": "Die Erde hat mich wieder.",
+        "en": "The Earth has me again."
+      },
+      {
+        "de": "Was mache ich auf Erden?",
+        "en": "What am I doing on Earth?"
+      },
+      {
+        "de": "Die Erde dreht sich im Weltraum.",
+        "en": "The Earth rotates in space."
+      },
+      {
+        "de": "Die Erde ist dort oft in Bewegung.",
+        "en": "The Earth is often in motion there."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Erde.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Erde.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Erde.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Erde.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Erde.htm",
+    "rank": 777,
+    "first_seen": "2026-10-12T08:35:43+00:00",
+    "updated_at": "2026-10-12T08:56:29+00:00",
+    "hash": "d979d40b9ac25872"
   },
   {
     "id": "Fall",
@@ -653,15 +837,15 @@
         "en": "The case is different."
       },
       {
-        "de": "Schokolade ist nicht mein Fall",
+        "de": "Schokolade ist nicht mein Fall.",
         "en": "Chocolate is not my thing."
       },
       {
-        "de": "Das Kind kam zu Fall",
+        "de": "Das Kind kam zu Fall.",
         "en": "The child fell."
       },
       {
-        "de": "Ich untersuche einen sehr interessanten Fall",
+        "de": "Ich untersuche einen sehr interessanten Fall.",
         "en": "I'm investigating a very interesting case."
       },
       {
@@ -669,7 +853,7 @@
         "en": "This is true in many cases."
       },
       {
-        "de": "Das Kleid hat einen schönen Fall",
+        "de": "Das Kleid hat einen schönen Fall.",
         "en": "The dress has a beautiful fall."
       }
     ],
@@ -682,8 +866,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Fall.htm",
     "rank": 349,
     "first_seen": "2026-10-08T15:41:02+00:00",
-    "updated_at": "2026-10-08T20:43:24+00:00",
-    "hash": "74bdf606e5f53d95"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "be36c809a57963df"
   },
   {
     "id": "Falle",
@@ -748,7 +932,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ist das eine Falle",
+        "de": "Ist das eine Falle?",
         "en": "Is this a trap?"
       },
       {
@@ -760,7 +944,7 @@
         "en": "It's a trap, isn't it?"
       },
       {
-        "de": "Tom stellte eine Falle",
+        "de": "Tom stellte eine Falle.",
         "en": "Tom set a trap."
       },
       {
@@ -768,7 +952,7 @@
         "en": "We should set a trap."
       },
       {
-        "de": "Der alte Fuchs riecht die Fallen",
+        "de": "Der alte Fuchs riecht die Fallen.",
         "en": "The old fox smells the traps."
       }
     ],
@@ -781,8 +965,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Falle.htm",
     "rank": 349,
     "first_seen": "2026-10-08T12:25:08+00:00",
-    "updated_at": "2026-10-08T20:43:30+00:00",
-    "hash": "4bfcde6637f78a08"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "6f46430bee540207"
   },
   {
     "id": "Fallschirm",
@@ -816,7 +1000,7 @@
         "en": "What will happen if I can't pull the parachute ring?"
       },
       {
-        "de": "Warum gibt es in Flugzeugen Schwimmwesten statt Fallschirm",
+        "de": "Warum gibt es in Flugzeugen Schwimmwesten statt Fallschirme?",
         "en": "Why are there life vests on airplanes instead of parachutes?"
       },
       {
@@ -841,8 +1025,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Fallschirm.htm",
     "rank": 567,
     "first_seen": "2026-10-08T14:00:14+00:00",
-    "updated_at": "2026-10-08T20:48:37+00:00",
-    "hash": "809915782448c580"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "a936a090f726c308"
   },
   {
     "id": "Ferienwohnung",
@@ -892,7 +1076,7 @@
         "en": "We urgently need to renovate the holiday apartment this autumn."
       },
       {
-        "de": "Alle Ferienwohnung",
+        "de": "Alle Ferienwohnungen sind mit einer Kochnische und einem Wannenbad ausgestattet.",
         "en": "All holiday apartments are equipped with a kitchenette and a bathtub."
       }
     ],
@@ -905,8 +1089,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Ferienwohnung.htm",
     "rank": 128,
     "first_seen": "2026-10-08T10:59:36+00:00",
-    "updated_at": "2026-10-08T15:15:57+00:00",
-    "hash": "6c9b9f5a2c06e2f1"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "0251c277adb42d02"
   },
   {
     "id": "Frauenberuf",
@@ -935,7 +1119,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Frauenfachschulen wurden im Hinblick auf die Anforderungen der Frauenberuf",
+        "de": "Die Frauenfachschulen wurden im Hinblick auf die Anforderungen der Frauenberufe eingerichtet.",
         "en": "Women's vocational schools were established with regard to the requirements of women's professions."
       }
     ],
@@ -948,8 +1132,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Frauenberuf.htm",
     "rank": 154,
     "first_seen": "2026-10-08T11:02:03+00:00",
-    "updated_at": "2026-10-08T15:17:01+00:00",
-    "hash": "055504f264a70028"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "a5080eb3c021e71c"
   },
   {
     "id": "Frauenchor",
@@ -976,11 +1160,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Meine Frau singt im Frauenchor",
+        "de": "Meine Frau singt im Frauenchor.",
         "en": "My wife sings in the ladies' choir."
       },
       {
-        "de": "Seit einem Jahr singt sie in einem Frauenchor",
+        "de": "Seit einem Jahr singt sie in einem Frauenchor.",
         "en": "She has been singing in a women's choir for a year."
       }
     ],
@@ -993,8 +1177,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Frauenchor.htm",
     "rank": 154,
     "first_seen": "2026-10-08T11:02:03+00:00",
-    "updated_at": "2026-10-08T15:18:23+00:00",
-    "hash": "da88d36006d63833"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "9a1524f35982c68f"
   },
   {
     "id": "Freundschaft",
@@ -1027,19 +1211,19 @@
         "en": "Friendship is the most precious of all."
       },
       {
-        "de": "Uns verbindet eine enge Freundschaft",
+        "de": "Uns verbindet eine enge Freundschaft.",
         "en": "We are bound to each other by a close friendship."
       },
       {
-        "de": "Schließt du hier neue Freundschaft",
+        "de": "Schließt du hier neue Freundschaften?",
         "en": "Are you making friends here?"
       },
       {
-        "de": "Das ist ein Zeichen der Freundschaft",
+        "de": "Das ist ein Zeichen der Freundschaft.",
         "en": "It's a symbol of friendship."
       },
       {
-        "de": "Es war der Beginn einer langen Freundschaft",
+        "de": "Es war der Beginn einer langen Freundschaft.",
         "en": "It was the start of a long friendship."
       },
       {
@@ -1056,8 +1240,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Freundschaft.htm",
     "rank": 260,
     "first_seen": "2026-10-08T11:46:40+00:00",
-    "updated_at": "2026-10-08T15:34:38+00:00",
-    "hash": "29468dc3d194e39d"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "bad11530adb56807"
   },
   {
     "id": "Garage",
@@ -1089,19 +1273,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich schließe die Garage",
+        "de": "Ich schließe die Garage.",
         "en": "I am closing the garage."
       },
       {
-        "de": "Mein Vater fegt die Garage",
+        "de": "Mein Vater fegt die Garage.",
         "en": "My father is sweeping the garage."
       },
       {
-        "de": "Stell das Auto in die Garage",
+        "de": "Stell das Auto in die Garage.",
         "en": "Put the car into the garage."
       },
       {
-        "de": "Tom fährt den Wagen in die Garage",
+        "de": "Tom fährt den Wagen in die Garage.",
         "en": "Tom is driving the car into the garage."
       },
       {
@@ -1122,8 +1306,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Garage.htm",
     "rank": 228,
     "first_seen": "2026-10-08T11:33:25+00:00",
-    "updated_at": "2026-10-08T15:26:20+00:00",
-    "hash": "5110c84551fe7417"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "822fca19a23424c6"
   },
   {
     "id": "Gefallen",
@@ -1155,7 +1339,7 @@
         "en": "Do you like my shoes?"
       },
       {
-        "de": "Tust du mir einen Gefallen",
+        "de": "Tust du mir einen Gefallen?",
         "en": "Will you do me a favor?"
       },
       {
@@ -1167,11 +1351,11 @@
         "en": "I find pleasure in the Arabic language."
       },
       {
-        "de": "Ich tat ihm einen Gefallen",
+        "de": "Ich tat ihm einen Gefallen.",
         "en": "I did him a favor."
       },
       {
-        "de": "Vielleicht tun sie uns den Gefallen",
+        "de": "Vielleicht tun sie uns den Gefallen.",
         "en": "Maybe they will do us the favor."
       }
     ],
@@ -1184,8 +1368,82 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Gefallen.htm",
     "rank": 512,
     "first_seen": "2026-10-08T20:47:17+00:00",
-    "updated_at": "2026-10-08T20:47:23+00:00",
-    "hash": "22aafc42f0aaa087"
+    "updated_at": "2026-10-12T04:28:16+00:00",
+    "hash": "70620e553c7e8868"
+  },
+  {
+    "id": "Gefu3hl",
+    "type": "noun",
+    "lemma": "Gefühl",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Gefühle",
+    "genitive": "Gefühls",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "feeling",
+      "sensation",
+      "emotion",
+      "sense",
+      "intuition",
+      "affection",
+      "emotional state",
+      "feeling state",
+      "impression",
+      "instinct",
+      "perception",
+      "sentience",
+      "sentiment"
+    ],
+    "definitions_de": [
+      "[Gefühle] das subjektive Erleben von Erregung und hirnchemischer Aktivität, Emotion, Empfindung",
+      "[Gefühle] gefühlsmäßiger Zustand, Emotion, Befinden, Stimmung",
+      "[Gefühle] Einschätzung, die nicht auf Überlegung beruht, Ahnung, Eindruck, Feeling",
+      "[Gefühle] Intuition, die Fähigkeit, bestimmte Dinge ohne viel Nachdenken richtig einzuschätzen, Beurteilung, Einschätzung, Empfinden, Feeling, Gespür"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Gefühl ist alles.",
+        "en": "Feeling is everything."
+      },
+      {
+        "de": "Ich kenne das Gefühl.",
+        "en": "I know the feeling."
+      },
+      {
+        "de": "Es gibt auch negative Gefühle.",
+        "en": "There are also negative feelings."
+      },
+      {
+        "de": "Ich habe ein ähnliches Gefühl.",
+        "en": "I have a similar feeling."
+      },
+      {
+        "de": "Ich hatte genau das gleiche Gefühl.",
+        "en": "I had the exact same feeling."
+      },
+      {
+        "de": "Tom gibt mir ein Gefühl von Sicherheit.",
+        "en": "Tom makes me feel safe."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Gefu3hl.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Gefu3hl.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gefu3hl.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gefu3hl.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Gefu3hl.htm",
+    "rank": 747,
+    "first_seen": "2026-10-12T08:22:11+00:00",
+    "updated_at": "2026-10-12T08:51:43+00:00",
+    "hash": "66076bc62f262ae9"
   },
   {
     "id": "Gehalt",
@@ -1226,7 +1484,7 @@
         "en": "I'm content with my salary."
       },
       {
-        "de": "Was machst du mit deinem ersten Gehalt",
+        "de": "Was machst du mit deinem ersten Gehalt?",
         "en": "What are you going to do with your first payday?"
       },
       {
@@ -1255,8 +1513,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Gehalt.htm",
     "rank": 246,
     "first_seen": "2026-10-08T15:29:08+00:00",
-    "updated_at": "2026-10-08T15:29:29+00:00",
-    "hash": "06a7fc72cc607f0a"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "9914406bf8250d21"
   },
   {
     "id": "Geldbo3rse",
@@ -1294,15 +1552,15 @@
         "en": "I have lost my wallet."
       },
       {
-        "de": "Mein Geld ist in meiner Geldbörse",
+        "de": "Mein Geld ist in meiner Geldbörse.",
         "en": "My money is in my wallet."
       },
       {
-        "de": "Tom sucht seine Geldbörse",
+        "de": "Tom sucht seine Geldbörse.",
         "en": "Tom is looking for his wallet."
       },
       {
-        "de": "Sie stahlen ihm die Geldbörse",
+        "de": "Sie stahlen ihm die Geldbörse.",
         "en": "They stole his wallet."
       }
     ],
@@ -1315,8 +1573,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Geldbo3rse.htm",
     "rank": 193,
     "first_seen": "2026-10-08T11:19:00+00:00",
-    "updated_at": "2026-10-08T15:20:50+00:00",
-    "hash": "c12b6a30df8e5da1"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "665c6e93e5fd10c8"
   },
   {
     "id": "Gesicht",
@@ -1350,7 +1608,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ein schönes Herz ist besser als tausend schöne Gesicht",
+        "de": "Ein schönes Herz ist besser als tausend schöne Gesichter.",
         "en": "A beautiful heart is better than a thousand beautiful faces."
       },
       {
@@ -1358,7 +1616,7 @@
         "en": "They've seen our faces."
       },
       {
-        "de": "Kannst du dir gut Gesicht",
+        "de": "Kannst du dir gut Gesichter merken?",
         "en": "Can you remember faces well?"
       },
       {
@@ -1366,11 +1624,11 @@
         "en": "Tom thinks that cars have faces."
       },
       {
-        "de": "Ich kann mich sehr gut an Gesicht",
+        "de": "Ich kann mich sehr gut an Gesichter erinnern.",
         "en": "I can remember faces very well."
       },
       {
-        "de": "Am gefährlichsten sind die dummen Menschen mit den intelligenten Gesichtern",
+        "de": "Am gefährlichsten sind die dummen Menschen mit den intelligenten Gesichtern.",
         "en": "The most dangerous are the stupid people with intelligent faces."
       }
     ],
@@ -1383,8 +1641,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Gesicht.htm",
     "rank": 566,
     "first_seen": "2026-10-08T20:48:14+00:00",
-    "updated_at": "2026-10-08T20:48:20+00:00",
-    "hash": "6a2c28b0afee98a3"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "3e9d58f67a214acb"
   },
   {
     "id": "Grund",
@@ -1433,27 +1691,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wir hatten unsere Gründ",
+        "de": "Wir hatten unsere Gründe.",
         "en": "We had our reasons."
       },
       {
-        "de": "Alles passiert aus einem Grund",
+        "de": "Alles passiert aus einem Grund.",
         "en": "Everything happens for a reason."
       },
       {
-        "de": "Dafür gibt es keinen bestimmten Grund",
+        "de": "Dafür gibt es keinen bestimmten Grund.",
         "en": "There is no specific reason for that."
       },
       {
-        "de": "Im Grund",
+        "de": "Im Grunde gefällt mir euer Plan.",
         "en": "I basically like your plan."
       },
       {
-        "de": "Ein kluger Hund bellt nie ohne Grund",
+        "de": "Ein kluger Hund bellt nie ohne Grund.",
         "en": "A smart dog never barks for no reason."
       },
       {
-        "de": "Manchmal fehlt er ohne gute Gründ",
+        "de": "Manchmal fehlt er ohne gute Gründe am Arbeitsplatz.",
         "en": "Sometimes he is absent from work without good reasons."
       }
     ],
@@ -1466,8 +1724,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Grund.htm",
     "rank": 460,
     "first_seen": "2026-10-08T13:14:25+00:00",
-    "updated_at": "2026-10-08T20:45:49+00:00",
-    "hash": "f4be45091608aade"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "a0f9d0ff208d8051"
   },
   {
     "id": "Hausarzt",
@@ -1495,7 +1753,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Haben Sie einen Hausarzt",
+        "de": "Haben Sie einen Hausarzt?",
         "en": "Do you have a family doctor?"
       },
       {
@@ -1528,8 +1786,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Hausarzt.htm",
     "rank": 255,
     "first_seen": "2026-10-08T11:44:56+00:00",
-    "updated_at": "2026-10-08T15:30:33+00:00",
-    "hash": "ff0b6927062885a1"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "92e651ff1c1003c6"
   },
   {
     "id": "Hausa3rztin",
@@ -1555,11 +1813,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Haben Sie eine Hausärztin",
+        "de": "Haben Sie eine Hausärztin?",
         "en": "Do you have a family doctor?"
       },
       {
-        "de": "Haben Sie einen Hausarzt oder eine Hausärztin",
+        "de": "Haben Sie einen Hausarzt oder eine Hausärztin?",
         "en": "Do you have a primary care doctor?"
       }
     ],
@@ -1572,8 +1830,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Hausa3rztin.htm",
     "rank": 255,
     "first_seen": "2026-10-08T11:44:56+00:00",
-    "updated_at": "2026-10-08T15:30:55+00:00",
-    "hash": "8dec7ea5e67628a1"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "3f8f95ec8b19a335"
   },
   {
     "id": "Hierarchie",
@@ -1603,7 +1861,7 @@
         "en": "The Federal Chancellor is at the top of the political hierarchy."
       },
       {
-        "de": "Ihm zufolge stehen Sie deutlich höher in der Hierarchie",
+        "de": "Ihm zufolge stehen Sie deutlich höher in der Hierarchie.",
         "en": "According to him, you are clearly higher in the hierarchy."
       },
       {
@@ -1615,7 +1873,7 @@
         "en": "Apprentices stand in the hierarchy of a craft business below the journeymen."
       },
       {
-        "de": "Im Hofstaat herrschte eine strenge Hierarchie",
+        "de": "Im Hofstaat herrschte eine strenge Hierarchie.",
         "en": "There was a strict hierarchy in the court."
       },
       {
@@ -1632,8 +1890,86 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Hierarchie.htm",
     "rank": 34,
     "first_seen": "2026-10-08T10:49:27+00:00",
-    "updated_at": "2026-10-08T15:03:30+00:00",
-    "hash": "222f2dd9a0a7c91e"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "34557172e50909d4"
+  },
+  {
+    "id": "Himmel",
+    "type": "noun",
+    "lemma": "Himmel",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Himmel",
+    "genitive": "Himmels",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "sky",
+      "headliner",
+      "heaven",
+      "ceiling",
+      "heavens",
+      "cosmos",
+      "cover",
+      "firmament",
+      "headlining",
+      "inside roof lining",
+      "roof",
+      "roof interior",
+      "roof liner",
+      "roof lining",
+      "roofliner",
+      "space",
+      "canopy"
+    ],
+    "definitions_de": [
+      "Luftraum, Gewölbe über der Erde, Troposphäre, Atmosphäre",
+      "[Kultur] Bereich des Göttlichen, Abrahams Schoß, bessere Welt, das ewige Leben, die ewige Seligkeit, die ewigen Jagdgründe",
+      "[Wissenschaft] der Kosmos, All, Äther, Fixsternhimmel, Kosmos, Makrokosmos",
+      "Decke aus Stoff oder ähnlichem Material, Baldachin"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Weint der Himmel?",
+        "en": "Is the sky crying?"
+      },
+      {
+        "de": "Der Himmel ist hellblau.",
+        "en": "The sky is light blue."
+      },
+      {
+        "de": "Der Himmel ist heller geworden.",
+        "en": "The sky has become brighter."
+      },
+      {
+        "de": "Am Tag ist der Himmel hellblau.",
+        "en": "During the day, the sky is light blue."
+      },
+      {
+        "de": "Es war ein Geschenk des Himmels.",
+        "en": "It was a godsend."
+      },
+      {
+        "de": "Aus dem Stall stinkt es zum Himmel.",
+        "en": "From the stable, it stinks to high heaven."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Himmel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Himmel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Himmel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Himmel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Himmel.htm",
+    "rank": 766,
+    "first_seen": "2026-10-12T08:30:50+00:00",
+    "updated_at": "2026-10-12T08:52:24+00:00",
+    "hash": "df53daa186c3687a"
   },
   {
     "id": "Kaffeebohne",
@@ -1658,27 +1994,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom röstet sich seine eigenen Kaffeebohne",
+        "de": "Tom röstet sich seine eigenen Kaffeebohnen.",
         "en": "Tom roasts his own coffee beans."
       },
       {
-        "de": "Brasilien versorgt die Welt mit Kaffeebohne",
+        "de": "Brasilien versorgt die Welt mit Kaffeebohnen guter Qualität.",
         "en": "Brazil supplies the world with coffee beans of quality."
       },
       {
-        "de": "Meine Kaffeemaschine mahlt zuerst die Kaffeebohne",
+        "de": "Meine Kaffeemaschine mahlt zuerst die Kaffeebohnen.",
         "en": "My coffee machine first grinds the coffee beans."
       },
       {
-        "de": "Ich mahle meine eigenen Kaffeebohne",
+        "de": "Ich mahle meine eigenen Kaffeebohnen jeden Morgen.",
         "en": "I grind my own coffee beans every morning."
       },
       {
-        "de": "Tom mahlte die Kaffeebohne",
+        "de": "Tom mahlte die Kaffeebohnen mit einer alten Kaffeemühle.",
         "en": "Tom ground the coffee beans with an old coffee grinder."
       },
       {
-        "de": "Die Kaffeebohne",
+        "de": "Die Kaffeebohnen werden durch das Rösten veredelt.",
         "en": "The coffee beans are refined through roasting."
       }
     ],
@@ -1691,8 +2027,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Kaffeebohne.htm",
     "rank": 701,
     "first_seen": "2026-10-08T14:58:36+00:00",
-    "updated_at": "2026-10-08T20:50:27+00:00",
-    "hash": "cd443a0b2c1a0449"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "ad76848e8d0caebb"
   },
   {
     "id": "Kapuzenjacke",
@@ -1719,7 +2055,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er trägt gerne Kapuzenjacke",
+        "de": "Er trägt gerne Kapuzenjacken und legere Kleidung.",
         "en": "He likes to wear hooded jackets and casual clothes."
       }
     ],
@@ -1732,8 +2068,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Kapuzenjacke.htm",
     "rank": 591,
     "first_seen": "2026-10-08T14:10:44+00:00",
-    "updated_at": "2026-10-08T20:48:59+00:00",
-    "hash": "8db649982b6ed542"
+    "updated_at": "2026-10-12T04:28:17+00:00",
+    "hash": "8f05453c5d9c9466"
   },
   {
     "id": "Kinderarbeit",
@@ -1808,19 +2144,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Gehst du nicht zum Klassentreffen",
+        "de": "Gehst du nicht zum Klassentreffen?",
         "en": "Aren't you going to the class reunion?"
       },
       {
-        "de": "Er kommt immer zu den Klassentreffen",
+        "de": "Er kommt immer zu den Klassentreffen.",
         "en": "He makes a point of attending class meetings."
       },
       {
-        "de": "Ich hasse Klassentreffen",
+        "de": "Ich hasse Klassentreffen.",
         "en": "I hate class reunions."
       },
       {
-        "de": "Tom ging auf ein Klassentreffen",
+        "de": "Tom ging auf ein Klassentreffen.",
         "en": "Tom went to a class reunion."
       },
       {
@@ -1841,8 +2177,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Klassentreffen.htm",
     "rank": 412,
     "first_seen": "2026-10-08T12:53:27+00:00",
-    "updated_at": "2026-10-08T20:45:10+00:00",
-    "hash": "627c15283fcdd71f"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "748303888e901fdc"
   },
   {
     "id": "Kleine",
@@ -1868,19 +2204,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Kleine",
+        "de": "Die Kleinen waren sehr neugierig.",
         "en": "The little ones were very curious."
       },
       {
-        "de": "Sage mir deinen Namen, Kleine",
+        "de": "Sage mir deinen Namen, Kleine.",
         "en": "Tell me your name, little one."
       },
       {
-        "de": "Der Mensch ist eine Welt im Kleine",
+        "de": "Der Mensch ist eine Welt im Kleinen.",
         "en": "Man is a world in miniature."
       },
       {
-        "de": "Die ältere Tochter ist die Tante der Kleine",
+        "de": "Die ältere Tochter ist die Tante der Kleinen.",
         "en": "The older daughter is the aunt of the little one."
       },
       {
@@ -1888,7 +2224,7 @@
         "en": "Your little one brings drugs into the game."
       },
       {
-        "de": "Sich am Kleine",
+        "de": "Sich am Kleinen freuen können macht reich.",
         "en": "Being able to enjoy the little things makes one rich."
       }
     ],
@@ -1901,8 +2237,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Kleine.htm",
     "rank": 377,
     "first_seen": "2026-10-08T12:38:03+00:00",
-    "updated_at": "2026-10-08T20:44:30+00:00",
-    "hash": "ada1ea87869e3704"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "8c2816a895293d77"
   },
   {
     "id": "Kommentar",
@@ -1936,27 +2272,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das ist mein Kommentar",
+        "de": "Das ist mein Kommentar.",
         "en": "This is my comment."
       },
       {
-        "de": "Es gibt keine Kommentar",
+        "de": "Es gibt keine Kommentare.",
         "en": "There are no comments."
       },
       {
-        "de": "Es gibt noch keine Kommentar",
+        "de": "Es gibt noch keine Kommentare.",
         "en": "There are no comments yet."
       },
       {
-        "de": "Ich danke dir für deinen Kommentar",
+        "de": "Ich danke dir für deinen Kommentar.",
         "en": "I thank you for your comment."
       },
       {
-        "de": "Es gibt Berichte, Interviews und Kommentar",
+        "de": "Es gibt Berichte, Interviews und Kommentare.",
         "en": "There are reports, interviews, and comments."
       },
       {
-        "de": "Er löschte seinen Kommentar",
+        "de": "Er löschte seinen Kommentar.",
         "en": "He deleted his comment."
       }
     ],
@@ -1969,8 +2305,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Kommentar.htm",
     "rank": 141,
     "first_seen": "2026-10-08T11:00:50+00:00",
-    "updated_at": "2026-10-08T15:16:18+00:00",
-    "hash": "3a724fa934ea2f74"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "17633df45a521880"
   },
   {
     "id": "Kopfball",
@@ -2034,19 +2370,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich bin Krankenpfleger",
+        "de": "Ich bin Krankenpfleger.",
         "en": "I'm a nurse."
       },
       {
-        "de": "Toms Mann ist Krankenpfleger",
+        "de": "Toms Mann ist Krankenpfleger.",
         "en": "Tom's husband is a nurse."
       },
       {
-        "de": "Er ist nicht Arzt, sondern Krankenpfleger",
+        "de": "Er ist nicht Arzt, sondern Krankenpfleger.",
         "en": "He's not a doctor, but a nurse."
       },
       {
-        "de": "Mein Neffe ist Krankenpfleger",
+        "de": "Mein Neffe ist Krankenpfleger.",
         "en": "My nephew is a nurse."
       },
       {
@@ -2067,8 +2403,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Krankenpfleger.htm",
     "rank": 47,
     "first_seen": "2026-10-08T10:51:02+00:00",
-    "updated_at": "2026-10-08T15:04:13+00:00",
-    "hash": "43a4e6ebb92c12ae"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "8d4b67358e5ebebf"
   },
   {
     "id": "Krieg",
@@ -2095,23 +2431,23 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Niemand mag Krieg",
+        "de": "Niemand mag Krieg.",
         "en": "Nobody likes war."
       },
       {
-        "de": "Wofür sind Krieg",
+        "de": "Wofür sind Kriege da?",
         "en": "What are wars for?"
       },
       {
-        "de": "Wir sind gegen Krieg",
+        "de": "Wir sind gegen Krieg.",
         "en": "We are against war."
       },
       {
-        "de": "Böser Nachbar bedeutet ewiger Krieg",
+        "de": "Böser Nachbar bedeutet ewiger Krieg.",
         "en": "A bad neighbor means eternal war."
       },
       {
-        "de": "Alle Studenten waren gegen den Krieg",
+        "de": "Alle Studenten waren gegen den Krieg.",
         "en": "All the students were against the war."
       },
       {
@@ -2128,8 +2464,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Krieg.htm",
     "rank": 540,
     "first_seen": "2026-10-08T13:48:41+00:00",
-    "updated_at": "2026-10-08T20:47:45+00:00",
-    "hash": "68e78cc525b9bf1b"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "ead1da7075d02a8b"
   },
   {
     "id": "Ko3nigin",
@@ -2161,7 +2497,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Siehst du die Königin",
+        "de": "Siehst du die Königin?",
         "en": "Do you see the queen?"
       },
       {
@@ -2181,7 +2517,7 @@
         "en": "The rose is called the queen of flowers."
       },
       {
-        "de": "Gott schütze die Königin",
+        "de": "Gott schütze die Königin.",
         "en": "God save the Queen."
       }
     ],
@@ -2194,8 +2530,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Ko3nigin.htm",
     "rank": 680,
     "first_seen": "2026-10-08T14:49:10+00:00",
-    "updated_at": "2026-10-08T20:50:06+00:00",
-    "hash": "836fb3713a3dfd27"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "e43228d5b0a087fa"
   },
   {
     "id": "Langeweile",
@@ -2222,15 +2558,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich habe Langeweile",
+        "de": "Ich habe Langeweile.",
         "en": "I'm bored."
       },
       {
-        "de": "Hast du gerade Langeweile",
+        "de": "Hast du gerade Langeweile?",
         "en": "Are you bored right now?"
       },
       {
-        "de": "Ich sterbe noch vor Langeweile",
+        "de": "Ich sterbe noch vor Langeweile.",
         "en": "I am dying of boredom."
       },
       {
@@ -2238,11 +2574,11 @@
         "en": "Not misfortune, but boredom is the opposite of happiness."
       },
       {
-        "de": "Seine Arbeit bereitete ihm Langeweile",
+        "de": "Seine Arbeit bereitete ihm Langeweile.",
         "en": "He was bored with his job."
       },
       {
-        "de": "Aller Laster Anfang ist die Langeweile",
+        "de": "Aller Laster Anfang ist die Langeweile.",
         "en": "Boredom is the beginning of all vices."
       }
     ],
@@ -2254,8 +2590,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Langeweile.htm",
     "rank": 224,
     "first_seen": "2026-10-08T11:31:00+00:00",
-    "updated_at": "2026-10-08T15:25:58+00:00",
-    "hash": "95b302ab395f9de7"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "edce3e49b76e2493"
   },
   {
     "id": "Lauf",
@@ -2307,11 +2643,11 @@
         "en": "That's the way of the world."
       },
       {
-        "de": "Alles ändert sich im Lauf",
+        "de": "Alles ändert sich im Laufe der Zeit.",
         "en": "Everything changes over time."
       },
       {
-        "de": "Ein Marathon ist ein langer, sportlicher Lauf",
+        "de": "Ein Marathon ist ein langer, sportlicher Lauf.",
         "en": "A marathon is a long, athletic run."
       },
       {
@@ -2323,7 +2659,7 @@
         "en": "Only God knows the course of all suns."
       },
       {
-        "de": "Ich habe zurzeit einen äußerst guten Lauf",
+        "de": "Ich habe zurzeit einen äußerst guten Lauf.",
         "en": "I currently have an extremely good run."
       }
     ],
@@ -2336,8 +2672,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Lauf.htm",
     "rank": 690,
     "first_seen": "2026-10-08T14:53:42+00:00",
-    "updated_at": "2026-10-08T20:50:16+00:00",
-    "hash": "dee396f529feb65f"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "75f4ed57edf1fe66"
   },
   {
     "id": "Lebkuchen",
@@ -2365,11 +2701,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Jonas liebt Lebkuchen",
+        "de": "Jonas liebt Lebkuchen.",
         "en": "Jonas loves gingerbread."
       },
       {
-        "de": "Hunger macht ein hartes Brot zu Lebkuchen",
+        "de": "Hunger macht ein hartes Brot zu Lebkuchen.",
         "en": "Hunger makes hard bread into gingerbread."
       },
       {
@@ -2398,8 +2734,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Lebkuchen.htm",
     "rank": 420,
     "first_seen": "2026-10-08T12:56:15+00:00",
-    "updated_at": "2026-10-08T20:45:16+00:00",
-    "hash": "48270811d2767f07"
+    "updated_at": "2026-10-12T04:28:18+00:00",
+    "hash": "7e6f4074a6785920"
   },
   {
     "id": "Leidenschaft",
@@ -2430,11 +2766,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Mein Beruf ist meine Leidenschaft",
+        "de": "Mein Beruf ist meine Leidenschaft.",
         "en": "My profession is my passion."
       },
       {
-        "de": "Meine Arbeit erfüllt mich mit Leidenschaft",
+        "de": "Meine Arbeit erfüllt mich mit Leidenschaft.",
         "en": "I'm passionate about my job."
       },
       {
@@ -2450,7 +2786,7 @@
         "en": "I'm no longer passionate about my work."
       },
       {
-        "de": "Er diskutierte mit Leidenschaft",
+        "de": "Er diskutierte mit Leidenschaft.",
         "en": "He discussed with passion."
       }
     ],
@@ -2463,8 +2799,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Leidenschaft.htm",
     "rank": 158,
     "first_seen": "2026-10-08T11:02:26+00:00",
-    "updated_at": "2026-10-08T15:18:44+00:00",
-    "hash": "0a8807fd77504a47"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "49fca0037306ad0f"
   },
   {
     "id": "Los",
@@ -2511,7 +2847,7 @@
         "en": "Come on, it's your turn."
       },
       {
-        "de": "Ich habe Familie in",
+        "de": "Ich habe Familie in Los Angeles.",
         "en": "I have relatives in Los Angeles."
       },
       {
@@ -2519,7 +2855,7 @@
         "en": "Nobody walks in LA."
       },
       {
-        "de": "Das Haus steht in der Stadt",
+        "de": "Das Haus steht in der Stadt Los Angeles.",
         "en": "The house is located in the city of Los Angeles."
       },
       {
@@ -2536,8 +2872,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Los.htm",
     "rank": 95,
     "first_seen": "2026-10-08T10:56:22+00:00",
-    "updated_at": "2026-10-08T15:10:47+00:00",
-    "hash": "f3518aeec69dda5a"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "bc0266969fd912dd"
   },
   {
     "id": "Luft",
@@ -2576,23 +2912,23 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich brauche Luft",
+        "de": "Ich brauche Luft.",
         "en": "I need air."
       },
       {
-        "de": "Der Reifen verliert Luft",
+        "de": "Der Reifen verliert Luft.",
         "en": "The tire leaks air."
       },
       {
-        "de": "Tom genießt die frische Luft",
+        "de": "Tom genießt die frische Luft.",
         "en": "Tom enjoys the fresh air."
       },
       {
-        "de": "Ich muss an die frische Luft",
+        "de": "Ich muss an die frische Luft.",
         "en": "I need to get some fresh air."
       },
       {
-        "de": "Ich bin gern an der frischen Luft",
+        "de": "Ich bin gern an der frischen Luft.",
         "en": "I like fresh air."
       },
       {
@@ -2609,8 +2945,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Luft.htm",
     "rank": 702,
     "first_seen": "2026-10-08T14:58:57+00:00",
-    "updated_at": "2026-10-08T20:50:33+00:00",
-    "hash": "75162b1f56ab3bb2"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "a6e7b389f8572b9e"
   },
   {
     "id": "La3nge",
@@ -2649,11 +2985,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Der Film hatte Länge",
+        "de": "Der Film hatte Längen.",
         "en": "The film had lengths."
       },
       {
-        "de": "Wie viele Länge",
+        "de": "Wie viele Längen bist du geschwommen?",
         "en": "How many laps did you swim?"
       },
       {
@@ -2682,8 +3018,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/La3nge.htm",
     "rank": 224,
     "first_seen": "2026-10-08T11:31:00+00:00",
-    "updated_at": "2026-10-08T15:25:37+00:00",
-    "hash": "c7361fec4cffeca0"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "3913fefdeda1f803"
   },
   {
     "id": "Magen",
@@ -2713,19 +3049,19 @@
         "en": "My stomach is going crazy."
       },
       {
-        "de": "Trink nicht mit leerem Magen",
+        "de": "Trink nicht mit leerem Magen.",
         "en": "Don't drink on an empty stomach."
       },
       {
-        "de": "Eine Kuh hat vier Mägen",
+        "de": "Eine Kuh hat vier Mägen.",
         "en": "A cow has four stomachs."
       },
       {
-        "de": "Das Gericht liegt mir im Magen",
+        "de": "Das Gericht liegt mir im Magen.",
         "en": "The dish told on my stomach."
       },
       {
-        "de": "Da sind die Augen größer als der Magen",
+        "de": "Da sind die Augen größer als der Magen.",
         "en": "The eyes are bigger than the stomach."
       },
       {
@@ -2742,8 +3078,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Magen.htm",
     "rank": 360,
     "first_seen": "2026-10-08T12:30:01+00:00",
-    "updated_at": "2026-10-08T20:43:52+00:00",
-    "hash": "47e7eb4c594fbcd7"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "c793be5ea57c93de"
   },
   {
     "id": "Meinung",
@@ -2781,23 +3117,23 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das ist meine Meinung",
+        "de": "Das ist meine Meinung.",
         "en": "This is my opinion."
       },
       {
-        "de": "Nun bin ich gleicher Meinung",
+        "de": "Nun bin ich gleicher Meinung.",
         "en": "Now I feel the same."
       },
       {
-        "de": "Unsere Meinung",
+        "de": "Unsere Meinungen sind völlig verschieden.",
         "en": "Our opinions are completely different."
       },
       {
-        "de": "Tom und ich waren verschiedener Meinung",
+        "de": "Tom und ich waren verschiedener Meinung.",
         "en": "Tom and I didn't agree with each other."
       },
       {
-        "de": "Bist du nicht der gleichen Meinung",
+        "de": "Bist du nicht der gleichen Meinung?",
         "en": "Aren't you of the same opinion?"
       },
       {
@@ -2814,8 +3150,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Meinung.htm",
     "rank": 69,
     "first_seen": "2026-10-08T10:53:33+00:00",
-    "updated_at": "2026-10-08T15:09:00+00:00",
-    "hash": "6c6ec0453b0f8e4f"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "10f06fec406dafaa"
   },
   {
     "id": "Menge",
@@ -2861,11 +3197,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das erklärt eine Menge",
+        "de": "Das erklärt eine Menge.",
         "en": "It explains a lot."
       },
       {
-        "de": "Tom trinkt große Menge",
+        "de": "Tom trinkt große Mengen Alkohol.",
         "en": "Tom drinks copious amounts of alcohol."
       },
       {
@@ -2894,8 +3230,80 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Menge.htm",
     "rank": 648,
     "first_seen": "2026-10-08T14:34:54+00:00",
-    "updated_at": "2026-10-08T20:49:43+00:00",
-    "hash": "9acc3dba87c3fcf8"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "ea3cc03749896a4f"
+  },
+  {
+    "id": "Mist",
+    "type": "noun",
+    "lemma": "Mist",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Miste",
+    "genitive": "Mist(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "rubbish",
+      "muck",
+      "nonsense",
+      "manure",
+      "crap",
+      "dreck",
+      "droppings",
+      "dung",
+      "garbage",
+      "junk",
+      "trash",
+      "waste"
+    ],
+    "definitions_de": [
+      "Exkremente von Stalltieren, vermischt mit Streu, Dung, Stalldung",
+      "etwas Ungeeignetes oder Unangenehmes",
+      "Abfall, Müll"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das ist Mist.",
+        "en": "This stinks."
+      },
+      {
+        "de": "Er macht nur Mist.",
+        "en": "He only makes a mess."
+      },
+      {
+        "de": "Im Radio läuft nur Mist.",
+        "en": "There's only rubbish on the radio."
+      },
+      {
+        "de": "Alles ist zu neunzig Prozent Mist.",
+        "en": "Ninety percent of everything is crap."
+      },
+      {
+        "de": "Tom baut nur Mist in der Arbeit.",
+        "en": "Tom does crap work."
+      },
+      {
+        "de": "Menschen machen manchmal Mist.",
+        "en": "People do stupid things sometimes."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Mist.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Mist.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Mist.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mist.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Mist.htm",
+    "rank": 788,
+    "first_seen": "2026-10-12T08:40:34+00:00",
+    "updated_at": "2026-10-12T08:57:33+00:00",
+    "hash": "17f08da14f93e332"
   },
   {
     "id": "Muss",
@@ -2924,19 +3332,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Es ist kein Muss",
+        "de": "Es ist kein Muss.",
         "en": "It is not a must."
       },
       {
-        "de": "Fließendes Englisch ist ein Muss",
+        "de": "Fließendes Englisch ist ein Muss.",
         "en": "Fluency in English is a must."
       },
       {
-        "de": "Große Fenster waren ein Muss",
+        "de": "Große Fenster waren ein Muss.",
         "en": "Large windows were a must."
       },
       {
-        "de": "Heutzutage ist ein Computer ein absolutes Muss",
+        "de": "Heutzutage ist ein Computer ein absolutes Muss.",
         "en": "A computer is an absolute necessity now."
       },
       {
@@ -2944,7 +3352,7 @@
         "en": "It is a must that you act immediately."
       },
       {
-        "de": "Mindestens zweisprachig zu sein, ist in der heutigen Welt ein Muss",
+        "de": "Mindestens zweisprachig zu sein, ist in der heutigen Welt ein Muss.",
         "en": "Being at least bilingual is a must in today's world."
       }
     ],
@@ -2956,8 +3364,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Muss.htm",
     "rank": 79,
     "first_seen": "2026-10-08T10:54:42+00:00",
-    "updated_at": "2026-10-08T15:09:43+00:00",
-    "hash": "d572179d35e29241"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "cbd3164a69bad53c"
   },
   {
     "id": "Ma3nnerchor",
@@ -2994,6 +3402,70 @@
     "first_seen": "2026-10-08T12:34:13+00:00",
     "updated_at": "2026-10-08T20:44:19+00:00",
     "hash": "a03fa79caed09421"
+  },
+  {
+    "id": "Nachrichtensprecher",
+    "type": "noun",
+    "lemma": "Nachrichtensprecher",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Nachrichtensprecher",
+    "genitive": "Nachrichtensprechers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "news anchor",
+      "news presenter",
+      "newscaster",
+      "newsreader",
+      "anchor",
+      "news anchorman"
+    ],
+    "definitions_de": [
+      "[Personen] Person, die in Funk und Fernsehen die Nachrichten vorträgt"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Nachrichtensprecher können schnell sprechen.",
+        "en": "News anchors can speak quickly."
+      },
+      {
+        "de": "Ich möchte in Zukunft ein Nachrichtensprecher im Fernsehen werden.",
+        "en": "I want to become a TV announcer in the future."
+      },
+      {
+        "de": "Nachrichtensprecher blinzeln viel.",
+        "en": "Newscasters blink a lot."
+      },
+      {
+        "de": "Er arbeitet als Nachrichtensprecher beim Fernsehen.",
+        "en": "He works as a newscaster in television."
+      },
+      {
+        "de": "Ich mag die sonore Stimme dieses Nachrichtensprechers.",
+        "en": "I like this newsreader's sonorous voice."
+      },
+      {
+        "de": "Viele Nachrichtensprecher werden mit der Zeit prominent.",
+        "en": "Many news presenters become prominent over time."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Nachrichtensprecher.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Nachrichtensprecher.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Nachrichtensprecher.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nachrichtensprecher.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Nachrichtensprecher.htm",
+    "rank": 767,
+    "first_seen": "2026-10-12T08:31:12+00:00",
+    "updated_at": "2026-10-12T08:52:46+00:00",
+    "hash": "3ba512e93c7aeb1c"
   },
   {
     "id": "Netz",
@@ -3038,15 +3510,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich bin im Netz",
+        "de": "Ich bin im Netz.",
         "en": "I am online."
       },
       {
-        "de": "Ich lerne Französisch im Netz",
+        "de": "Ich lerne Französisch im Netz.",
         "en": "I study French online."
       },
       {
-        "de": "Tom war den ganzen Tag im Netz",
+        "de": "Tom war den ganzen Tag im Netz.",
         "en": "Tom spent the entire day online."
       },
       {
@@ -3054,11 +3526,11 @@
         "en": "I prefer to shop at brick-and-mortar stores."
       },
       {
-        "de": "Fischer benutzen Netz",
+        "de": "Fischer benutzen Netze.",
         "en": "The fishermen are using nets."
       },
       {
-        "de": "Er reparierte das Netz",
+        "de": "Er reparierte das Netz.",
         "en": "He fixed the net."
       }
     ],
@@ -3071,8 +3543,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Netz.htm",
     "rank": 496,
     "first_seen": "2026-10-08T13:29:06+00:00",
-    "updated_at": "2026-10-08T20:46:23+00:00",
-    "hash": "2a4e8b3567b83e6f"
+    "updated_at": "2026-10-12T04:28:19+00:00",
+    "hash": "2ae60440c49481f8"
   },
   {
     "id": "Newcomer",
@@ -3184,15 +3656,15 @@
         "en": "Why are planets round?"
       },
       {
-        "de": "Die Erde ist ein Planet",
+        "de": "Die Erde ist ein Planet.",
         "en": "Earth is a planet."
       },
       {
-        "de": "Die Erde ist ein schöner Planet",
+        "de": "Die Erde ist ein schöner Planet.",
         "en": "The earth is a beautiful planet."
       },
       {
-        "de": "Wie ist es so auf deinem Planeten",
+        "de": "Wie ist es so auf deinem Planeten?",
         "en": "What is your planet like?"
       },
       {
@@ -3209,8 +3681,73 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Planet.htm",
     "rank": 632,
     "first_seen": "2026-10-08T14:28:16+00:00",
-    "updated_at": "2026-10-08T20:49:27+00:00",
-    "hash": "660fb1910d8803c3"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "ba74fa42bcb95076"
+  },
+  {
+    "id": "Rest",
+    "type": "noun",
+    "lemma": "Rest",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Reste(r)",
+    "genitive": "Rest(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "remainder",
+      "remnant",
+      "rest",
+      "functional group",
+      "leftover"
+    ],
+    "definitions_de": [
+      "übrig bleibender Teil des Ganzen",
+      "[Wissenschaft] nicht ganzzahlig teilbarer Teil des Dividenden",
+      "[Wissenschaft] funktionelle Gruppe an einem Molekülgerüst"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wo ist der Rest?",
+        "en": "Where's the rest?"
+      },
+      {
+        "de": "Der Rest ist für dich.",
+        "en": "The rest is for you."
+      },
+      {
+        "de": "Wo ist der Rest des Geldes?",
+        "en": "Where's the rest of the money?"
+      },
+      {
+        "de": "Ich habe den Rest des Tages geschlafen.",
+        "en": "I slept the rest of the day."
+      },
+      {
+        "de": "Was ist mit dem Rest vom Geld passiert?",
+        "en": "What happened to the rest of the money?"
+      },
+      {
+        "de": "Den Rest wissen Sie.",
+        "en": "You know the rest."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Rest.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Rest.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Rest.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rest.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Rest.htm",
+    "rank": 780,
+    "first_seen": "2026-10-12T08:36:46+00:00",
+    "updated_at": "2026-10-12T08:57:11+00:00",
+    "hash": "9fd630657a2f0d3e"
   },
   {
     "id": "Ruhe",
@@ -3255,15 +3792,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom braucht Ruhe",
+        "de": "Tom braucht Ruhe.",
         "en": "Tom needs rest."
       },
       {
-        "de": "Lass mich in Ruhe",
+        "de": "Lass mich in Ruhe.",
         "en": "Leave me alone."
       },
       {
-        "de": "Er braucht jetzt Ruhe",
+        "de": "Er braucht jetzt Ruhe.",
         "en": "He needs peace now."
       },
       {
@@ -3271,11 +3808,11 @@
         "en": "Finally, there is peace in the children's room."
       },
       {
-        "de": "Ich brauche einfach etwas Ruhe",
+        "de": "Ich brauche einfach etwas Ruhe.",
         "en": "I just need some rest."
       },
       {
-        "de": "Bitte, lasst mich in Ruhe",
+        "de": "Bitte, lasst mich in Ruhe.",
         "en": "Please, leave me alone."
       }
     ],
@@ -3287,8 +3824,52 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Ruhe.htm",
     "rank": 464,
     "first_seen": "2026-10-08T13:15:49+00:00",
-    "updated_at": "2026-10-08T20:46:00+00:00",
-    "hash": "57e0ccea06937d3a"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "eca7e940e483cfe9"
+  },
+  {
+    "id": "Schlu3sselkind",
+    "type": "noun",
+    "lemma": "Schlüsselkind",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Schlüsselkinder",
+    "genitive": "Schlüsselkind(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "latchkey child",
+      "latchkey kid"
+    ],
+    "definitions_de": [
+      "Ein Kind, das den Tag nach der Schule alleine zu Hause verbringt, da beide Elternteile berufstätig sind, und daher den Hausschlüssel bei sich trägt"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wir waren Schlüsselkinder.",
+        "en": "We were latchkey kids."
+      },
+      {
+        "de": "Ein Problem bei den Schlüsselkindern kann man darin sehen, dass sie sich zu lange allein überlassen sind.",
+        "en": "A problem with latchkey children can be seen in that they are left alone for too long."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Schlu3sselkind.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Schlu3sselkind.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Schlu3sselkind.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schlu3sselkind.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Schlu3sselkind.htm",
+    "rank": 779,
+    "first_seen": "2026-10-12T08:36:25+00:00",
+    "updated_at": "2026-10-12T08:56:51+00:00",
+    "hash": "e7e933ab32f22b8a"
   },
   {
     "id": "Selbstauslo3ser",
@@ -3381,19 +3962,19 @@
         "en": "Safety is important."
       },
       {
-        "de": "Tom ist in Sicherheit",
+        "de": "Tom ist in Sicherheit.",
         "en": "Tom's safe."
       },
       {
-        "de": "Bin ich jetzt in Sicherheit",
+        "de": "Bin ich jetzt in Sicherheit?",
         "en": "Am I safe now?"
       },
       {
-        "de": "Sie sorgt sich um deine Sicherheit",
+        "de": "Sie sorgt sich um deine Sicherheit.",
         "en": "She's worried about your safety."
       },
       {
-        "de": "Tom gibt mir ein Gefühl von Sicherheit",
+        "de": "Tom gibt mir ein Gefühl von Sicherheit.",
         "en": "Tom makes me feel safe."
       },
       {
@@ -3410,8 +3991,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Sicherheit.htm",
     "rank": 50,
     "first_seen": "2026-10-08T10:51:23+00:00",
-    "updated_at": "2026-10-08T15:05:17+00:00",
-    "hash": "69e03680a8dba0a0"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "19bd4771edd90dbf"
   },
   {
     "id": "Sieb",
@@ -3447,11 +4028,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das ist ein Sieb",
+        "de": "Das ist ein Sieb.",
         "en": "This is a sieve."
       },
       {
-        "de": "Das Wasser hält sich nicht im Sieb",
+        "de": "Das Wasser hält sich nicht im Sieb.",
         "en": "Water doesn't stay in a sieve."
       },
       {
@@ -3480,8 +4061,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Sieb.htm",
     "rank": 7,
     "first_seen": "2026-10-08T10:45:51+00:00",
-    "updated_at": "2026-10-08T15:01:25+00:00",
-    "hash": "2ea274d2f2ddd968"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "b40bdc7bffb568dc"
   },
   {
     "id": "Socke",
@@ -3506,23 +4087,23 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich trage keine Socke",
+        "de": "Ich trage keine Socken.",
         "en": "I'm not wearing socks."
       },
       {
-        "de": "Ich habe keine sauberen Socke",
+        "de": "Ich habe keine sauberen Socken.",
         "en": "I don't have any clean socks."
       },
       {
-        "de": "Die Socke",
+        "de": "Die Socken hier gehören nicht zusammen.",
         "en": "These socks do not match."
       },
       {
-        "de": "Tom geht mit Socke",
+        "de": "Tom geht mit Socken unter die Dusche.",
         "en": "Tom goes into the shower with socks."
       },
       {
-        "de": "Im Winter trägt mancher statt Socke",
+        "de": "Im Winter trägt mancher statt Socken lieber Strümpfe.",
         "en": "In winter, some prefer to wear stockings instead of socks."
       },
       {
@@ -3539,8 +4120,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Socke.htm",
     "rank": 32,
     "first_seen": "2026-10-08T10:49:11+00:00",
-    "updated_at": "2026-10-08T15:03:09+00:00",
-    "hash": "f53193eaadb10eea"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "b0baf71af7974c5b"
   },
   {
     "id": "Sorge",
@@ -3575,27 +4156,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er hat keine Sorgen",
+        "de": "Er hat keine Sorgen.",
         "en": "He is free from care."
       },
       {
-        "de": "Dein Husten macht mir Sorgen",
+        "de": "Dein Husten macht mir Sorgen.",
         "en": "Your cough worries me."
       },
       {
-        "de": "Und sonst hast du keine Sorge",
+        "de": "Und sonst hast du keine Sorgen?",
         "en": "And otherwise you have no worries?"
       },
       {
-        "de": "Ich werde noch ganz krank vor Sorge",
+        "de": "Ich werde noch ganz krank vor Sorge.",
         "en": "I will become completely sick from worry."
       },
       {
-        "de": "Macht euch keine Sorge",
+        "de": "Macht euch keine Sorgen um das Baby.",
         "en": "Don't worry about the baby."
       },
       {
-        "de": "Haben Sie Sorgen",
+        "de": "Haben Sie Sorgen?",
         "en": "Do you have worries?"
       }
     ],
@@ -3608,8 +4189,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Sorge.htm",
     "rank": 422,
     "first_seen": "2026-10-08T12:56:58+00:00",
-    "updated_at": "2026-10-08T20:45:21+00:00",
-    "hash": "f4d8a4537d759b9a"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "c9175acf7b5275a0"
   },
   {
     "id": "Stundenplan",
@@ -3636,7 +4217,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Gibt es einen Stundenplan",
+        "de": "Gibt es einen Stundenplan?",
         "en": "Is there a timetable?"
       },
       {
@@ -3644,11 +4225,11 @@
         "en": "I have adjusted to the new schedule."
       },
       {
-        "de": "Jana hatte sich an ihren Rechner gesetzt, die Stundenplä",
+        "de": "Jana hatte sich an ihren Rechner gesetzt, die Stundenpläne weggeklickt.",
         "en": "Jana sat down at her computer, closing the schedules."
       },
       {
-        "de": "Die Stundenplä",
+        "de": "Die Stundenpläne befestigte Mama neben dem Kühlschrank mit Stecknadeln an der Küchenwand.",
         "en": "Mom pinned the schedules next to the refrigerator on the kitchen wall with pins."
       },
       {
@@ -3665,8 +4246,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Stundenplan.htm",
     "rank": 467,
     "first_seen": "2026-10-08T13:16:53+00:00",
-    "updated_at": "2026-10-08T20:46:06+00:00",
-    "hash": "31ad77ce50609ccf"
+    "updated_at": "2026-10-12T04:28:20+00:00",
+    "hash": "76f0a75804c69420"
   },
   {
     "id": "Tagesablauf",
@@ -3695,7 +4276,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom hat einen engen Tagesablauf",
+        "de": "Tom hat einen engen Tagesablauf.",
         "en": "Tom has a tight daily schedule."
       },
       {
@@ -3728,8 +4309,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Tagesablauf.htm",
     "rank": 545,
     "first_seen": "2026-10-08T13:50:26+00:00",
-    "updated_at": "2026-10-08T20:47:51+00:00",
-    "hash": "ca6c8a512fc01d94"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "56f5915090de6291"
   },
   {
     "id": "Telefongespra3ch",
@@ -3760,11 +4341,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom führt ein Telefongespräch",
+        "de": "Tom führt ein Telefongespräch.",
         "en": "Tom is talking on the phone."
       },
       {
-        "de": "Tom führt gerade ein Telefongespräch",
+        "de": "Tom führt gerade ein Telefongespräch.",
         "en": "Tom is talking on the telephone."
       },
       {
@@ -3793,8 +4374,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Telefongespra3ch.htm",
     "rank": 628,
     "first_seen": "2026-10-08T14:25:51+00:00",
-    "updated_at": "2026-10-08T20:49:22+00:00",
-    "hash": "9dd3f768e45c6328"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "bc5f54c42956d980"
   },
   {
     "id": "Umbau",
@@ -3849,7 +4430,7 @@
         "en": "The enclosures for the big cats have become much more spacious since the renovation of the zoo."
       },
       {
-        "de": "Während des Umbau",
+        "de": "Während des Umbaus ist die Brücke nur einseitig befahrbar.",
         "en": "During the renovation, the bridge is only accessible from one side."
       },
       {
@@ -3871,8 +4452,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Umbau.htm",
     "rank": 66,
     "first_seen": "2026-10-08T10:53:12+00:00",
-    "updated_at": "2026-10-08T15:08:39+00:00",
-    "hash": "2392c4261acb15f5"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "947e2546fc7a8135"
   },
   {
     "id": "Wagen",
@@ -3923,15 +4504,15 @@
         "en": "The car stops."
       },
       {
-        "de": "Ich miete einen Wagen",
+        "de": "Ich miete einen Wagen.",
         "en": "I'll rent a car."
       },
       {
-        "de": "Ich habe einen schnellen Wagen",
+        "de": "Ich habe einen schnellen Wagen.",
         "en": "I have a fast car."
       },
       {
-        "de": "Wie viele Fahrgäste sind im Wagen",
+        "de": "Wie viele Fahrgäste sind im Wagen?",
         "en": "How many passengers are in the carriage?"
       },
       {
@@ -3952,8 +4533,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Wagen.htm",
     "rank": 510,
     "first_seen": "2026-10-08T13:35:02+00:00",
-    "updated_at": "2026-10-08T20:47:07+00:00",
-    "hash": "451f95d27ed30284"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "ca651f133e47fe23"
   },
   {
     "id": "Wartezimmer",
@@ -3983,7 +4564,7 @@
         "en": "The waiting room is empty."
       },
       {
-        "de": "Ich bin dann im Wartezimmer",
+        "de": "Ich bin dann im Wartezimmer.",
         "en": "I'll be in the waiting room."
       },
       {
@@ -3995,7 +4576,7 @@
         "en": "In winter, the waiting rooms in doctors' offices are even fuller than usual."
       },
       {
-        "de": "Warten Sie im Wartezimmer",
+        "de": "Warten Sie im Wartezimmer.",
         "en": "Wait in the waiting room."
       },
       {
@@ -4012,8 +4593,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Wartezimmer.htm",
     "rank": 263,
     "first_seen": "2026-10-08T11:48:45+00:00",
-    "updated_at": "2026-10-08T15:34:59+00:00",
-    "hash": "21000039857679d9"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "3a1d2fa1e6083183"
   },
   {
     "id": "Weis5brot",
@@ -4038,7 +4619,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom möchte ein Weißbrot",
+        "de": "Tom möchte ein Weißbrot.",
         "en": "Tom wants a white bread."
       },
       {
@@ -4046,7 +4627,7 @@
         "en": "White bread tastes good with jam."
       },
       {
-        "de": "Ich hätte gern ein Weißbrot",
+        "de": "Ich hätte gern ein Weißbrot.",
         "en": "I'd like a loaf of white bread."
       },
       {
@@ -4058,7 +4639,7 @@
         "en": "Abroad, one always gets white bread to eat."
       },
       {
-        "de": "Glaubst du, dass Vollkornbrot gesünder ist als Weißbrot",
+        "de": "Glaubst du, dass Vollkornbrot gesünder ist als Weißbrot?",
         "en": "Do you believe that whole grain bread is healthier than white bread?"
       }
     ],
@@ -4071,8 +4652,88 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Weis5brot.htm",
     "rank": 73,
     "first_seen": "2026-10-08T10:54:00+00:00",
-    "updated_at": "2026-10-08T15:09:22+00:00",
-    "hash": "ae75e766bf653ac5"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "262ce99c664de087"
+  },
+  {
+    "id": "Wert",
+    "type": "noun",
+    "lemma": "Wert",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Werte",
+    "genitive": "Wert(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "value",
+      "worth",
+      "price",
+      "merit",
+      "data",
+      "account",
+      "calibre",
+      "constant",
+      "figure",
+      "quality",
+      "result",
+      "results",
+      "score",
+      "securities",
+      "valuation",
+      "virtue",
+      "worthiness",
+      "caliber",
+      "magnitude"
+    ],
+    "definitions_de": [
+      "meist in Geld ausgedrücktes materielles Äquivalent einer Sache, einer Dienstleistung oder einer Information, Geldwert, Preis",
+      "in der Gesellschaft anerkannte, wünschenswerte, ideelle Vorstellung, der die positiven Eigenschaften einer Sache zu Grunde liegen",
+      "[Finanzen] Aktien, Aktienwert",
+      "[Hobbys] Briefmarke mit einem bestimmten aufgedruckten Preis"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er hat keinen Wert.",
+        "en": "He has no value."
+      },
+      {
+        "de": "Deine Arbeit bestimmt deinen Wert.",
+        "en": "Your work determines your value."
+      },
+      {
+        "de": "Geld ist das Maß des Wertes.",
+        "en": "Money is the measure of worth."
+      },
+      {
+        "de": "Unser Chef legt besonderen Wert auf Pünktlichkeit.",
+        "en": "Our boss places special importance on punctuality."
+      },
+      {
+        "de": "In Italien gibt es keine Werte mehr.",
+        "en": "In Italy there are no values anymore."
+      },
+      {
+        "de": "Ein Talent Gold hatte einen sehr großen Wert.",
+        "en": "One talent of gold had a very high value."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Wert.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Wert.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wert.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wert.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Wert.htm",
+    "rank": 722,
+    "first_seen": "2026-10-12T08:11:21+00:00",
+    "updated_at": "2026-10-12T08:50:40+00:00",
+    "hash": "54534f4a6bebd7ca"
   },
   {
     "id": "Wirklichkeit",
@@ -4104,28 +4765,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich sehe Sie wie in Wirklichkeit",
+        "de": "In Wirklichkeit ist er krank.",
+        "en": "In reality, he is sick."
+      },
+      {
+        "de": "Ich sehe Sie wie in Wirklichkeit.",
         "en": "I see you as in reality."
       },
       {
-        "de": "Eines Tages wird auch dein Traum Wirklichkeit",
+        "de": "Eines Tages wird auch dein Traum Wirklichkeit.",
         "en": "Some day your dream will come true, too."
       },
       {
-        "de": "Es ist ein langer Weg vom Wunsch zur Wirklichkeit",
+        "de": "Es ist ein langer Weg vom Wunsch zur Wirklichkeit.",
         "en": "There is a long path from desire to realization."
       },
       {
-        "de": "Werden Träume Wirklichkeit",
+        "de": "Werden Träume Wirklichkeit?",
         "en": "Do wishes come true?"
       },
       {
-        "de": "Das entspricht der Wirklichkeit",
+        "de": "Das entspricht der Wirklichkeit.",
         "en": "This corresponds to reality."
-      },
-      {
-        "de": "In Wirklichkeit lag ich falsch.",
-        "en": "Actually, I was wrong."
       }
     ],
     "audio": {
@@ -4137,8 +4798,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Wirklichkeit.htm",
     "rank": 126,
     "first_seen": "2026-10-08T10:59:26+00:00",
-    "updated_at": "2026-10-08T15:15:35+00:00",
-    "hash": "a945722524fa1d06"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "a5afff35dbb0c700"
   },
   {
     "id": "Wissen",
@@ -4167,7 +4828,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wie entsteht Wissen",
+        "de": "Wie entsteht Wissen?",
         "en": "How is knowledge created?"
       },
       {
@@ -4187,7 +4848,7 @@
         "en": "To the best of my knowledge, this is the only translation available."
       },
       {
-        "de": "Der Beginn des Wissen",
+        "de": "Der Beginn des Wissens kommt am Ende des Lebens.",
         "en": "The beginning of knowledge comes at the end of life."
       }
     ],
@@ -4199,8 +4860,8 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Wissen.htm",
     "rank": 120,
     "first_seen": "2026-10-08T10:58:52+00:00",
-    "updated_at": "2026-10-08T15:15:14+00:00",
-    "hash": "baadf33e58b29cd2"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "b4348c39cafc60be"
   },
   {
     "id": "Zeitpunkt",
@@ -4237,11 +4898,11 @@
         "en": "The right moment is now."
       },
       {
-        "de": "Das ist kein sehr guter Zeitpunkt",
+        "de": "Das ist kein sehr guter Zeitpunkt.",
         "en": "This isn't a very good time."
       },
       {
-        "de": "Wir warten auf den richtigen Zeitpunkt",
+        "de": "Wir warten auf den richtigen Zeitpunkt.",
         "en": "We're waiting for the right time."
       },
       {
@@ -4253,7 +4914,7 @@
         "en": "It couldn't have happened at a worse time."
       },
       {
-        "de": "Alles hängt von der Wahl des richtigen Zeitpunkt",
+        "de": "Alles hängt von der Wahl des richtigen Zeitpunkts ab.",
         "en": "Everything depends on the choice of the right moment."
       }
     ],
@@ -4266,7 +4927,69 @@
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeitpunkt.htm",
     "rank": 291,
     "first_seen": "2026-10-08T12:00:38+00:00",
-    "updated_at": "2026-10-08T15:38:11+00:00",
-    "hash": "95f2cf46b1c2f5ee"
+    "updated_at": "2026-10-12T04:28:21+00:00",
+    "hash": "f0d13365aac723c8"
+  },
+  {
+    "id": "Zukunft",
+    "type": "noun",
+    "lemma": "Zukunft",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Zukünfte",
+    "genitive": "Zukunft",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "future",
+      "future tense",
+      "futurity"
+    ],
+    "definitions_de": [
+      "[Zeit] Zeit, die noch kommt",
+      "[Sprache] deutsche Entsprechung zu Futur I, Futur I"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du hast Zukunft.",
+        "en": "You have a future."
+      },
+      {
+        "de": "Niemand kennt die Zukunft.",
+        "en": "Nobody knows the future."
+      },
+      {
+        "de": "Die Zukunft hat viele Namen.",
+        "en": "The future has many names."
+      },
+      {
+        "de": "Auch die Zukunft war früher besser.",
+        "en": "The future was also better in the past."
+      },
+      {
+        "de": "Die Zukunft des Mannes ist die Frau.",
+        "en": "The future of man is the woman."
+      },
+      {
+        "de": "Zukunft braucht Vergangenheit.",
+        "en": "Future needs past."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Zukunft.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Zukunft.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Zukunft.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zukunft.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Zukunft.htm",
+    "rank": 761,
+    "first_seen": "2026-10-12T08:28:04+00:00",
+    "updated_at": "2026-10-12T08:52:04+00:00",
+    "hash": "2efdd19ab530edb3"
   }
 ]

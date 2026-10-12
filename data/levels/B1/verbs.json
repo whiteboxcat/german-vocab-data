@@ -1,5 +1,157 @@
 [
   {
+    "id": "abkaufen",
+    "type": "verb",
+    "infinitive": "abkaufen",
+    "level": "B1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "kauft ab",
+    "praeteritum_3sg": "kaufte ab",
+    "perfekt_3sg": "hat abgekauft",
+    "partizip2": "abgekauft",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "kaufe ab",
+        "du": "kaufst ab",
+        "er": "kauft ab",
+        "wir": "kaufen ab",
+        "ihr": "kauft ab",
+        "sie": "kaufen ab"
+      },
+      "Präteritum": {
+        "ich": "kaufte ab",
+        "du": "kauftest ab",
+        "er": "kaufte ab",
+        "wir": "kauften ab",
+        "ihr": "kauftet ab",
+        "sie": "kauften ab"
+      },
+      "Perfekt": {
+        "ich": "habe abgekauft",
+        "du": "hast abgekauft",
+        "er": "hat abgekauft",
+        "wir": "haben abgekauft",
+        "ihr": "habt abgekauft",
+        "sie": "haben abgekauft"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte abgekauft",
+        "du": "hattest abgekauft",
+        "er": "hatte abgekauft",
+        "wir": "hatten abgekauft",
+        "ihr": "hattet abgekauft",
+        "sie": "hatten abgekauft"
+      },
+      "Futur I": {
+        "ich": "werde abkaufen",
+        "du": "wirst abkaufen",
+        "er": "wird abkaufen",
+        "wir": "werden abkaufen",
+        "ihr": "werdet abkaufen",
+        "sie": "werden abkaufen"
+      },
+      "Futur II": {
+        "ich": "werde abgekauft haben",
+        "du": "wirst abgekauft haben",
+        "er": "wird abgekauft haben",
+        "wir": "werden abgekauft haben",
+        "ihr": "werdet abgekauft haben",
+        "sie": "werden abgekauft haben"
+      }
+    },
+    "imperative": [
+      "ich kaufe ab",
+      "du kaufst ab",
+      "er kauft ab",
+      "wir kaufen ab",
+      "ihr kauft ab",
+      "sie kaufen ab"
+    ],
+    "english": [
+      "buy",
+      "buy from",
+      "accept",
+      "believe",
+      "buy into",
+      "purchase"
+    ],
+    "definitions_de": [
+      "von jemandem etwas privat oder gefälligkeitshalber kaufen",
+      "jemandem etwas glauben",
+      "(etwas) wörtlich nehmen, ernst nehmen, (jemandem etwas) glauben, (etwas) unbesehen glauben, (jemandem etwas) abnehmen, gefressen haben"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hat er es dir abgekauft?",
+        "en": "Did he buy it from you?"
+      },
+      {
+        "de": "Er hat es mir nicht abgekauft.",
+        "en": "He didn't buy it."
+      },
+      {
+        "de": "Ich möchte ihm das Haus nicht abkaufen.",
+        "en": "I don't want to buy that house from him."
+      },
+      {
+        "de": "Ich werde es dir wieder abkaufen, wenn du das möchtest.",
+        "en": "I'll buy that back from you if that's what you want."
+      },
+      {
+        "de": "Wie schade, jetzt will ihnen keiner die ganzen Äpfel abkaufen.",
+        "en": "What a pity, now no one wants to buy all their apples."
+      },
+      {
+        "de": "Tom kaufte Maria einen Fotoapparat ab.",
+        "en": "Tom bought a camera from Mary."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/abkaufen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/abkaufen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/abkaufen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/abkaufen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/abkaufen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/abkaufen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/abkaufen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/abkaufen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/abkaufen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/abkaufen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/abkaufen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/abkaufen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/abkaufen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/abkaufen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/abkaufen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/abkaufen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/abkaufen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/abkaufen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/abkaufen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/abkaufen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/abkaufen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/abkaufen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/abkaufen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/abkaufen.htm",
+    "rank": 748,
+    "first_seen": "2026-10-12T08:22:32+00:00",
+    "updated_at": "2026-10-12T09:06:30+00:00",
+    "hash": "5fd5bd70e058df1f"
+  },
+  {
     "id": "abmachen",
     "type": "verb",
     "infinitive": "abmachen",
@@ -95,23 +247,23 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Sie müssen noch den Austausch abmachen",
+        "de": "Sie müssen noch den Austausch abmachen.",
         "en": "You still need to arrange the exchange."
       },
       {
-        "de": "Sie haben absichtlich schlecht gespielt, damit das Ergebnis von dem Spiel ausfällt wie vorher abgemach",
+        "de": "Sie haben absichtlich schlecht gespielt, damit das Ergebnis von dem Spiel ausfällt wie vorher abgemacht.",
         "en": "They intentionally played poorly so that the result of the game would turn out as previously agreed."
       },
       {
-        "de": "Du musst versprechen, das Seil nicht abzumachen",
+        "de": "Du musst versprechen, das Seil nicht abzumachen.",
         "en": "You must promise not to take the rope off."
       },
       {
-        "de": "Tom ist derjenige, der den Verband von Marias Arm abmachte",
+        "de": "Tom ist derjenige, der den Verband von Marias Arm abmachte.",
         "en": "Tom is the one who took off the bandage from Maria's arm."
       },
       {
-        "de": "Ich mach",
+        "de": "Ich mache das mit mir selber ab.",
         "en": "I deal with it myself."
       }
     ],
@@ -143,8 +295,140 @@
     "source_url": "https://www.verbformen.de/konjugation/abmachen.htm",
     "rank": 99,
     "first_seen": "2026-10-08T10:56:46+00:00",
-    "updated_at": "2026-10-08T20:53:25+00:00",
-    "hash": "c28a1690639c4626"
+    "updated_at": "2026-10-12T04:29:18+00:00",
+    "hash": "dd207e8ef2f67bc3"
+  },
+  {
+    "id": "abziehen",
+    "type": "verb",
+    "infinitive": "abziehen",
+    "level": "B1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "sein"
+    ],
+    "auxiliary_raw": "sein",
+    "present_3sg": "zieht ab",
+    "praeteritum_3sg": "zog ab",
+    "perfekt_3sg": "ist abgezogen",
+    "partizip2": "abgezogen",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "aus+D",
+      "von+D"
+    ],
+    "usage_pattern_raw": "Akk., aus+D, von+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "ziehe ab",
+        "du": "ziehst ab",
+        "er": "zieht ab",
+        "wir": "ziehen ab",
+        "ihr": "zieht ab",
+        "sie": "ziehen ab"
+      },
+      "Präteritum": {
+        "ich": "zog ab",
+        "du": "zogst ab",
+        "er": "zog ab",
+        "wir": "zogen ab",
+        "ihr": "zogt ab",
+        "sie": "zogen ab"
+      },
+      "Perfekt": {
+        "ich": "bin abgezogen",
+        "du": "bist abgezogen",
+        "er": "ist abgezogen",
+        "wir": "sind abgezogen",
+        "ihr": "seid abgezogen",
+        "sie": "sind abgezogen"
+      },
+      "Plusquamperfekt": {
+        "ich": "war abgezogen",
+        "du": "warst abgezogen",
+        "er": "war abgezogen",
+        "wir": "waren abgezogen",
+        "ihr": "wart abgezogen",
+        "sie": "waren abgezogen"
+      },
+      "Futur I": {
+        "ich": "werde abzieh(e)n",
+        "du": "wirst abzieh(e)n",
+        "er": "wird abzieh(e)n",
+        "wir": "werden abzieh(e)n",
+        "ihr": "werdet abzieh(e)n",
+        "sie": "werden abzieh(e)n"
+      },
+      "Futur II": {
+        "ich": "werde abgezogen sein",
+        "du": "wirst abgezogen sein",
+        "er": "wird abgezogen sein",
+        "wir": "werden abgezogen sein",
+        "ihr": "werdet abgezogen sein",
+        "sie": "werden abgezogen sein"
+      }
+    },
+    "imperative": [
+      "ich ziehe ab",
+      "du ziehst ab",
+      "er zieht ab",
+      "wir ziehen ab",
+      "ihr zieht ab",
+      "sie ziehen ab"
+    ],
+    "english": [
+      "withdraw",
+      "detach",
+      "go away",
+      "move off",
+      "remove"
+    ],
+    "definitions_de": [
+      "sich entfernen, abhauen, abrücken, sich entfernen, vondannenziehen, weggehen",
+      "[Militär] wegziehen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom ist ohne Sang und Klang nach Hause abgezogen.",
+        "en": "Tom left home without a sound."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/abziehen_ist.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/abziehen_ist.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/abziehen_ist.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/abziehen_ist.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/abziehen_ist.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/abziehen_ist.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/abziehen_ist.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/abziehen_ist.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/abziehen_ist.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/abziehen_ist.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/abziehen_ist.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/abziehen_ist.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/abziehen_ist.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/abziehen_ist.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/abziehen_ist.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/abziehen_ist.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/abziehen_ist.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/abziehen_ist.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/abziehen_ist.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/abziehen_ist.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/abziehen_ist.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/abziehen_ist.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/abziehen_ist.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/abziehen.htm",
+    "rank": 705,
+    "first_seen": "2026-10-12T08:58:15+00:00",
+    "updated_at": "2026-10-12T08:58:36+00:00",
+    "hash": "88c1bee2c98f9327"
   },
   {
     "id": "anerkennen",
@@ -250,15 +534,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wir erkennen sie nicht an",
+        "de": "Wir erkennen sie nicht an.",
         "en": "We do not recognize them."
       },
       {
-        "de": "Sie erkennen deutsche Ämter nicht",
+        "de": "Sie erkennen deutsche Ämter nicht an.",
         "en": "They do not recognize German authorities."
       },
       {
-        "de": "Die Polizei erkennen sie auch nicht an",
+        "de": "Die Polizei erkennen sie auch nicht an.",
         "en": "The police do not recognize them either."
       },
       {
@@ -266,11 +550,11 @@
         "en": "People recognize that he is smart."
       },
       {
-        "de": "Johnson weigerte sich, das Gesetz anzuerkennen",
+        "de": "Johnson weigerte sich, das Gesetz anzuerkennen.",
         "en": "Johnson refused to recognize the law."
       },
       {
-        "de": "Deutsche Behörden erkennen ein russisches Diplom nicht",
+        "de": "Deutsche Behörden erkennen ein russisches Diplom nicht an.",
         "en": "German authorities do not recognize a Russian diploma."
       }
     ],
@@ -302,8 +586,157 @@
     "source_url": "https://www.verbformen.de/konjugation/anerkennen.htm",
     "rank": 353,
     "first_seen": "2026-10-08T21:38:11+00:00",
-    "updated_at": "2026-10-08T21:38:33+00:00",
-    "hash": "70d7481fd6783669"
+    "updated_at": "2026-10-12T04:29:18+00:00",
+    "hash": "5b416f86d34a5f23"
+  },
+  {
+    "id": "anfu3hlen",
+    "type": "verb",
+    "infinitive": "anfühlen",
+    "level": "B1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "fühlt an",
+    "praeteritum_3sg": "fühlte an",
+    "perfekt_3sg": "hat angefühlt",
+    "partizip2": "angefühlt",
+    "separable_prefix": "an",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "fühle an",
+        "du": "fühlst an",
+        "er": "fühlt an",
+        "wir": "fühlen an",
+        "ihr": "fühlt an",
+        "sie": "fühlen an"
+      },
+      "Präteritum": {
+        "ich": "fühlte an",
+        "du": "fühltest an",
+        "er": "fühlte an",
+        "wir": "fühlten an",
+        "ihr": "fühltet an",
+        "sie": "fühlten an"
+      },
+      "Perfekt": {
+        "ich": "habe angefühlt",
+        "du": "hast angefühlt",
+        "er": "hat angefühlt",
+        "wir": "haben angefühlt",
+        "ihr": "habt angefühlt",
+        "sie": "haben angefühlt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte angefühlt",
+        "du": "hattest angefühlt",
+        "er": "hatte angefühlt",
+        "wir": "hatten angefühlt",
+        "ihr": "hattet angefühlt",
+        "sie": "hatten angefühlt"
+      },
+      "Futur I": {
+        "ich": "werde anfühlen",
+        "du": "wirst anfühlen",
+        "er": "wird anfühlen",
+        "wir": "werden anfühlen",
+        "ihr": "werdet anfühlen",
+        "sie": "werden anfühlen"
+      },
+      "Futur II": {
+        "ich": "werde angefühlt haben",
+        "du": "wirst angefühlt haben",
+        "er": "wird angefühlt haben",
+        "wir": "werden angefühlt haben",
+        "ihr": "werdet angefühlt haben",
+        "sie": "werden angefühlt haben"
+      }
+    },
+    "imperative": [
+      "ich fühle an",
+      "du fühlst an",
+      "er fühlt an",
+      "wir fühlen an",
+      "ihr fühlt an",
+      "sie fühlen an"
+    ],
+    "english": [
+      "feel",
+      "touch",
+      "feel like",
+      "seem like"
+    ],
+    "definitions_de": [
+      "etwas mit den Fingern berühren, befühlen, berühren, betasten",
+      "so vorkommen wie, erscheinen als, vorkommen als"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wie fühlt sich das an?",
+        "en": "What does that feel like?"
+      },
+      {
+        "de": "Wie hat sich das angefühlt?",
+        "en": "What did that feel like?"
+      },
+      {
+        "de": "Meine Beine fühlen sich schwer an.",
+        "en": "My legs feel heavy."
+      },
+      {
+        "de": "Tom weiß, wie sich das anfühlt.",
+        "en": "Tom knows what that feels like."
+      },
+      {
+        "de": "Das fühlt sich gut an, nicht wahr?",
+        "en": "It feels good, doesn't it?"
+      },
+      {
+        "de": "Mein Herz klopft so heftig, es fühlt sich an, als ob es gleich explodiert.",
+        "en": "My heart is pounding so hard it feels like it's going to explode."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/anfu3hlen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/anfu3hlen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/anfu3hlen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/anfu3hlen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/anfu3hlen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/anfu3hlen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/anfu3hlen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/anfu3hlen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/anfu3hlen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/anfu3hlen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/anfu3hlen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/anfu3hlen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/anfu3hlen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/anfu3hlen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/anfu3hlen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/anfu3hlen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/anfu3hlen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/anfu3hlen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/anfu3hlen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/anfu3hlen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/anfu3hlen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/anfu3hlen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/anfu3hlen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/anfu3hlen.htm",
+    "rank": 719,
+    "first_seen": "2026-10-12T08:10:19+00:00",
+    "updated_at": "2026-10-12T09:01:22+00:00",
+    "hash": "c1a9191789748682"
   },
   {
     "id": "angeben",
@@ -425,27 +858,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Gib nicht an",
+        "de": "Gib nicht an.",
         "en": "Don't show off."
       },
       {
-        "de": "Geben Sie alles an",
+        "de": "Geben Sie alles an.",
         "en": "Provide everything."
       },
       {
-        "de": "Hat er eine Begründung angegeb",
+        "de": "Hat er eine Begründung angegeben?",
         "en": "Has he given a reason?"
       },
       {
-        "de": "Gi",
+        "de": "Gib nicht so sehr damit an.",
         "en": "Don't boast too much about that."
       },
       {
-        "de": "Wer ang",
+        "de": "Wer angibt, hat mehr vom Leben.",
         "en": "Those who give have more from life."
       },
       {
-        "de": "Tom konnte es nicht lassen, damit anzugeben",
+        "de": "Tom konnte es nicht lassen, damit anzugeben.",
         "en": "Tom couldn't stop bragging about it."
       }
     ],
@@ -477,8 +910,8 @@
     "source_url": "https://www.verbformen.de/konjugation/angeben.htm",
     "rank": 233,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-08T21:10:15+00:00",
-    "hash": "9679d7d0b41bdd11"
+    "updated_at": "2026-10-12T04:29:18+00:00",
+    "hash": "a7e9ed263ea97dfc"
   },
   {
     "id": "angehen",
@@ -715,24 +1148,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Hört sich gut an",
+        "de": "Hört sich gut an.",
         "en": "Sounds good."
       },
       {
-        "de": "Hör",
+        "de": "Tom hört sich ängstlich an.",
+        "en": "Tom sounds frightened."
+      },
+      {
+        "de": "Hört sich das nicht toll an?",
         "en": "Doesn't that sound fantastic?"
       },
       {
-        "de": "Bitte hör",
+        "de": "Bitte hören Sie sich die Aufnahme an.",
         "en": "Please listen to the recording."
       },
       {
-        "de": "Es ist einfacher, als es sich anhör",
-        "en": "It's easier than it sounds."
+        "de": "Tom hört sich gern Marias russischen Akzent an.",
+        "en": "Tom enjoys listening to Maria's Russian accent."
       },
       {
-        "de": "Ich habe es satt, mir das anzuhör",
-        "en": "I'm fed up with listening to this."
+        "de": "Es ist einfacher, als es sich anhört.",
+        "en": "It's easier than it sounds."
       }
     ],
     "audio": {
@@ -763,8 +1200,8 @@
     "source_url": "https://www.verbformen.de/konjugation/anho3ren.htm",
     "rank": 242,
     "first_seen": "2026-10-08T11:39:21+00:00",
-    "updated_at": "2026-10-08T21:15:44+00:00",
-    "hash": "e2a3618e3eb1e46b"
+    "updated_at": "2026-10-12T04:29:19+00:00",
+    "hash": "c15db00531336825"
   },
   {
     "id": "anschaffen",
@@ -865,27 +1302,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Darf ich mir einen Hund anschaffen",
+        "de": "Darf ich mir einen Hund anschaffen?",
         "en": "Can I get a dog?"
       },
       {
-        "de": "Tom beschloss, sich eine Katze anzuschaffen",
+        "de": "Tom beschloss, sich eine Katze anzuschaffen.",
         "en": "Tom decided to get himself a cat."
       },
       {
-        "de": "Der Chef hat mir die Arbeit angeschaff",
+        "de": "Der Chef hat mir die Arbeit angeschafft.",
         "en": "The boss got me the job."
       },
       {
-        "de": "Ich überzeugte meine Frau, keinen neuen Teppich anzuschaffen",
+        "de": "Ich überzeugte meine Frau, keinen neuen Teppich anzuschaffen.",
         "en": "I talked my wife out of buying a new carpet."
       },
       {
-        "de": "Wer sich eine Frau anschaff",
+        "de": "Wer sich eine Frau anschafft, hat entweder eine Tüte voller Geld oder ein Gepäck voller Lügen.",
         "en": "Whoever acquires a woman either has a bag full of money or a suitcase full of lies."
       },
       {
-        "de": "Wir sollten uns unbedingt eine Alarmanlage anschaffen",
+        "de": "Wir sollten uns unbedingt eine Alarmanlage anschaffen.",
         "en": "We should definitely get an alarm system."
       }
     ],
@@ -917,8 +1354,8 @@
     "source_url": "https://www.verbformen.de/konjugation/anschaffen.htm",
     "rank": 660,
     "first_seen": "2026-10-08T14:40:07+00:00",
-    "updated_at": "2026-10-08T22:25:48+00:00",
-    "hash": "6d06e14df94dea23"
+    "updated_at": "2026-10-12T04:29:19+00:00",
+    "hash": "228379ed59783e69"
   },
   {
     "id": "anstehen",
@@ -1176,27 +1613,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Manchmal ist Geduld angezeig",
+        "de": "Manchmal ist Geduld angezeigt.",
         "en": "Sometimes patience is necessary."
       },
       {
-        "de": "Du kannst mich anzeigen",
+        "de": "Du kannst mich anzeigen.",
         "en": "You can report me."
       },
       {
-        "de": "Ich zeig",
+        "de": "Ich zeige sie nicht an.",
         "en": "I do not report her."
       },
       {
-        "de": "Meine Uhr zeig",
+        "de": "Meine Uhr zeigt zehn Uhr an.",
         "en": "My watch shows ten o'clock."
       },
       {
-        "de": "Bitte zeigen Sie die richtige Antwort",
+        "de": "Bitte zeigen Sie die richtige Antwort an.",
         "en": "Please show the correct answer."
       },
       {
-        "de": "Durch einen Anruf zeigte er seinen Besuch",
+        "de": "Durch einen Anruf zeigte er seinen Besuch an.",
         "en": "Through a call, he announced his visit."
       }
     ],
@@ -1228,8 +1665,8 @@
     "source_url": "https://www.verbformen.de/konjugation/anzeigen.htm",
     "rank": 519,
     "first_seen": "2026-10-08T13:39:14+00:00",
-    "updated_at": "2026-10-08T21:59:16+00:00",
-    "hash": "75dc35c4ff6bc67c"
+    "updated_at": "2026-10-12T04:29:19+00:00",
+    "hash": "88e4c780777c275b"
   },
   {
     "id": "aufbauen",
@@ -1359,28 +1796,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Es wird jetzt neu aufgebau",
+        "de": "Tom baute das Zelt auf.",
+        "en": "Tom set up the tent."
+      },
+      {
+        "de": "Es wird jetzt neu aufgebaut.",
         "en": "It is being rebuilt now."
       },
       {
-        "de": "Die Möbel muss man selbst aufbauen",
+        "de": "Die Möbel muss man selbst aufbauen.",
         "en": "The furniture must be assembled by oneself."
       },
       {
-        "de": "Er trainiert, um Muskeln aufzubauen",
+        "de": "Er trainiert, um Muskeln aufzubauen.",
         "en": "He trains to build muscles."
       },
       {
-        "de": "Sie mussten ganz früh einen Stand aufbauen",
+        "de": "Sie mussten ganz früh einen Stand aufbauen.",
         "en": "They had to set up a stand very early."
       },
       {
-        "de": "Wir mussten uns der Größe nach aufbauen",
+        "de": "Wir mussten uns der Größe nach aufbauen.",
         "en": "We had to organize ourselves by size."
-      },
-      {
-        "de": "Die Menschen haben dort einfach kleine Zelte aufgebau",
-        "en": "The people have simply set up small tents there."
       }
     ],
     "audio": {
@@ -1411,8 +1848,8 @@
     "source_url": "https://www.verbformen.de/konjugation/aufbauen.htm",
     "rank": 28,
     "first_seen": "2026-10-08T10:48:40+00:00",
-    "updated_at": "2026-10-08T20:51:56+00:00",
-    "hash": "7de9a339da7a1357"
+    "updated_at": "2026-10-12T04:29:20+00:00",
+    "hash": "1658c35be75d089a"
   },
   {
     "id": "aufgeben",
@@ -1536,24 +1973,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Du hast aufgegeben",
+        "de": "Tom gibt auf.",
+        "en": "Tom is quitting."
+      },
+      {
+        "de": "Du hast aufgegeben.",
         "en": "You gave up."
       },
       {
-        "de": "Hast du vor aufzugeben",
+        "de": "Tom gibt nicht auf.",
+        "en": "Tom doesn't give up."
+      },
+      {
+        "de": "Hast du vor aufzugeben?",
         "en": "Are you going to give up?"
       },
       {
-        "de": "Am liebsten gäbe ich auf",
+        "de": "Am liebsten gäbe ich auf.",
         "en": "I feel like giving up."
       },
       {
-        "de": "Wer aufg",
+        "de": "Wer aufgibt, wird aufgegeben.",
         "en": "Whoever gives up will be given up."
-      },
-      {
-        "de": "Hast du die Bestellung schon aufgegeben",
-        "en": "Have you ordered?"
       }
     ],
     "audio": {
@@ -1584,8 +2025,8 @@
     "source_url": "https://www.verbformen.de/konjugation/aufgeben.htm",
     "rank": 233,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-08T21:10:36+00:00",
-    "hash": "3b27092aa0c10a77"
+    "updated_at": "2026-10-12T04:29:20+00:00",
+    "hash": "8871a0f410c75f7d"
   },
   {
     "id": "aufhalten",
@@ -1712,28 +2153,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich wurde aufgehalten",
+        "de": "Ich wurde aufgehalten.",
         "en": "I was detained."
       },
       {
-        "de": "Tom ist nicht aufzuhalten",
+        "de": "Tom ist nicht aufzuhalten.",
         "en": "Tom is unstoppable."
       },
       {
-        "de": "Halten Sie ihn nicht auf",
+        "de": "Halten Sie ihn nicht auf.",
         "en": "Don't stop him."
       },
       {
-        "de": "Du kannst den Fortschritt nicht aufhalten",
+        "de": "Du kannst den Fortschritt nicht aufhalten.",
         "en": "You can't stop progress."
       },
       {
-        "de": "Das Rad der Zeit",
-        "en": "No one can stop the time from passing."
+        "de": "Heinrich hielt Helga die Tür auf.",
+        "en": "Heinrich held the door open for Helga."
       },
       {
-        "de": "Er hält sich im Moment in Paris auf",
-        "en": "He is now staying in Paris."
+        "de": "Das Rad der Zeit hält niemand auf.",
+        "en": "No one can stop the time from passing."
       }
     ],
     "audio": {
@@ -1764,8 +2205,8 @@
     "source_url": "https://www.verbformen.de/konjugation/aufhalten.htm",
     "rank": 331,
     "first_seen": "2026-10-08T12:17:47+00:00",
-    "updated_at": "2026-10-08T21:36:28+00:00",
-    "hash": "deaf7d58bcb8857c"
+    "updated_at": "2026-10-12T04:29:20+00:00",
+    "hash": "1901da6b434105de"
   },
   {
     "id": "auseinandersetzen",
@@ -1880,27 +2321,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Du willst dich tatsächlich damit auseinandersetzen",
+        "de": "Du willst dich tatsächlich damit auseinandersetzen?",
         "en": "Do you really want to deal with this?"
       },
       {
-        "de": "Ich werde mich mit dir nicht auseinandersetz",
+        "de": "Ich werde mich mit dir nicht auseinandersetzen.",
         "en": "I will not engage with you."
       },
       {
-        "de": "Ich muss mich dauernd mit solchen Problemen auseinandersetzen",
+        "de": "Ich muss mich dauernd mit solchen Problemen auseinandersetzen.",
         "en": "I have to constantly deal with such problems."
       },
       {
-        "de": "Leute, die miteinander quatschen, werden auseinandergesetz",
+        "de": "Leute, die miteinander quatschen, werden auseinandergesetzt.",
         "en": "People who chat with each other will be separated."
       },
       {
-        "de": "Ich bin zu müde, um mich damit auseinanderzusetzen",
+        "de": "Ich bin zu müde, um mich damit auseinanderzusetzen.",
         "en": "I'm too tired to argue."
       },
       {
-        "de": "Ich muss mich dauernd mit solchen Angelegenheiten auseinandersetzen",
+        "de": "Ich muss mich dauernd mit solchen Angelegenheiten auseinandersetzen.",
         "en": "I constantly have to deal with such matters."
       }
     ],
@@ -1932,8 +2373,8 @@
     "source_url": "https://www.verbformen.de/konjugation/auseinandersetzen.htm",
     "rank": 622,
     "first_seen": "2026-10-08T14:23:46+00:00",
-    "updated_at": "2026-10-08T22:19:39+00:00",
-    "hash": "e73b54056741d512"
+    "updated_at": "2026-10-12T04:29:20+00:00",
+    "hash": "8af02137de6d0d28"
   },
   {
     "id": "aussagen",
@@ -2047,23 +2488,23 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom beschloss, nicht auszusagen",
+        "de": "Tom beschloss, nicht auszusagen.",
         "en": "Tom decided not to testify."
       },
       {
-        "de": "Sie hat gegen ihn ausgesag",
+        "de": "Sie hat gegen ihn ausgesagt.",
         "en": "She testified against him."
       },
       {
-        "de": "Eine Frau hat dazu öffentlich ausgesag",
+        "de": "Eine Frau hat dazu öffentlich ausgesagt.",
         "en": "A woman has publicly stated about this."
       },
       {
-        "de": "Meine Rechtsanwälte wollten nicht, dass ich aussag",
+        "de": "Meine Rechtsanwälte wollten nicht, dass ich aussage.",
         "en": "My lawyers didn't want me to testify."
       },
       {
-        "de": "Das war ein Zufall, was sag",
+        "de": "Das war ein Zufall, was sagt das schon aus.",
         "en": "That was a coincidence, what does that say already."
       },
       {
@@ -2099,8 +2540,8 @@
     "source_url": "https://www.verbformen.de/konjugation/aussagen.htm",
     "rank": 98,
     "first_seen": "2026-10-08T10:56:40+00:00",
-    "updated_at": "2026-10-08T20:53:20+00:00",
-    "hash": "283fd2ffe2ddf71d"
+    "updated_at": "2026-10-12T04:29:20+00:00",
+    "hash": "b51b6b54d387e695"
   },
   {
     "id": "aussterben",
@@ -2199,27 +2640,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Bevölkerung st",
+        "de": "Die Bevölkerung stirbt aus.",
         "en": "The population is dying off."
       },
       {
-        "de": "Der Panda ist dabei, auszusterben",
+        "de": "Der Panda ist dabei, auszusterben.",
         "en": "The panda is on the verge of extinction."
       },
       {
-        "de": "Die Tiere in dem Wald",
+        "de": "Die Tiere in dem Wald starben aus.",
         "en": "The animals in the forest died off."
       },
       {
-        "de": "Viele befürchten, dass die deutschen Dialekte bald aussterben",
+        "de": "Viele befürchten, dass die deutschen Dialekte bald aussterben.",
         "en": "Many fear that the German dialects will soon become extinct."
       },
       {
-        "de": "Warum wollen einige eurer Leute, dass eure Sprache ausst",
+        "de": "Warum wollen einige eurer Leute, dass eure Sprache ausstirbt?",
         "en": "Why do some of your people want your language to die?"
       },
       {
-        "de": "Dinosaurier sind mittlerweile ausgest",
+        "de": "Dinosaurier sind mittlerweile ausgestorben.",
         "en": "Dinosaurs are now extinct."
       }
     ],
@@ -2251,8 +2692,8 @@
     "source_url": "https://www.verbformen.de/konjugation/aussterben.htm",
     "rank": 405,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-08T21:46:51+00:00",
-    "hash": "54b73aa6b1276313"
+    "updated_at": "2026-10-12T04:29:21+00:00",
+    "hash": "0495c9b10f736c24"
   },
   {
     "id": "bearbeiten",
@@ -2376,7 +2817,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich bearbeit",
+        "de": "Ich bearbeite sie nicht.",
         "en": "I do not edit them."
       },
       {
@@ -2396,7 +2837,7 @@
         "en": "That's why not so many trains can be processed."
       },
       {
-        "de": "Ich musste einen Aufsatz bearbeiten",
+        "de": "Ich musste einen Aufsatz bearbeiten.",
         "en": "I had to work on an essay."
       }
     ],
@@ -2428,8 +2869,8 @@
     "source_url": "https://www.verbformen.de/konjugation/bearbeiten.htm",
     "rank": 416,
     "first_seen": "2026-10-08T12:54:51+00:00",
-    "updated_at": "2026-10-08T21:47:11+00:00",
-    "hash": "e025c1c200ef1681"
+    "updated_at": "2026-10-12T04:29:21+00:00",
+    "hash": "4709e8bbf720abbd"
   },
   {
     "id": "bedenken",
@@ -2540,28 +2981,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das müssen wir bedenken",
+        "de": "Das müssen wir bedenken.",
         "en": "We have to keep this in mind."
       },
       {
-        "de": "Das hatte Tom nie bedach",
+        "de": "Tom bedenkt die Bedürfnisse anderer.",
+        "en": "Tom is sensitive to the needs of others."
+      },
+      {
+        "de": "Das hatte Tom nie bedacht.",
         "en": "Tom never considered that."
       },
       {
-        "de": "Bedenk",
+        "de": "Bedenke, dass du sterben musst.",
         "en": "Keep in mind that you must die."
       },
       {
-        "de": "Bedenk",
+        "de": "Bedenke gut, was du tun wirst.",
         "en": "Think carefully about what you are going to do."
       },
       {
-        "de": "Bedenk",
+        "de": "Bedenke, dass jedes Ding zwei Seiten hat.",
         "en": "Remember that every thing has two sides."
-      },
-      {
-        "de": "Haben Sie schon alle Auswirkungen bedach",
-        "en": "Have you considered all the ramifications yet?"
       }
     ],
     "audio": {
@@ -2592,8 +3033,8 @@
     "source_url": "https://www.verbformen.de/konjugation/bedenken.htm",
     "rank": 256,
     "first_seen": "2026-10-08T11:45:17+00:00",
-    "updated_at": "2026-10-08T21:16:47+00:00",
-    "hash": "36b7770cc1a40de1"
+    "updated_at": "2026-10-12T04:29:21+00:00",
+    "hash": "3e47bb831cf3122a"
   },
   {
     "id": "befinden",
@@ -2711,7 +3152,7 @@
         "en": "What is over there?"
       },
       {
-        "de": "Niemand bef",
+        "de": "Niemand befand sich dort.",
         "en": "There was no one there."
       },
       {
@@ -2719,7 +3160,7 @@
         "en": "Where are you located?"
       },
       {
-        "de": "Wo befind",
+        "de": "Wo befinde ich mich?",
         "en": "Where am I?"
       },
       {
@@ -2727,7 +3168,7 @@
         "en": "Where's the exit?"
       },
       {
-        "de": "Sie wurde für schuldig bef",
+        "de": "Sie wurde für schuldig befunden.",
         "en": "She was found guilty."
       }
     ],
@@ -2759,8 +3200,8 @@
     "source_url": "https://www.verbformen.de/konjugation/befinden.htm",
     "rank": 220,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-08T21:08:08+00:00",
-    "hash": "44370ea12222ef27"
+    "updated_at": "2026-10-12T04:29:21+00:00",
+    "hash": "3e18101f7f8ba12e"
   },
   {
     "id": "befragen",
@@ -2886,7 +3327,7 @@
         "en": "The journalist only questioned trustworthy witnesses."
       },
       {
-        "de": "Der Kandidat befrag",
+        "de": "Der Kandidat befragte die Wähler.",
         "en": "The candidate questioned the voters."
       }
     ],
@@ -2918,8 +3359,8 @@
     "source_url": "https://www.verbformen.de/konjugation/befragen.htm",
     "rank": 299,
     "first_seen": "2026-10-08T21:24:47+00:00",
-    "updated_at": "2026-10-08T21:25:08+00:00",
-    "hash": "3cfef789c6a6b702"
+    "updated_at": "2026-10-12T04:29:21+00:00",
+    "hash": "bd783298956dd1a0"
   },
   {
     "id": "begeben",
@@ -3046,28 +3487,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er beg",
+        "de": "Er begab sich in Lebensgefahr.",
         "en": "He put himself in danger of life."
       },
       {
-        "de": "Wir sollten uns außer Gefahr begeben",
+        "de": "Tom begibt sich auf dünnes Eis.",
+        "en": "Tom is skating on thin ice."
+      },
+      {
+        "de": "Wir sollten uns außer Gefahr begeben.",
         "en": "We should avoid danger."
       },
       {
-        "de": "Hernach beg",
+        "de": "Hernach begab sich Tom nach Australien.",
         "en": "Tom then went to Australia."
       },
       {
-        "de": "Beg",
+        "de": "Begib dich bitte in die Küche.",
         "en": "Please go to the kitchen."
       },
       {
-        "de": "Begeb",
+        "de": "Begebt euch nicht in schlechte Gesellschaft.",
         "en": "Don't keep bad company."
-      },
-      {
-        "de": "Ich begeb",
-        "en": "I place myself in your hands."
       }
     ],
     "audio": {
@@ -3098,8 +3539,8 @@
     "source_url": "https://www.verbformen.de/konjugation/begeben.htm",
     "rank": 233,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-08T21:10:58+00:00",
-    "hash": "0bb1ad6d0d52f01b"
+    "updated_at": "2026-10-12T04:29:21+00:00",
+    "hash": "a0518de003a5e1d9"
   },
   {
     "id": "begeistern",
@@ -3226,15 +3667,15 @@
         "en": "Are you excited about books?"
       },
       {
-        "de": "Das Spiel hat viele begeister",
+        "de": "Das Spiel hat viele begeistert.",
         "en": "The game got a lot of people excited."
       },
       {
-        "de": "Das Spiel begeister",
+        "de": "Das Spiel begeisterte viele Leute.",
         "en": "The game excited lots of people."
       },
       {
-        "de": "Und wofür begeister",
+        "de": "Und wofür begeisterst du dich so?",
         "en": "And what are you so enthusiastic about?"
       },
       {
@@ -3270,8 +3711,8 @@
     "source_url": "https://www.verbformen.de/konjugation/begeistern.htm",
     "rank": 686,
     "first_seen": "2026-10-08T14:51:17+00:00",
-    "updated_at": "2026-10-08T22:28:15+00:00",
-    "hash": "fcd4b550e485eb7e"
+    "updated_at": "2026-10-12T04:29:22+00:00",
+    "hash": "35e482c38d837314"
   },
   {
     "id": "besetzen",
@@ -3385,7 +3826,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Es ist besetz",
+        "de": "Es ist besetzt.",
         "en": "It's occupied."
       },
       {
@@ -3393,19 +3834,19 @@
         "en": "We occupied Rome."
       },
       {
-        "de": "Alle Bänke sind besetz",
+        "de": "Alle Bänke sind besetzt.",
         "en": "All the benches are taken."
       },
       {
-        "de": "Ich besetz",
+        "de": "Ich besetze ein Haus.",
         "en": "I occupy a house."
       },
       {
-        "de": "Hast du die Arbeitsstelle besetz",
+        "de": "Hast du die Arbeitsstelle besetzt?",
         "en": "Have you filled the job position?"
       },
       {
-        "de": "Die Stelle wird nicht neu besetz",
+        "de": "Die Stelle wird nicht neu besetzt.",
         "en": "The position will not be filled again."
       }
     ],
@@ -3437,8 +3878,8 @@
     "source_url": "https://www.verbformen.de/konjugation/besetzen.htm",
     "rank": 622,
     "first_seen": "2026-10-08T14:23:46+00:00",
-    "updated_at": "2026-10-08T22:20:01+00:00",
-    "hash": "4cf90b797b6b45f1"
+    "updated_at": "2026-10-12T04:29:22+00:00",
+    "hash": "ff6181fd573390ed"
   },
   {
     "id": "besorgen",
@@ -3552,7 +3993,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Besorg",
+        "de": "Besorge uns etwas Wasser.",
         "en": "Get us some water."
       },
       {
@@ -3560,20 +4001,20 @@
         "en": "Find a job."
       },
       {
-        "de": "Ich besorg",
+        "de": "Ich besorge Ihnen einen Kaffee.",
         "en": "I will get you a coffee."
       },
       {
-        "de": "Heutzutage kann sich jeder Bücher besorgen",
+        "de": "Tom besorgte mir eine Uhr.",
+        "en": "Tom got me a watch."
+      },
+      {
+        "de": "Heutzutage kann sich jeder Bücher besorgen.",
         "en": "These days anyone can get oneself books."
       },
       {
-        "de": "Bitte besorg",
+        "de": "Bitte besorge mir Möhren aus dem Handel.",
         "en": "Please get me carrots from the store."
-      },
-      {
-        "de": "Heute habe ich noch verschiedene Gänge zu besorgen",
-        "en": "Today I still have to procure various dishes."
       }
     ],
     "audio": {
@@ -3604,8 +4045,8 @@
     "source_url": "https://www.verbformen.de/konjugation/besorgen.htm",
     "rank": 422,
     "first_seen": "2026-10-08T12:56:58+00:00",
-    "updated_at": "2026-10-08T21:49:16+00:00",
-    "hash": "f09d6a5d2f3e5e84"
+    "updated_at": "2026-10-12T04:29:22+00:00",
+    "hash": "d62d07499657ed60"
   },
   {
     "id": "besprechen",
@@ -3709,7 +4150,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Was wurde besprochen",
+        "de": "Was wurde besprochen?",
         "en": "What was discussed?"
       },
       {
@@ -3717,20 +4158,20 @@
         "en": "They discussed it by phone."
       },
       {
-        "de": "Die Sache wurde bespr",
+        "de": "Die Sache wurde besprochen.",
         "en": "The problem was under discussion."
       },
       {
-        "de": "Das werden wir später besprechen",
+        "de": "Das werden wir später besprechen.",
         "en": "We will discuss that later."
       },
       {
-        "de": "Bespr",
+        "de": "Besprichst du das mit deinen Eltern?",
         "en": "Are you discussing this with your parents?"
       },
       {
-        "de": "Bespr",
-        "en": "Discuss and give examples."
+        "de": "Tom besprach das Problem mit Mary.",
+        "en": "Tom discussed the problem with Mary."
       }
     ],
     "audio": {
@@ -3761,8 +4202,180 @@
     "source_url": "https://www.verbformen.de/konjugation/besprechen.htm",
     "rank": 318,
     "first_seen": "2026-10-08T12:12:11+00:00",
-    "updated_at": "2026-10-08T21:35:04+00:00",
-    "hash": "d5fe6843c52537e8"
+    "updated_at": "2026-10-12T04:29:22+00:00",
+    "hash": "5609a8ea37daa7e8"
+  },
+  {
+    "id": "beziehen",
+    "type": "verb",
+    "infinitive": "beziehen",
+    "level": "B1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "bezieht",
+    "praeteritum_3sg": "bezog",
+    "perfekt_3sg": "hat bezogen",
+    "partizip2": "bezogen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": "sich) anlehnen (an",
+    "indicative": {
+      "Präsens": {
+        "ich": "beziehe",
+        "du": "beziehst",
+        "er": "bezieht",
+        "wir": "beziehen",
+        "ihr": "bezieht",
+        "sie": "beziehen"
+      },
+      "Präteritum": {
+        "ich": "bezog",
+        "du": "bezogst",
+        "er": "bezog",
+        "wir": "bezogen",
+        "ihr": "bezogt",
+        "sie": "bezogen"
+      },
+      "Perfekt": {
+        "ich": "habe bezogen",
+        "du": "hast bezogen",
+        "er": "hat bezogen",
+        "wir": "haben bezogen",
+        "ihr": "habt bezogen",
+        "sie": "haben bezogen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte bezogen",
+        "du": "hattest bezogen",
+        "er": "hatte bezogen",
+        "wir": "hatten bezogen",
+        "ihr": "hattet bezogen",
+        "sie": "hatten bezogen"
+      },
+      "Futur I": {
+        "ich": "werde bezieh(e)n",
+        "du": "wirst bezieh(e)n",
+        "er": "wird bezieh(e)n",
+        "wir": "werden bezieh(e)n",
+        "ihr": "werdet bezieh(e)n",
+        "sie": "werden bezieh(e)n"
+      },
+      "Futur II": {
+        "ich": "werde bezogen haben",
+        "du": "wirst bezogen haben",
+        "er": "wird bezogen haben",
+        "wir": "werden bezogen haben",
+        "ihr": "werdet bezogen haben",
+        "sie": "werden bezogen haben"
+      }
+    },
+    "imperative": [
+      "ich beziehe",
+      "du beziehst",
+      "er bezieht",
+      "wir beziehen",
+      "ihr bezieht",
+      "sie beziehen"
+    ],
+    "english": [
+      "begin",
+      "move in",
+      "obtain",
+      "receive",
+      "refer",
+      "start",
+      "allude to",
+      "apply to",
+      "bear on",
+      "become less friendly",
+      "cloud over",
+      "connect",
+      "correlate",
+      "correspond to",
+      "deal (with)",
+      "derive (from)",
+      "draw",
+      "enclose",
+      "move into",
+      "procure",
+      "purchase",
+      "refer to",
+      "reference",
+      "relate",
+      "relate to",
+      "source",
+      "surround",
+      "upholster"
+    ],
+    "definitions_de": [
+      "irgendwo einziehen, einziehen",
+      "etwas beginnen, anfangen, antreten, beginnen",
+      "etwas mit Schonmaterial umgeben, bespannen, einhüllen, überziehen",
+      "etwas von jemand nach Bestellung erhalten, abonnieren, bekommen, bestellen, erhalten"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom bezieht das Bett.",
+        "en": "Tom makes the bed."
+      },
+      {
+        "de": "Der Himmel bezieht sich.",
+        "en": "The sky is referring."
+      },
+      {
+        "de": "Ich beziehe ein wöchentliches Gehalt.",
+        "en": "I receive a weekly salary."
+      },
+      {
+        "de": "Tom bezog sein Bett neu.",
+        "en": "Tom put clean sheets on his bed."
+      },
+      {
+        "de": "Wir bezogen ein neues Haus.",
+        "en": "We moved into a new house."
+      },
+      {
+        "de": "Beziehst du dich auf mich?",
+        "en": "Are you referring to me?"
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/beziehen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/beziehen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/beziehen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/beziehen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/beziehen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/beziehen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/beziehen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/beziehen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/beziehen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/beziehen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/beziehen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/beziehen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/beziehen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/beziehen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/beziehen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/beziehen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/beziehen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/beziehen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/beziehen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/beziehen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/beziehen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/beziehen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/beziehen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/beziehen.htm",
+    "rank": 705,
+    "first_seen": "2026-10-12T08:03:23+00:00",
+    "updated_at": "2026-10-12T09:00:40+00:00",
+    "hash": "4fe39360fc9e6890"
   },
   {
     "id": "blu3hen",
@@ -3871,11 +4484,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Aprikosen blühen",
+        "de": "Die Aprikosen blühen.",
         "en": "The apricots are blooming."
       },
       {
-        "de": "Die Wiese blüht",
+        "de": "Die Wiese blüht.",
         "en": "The meadow is blooming."
       },
       {
@@ -3891,7 +4504,7 @@
         "en": "During the summer, all roses bloom."
       },
       {
-        "de": "Die Birne blüh",
+        "de": "Die Birne blüht früher als der Apfel.",
         "en": "The pear blooms earlier than the apple."
       }
     ],
@@ -3923,8 +4536,8 @@
     "source_url": "https://www.verbformen.de/konjugation/blu3hen.htm",
     "rank": 569,
     "first_seen": "2026-10-08T14:00:56+00:00",
-    "updated_at": "2026-10-08T22:05:46+00:00",
-    "hash": "0fda9fd242168e60"
+    "updated_at": "2026-10-12T04:29:22+00:00",
+    "hash": "563d836b2929d8e8"
   },
   {
     "id": "brechen",
@@ -4044,27 +4657,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er hat sie ge",
+        "de": "Er hat sie gebrochen.",
         "en": "He broke her."
       },
       {
-        "de": "Du hast dein Versprechen ge",
+        "de": "Du hast dein Versprechen gebrochen.",
         "en": "You broke your promise."
       },
       {
-        "de": "Du hast mir meine Nase ge",
+        "de": "Du hast mir meine Nase gebrochen.",
         "en": "You broke my nose."
       },
       {
-        "de": "Gestern habe ich meinen persönlichen Rekord gebr",
+        "de": "Gestern habe ich meinen persönlichen Rekord gebrochen.",
         "en": "I beat my personal record yesterday."
       },
       {
-        "de": "Hast du dir schon einmal einen Knochen ge",
+        "de": "Hast du dir schon einmal einen Knochen gebrochen?",
         "en": "Have you ever broken a bone?"
       },
       {
-        "de": "Sie haben ein Tabu ge",
+        "de": "Sie haben ein Tabu gebrochen.",
         "en": "They have broken a taboo."
       }
     ],
@@ -4096,8 +4709,8 @@
     "source_url": "https://www.verbformen.de/konjugation/brechen.htm",
     "rank": 241,
     "first_seen": "2026-10-08T21:15:02+00:00",
-    "updated_at": "2026-10-08T21:15:23+00:00",
-    "hash": "20e073230a5a3f6d"
+    "updated_at": "2026-10-12T04:29:23+00:00",
+    "hash": "6cb15fb5f297d3d1"
   },
   {
     "id": "dabeihaben",
@@ -4196,19 +4809,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Hab",
+        "de": "Haben Sie die Unterlagen nicht dabei?",
         "en": "Don't you have the documents with you?"
       },
       {
-        "de": "Wen möchten Sie bei der Sache dabeihaben",
+        "de": "Wen möchten Sie bei der Sache dabeihaben?",
         "en": "Who would you like to have involved?"
       },
       {
-        "de": "Ich möchte Tom zeigen, was ich heute dabeihab",
+        "de": "Ich möchte Tom zeigen, was ich heute dabeihabe.",
         "en": "I want to show Tom what I have with me today."
       },
       {
-        "de": "Sie mussten alles Geld ausgeben, das sie dabeiha",
+        "de": "Sie mussten alles Geld ausgeben, das sie dabeihatten.",
         "en": "They had to spend all the money they had with them."
       },
       {
@@ -4216,7 +4829,7 @@
         "en": "If you don't have the passport with you, we don't even need to continue."
       },
       {
-        "de": "Ich würde dich gerne dabeihab",
+        "de": "Ich würde dich gerne dabeihaben, wenn ich zum Arzt in die Sprechstunde gehe.",
         "en": "I would like to have you with me when I go to the doctor for the consultation."
       }
     ],
@@ -4248,8 +4861,8 @@
     "source_url": "https://www.verbformen.de/konjugation/dabeihaben.htm",
     "rank": 0,
     "first_seen": "2026-10-08T10:44:55+00:00",
-    "updated_at": "2026-10-08T20:50:38+00:00",
-    "hash": "a4d7bb2478724d5e"
+    "updated_at": "2026-10-12T04:29:23+00:00",
+    "hash": "58f760072748c5b5"
   },
   {
     "id": "draufhaben",
@@ -4342,11 +4955,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Jetzt sehen wir, was du draufhast",
+        "de": "Jetzt sehen wir, was du draufhast.",
         "en": "Now we see what you can do."
       },
       {
-        "de": "Als ich diesen Berg geklettert bin, wollte ich wissen, ob ich das noch draufhab",
+        "de": "Als ich diesen Berg geklettert bin, wollte ich wissen, ob ich das noch draufhabe.",
         "en": "When I climbed this mountain, I wanted to know if I still have it."
       }
     ],
@@ -4378,8 +4991,8 @@
     "source_url": "https://www.verbformen.de/konjugation/draufhaben.htm",
     "rank": 0,
     "first_seen": "2026-10-08T10:44:55+00:00",
-    "updated_at": "2026-10-08T20:50:43+00:00",
-    "hash": "cb1611ecbe7ca45b"
+    "updated_at": "2026-10-12T04:29:23+00:00",
+    "hash": "309bde77d3c05b23"
   },
   {
     "id": "einbringen",
@@ -4507,27 +5120,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Sie können jederzeit Vorschläge einbringen",
+        "de": "Sie können jederzeit Vorschläge einbringen.",
         "en": "You can make suggestions at any time."
       },
       {
-        "de": "Es wurde ein neues Gesetz eingebrach",
+        "de": "Es wurde ein neues Gesetz eingebracht.",
         "en": "A new law has been introduced."
       },
       {
-        "de": "Das Schiff wurde in den Hafen einge",
+        "de": "Das Schiff wurde in den Hafen eingebracht.",
         "en": "The ship was brought into the harbor."
       },
       {
-        "de": "Seine Ideen haben ihm nie etwas einge",
+        "de": "Seine Ideen haben ihm nie etwas eingebracht.",
         "en": "His ideas have never brought him anything."
       },
       {
-        "de": "Der Verkauf seines Hauses",
+        "de": "Der Verkauf seines Hauses brachte ihm etwas Geld ein.",
         "en": "The sale of his house brought him some money."
       },
       {
-        "de": "Die Ernte ist einge",
+        "de": "Die Ernte ist eingebracht, nachdem wir sie eingebracht haben.",
         "en": "The harvest has been brought in, after we have brought it in."
       }
     ],
@@ -4559,8 +5172,8 @@
     "source_url": "https://www.verbformen.de/konjugation/einbringen.htm",
     "rank": 285,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-08T21:20:58+00:00",
-    "hash": "d73bf2654d13b26c"
+    "updated_at": "2026-10-12T04:29:23+00:00",
+    "hash": "08b23b8d8b776bb0"
   },
   {
     "id": "einigen",
@@ -4677,15 +5290,15 @@
         "en": "We agreed."
       },
       {
-        "de": "Wir haben uns geeinigt",
+        "de": "Wir haben uns geeinigt.",
         "en": "We have agreed."
       },
       {
-        "de": "Dann haben sie sich geeinig",
+        "de": "Dann haben sie sich geeinigt.",
         "en": "Then they agreed."
       },
       {
-        "de": "Er einig",
+        "de": "Er einigte sich mit ihr.",
         "en": "He came to terms with her."
       },
       {
@@ -4725,8 +5338,8 @@
     "source_url": "https://www.verbformen.de/konjugation/einigen.htm",
     "rank": 581,
     "first_seen": "2026-10-08T14:06:11+00:00",
-    "updated_at": "2026-10-08T22:09:29+00:00",
-    "hash": "46709af02e386800"
+    "updated_at": "2026-10-12T04:29:23+00:00",
+    "hash": "49b525bacd7c01ca"
   },
   {
     "id": "einnehmen",
@@ -4850,27 +5463,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich muss Medizin einnehmen",
+        "de": "Ich muss Medizin einnehmen.",
         "en": "I have to take medicine."
       },
       {
-        "de": "Wer könnte seinen Platz einnehmen",
+        "de": "Wer könnte seinen Platz einnehmen?",
         "en": "Who could take the place of him?"
       },
       {
-        "de": "Alle waren von ihr einge",
+        "de": "Alle waren von ihr eingenommen.",
         "en": "Everyone sympathised with her."
       },
       {
-        "de": "Ich nehm",
+        "de": "Ich nehme gerade mein Abendessen ein.",
         "en": "I'm having dinner now."
       },
       {
-        "de": "Hier nehm",
+        "de": "Hier nehmen sie gewöhnlich das Abendessen ein.",
         "en": "They usually have their evening meal here."
       },
       {
-        "de": "Er",
+        "de": "Er nimmt in einer Cafeteria sein Mittagessen ein.",
         "en": "He has lunch at a cafeteria."
       }
     ],
@@ -4902,8 +5515,8 @@
     "source_url": "https://www.verbformen.de/konjugation/einnehmen.htm",
     "rank": 281,
     "first_seen": "2026-10-08T11:56:07+00:00",
-    "updated_at": "2026-10-08T21:19:56+00:00",
-    "hash": "534f62ae373d01a5"
+    "updated_at": "2026-10-12T04:29:24+00:00",
+    "hash": "ea9f8435ab840f20"
   },
   {
     "id": "entlassen",
@@ -5016,15 +5629,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er wurde entlassen",
+        "de": "Er wurde entlassen.",
         "en": "He was laid off."
       },
       {
-        "de": "Die Sekretärin wurde entlassen",
+        "de": "Die Sekretärin wurde entlassen.",
         "en": "The secretary was dismissed."
       },
       {
-        "de": "Er wurde wegen Diebstahls entlassen",
+        "de": "Er wurde wegen Diebstahls entlassen.",
         "en": "He was fired for stealing."
       },
       {
@@ -5032,11 +5645,11 @@
         "en": "Tom was afraid of getting fired."
       },
       {
-        "de": "Die Schüler wurden für heute entlass",
+        "de": "Die Schüler wurden für heute entlassen.",
         "en": "The students were dismissed for today."
       },
       {
-        "de": "Er wurde aus dem Gefängnis entlassen",
+        "de": "Er wurde aus dem Gefängnis entlassen.",
         "en": "He was released from prison."
       }
     ],
@@ -5068,8 +5681,8 @@
     "source_url": "https://www.verbformen.de/konjugation/entlassen.htm",
     "rank": 164,
     "first_seen": "2026-10-08T11:04:10+00:00",
-    "updated_at": "2026-10-08T20:54:31+00:00",
-    "hash": "e58a457e3929ee4a"
+    "updated_at": "2026-10-12T04:29:24+00:00",
+    "hash": "4ed3216f3b35891f"
   },
   {
     "id": "entnehmen",
@@ -5179,11 +5792,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wo hast du das entnommen",
+        "de": "Wo hast du das entnommen?",
         "en": "Where did you take that from?"
       },
       {
-        "de": "Was hast du der Nachricht entnomm",
+        "de": "Was hast du der Nachricht entnommen?",
         "en": "What have you taken from the message?"
       },
       {
@@ -5191,15 +5804,15 @@
         "en": "Please look at the pamphlet for the details."
       },
       {
-        "de": "Die Beispiele entn",
+        "de": "Die Beispiele entnahm ich den Werken der besten Autoren.",
         "en": "I took the examples from the works of the best authors."
       },
       {
-        "de": "Den genauen Tagesablauf können Sie unserem Programm auf der Homepage entnehmen",
+        "de": "Den genauen Tagesablauf können Sie unserem Programm auf der Homepage entnehmen.",
         "en": "You can find the exact daily schedule in our program on the homepage."
       },
       {
-        "de": "Wenn du welche brauchst, kannst du gerne Kugelschreiber aus dem Karton dort vorne entnehm",
+        "de": "Wenn du welche brauchst, kannst du gerne Kugelschreiber aus dem Karton dort vorne entnehmen.",
         "en": "If you need any, feel free to take pens from the box up front."
       }
     ],
@@ -5231,8 +5844,8 @@
     "source_url": "https://www.verbformen.de/konjugation/entnehmen.htm",
     "rank": 281,
     "first_seen": "2026-10-08T11:56:07+00:00",
-    "updated_at": "2026-10-08T21:20:16+00:00",
-    "hash": "1119ee9a68175302"
+    "updated_at": "2026-10-12T04:29:24+00:00",
+    "hash": "3267cc6e4cd32a30"
   },
   {
     "id": "entsorgen",
@@ -5332,23 +5945,23 @@
         "en": "I disposed of all the books."
       },
       {
-        "de": "Ich habe alle Bücher entsorg",
+        "de": "Ich habe alle Bücher entsorgt.",
         "en": "I disposed of all the books."
       },
       {
-        "de": "Wie entsorg",
+        "de": "Wie entsorgt man alte Medikamente?",
         "en": "How do you dispose of old medications?"
       },
       {
-        "de": "Ich hab meinen alten Mantel entsorg",
+        "de": "Ich hab meinen alten Mantel entsorgt.",
         "en": "I disposed of my old coat."
       },
       {
-        "de": "In Frankreich werden viele Lebensmittel entsorg",
+        "de": "In Frankreich werden viele Lebensmittel entsorgt, da sie nicht den hohen Anforderungen entsprechen.",
         "en": "In France, many food items are discarded as they do not meet the high standards."
       },
       {
-        "de": "Gut, dass sprachlicher Müll nicht auch noch entsorg",
+        "de": "Gut, dass sprachlicher Müll nicht auch noch entsorgt werden muss.",
         "en": "Good that linguistic garbage does not also need to be disposed of."
       }
     ],
@@ -5380,8 +5993,8 @@
     "source_url": "https://www.verbformen.de/konjugation/entsorgen.htm",
     "rank": 422,
     "first_seen": "2026-10-08T12:56:58+00:00",
-    "updated_at": "2026-10-08T21:49:37+00:00",
-    "hash": "a418678b1c9405a3"
+    "updated_at": "2026-10-12T04:29:24+00:00",
+    "hash": "981f8df14d4ef820"
   },
   {
     "id": "erarbeiten",
@@ -5489,19 +6102,19 @@
         "en": "Success usually requires hard work."
       },
       {
-        "de": "Die Forschung soll immer neue Erkenntnisse erarbeiten",
+        "de": "Die Forschung soll immer neue Erkenntnisse erarbeiten.",
         "en": "Research should always develop new insights."
       },
       {
-        "de": "Die Studentin hat sich ein Vermögen erarbeitet",
+        "de": "Die Studentin hat sich ein Vermögen erarbeitet.",
         "en": "The student has earned a fortune."
       },
       {
-        "de": "Die Kenntnisse über das Land hat sie sich in langen Studien erarbeitet",
+        "de": "Die Kenntnisse über das Land hat sie sich in langen Studien erarbeitet.",
         "en": "The knowledge about the country she has acquired through long studies."
       },
       {
-        "de": "Manchmal erarbeit",
+        "de": "Manchmal erarbeitet man sich einen Vorsprung, und dann schmilzt er wie Schnee in der Sonne dahin.",
         "en": "Sometimes you gain an advantage, and then it melts away like snow in the sun."
       },
       {
@@ -5537,8 +6150,8 @@
     "source_url": "https://www.verbformen.de/konjugation/erarbeiten.htm",
     "rank": 19,
     "first_seen": "2026-10-08T10:47:27+00:00",
-    "updated_at": "2026-10-08T20:51:33+00:00",
-    "hash": "cc983ec07ead7dfc"
+    "updated_at": "2026-10-12T04:29:24+00:00",
+    "hash": "1fd1f344afdbd100"
   },
   {
     "id": "erstellen",
@@ -5648,20 +6261,28 @@
     "ipa": [],
     "examples": [
       {
+        "de": "Tom erstellte eine Webseite für Mary.",
+        "en": "Tom set up a website for Mary."
+      },
+      {
         "de": "Manche Betriebe erstellen pro Quartal einen Bericht.",
         "en": "Some companies create a report per quarter."
       },
       {
-        "de": "Aus den Antworten erstell",
+        "de": "Tom erstellte an seinem Rechner einen neuen Ordner.",
+        "en": "Tom created a new folder on his computer."
+      },
+      {
+        "de": "Aus den Antworten erstellt die Zeitschrift dann eine Liste.",
         "en": "From the answers, the magazine then creates a list."
       },
       {
-        "de": "Das Unternehmen entwickelte eine Software, mit der Nutzer Fotos erstell",
-        "en": "The company developed software that allows users to create and alter photos to then share them via social networks."
+        "de": "Tom erstellte eine neue Verknüpfung.",
+        "en": "Tom created a new shortcut."
       },
       {
-        "de": "Ich erstell",
-        "en": "I am creating a directory."
+        "de": "Das Unternehmen entwickelte eine Software, mit der Nutzer Fotos erstellen und verfremden können, um sie dann über soziale Netzwerke zu verbreiten.",
+        "en": "The company developed software that allows users to create and alter photos to then share them via social networks."
       }
     ],
     "audio": {
@@ -5692,8 +6313,8 @@
     "source_url": "https://www.verbformen.de/konjugation/erstellen.htm",
     "rank": 489,
     "first_seen": "2026-10-08T13:25:36+00:00",
-    "updated_at": "2026-10-08T21:56:51+00:00",
-    "hash": "1e9320d0fa40d639"
+    "updated_at": "2026-10-12T04:29:24+00:00",
+    "hash": "872c3d4edb9953b2"
   },
   {
     "id": "festnehmen",
@@ -5794,27 +6415,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Niemand wurde festge",
+        "de": "Niemand wurde festgenommen.",
         "en": "No one was arrested."
       },
       {
-        "de": "Tom wurde ebenfalls festgenommen",
+        "de": "Tom wurde ebenfalls festgenommen.",
         "en": "Tom was arrested, too."
       },
       {
-        "de": "Er wurde wegen Einbruchs fest",
+        "de": "Er wurde wegen Einbruchs festgenommen.",
         "en": "He was arrested on the charge of burglary."
       },
       {
-        "de": "Tom wurde von der Polizei festge",
+        "de": "Tom wurde von der Polizei festgenommen.",
         "en": "Tom was detained by the police."
       },
       {
-        "de": "Die Polizisten beschlossen, ihn festzunehmen",
+        "de": "Die Polizisten beschlossen, ihn festzunehmen.",
         "en": "The police decided to arrest him."
       },
       {
-        "de": "Tom ist schon viele Male festge",
+        "de": "Tom ist schon viele Male festgenommen worden.",
         "en": "Tom has been arrested many times."
       }
     ],
@@ -5846,8 +6467,8 @@
     "source_url": "https://www.verbformen.de/konjugation/festnehmen.htm",
     "rank": 281,
     "first_seen": "2026-10-08T11:56:07+00:00",
-    "updated_at": "2026-10-08T21:20:37+00:00",
-    "hash": "5e79f3fd05e242cd"
+    "updated_at": "2026-10-12T04:29:25+00:00",
+    "hash": "ae3d4d4bd647a1e8"
   },
   {
     "id": "garantieren",
@@ -5952,27 +6573,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das garantier",
+        "de": "Das garantiere ich.",
         "en": "I guarantee that."
       },
       {
-        "de": "Das garantier",
+        "de": "Das garantiere ich dir.",
         "en": "I guarantee you that."
       },
       {
-        "de": "Der Sieg ist nicht garantier",
+        "de": "Der Sieg ist nicht garantiert.",
         "en": "Victory is not assured."
       },
       {
-        "de": "Den Erfolg kann ich garantieren",
+        "de": "Den Erfolg kann ich garantieren.",
         "en": "I can guarantee success."
       },
       {
-        "de": "Wer garantier",
+        "de": "Wer garantiert, kennt keine Ruhe.",
         "en": "Who guarantees knows no rest."
       },
       {
-        "de": "Eine Hochzeit des Nachbarn garantier",
+        "de": "Eine Hochzeit des Nachbarn garantiert einen Fehler.",
         "en": "A neighbor's wedding guarantees a mistake."
       }
     ],
@@ -6004,8 +6625,8 @@
     "source_url": "https://www.verbformen.de/konjugation/garantieren.htm",
     "rank": 228,
     "first_seen": "2026-10-08T11:33:25+00:00",
-    "updated_at": "2026-10-08T21:09:32+00:00",
-    "hash": "cfcbe4144eda55e5"
+    "updated_at": "2026-10-12T04:29:25+00:00",
+    "hash": "2bd6f530b2944494"
   },
   {
     "id": "gebrauchen",
@@ -6102,15 +6723,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Kannst du das gebrauchen",
+        "de": "Kannst du das gebrauchen?",
         "en": "Can you use that?"
       },
       {
-        "de": "Könntest du meine Hilfe gebrauchen",
+        "de": "Könntest du meine Hilfe gebrauchen?",
         "en": "Could you use my help?"
       },
       {
-        "de": "Er kann etwas Erholung gut gebrauchen",
+        "de": "Er kann etwas Erholung gut gebrauchen.",
         "en": "He could do with some rest."
       },
       {
@@ -6118,11 +6739,11 @@
         "en": "He used the same excuse as you."
       },
       {
-        "de": "Ich gebrauch",
+        "de": "Ich gebrauche Hände und Füße zum Reden.",
         "en": "I use hands and feet to talk."
       },
       {
-        "de": "Ich gebrauch",
+        "de": "Ich gebrauche seine Ausdrücke spontan wie meine eigenen.",
         "en": "I use his expressions spontaneously like my own."
       }
     ],
@@ -6154,8 +6775,8 @@
     "source_url": "https://www.verbformen.de/konjugation/gebrauchen.htm",
     "rank": 289,
     "first_seen": "2026-10-08T11:59:57+00:00",
-    "updated_at": "2026-10-08T21:23:01+00:00",
-    "hash": "ea959baeacfce525"
+    "updated_at": "2026-10-12T04:29:25+00:00",
+    "hash": "d6ed9884e8f68b84"
   },
   {
     "id": "genu3gen",
@@ -6264,7 +6885,7 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Das genüg",
+        "de": "Das genügt dann.",
         "en": "That is enough."
       },
       {
@@ -6272,19 +6893,19 @@
         "en": "That was enough for them."
       },
       {
-        "de": "Manchmal genüg",
+        "de": "Manchmal genügt ein Wort.",
         "en": "A word is sometimes enough."
       },
       {
-        "de": "Manchmal genüg",
+        "de": "Manchmal genügt ein einziges Wort.",
         "en": "One word is sometimes enough."
       },
       {
-        "de": "Keine Frau konnte seinen Ansprüchen genügen",
+        "de": "Keine Frau konnte seinen Ansprüchen genügen.",
         "en": "No woman could measure up to his standard."
       },
       {
-        "de": "Einem guten Zuhörer genüg",
+        "de": "Einem guten Zuhörer genügt schon ein halbes Wort.",
         "en": "To a good listener, half a word is enough."
       }
     ],
@@ -6316,8 +6937,8 @@
     "source_url": "https://www.verbformen.de/konjugation/genu3gen.htm",
     "rank": 287,
     "first_seen": "2026-10-08T11:59:14+00:00",
-    "updated_at": "2026-10-08T21:21:19+00:00",
-    "hash": "2eaa754f3971962b"
+    "updated_at": "2026-10-12T04:29:25+00:00",
+    "hash": "70a731112109b01d"
   },
   {
     "id": "herausfinden",
@@ -6431,27 +7052,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich habe etwas herausge",
+        "de": "Ich habe etwas herausgefunden.",
         "en": "I found out something."
       },
       {
-        "de": "Das wollen Experten jetzt herausfinden",
+        "de": "Das wollen Experten jetzt herausfinden.",
         "en": "Experts want to find this out now."
       },
       {
-        "de": "Fachleute versuchen jetzt, das herauszu",
+        "de": "Fachleute versuchen jetzt, das herauszufinden.",
         "en": "Experts are now trying to find that out."
       },
       {
-        "de": "Gehen Sie und",
+        "de": "Gehen Sie und finden Sie es heraus.",
         "en": "Go find out."
       },
       {
-        "de": "Hast du heraus",
+        "de": "Hast du herausgefunden, wer hier zuständig ist?",
         "en": "Did you find out who's in charge here?"
       },
       {
-        "de": "Es kann sein, dass Mary es herausfindet",
+        "de": "Es kann sein, dass Mary es herausfindet.",
         "en": "It may be that Mary finds it out."
       }
     ],
@@ -6483,8 +7104,8 @@
     "source_url": "https://www.verbformen.de/konjugation/herausfinden.htm",
     "rank": 220,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-08T21:08:28+00:00",
-    "hash": "9c31ca53388ffbb3"
+    "updated_at": "2026-10-12T04:29:25+00:00",
+    "hash": "5445c2e38fbc1438"
   },
   {
     "id": "hierherkommen",
@@ -6575,28 +7196,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ist Tom hierhergekommen",
+        "de": "Ist Tom hierhergekommen?",
         "en": "Did Tom come here?"
       },
       {
-        "de": "Ich k",
+        "de": "Ich kam direkt hierher.",
         "en": "I came here directly."
       },
       {
-        "de": "Tom pflegte des Montags hierherzukommen",
+        "de": "Tom pflegte des Montags hierherzukommen.",
         "en": "Tom used to come here on Mondays."
       },
       {
-        "de": "Gehen wir, sobald Tom hierherkomm",
+        "de": "Tom kommt hierher, oder?",
+        "en": "Tom is coming here, isn't he?"
+      },
+      {
+        "de": "Gehen wir, sobald Tom hierherkommt.",
         "en": "Let's go as soon as Tom gets here."
       },
       {
-        "de": "Wo arbeitete Tom, ehe er hierherk",
+        "de": "Wo arbeitete Tom, ehe er hierherkam?",
         "en": "Where did Tom work before he came here?"
-      },
-      {
-        "de": "Als ich hierherk",
-        "en": "When I came here, I didn't know anyone."
       }
     ],
     "audio": {
@@ -6627,8 +7248,8 @@
     "source_url": "https://www.verbformen.de/konjugation/hierherkommen.htm",
     "rank": 635,
     "first_seen": "2026-10-08T14:29:20+00:00",
-    "updated_at": "2026-10-08T22:20:42+00:00",
-    "hash": "d08444a61b35ea1c"
+    "updated_at": "2026-10-12T04:29:26+00:00",
+    "hash": "47a3d57b41723a46"
   },
   {
     "id": "hineinko3nnen",
@@ -6718,15 +7339,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ihr könnt nicht hinein",
+        "de": "Ihr könnt nicht hinein.",
         "en": "You can't go in."
       },
       {
-        "de": "Ich",
+        "de": "Ich kann da nicht wieder hinein.",
         "en": "I can't go back in there."
       },
       {
-        "de": "Maria läuft um das Leben herum, ohne hineinzukönn",
+        "de": "Maria läuft um das Leben herum, ohne hineinzukönnen.",
         "en": "Maria runs around life, unable to enter it."
       }
     ],
@@ -6758,8 +7379,8 @@
     "source_url": "https://www.verbformen.de/konjugation/hineinko3nnen.htm",
     "rank": 96,
     "first_seen": "2026-10-08T10:56:29+00:00",
-    "updated_at": "2026-10-08T20:53:15+00:00",
-    "hash": "1952fdf469755237"
+    "updated_at": "2026-10-12T04:29:26+00:00",
+    "hash": "372d4619c9c9dc94"
   },
   {
     "id": "klarkommen",
@@ -6864,28 +7485,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich komme klar",
+        "de": "Ich komme klar.",
         "en": "I'm managing."
       },
       {
-        "de": "Tom wird schon klarkommen",
+        "de": "Tom wird schon klarkommen.",
         "en": "Tom will be fine."
       },
       {
-        "de": "Ich werde schon allein klarkommen",
+        "de": "Ich werde schon allein klarkommen.",
         "en": "I'll manage on my own."
       },
       {
-        "de": "Glaubst du, dass du klarkommst",
+        "de": "Glaubst du, dass du klarkommst?",
         "en": "Do you think you can manage?"
       },
       {
-        "de": "Ich komm",
-        "en": "I can't get along with the neighbors any more."
+        "de": "Tom kommt nicht mit seinen Nachbarn klar.",
+        "en": "Tom does not get along with his neighbors."
       },
       {
-        "de": "Ich bin in der Lage, mit solchen Problemen selbst klarzukommen",
-        "en": "I'm capable of dealing with problems like this myself."
+        "de": "Ich komme mit den Nachbarn nicht mehr klar.",
+        "en": "I can't get along with the neighbors any more."
       }
     ],
     "audio": {
@@ -6916,8 +7537,155 @@
     "source_url": "https://www.verbformen.de/konjugation/klarkommen.htm",
     "rank": 176,
     "first_seen": "2026-10-08T11:09:27+00:00",
-    "updated_at": "2026-10-08T20:54:41+00:00",
-    "hash": "378e31e195805ba4"
+    "updated_at": "2026-10-12T04:29:26+00:00",
+    "hash": "eed7b9d426baec18"
+  },
+  {
+    "id": "ku3hlen",
+    "type": "verb",
+    "infinitive": "kühlen",
+    "level": "B1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "kühlt",
+    "praeteritum_3sg": "kühlte",
+    "perfekt_3sg": "hat gekühlt",
+    "partizip2": "gekühlt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "kühle",
+        "du": "kühlst",
+        "er": "kühlt",
+        "wir": "kühlen",
+        "ihr": "kühlt",
+        "sie": "kühlen"
+      },
+      "Präteritum": {
+        "ich": "kühlte",
+        "du": "kühltest",
+        "er": "kühlte",
+        "wir": "kühlten",
+        "ihr": "kühltet",
+        "sie": "kühlten"
+      },
+      "Perfekt": {
+        "ich": "habe gekühlt",
+        "du": "hast gekühlt",
+        "er": "hat gekühlt",
+        "wir": "haben gekühlt",
+        "ihr": "habt gekühlt",
+        "sie": "haben gekühlt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gekühlt",
+        "du": "hattest gekühlt",
+        "er": "hatte gekühlt",
+        "wir": "hatten gekühlt",
+        "ihr": "hattet gekühlt",
+        "sie": "hatten gekühlt"
+      },
+      "Futur I": {
+        "ich": "werde kühlen",
+        "du": "wirst kühlen",
+        "er": "wird kühlen",
+        "wir": "werden kühlen",
+        "ihr": "werdet kühlen",
+        "sie": "werden kühlen"
+      },
+      "Futur II": {
+        "ich": "werde gekühlt haben",
+        "du": "wirst gekühlt haben",
+        "er": "wird gekühlt haben",
+        "wir": "werden gekühlt haben",
+        "ihr": "werdet gekühlt haben",
+        "sie": "werden gekühlt haben"
+      }
+    },
+    "imperative": [
+      "ich kühle",
+      "du kühlst",
+      "er kühlt",
+      "wir kühlen",
+      "ihr kühlt",
+      "sie kühlen"
+    ],
+    "english": [
+      "chill",
+      "cool",
+      "refrigerate",
+      "anneal",
+      "cool down"
+    ],
+    "definitions_de": [
+      "kühl machen, Temperatur (von etwas, das warm oder heiß ist) vermindern, abkühlen, kühl machen, auf Eis legen, erkalten lassen",
+      "kühl machen, Kälte verbreiten"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Kühlschrank kühlt nicht.",
+        "en": "The refrigerator does not cool."
+      },
+      {
+        "de": "Ich möchte den Wein besser kühlen.",
+        "en": "I want to chill the wine more."
+      },
+      {
+        "de": "Ich kühlte den Kopf des Patienten mit Eis.",
+        "en": "I cooled the patient's head with ice."
+      },
+      {
+        "de": "Der Kühlschrank ist ein Gerät, in dem die Lebensmittel gekühlt werden.",
+        "en": "The refrigerator is a device in which food is cooled."
+      },
+      {
+        "de": "Wir sollten die Getränke kühlen, damit wir nicht warme Limonade trinken müssen.",
+        "en": "We should cool the drinks so that we don't have to drink warm lemonade."
+      },
+      {
+        "de": "Eine Flasche kühlen Weißwein.",
+        "en": "A bottle of chilled white wine."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ku3hlen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ku3hlen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ku3hlen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ku3hlen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ku3hlen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ku3hlen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ku3hlen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ku3hlen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ku3hlen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ku3hlen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ku3hlen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ku3hlen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ku3hlen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ku3hlen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ku3hlen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ku3hlen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ku3hlen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ku3hlen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ku3hlen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ku3hlen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ku3hlen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ku3hlen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ku3hlen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ku3hlen.htm",
+    "rank": 763,
+    "first_seen": "2026-10-12T08:28:47+00:00",
+    "updated_at": "2026-10-12T09:07:12+00:00",
+    "hash": "bc1daa37897c5b43"
   },
   {
     "id": "leiden",
@@ -7032,11 +7800,11 @@
         "en": "Everyone suffers differently."
       },
       {
-        "de": "Mein armes Herz leidet",
+        "de": "Mein armes Herz leidet.",
         "en": "My poor heart suffers."
       },
       {
-        "de": "Ich leid",
+        "de": "Ich leide unter Bauchschmerzen.",
         "en": "I have a stomachache."
       },
       {
@@ -7044,7 +7812,7 @@
         "en": "He was suffering from a headache."
       },
       {
-        "de": "Tom hat nicht gelitten",
+        "de": "Tom hat nicht gelitten.",
         "en": "Tom didn't suffer."
       },
       {
@@ -7080,8 +7848,8 @@
     "source_url": "https://www.verbformen.de/konjugation/leiden.htm",
     "rank": 158,
     "first_seen": "2026-10-08T11:02:26+00:00",
-    "updated_at": "2026-10-08T20:54:20+00:00",
-    "hash": "674c880816c23002"
+    "updated_at": "2026-10-12T04:29:26+00:00",
+    "hash": "13b765a06ff72d69"
   },
   {
     "id": "losmu3ssen",
@@ -7172,27 +7940,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich muss los",
+        "de": "Ich muss los.",
         "en": "Well, I have to go now."
       },
       {
-        "de": "Ich",
+        "de": "Ich muss sofort los.",
         "en": "I have to leave immediately."
       },
       {
-        "de": "Tom und ich müssen los",
+        "de": "Tom und ich müssen los.",
         "en": "Tom and I have to leave."
       },
       {
-        "de": "Ich",
+        "de": "Ich muss in zehn Minuten los.",
         "en": "I have to leave in ten minutes."
       },
       {
-        "de": "Es ist spät, ich muss los",
+        "de": "Es ist spät, ich muss los.",
         "en": "It's late, I have to go."
       },
       {
-        "de": "Entschuldigen Sie mich bitte, ich",
+        "de": "Entschuldigen Sie mich bitte, ich muss los.",
         "en": "Please excuse me, I have to leave."
       }
     ],
@@ -7224,8 +7992,8 @@
     "source_url": "https://www.verbformen.de/konjugation/losmu3ssen.htm",
     "rank": 122,
     "first_seen": "2026-10-08T10:59:03+00:00",
-    "updated_at": "2026-10-08T20:53:48+00:00",
-    "hash": "46a0088a0f5cb0a2"
+    "updated_at": "2026-10-12T04:29:26+00:00",
+    "hash": "1b1a070b6418ce60"
   },
   {
     "id": "messen",
@@ -7340,23 +8108,23 @@
         "en": "Clocks measure time."
       },
       {
-        "de": "Hast du es gemessen",
+        "de": "Hast du es gemessen?",
         "en": "Have you measured it?"
       },
       {
-        "de": "Er",
+        "de": "Er misst mit zweierlei Maß.",
         "en": "He measures with two different standards."
       },
       {
-        "de": "Die Krankenschwester",
+        "de": "Die Krankenschwester maß Toms Temperatur.",
         "en": "The nurse took Tom's temperature."
       },
       {
-        "de": "Er",
+        "de": "Er misst die Länge des Tisches.",
         "en": "He measures the length of the table."
       },
       {
-        "de": "Nun werden sie deine Temperatur messen",
+        "de": "Nun werden sie deine Temperatur messen.",
         "en": "Now they will measure your temperature."
       }
     ],
@@ -7388,8 +8156,8 @@
     "source_url": "https://www.verbformen.de/konjugation/messen.htm",
     "rank": 484,
     "first_seen": "2026-10-08T13:23:50+00:00",
-    "updated_at": "2026-10-08T21:56:29+00:00",
-    "hash": "38601b7708468cfc"
+    "updated_at": "2026-10-12T04:29:27+00:00",
+    "hash": "91be07c3ad044e0a"
   },
   {
     "id": "mitarbeiten",
@@ -7493,15 +8261,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich werde mitarbeiten",
+        "de": "Ich werde mitarbeiten.",
         "en": "I'll play along."
       },
       {
-        "de": "Er hat auch bei einer Zeitung mitgearbeitet",
+        "de": "Er hat auch bei einer Zeitung mitgearbeitet.",
         "en": "He has also worked for a newspaper."
       },
       {
-        "de": "Ich finde die Idee hier ganz toll und möchte auch gerne mitarbeiten",
+        "de": "Ich finde die Idee hier ganz toll und möchte auch gerne mitarbeiten.",
         "en": "I think the idea here is great and I would also like to participate."
       },
       {
@@ -7513,7 +8281,7 @@
         "en": "Since the students did not cooperate, the teacher had to give them a homework assignment so that he could continue with the curriculum."
       },
       {
-        "de": "Ich bin stolz darauf, an diesem Projekt mitzuarbeiten",
+        "de": "Ich bin stolz darauf, an diesem Projekt mitzuarbeiten.",
         "en": "I'm proud to be working on this project."
       }
     ],
@@ -7545,8 +8313,8 @@
     "source_url": "https://www.verbformen.de/konjugation/mitarbeiten.htm",
     "rank": 24,
     "first_seen": "2026-10-08T10:48:07+00:00",
-    "updated_at": "2026-10-08T20:51:51+00:00",
-    "hash": "043cecb6907ec26c"
+    "updated_at": "2026-10-12T04:29:27+00:00",
+    "hash": "d275cf57babb1f44"
   },
   {
     "id": "mithelfen",
@@ -7643,27 +8411,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Er hat angeboten, mitzuhelfen",
+        "de": "Er hat angeboten, mitzuhelfen.",
         "en": "He's offered to help."
       },
       {
-        "de": "Aber sie",
+        "de": "Aber sie hilft auch mit, Nachrichten zu schreiben.",
         "en": "But she also helps to write messages."
       },
       {
-        "de": "Tom hat beim Bau des Hauses seines Nachbarn mitge",
+        "de": "Tom hat beim Bau des Hauses seines Nachbarn mitgeholfen.",
         "en": "Tom helped build his neighbor's house."
       },
       {
-        "de": "Ich frage mich, was man tun müsste, damit Tom mith",
+        "de": "Ich frage mich, was man tun müsste, damit Tom mithilft.",
         "en": "I wonder what it would take to get Tom to help."
       },
       {
-        "de": "Es ist gut, dass Du mith",
+        "de": "Es ist gut, dass Du mithilfst, den Abstand zu unseren Freunden einigermaßen zu halten.",
         "en": "It is good that you are helping to keep the distance from our friends to some extent."
       },
       {
-        "de": "Das ganze Stadtviertel hat bei der Renovierung des Abenteuerspielplatzes mitge",
+        "de": "Das ganze Stadtviertel hat bei der Renovierung des Abenteuerspielplatzes mitgeholfen.",
         "en": "The whole neighborhood helped with the renovation of the adventure playground."
       }
     ],
@@ -7695,8 +8463,167 @@
     "source_url": "https://www.verbformen.de/konjugation/mithelfen.htm",
     "rank": 218,
     "first_seen": "2026-10-08T11:28:51+00:00",
-    "updated_at": "2026-10-08T21:07:25+00:00",
-    "hash": "86da7f327ee2a59e"
+    "updated_at": "2026-10-12T04:29:27+00:00",
+    "hash": "1ed66257f6c0672a"
+  },
+  {
+    "id": "opfern",
+    "type": "verb",
+    "infinitive": "opfern",
+    "level": "B1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "opfert",
+    "praeteritum_3sg": "opferte",
+    "perfekt_3sg": "hat geopfert",
+    "partizip2": "geopfert",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "für+A"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., für+A",
+    "indicative": {
+      "Präsens": {
+        "ich": "opfere",
+        "du": "opferst",
+        "er": "opfert",
+        "wir": "opfern",
+        "ihr": "opfert",
+        "sie": "opfern"
+      },
+      "Präteritum": {
+        "ich": "opferte",
+        "du": "opfertest",
+        "er": "opferte",
+        "wir": "opferten",
+        "ihr": "opfertet",
+        "sie": "opferten"
+      },
+      "Perfekt": {
+        "ich": "habe geopfert",
+        "du": "hast geopfert",
+        "er": "hat geopfert",
+        "wir": "haben geopfert",
+        "ihr": "habt geopfert",
+        "sie": "haben geopfert"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte geopfert",
+        "du": "hattest geopfert",
+        "er": "hatte geopfert",
+        "wir": "hatten geopfert",
+        "ihr": "hattet geopfert",
+        "sie": "hatten geopfert"
+      },
+      "Futur I": {
+        "ich": "werde opfern",
+        "du": "wirst opfern",
+        "er": "wird opfern",
+        "wir": "werden opfern",
+        "ihr": "werdet opfern",
+        "sie": "werden opfern"
+      },
+      "Futur II": {
+        "ich": "werde geopfert haben",
+        "du": "wirst geopfert haben",
+        "er": "wird geopfert haben",
+        "wir": "werden geopfert haben",
+        "ihr": "werdet geopfert haben",
+        "sie": "werden geopfert haben"
+      }
+    },
+    "imperative": [
+      "ich opfere",
+      "du opferst",
+      "er opfert",
+      "wir opfern",
+      "ihr opfert",
+      "sie opfern"
+    ],
+    "english": [
+      "sacrifice",
+      "donate",
+      "offer",
+      "be a martyr",
+      "give",
+      "make a sacrifice",
+      "offer sacrifice",
+      "offer up",
+      "sacrifice oneself",
+      "victimise",
+      "victimize",
+      "immolate"
+    ],
+    "definitions_de": [
+      "etwas als Opfer darbringen, etwas einem Gott während einer Zeremonie geben",
+      "etwas für einen Zweck aufgeben, bewusst den Verlust von etwas zu einem höheren Zweck hinnehmen",
+      "darangeben, (sich) aufopfern, (sein) Leben opfern, verheizen, drangeben, sein Leben aufopfern"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich opfere alles für Tom.",
+        "en": "I sacrifice everything for Tom."
+      },
+      {
+        "de": "Er hat alles für dich geopfert.",
+        "en": "He sacrificed everything for you."
+      },
+      {
+        "de": "Tom opferte sich für seine Freunde.",
+        "en": "Tom sacrificed himself for his friends."
+      },
+      {
+        "de": "Er opferte sich selbst und verriet die Organisation.",
+        "en": "He sacrificed his life and betrayed the organization."
+      },
+      {
+        "de": "Ich kann nicht zulassen, dass du dich opferst.",
+        "en": "I can't let you sacrifice yourself."
+      },
+      {
+        "de": "Er opferte sein Leben, um seine Familie zu retten.",
+        "en": "He sacrificed his life to save his family."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/opfern.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/opfern.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/opfern.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/opfern.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/opfern.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/opfern.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/opfern.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/opfern.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/opfern.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/opfern.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/opfern.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/opfern.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/opfern.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/opfern.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/opfern.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/opfern.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/opfern.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/opfern.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/opfern.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/opfern.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/opfern.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/opfern.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/opfern.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/opfern.htm",
+    "rank": 785,
+    "first_seen": "2026-10-12T08:38:31+00:00",
+    "updated_at": "2026-10-12T09:10:17+00:00",
+    "hash": "e3e340e4f021b22b"
   },
   {
     "id": "orten",
@@ -7800,15 +8727,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wir haben ihn geortet",
+        "de": "Wir haben ihn geortet.",
         "en": "We've located him."
       },
       {
-        "de": "Kannst du das Handy orten",
+        "de": "Kannst du das Handy orten?",
         "en": "Can you locate the mobile phone?"
       },
       {
-        "de": "Wir haben den Heringsschwarm geortet",
+        "de": "Wir haben den Heringsschwarm geortet.",
         "en": "We've spotted that shoal of herring."
       },
       {
@@ -7816,11 +8743,11 @@
         "en": "The researchers identified the ingredients of a long healthy life in seven areas."
       },
       {
-        "de": "Man hat Tom geortet",
+        "de": "Man hat Tom geortet.",
         "en": "They have located Tom."
       },
       {
-        "de": "Indem sie lauschten, konnten U-Boote früher ihre Feinde ort",
+        "de": "Indem sie lauschten, konnten U-Boote früher ihre Feinde orten.",
         "en": "By listening, submarines could earlier locate their enemies."
       }
     ],
@@ -7852,8 +8779,8 @@
     "source_url": "https://www.verbformen.de/konjugation/orten.htm",
     "rank": 524,
     "first_seen": "2026-10-08T13:41:01+00:00",
-    "updated_at": "2026-10-08T21:59:37+00:00",
-    "hash": "1a6aca9ef83df7f6"
+    "updated_at": "2026-10-12T04:29:27+00:00",
+    "hash": "40af6878bdbb199c"
   },
   {
     "id": "quatschen",
@@ -7972,15 +8899,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich habe noch mit jemandem gequatsch",
+        "de": "Ich habe noch mit jemandem gequatscht.",
         "en": "I have still chatted with someone."
       },
       {
-        "de": "Hört auf zu quatsch",
+        "de": "Hört auf zu quatschen und hört zu.",
         "en": "Cut the talking and listen."
       },
       {
-        "de": "Der quatsch",
+        "de": "Der quatscht nun schon den ganzen Abend.",
         "en": "He has been chatting the whole evening now."
       },
       {
@@ -7992,7 +8919,7 @@
         "en": "For example, one must learn sign language because one cannot chat underwater."
       },
       {
-        "de": "Tote quatsch",
+        "de": "Tote quatschen nicht.",
         "en": "Dead men tell no tales."
       }
     ],
@@ -8024,8 +8951,8 @@
     "source_url": "https://www.verbformen.de/konjugation/quatschen.htm",
     "rank": 363,
     "first_seen": "2026-10-08T12:31:04+00:00",
-    "updated_at": "2026-10-08T21:39:35+00:00",
-    "hash": "f2de3f84a4ca33ac"
+    "updated_at": "2026-10-12T04:29:27+00:00",
+    "hash": "77aebe6b8512a091"
   },
   {
     "id": "reichen",
@@ -8144,19 +9071,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Reich",
+        "de": "Reicht das Geld?",
         "en": "Is this enough money?"
       },
       {
-        "de": "Aber das hat gereich",
+        "de": "Aber das hat gereicht.",
         "en": "But that was enough."
       },
       {
-        "de": "Reich",
+        "de": "Reiche mir den Wein.",
         "en": "Hand me the wine."
       },
       {
-        "de": "Bitte reich",
+        "de": "Bitte reiche mir die Butter.",
         "en": "Pass me the butter, will you please?"
       },
       {
@@ -8196,8 +9123,8 @@
     "source_url": "https://www.verbformen.de/konjugation/reichen.htm",
     "rank": 602,
     "first_seen": "2026-10-08T14:15:38+00:00",
-    "updated_at": "2026-10-08T22:18:57+00:00",
-    "hash": "a13145ff9f58e1ba"
+    "updated_at": "2026-10-12T04:29:28+00:00",
+    "hash": "62b5b3574d0df670"
   },
   {
     "id": "schonen",
@@ -8311,27 +9238,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die Umwelt muss geschon",
+        "de": "Die Umwelt muss geschont werden.",
         "en": "The environment must be protected."
       },
       {
-        "de": "Gute Unterhaltung schon",
+        "de": "Gute Unterhaltung schont das Bett.",
         "en": "Good entertainment spares the bed."
       },
       {
-        "de": "Wir müssen die Schätze der Erde schonen",
+        "de": "Wir müssen die Schätze der Erde schonen.",
         "en": "We need to preserve our natural resources."
       },
       {
-        "de": "Wer Menschen ändern will, kann sie nicht schonen",
+        "de": "Wer Menschen ändern will, kann sie nicht schonen.",
         "en": "Whoever wants to change people cannot spare them."
       },
       {
-        "de": "Nach seiner langen Krankheit muss Opa sich jetzt noch schonen",
+        "de": "Nach seiner langen Krankheit muss Opa sich jetzt noch schonen.",
         "en": "After his long illness, grandpa now has to take it easy."
       },
       {
-        "de": "Wir haben unsere Feinde nicht geschon",
+        "de": "Wir haben unsere Feinde nicht geschont.",
         "en": "We did not spare our enemies."
       }
     ],
@@ -8363,8 +9290,8 @@
     "source_url": "https://www.verbformen.de/konjugation/schonen.htm",
     "rank": 58,
     "first_seen": "2026-10-08T10:52:19+00:00",
-    "updated_at": "2026-10-08T20:52:24+00:00",
-    "hash": "1d2534efe168fb69"
+    "updated_at": "2026-10-12T04:29:28+00:00",
+    "hash": "8559086da7413820"
   },
   {
     "id": "schreien",
@@ -8486,24 +9413,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Du hast geschrien",
+        "de": "Du hast geschrien.",
         "en": "You screamed."
       },
       {
-        "de": "Ich schrei",
+        "de": "Ich schreie nicht.",
         "en": "I'm not yelling."
       },
       {
-        "de": "Sie alle schrien",
+        "de": "Sie alle schrien.",
         "en": "They all screamed."
+      },
+      {
+        "de": "Tom schrie nicht.",
+        "en": "Tom didn't scream."
+      },
+      {
+        "de": "Tom schreit nie.",
+        "en": "Tom never shouts."
       },
       {
         "de": "Sie schrie vor Schreck.",
         "en": "She screamed with terror."
-      },
-      {
-        "de": "Er schr",
-        "en": "He cried out in pain."
       }
     ],
     "audio": {
@@ -8534,8 +9465,8 @@
     "source_url": "https://www.verbformen.de/konjugation/schreien.htm",
     "rank": 663,
     "first_seen": "2026-10-08T14:41:10+00:00",
-    "updated_at": "2026-10-08T22:26:10+00:00",
-    "hash": "123b1be61e450582"
+    "updated_at": "2026-10-12T04:29:28+00:00",
+    "hash": "ad53a5493c6b04bc"
   },
   {
     "id": "scha3tzen",
@@ -8661,11 +9592,11 @@
         "en": "We value punctuality."
       },
       {
-        "de": "Er wird geschätz",
+        "de": "Er wird geschätzt.",
         "en": "He is appreciated."
       },
       {
-        "de": "Ich schätz",
+        "de": "Ich schätze ihn.",
         "en": "I appreciate him."
       },
       {
@@ -8673,12 +9604,12 @@
         "en": "Everybody likes money."
       },
       {
-        "de": "Ich schätz",
+        "de": "Ich schätze deine Ratschläge.",
         "en": "I appreciate your advice."
       },
       {
-        "de": "Fast jeder schätz",
-        "en": "Almost everybody appreciates good food."
+        "de": "Tom schätzte Marys Gewicht.",
+        "en": "Tom guessed Mary's weight."
       }
     ],
     "audio": {
@@ -8709,8 +9640,8 @@
     "source_url": "https://www.verbformen.de/konjugation/scha3tzen.htm",
     "rank": 475,
     "first_seen": "2026-10-08T13:20:42+00:00",
-    "updated_at": "2026-10-08T21:55:47+00:00",
-    "hash": "a27ea95715567b5e"
+    "updated_at": "2026-10-12T04:29:28+00:00",
+    "hash": "87cfd9bd75c3e041"
   },
   {
     "id": "sichern",
@@ -8832,15 +9763,19 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Die allgemeine Aufmerksamkeit war",
+        "de": "Tom sicherte seine Daten.",
+        "en": "Tom backed up his data."
+      },
+      {
+        "de": "Die allgemeine Aufmerksamkeit war gesichert.",
         "en": "The general attention was secured."
       },
       {
-        "de": "Dafür soll die Grenze besser gesicher",
+        "de": "Dafür soll die Grenze besser gesichert werden.",
         "en": "The border should be better secured."
       },
       {
-        "de": "Aber die Grenzen nach außen sollten besser gesicher",
+        "de": "Aber die Grenzen nach außen sollten besser gesichert werden.",
         "en": "But the borders to the outside should be better secured."
       },
       {
@@ -8848,12 +9783,8 @@
         "en": "Tom isn't sure he wants to do that."
       },
       {
-        "de": "Viele Mitarbeiter haben einzig die Aufgabe, die Qualität unserer Produkte zu sicher",
+        "de": "Viele Mitarbeiter haben einzig die Aufgabe, die Qualität unserer Produkte zu sichern.",
         "en": "Many employees have only the task of ensuring the quality of our products."
-      },
-      {
-        "de": "So hat er seine Macht gesichert",
-        "en": "This is how he secured his power."
       }
     ],
     "audio": {
@@ -8884,8 +9815,8 @@
     "source_url": "https://www.verbformen.de/konjugation/sichern.htm",
     "rank": 152,
     "first_seen": "2026-10-08T11:01:51+00:00",
-    "updated_at": "2026-10-08T20:54:15+00:00",
-    "hash": "b8671bb0dfe3b2b8"
+    "updated_at": "2026-10-12T04:29:28+00:00",
+    "hash": "54f63d6c2796a08f"
   },
   {
     "id": "to3ten",
@@ -8991,20 +9922,24 @@
         "en": "I'll kill you."
       },
       {
+        "de": "Betty tötete ihn.",
+        "en": "Betty killed him."
+      },
+      {
+        "de": "Betty tötete seine Mutter.",
+        "en": "Betty killed her mother."
+      },
+      {
         "de": "Bitte tötet mich nicht.",
         "en": "Please don't kill me."
       },
       {
-        "de": "Betty hat ihn getöt",
+        "de": "Betty hat ihn getötet.",
         "en": "Betty killed him."
       },
       {
         "de": "Du tötest mich langsam.",
         "en": "You are killing me slowly."
-      },
-      {
-        "de": "Er wurde im Krieg getötet",
-        "en": "He was killed in the war."
       }
     ],
     "audio": {
@@ -9035,8 +9970,8 @@
     "source_url": "https://www.verbformen.de/konjugation/to3ten.htm",
     "rank": 275,
     "first_seen": "2026-10-08T11:53:59+00:00",
-    "updated_at": "2026-10-08T21:19:34+00:00",
-    "hash": "47aac7cea4487934"
+    "updated_at": "2026-10-12T04:29:28+00:00",
+    "hash": "10d0c3494cd880a6"
   },
   {
     "id": "umarmen",
@@ -9137,6 +10072,10 @@
     "ipa": [],
     "examples": [
       {
+        "de": "Tom umarmte Mary.",
+        "en": "Tom hugged Mary."
+      },
+      {
         "de": "Wir umarmten uns.",
         "en": "We hugged each other."
       },
@@ -9145,20 +10084,16 @@
         "en": "You hugged your backpack."
       },
       {
-        "de": "Ich umarm",
+        "de": "Ich umarme sie nicht.",
         "en": "I do not hug her."
       },
       {
-        "de": "Er hat sie umarmt",
+        "de": "Er hat sie umarmt.",
         "en": "He hugged her."
       },
       {
         "de": "Umarmst du deine Kinder oft?",
         "en": "Do you often hug your children?"
-      },
-      {
-        "de": "Warum umarmst du mich nicht mehr?",
-        "en": "Why don't you hug me anymore?"
       }
     ],
     "audio": {
@@ -9189,8 +10124,8 @@
     "source_url": "https://www.verbformen.de/konjugation/umarmen.htm",
     "rank": 66,
     "first_seen": "2026-10-08T10:53:12+00:00",
-    "updated_at": "2026-10-08T20:52:41+00:00",
-    "hash": "635bf916af054783"
+    "updated_at": "2026-10-12T04:29:29+00:00",
+    "hash": "10427ef87e4e30ba"
   },
   {
     "id": "verbrauchen",
@@ -9293,11 +10228,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Meine Kräfte sind verbrauch",
+        "de": "Meine Kräfte sind verbraucht.",
         "en": "My strength is exhausted."
       },
       {
-        "de": "Er hat seine Energie verbrauch",
+        "de": "Er hat seine Energie verbraucht.",
         "en": "He has run out of energy."
       },
       {
@@ -9305,15 +10240,15 @@
         "en": "The task absorbed all his energies."
       },
       {
-        "de": "In Japan werden große Mengen Papiers verbrauch",
+        "de": "In Japan werden große Mengen Papiers verbraucht.",
         "en": "Japan consumes a lot of paper."
       },
       {
-        "de": "Die Kette meines Fahrrads ist schon sehr verbrauch",
+        "de": "Die Kette meines Fahrrads ist schon sehr verbraucht.",
         "en": "The chain of my bicycle is already very worn out."
       },
       {
-        "de": "Maschinen verbrauch",
+        "de": "Maschinen verbrauchen eine große Menge an elektrischer Energie.",
         "en": "Machines consume a large amount of electrical energy."
       }
     ],
@@ -9345,8 +10280,177 @@
     "source_url": "https://www.verbformen.de/konjugation/verbrauchen.htm",
     "rank": 289,
     "first_seen": "2026-10-08T11:59:57+00:00",
-    "updated_at": "2026-10-08T21:23:23+00:00",
-    "hash": "f29eb2792c0f0191"
+    "updated_at": "2026-10-12T04:29:29+00:00",
+    "hash": "87b5d4dcf9ff673f"
+  },
+  {
+    "id": "vergro3s5ern",
+    "type": "verb",
+    "infinitive": "vergrößern",
+    "level": "B1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "vergrößert",
+    "praeteritum_3sg": "vergrößerte",
+    "perfekt_3sg": "hat vergrößert",
+    "partizip2": "vergrößert",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "vergrößere",
+        "du": "vergrößerst",
+        "er": "vergrößert",
+        "wir": "vergrößern",
+        "ihr": "vergrößert",
+        "sie": "vergrößern"
+      },
+      "Präteritum": {
+        "ich": "vergrößerte",
+        "du": "vergrößertest",
+        "er": "vergrößerte",
+        "wir": "vergrößerten",
+        "ihr": "vergrößertet",
+        "sie": "vergrößerten"
+      },
+      "Perfekt": {
+        "ich": "habe vergrößert",
+        "du": "hast vergrößert",
+        "er": "hat vergrößert",
+        "wir": "haben vergrößert",
+        "ihr": "habt vergrößert",
+        "sie": "haben vergrößert"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte vergrößert",
+        "du": "hattest vergrößert",
+        "er": "hatte vergrößert",
+        "wir": "hatten vergrößert",
+        "ihr": "hattet vergrößert",
+        "sie": "hatten vergrößert"
+      },
+      "Futur I": {
+        "ich": "werde vergrößern",
+        "du": "wirst vergrößern",
+        "er": "wird vergrößern",
+        "wir": "werden vergrößern",
+        "ihr": "werdet vergrößern",
+        "sie": "werden vergrößern"
+      },
+      "Futur II": {
+        "ich": "werde vergrößert haben",
+        "du": "wirst vergrößert haben",
+        "er": "wird vergrößert haben",
+        "wir": "werden vergrößert haben",
+        "ihr": "werdet vergrößert haben",
+        "sie": "werden vergrößert haben"
+      }
+    },
+    "imperative": [
+      "ich vergrößere",
+      "du vergrößerst",
+      "er vergrößert",
+      "wir vergrößern",
+      "ihr vergrößert",
+      "sie vergrößern"
+    ],
+    "english": [
+      "enlarge",
+      "increase",
+      "magnify",
+      "scale up",
+      "aggrandize",
+      "amplify",
+      "augment",
+      "heighten",
+      "accrete",
+      "aggrandise",
+      "become enlarged",
+      "blow up",
+      "deepen",
+      "eke",
+      "enhance",
+      "expand",
+      "extend",
+      "increase (in)",
+      "increase by",
+      "increase in number",
+      "increase the size of",
+      "raise",
+      "zoom in"
+    ],
+    "definitions_de": [
+      "etwas in seiner Ausdehnung oder seinem Umfang größer machen",
+      "die Anzahl der Elemente in einer Menge erhöhen",
+      "ein Abbild mit größeren Ausmaßen anfertigen",
+      "größer machen, erweitern, vermehren, ausdehnen, ausweiten, Nahrung geben"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie vergrößerte die Fotos.",
+        "en": "She enlarged the photos."
+      },
+      {
+        "de": "Du hast die Fotos vergrößert.",
+        "en": "You have enlarged the photos."
+      },
+      {
+        "de": "Mein Café im Ort wurde vergrößert.",
+        "en": "My café in the town has been enlarged."
+      },
+      {
+        "de": "Wer versucht, vor seiner Angst wegzulaufen, vergrößert sie.",
+        "en": "Whoever tries to run away from their fear, enlarges it."
+      },
+      {
+        "de": "Er neigt dazu, die Fehler der anderen zu vergrößern.",
+        "en": "He tends to exaggerate the mistakes of others."
+      },
+      {
+        "de": "Beim Umschwung kann der Arm gestreckt werden, um den Schwung zu vergrößern.",
+        "en": "During the swing, the arm can be extended to increase the momentum."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/vergro3s5ern.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/vergro3s5ern.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/vergro3s5ern.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/vergro3s5ern.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/vergro3s5ern.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/vergro3s5ern.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/vergro3s5ern.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/vergro3s5ern.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/vergro3s5ern.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/vergro3s5ern.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/vergro3s5ern.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/vergro3s5ern.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/vergro3s5ern.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/vergro3s5ern.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/vergro3s5ern.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/vergro3s5ern.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/vergro3s5ern.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/vergro3s5ern.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/vergro3s5ern.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/vergro3s5ern.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/vergro3s5ern.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/vergro3s5ern.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/vergro3s5ern.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/vergro3s5ern.htm",
+    "rank": 778,
+    "first_seen": "2026-10-12T08:36:04+00:00",
+    "updated_at": "2026-10-12T09:07:53+00:00",
+    "hash": "52a095fbd51accba"
   },
   {
     "id": "verlassen",
@@ -9465,24 +10569,28 @@
     "ipa": [],
     "examples": [
       {
+        "de": "Tom verließ sie.",
+        "en": "Tom abandoned them."
+      },
+      {
         "de": "Ihr verließt eure Kinder.",
         "en": "You are leaving your children."
       },
       {
-        "de": "Ich verlass",
+        "de": "Ich verlasse die Stadt.",
         "en": "I'm leaving the city."
       },
       {
-        "de": "Großbritannien verläss",
+        "de": "Tom verlässt die Stadt.",
+        "en": "Tom is leaving town."
+      },
+      {
+        "de": "Großbritannien verlässt die Europäische Union.",
         "en": "Britain is leaving the European Union."
       },
       {
         "de": "Ich verlass mich auf dich.",
         "en": "I'll take your word for it."
-      },
-      {
-        "de": "Der Kapitän hatte die Brücke verlassen",
-        "en": "The captain had left the bridge."
       }
     ],
     "audio": {
@@ -9513,8 +10621,8 @@
     "source_url": "https://www.verbformen.de/konjugation/verlassen.htm",
     "rank": 518,
     "first_seen": "2026-10-08T13:38:53+00:00",
-    "updated_at": "2026-10-08T21:58:55+00:00",
-    "hash": "7f31f9ebcfcc3f51"
+    "updated_at": "2026-10-12T04:29:29+00:00",
+    "hash": "476f410aba18359a"
   },
   {
     "id": "verneinen",
@@ -9611,15 +10719,15 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich hätte verneint",
+        "de": "Ich hätte verneint.",
         "en": "I would've said no."
       },
       {
-        "de": "Ich hätte es verneint",
+        "de": "Ich hätte es verneint.",
         "en": "I would've said no."
       },
       {
-        "de": "Das können Sie nicht vernein",
+        "de": "Das können Sie nicht verneinen.",
         "en": "You can't deny it."
       },
       {
@@ -9627,12 +10735,12 @@
         "en": "He denies violence in all forms."
       },
       {
-        "de": "Ich würde alle drei Fragen verneinen",
+        "de": "Ich würde alle drei Fragen verneinen.",
         "en": "I would answer no to all three questions."
       },
       {
-        "de": "Immer verneinst du das, was ich sage.",
-        "en": "You always deny what I say."
+        "de": "Tom verneint, dass es Geschlechter gibt.",
+        "en": "Tom denies that there are genders."
       }
     ],
     "audio": {
@@ -9663,8 +10771,8 @@
     "source_url": "https://www.verbformen.de/konjugation/verneinen.htm",
     "rank": 42,
     "first_seen": "2026-10-08T10:50:28+00:00",
-    "updated_at": "2026-10-08T20:52:13+00:00",
-    "hash": "980ef2e39242261c"
+    "updated_at": "2026-10-12T04:29:29+00:00",
+    "hash": "1c8d5548621ba4ef"
   },
   {
     "id": "versorgen",
@@ -9794,7 +10902,7 @@
         "en": "I sustain my family."
       },
       {
-        "de": "Meine Wunde wird versorg",
+        "de": "Meine Wunde wird versorgt.",
         "en": "My wound is being treated."
       },
       {
@@ -9806,11 +10914,11 @@
         "en": "Bees provide honey for us."
       },
       {
-        "de": "Wir können sie nicht alle versorgen",
+        "de": "Wir können sie nicht alle versorgen.",
         "en": "We cannot provide for all of them."
       },
       {
-        "de": "Der Soldat versorg",
+        "de": "Der Soldat versorgt seine Ausrüstung im Rucksack.",
         "en": "The soldier takes care of his equipment in the backpack."
       }
     ],
@@ -9842,8 +10950,166 @@
     "source_url": "https://www.verbformen.de/konjugation/versorgen.htm",
     "rank": 422,
     "first_seen": "2026-10-08T12:56:58+00:00",
-    "updated_at": "2026-10-08T21:49:58+00:00",
-    "hash": "afab3ea0199012ea"
+    "updated_at": "2026-10-12T04:29:29+00:00",
+    "hash": "af4992bcabea728d"
+  },
+  {
+    "id": "vertrauen",
+    "type": "verb",
+    "infinitive": "vertrauen",
+    "level": "B1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "vertraut",
+    "praeteritum_3sg": "vertraute",
+    "perfekt_3sg": "hat vertraut",
+    "partizip2": "vertraut",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "auf+A"
+    ],
+    "usage_pattern_raw": "sich, Dat., Akk., auf+A",
+    "indicative": {
+      "Präsens": {
+        "ich": "vertraue",
+        "du": "vertraust",
+        "er": "vertraut",
+        "wir": "vertrauen",
+        "ihr": "vertraut",
+        "sie": "vertrauen"
+      },
+      "Präteritum": {
+        "ich": "vertraute",
+        "du": "vertrautest",
+        "er": "vertraute",
+        "wir": "vertrauten",
+        "ihr": "vertrautet",
+        "sie": "vertrauten"
+      },
+      "Perfekt": {
+        "ich": "habe vertraut",
+        "du": "hast vertraut",
+        "er": "hat vertraut",
+        "wir": "haben vertraut",
+        "ihr": "habt vertraut",
+        "sie": "haben vertraut"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte vertraut",
+        "du": "hattest vertraut",
+        "er": "hatte vertraut",
+        "wir": "hatten vertraut",
+        "ihr": "hattet vertraut",
+        "sie": "hatten vertraut"
+      },
+      "Futur I": {
+        "ich": "werde vertrau(e)n",
+        "du": "wirst vertrau(e)n",
+        "er": "wird vertrau(e)n",
+        "wir": "werden vertrau(e)n",
+        "ihr": "werdet vertrau(e)n",
+        "sie": "werden vertrau(e)n"
+      },
+      "Futur II": {
+        "ich": "werde vertraut haben",
+        "du": "wirst vertraut haben",
+        "er": "wird vertraut haben",
+        "wir": "werden vertraut haben",
+        "ihr": "werdet vertraut haben",
+        "sie": "werden vertraut haben"
+      }
+    },
+    "imperative": [
+      "ich vertraue",
+      "du vertraust",
+      "er vertraut",
+      "wir vertrauen",
+      "ihr vertraut",
+      "sie vertrauen"
+    ],
+    "english": [
+      "trust",
+      "bank (on)",
+      "confide (in)",
+      "confide in",
+      "confidence",
+      "have confidence in",
+      "rely",
+      "rely (on)",
+      "rely on",
+      "trust (in)",
+      "trust in"
+    ],
+    "definitions_de": [
+      "auf jemanden, auf etwas seine Zuversicht richten, hoffen, bauen, hoffen",
+      "(sich) verlassen (auf), Vertrauen schenken, zählen (auf), (jemandem) glauben, bauen (auf)"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich vertraue niemandem.",
+        "en": "I don't trust anyone."
+      },
+      {
+        "de": "Niemand vertraut ihr.",
+        "en": "No one trusts her."
+      },
+      {
+        "de": "Er vertraute ihnen.",
+        "en": "He trusted them."
+      },
+      {
+        "de": "Sie vertrauten ihm.",
+        "en": "They trusted him."
+      },
+      {
+        "de": "Vertraust du ihr?",
+        "en": "Do you trust her?"
+      },
+      {
+        "de": "Vertrau ihm nicht.",
+        "en": "Don't trust him."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/vertrauen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/vertrauen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/vertrauen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/vertrauen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/vertrauen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/vertrauen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/vertrauen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/vertrauen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/vertrauen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/vertrauen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/vertrauen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/vertrauen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/vertrauen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/vertrauen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/vertrauen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/vertrauen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/vertrauen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/vertrauen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/vertrauen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/vertrauen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/vertrauen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/vertrauen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/vertrauen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/vertrauen.htm",
+    "rank": 741,
+    "first_seen": "2026-10-12T08:20:04+00:00",
+    "updated_at": "2026-10-12T09:02:04+00:00",
+    "hash": "9876cbb71d6b7692"
   },
   {
     "id": "vorbeifliegen",
@@ -9935,27 +11201,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Ich sah mehrere Vögel am Haus vorbeifliegen",
+        "de": "Ich sah mehrere Vögel am Haus vorbeifliegen.",
         "en": "I saw several birds flying past the house."
       },
       {
-        "de": "Er ist ganz dicht an den Zuschauern vorbeige",
+        "de": "Er ist ganz dicht an den Zuschauern vorbeigeflogen.",
         "en": "He flew right past the spectators."
       },
       {
-        "de": "Das Rotkehlchen fliegt vorbei",
+        "de": "Das Rotkehlchen fliegt vorbei.",
         "en": "The robin flies by."
       },
       {
-        "de": "Es schickt den Forschern zum Beispiel Informationen, wenn es an dem Kometen vorbeiflieg",
+        "de": "Es schickt den Forschern zum Beispiel Informationen, wenn es an dem Kometen vorbeifliegt.",
         "en": "It sends, for example, information to the researchers when it flies past the comet."
       },
       {
-        "de": "Der Ball ist aber am Tor vorbeige",
+        "de": "Der Ball ist aber am Tor vorbeigeflogen.",
         "en": "The ball, however, flew past the goal."
       },
       {
-        "de": "Meine Großmutter hat mir so lange eingeredet, das Christkind sei ein Engel mit langem weißen Haar, bis ich mir ganz sicher war, dass es einmal an meinem Fenster vorbei",
+        "de": "Meine Großmutter hat mir so lange eingeredet, das Christkind sei ein Engel mit langem weißen Haar, bis ich mir ganz sicher war, dass es einmal an meinem Fenster vorbeigeflogen ist.",
         "en": "My grandmother convinced me for so long that the Christ Child is an angel with long white hair, until I was completely sure that it once flew past my window."
       }
     ],
@@ -9987,8 +11253,8 @@
     "source_url": "https://www.verbformen.de/konjugation/vorbeifliegen.htm",
     "rank": 85,
     "first_seen": "2026-10-08T10:55:20+00:00",
-    "updated_at": "2026-10-08T20:53:09+00:00",
-    "hash": "de2a81b7ae47b18d"
+    "updated_at": "2026-10-12T04:29:30+00:00",
+    "hash": "90281fb650d31ad0"
   },
   {
     "id": "wenden",
@@ -10097,7 +11363,11 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Sie w",
+        "de": "Tom wandte sich an Mary.",
+        "en": "Tom contacted Mary."
+      },
+      {
+        "de": "Sie wandten sich gegen Deutschland.",
         "en": "They turned against Germany."
       },
       {
@@ -10105,20 +11375,16 @@
         "en": "All eyes turned to her."
       },
       {
-        "de": "An wen hast du dich gewand",
+        "de": "An wen hast du dich gewandt?",
         "en": "Who did you turn to?"
       },
       {
-        "de": "Rasch w",
+        "de": "Rasch wandte ich den Blick zur Tür.",
         "en": "Quickly, I turned my gaze to the door."
       },
       {
         "de": "An der Ecke wandte er sich nach links.",
         "en": "At the corner, he turned left."
-      },
-      {
-        "de": "Der Bürgermeister w",
-        "en": "The mayor addressed the general public."
       }
     ],
     "audio": {
@@ -10149,8 +11415,8 @@
     "source_url": "https://www.verbformen.de/konjugation/wenden.htm",
     "rank": 598,
     "first_seen": "2026-10-08T22:16:18+00:00",
-    "updated_at": "2026-10-08T22:16:51+00:00",
-    "hash": "fdd5313866eea4a1"
+    "updated_at": "2026-10-12T04:29:30+00:00",
+    "hash": "f6eacc29859bd2df"
   },
   {
     "id": "zuru3ckbekommen",
@@ -10246,27 +11512,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wie bekomm",
+        "de": "Wie bekomme ich mein Geld zurück?",
         "en": "How do I get reimbursed?"
       },
       {
-        "de": "Ich hab das Geld von ihm zurückbekommen",
+        "de": "Ich hab das Geld von ihm zurückbekommen.",
         "en": "I got the money back from him."
       },
       {
-        "de": "Warum versuchst du nicht, dein Geld zurückzubekommen",
+        "de": "Warum versuchst du nicht, dein Geld zurückzubekommen?",
         "en": "Why don't you try to get your money back?"
       },
       {
-        "de": "Er hatte das Buch seiner Freundin geliehen, aber nie wieder zurückbekomm",
+        "de": "Er hatte das Buch seiner Freundin geliehen, aber nie wieder zurückbekommen.",
         "en": "He had borrowed the book from his girlfriend, but never got it back."
       },
       {
-        "de": "Ich musste eine große Summe ausgeben, um es zurückzubekommen",
+        "de": "Ich musste eine große Summe ausgeben, um es zurückzubekommen.",
         "en": "I had to pay a large sum of money to get it back."
       },
       {
-        "de": "Du bekomm",
+        "de": "Du bekommst noch einen Sechser aus der Kasse zurück.",
         "en": "You will get another six back from the cash register."
       }
     ],
@@ -10298,8 +11564,8 @@
     "source_url": "https://www.verbformen.de/konjugation/zuru3ckbekommen.htm",
     "rank": 163,
     "first_seen": "2026-10-08T11:04:02+00:00",
-    "updated_at": "2026-10-08T20:54:26+00:00",
-    "hash": "dff335d73722a89d"
+    "updated_at": "2026-10-12T04:29:30+00:00",
+    "hash": "ef55c4c8bc4aad61"
   },
   {
     "id": "zusammenbleiben",
@@ -10391,27 +11657,27 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Wir müssen zusammenbleiben",
+        "de": "Wir müssen zusammenbleiben.",
         "en": "We need to stay together."
       },
       {
-        "de": "Sie blieben noch einen Tag zusammen",
+        "de": "Sie blieben noch einen Tag zusammen.",
         "en": "They stayed one more day together."
       },
       {
-        "de": "Wir sind zusammen",
+        "de": "Wir sind zusammengeblieben, bis wir unser gemeinsames Ziel erreicht haben.",
         "en": "We stayed together until we reached our common goal."
       },
       {
-        "de": "Wir blieben sicherheitshalber zusammen",
+        "de": "Wir blieben sicherheitshalber zusammen.",
         "en": "We kept together for safety."
       },
       {
-        "de": "Tom und Maria wollten zusammenbleiben",
+        "de": "Tom und Maria wollten zusammenbleiben.",
         "en": "Tom and Mary wanted to remain together."
       },
       {
-        "de": "Die Welpen sollten noch eine Woche zusammenbleiben",
+        "de": "Die Welpen sollten noch eine Woche zusammenbleiben.",
         "en": "The puppies should stay together for another week."
       }
     ],
@@ -10443,8 +11709,8 @@
     "source_url": "https://www.verbformen.de/konjugation/zusammenbleiben.htm",
     "rank": 269,
     "first_seen": "2026-10-08T11:50:52+00:00",
-    "updated_at": "2026-10-08T21:18:51+00:00",
-    "hash": "51c8be6be16a9024"
+    "updated_at": "2026-10-12T04:29:30+00:00",
+    "hash": "e366a40ad4f42c59"
   },
   {
     "id": "zusammenbrechen",
@@ -10559,28 +11825,28 @@
     "ipa": [],
     "examples": [
       {
-        "de": "Tom ist zusammenge",
+        "de": "Tom brach zusammen.",
+        "en": "Tom collapsed."
+      },
+      {
+        "de": "Tom ist zusammengebrochen.",
         "en": "Tom broke down."
       },
       {
-        "de": "Der Turm br",
+        "de": "Der Turm brach zusammen.",
         "en": "The tower collapsed."
       },
       {
-        "de": "Der alte Staat br",
+        "de": "Der alte Staat brach zusammen.",
         "en": "The old state collapsed."
       },
       {
-        "de": "Er ist auf dem Gehsteig zusammengebr",
+        "de": "Er ist auf dem Gehsteig zusammengebrochen.",
         "en": "He collapsed on the pavement."
       },
       {
-        "de": "Der gesamte Verkehr der Stadt ist zusammengebr",
+        "de": "Der gesamte Verkehr der Stadt ist zusammengebrochen.",
         "en": "The entire traffic of the city has collapsed."
-      },
-      {
-        "de": "Nimmst du keinen Urlaub, wirst du zusammenbrechen",
-        "en": "If you don't take a vacation, you'll collapse."
       }
     ],
     "audio": {
@@ -10611,7 +11877,7 @@
     "source_url": "https://www.verbformen.de/konjugation/zusammenbrechen.htm",
     "rank": 269,
     "first_seen": "2026-10-08T11:50:52+00:00",
-    "updated_at": "2026-10-08T21:19:13+00:00",
-    "hash": "70bab0029fd75c8e"
+    "updated_at": "2026-10-12T04:29:30+00:00",
+    "hash": "42efea44542b1d5c"
   }
 ]
