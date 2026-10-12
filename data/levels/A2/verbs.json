@@ -1,5 +1,319 @@
 [
   {
+    "id": "ablesen",
+    "type": "verb",
+    "infinitive": "ablesen",
+    "level": "A2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "liest ab",
+    "praeteritum_3sg": "las ab",
+    "perfekt_3sg": "hat abgelesen",
+    "partizip2": "abgelesen",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "an+D",
+      "von+D"
+    ],
+    "usage_pattern_raw": "Akk., an+D, von+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "lese ab",
+        "du": "liest ab",
+        "er": "liest ab",
+        "wir": "lesen ab",
+        "ihr": "lest ab",
+        "sie": "lesen ab"
+      },
+      "Präteritum": {
+        "ich": "las ab",
+        "du": "las(es)t ab",
+        "er": "las ab",
+        "wir": "lasen ab",
+        "ihr": "las(e)t ab",
+        "sie": "lasen ab"
+      },
+      "Perfekt": {
+        "ich": "habe abgelesen",
+        "du": "hast abgelesen",
+        "er": "hat abgelesen",
+        "wir": "haben abgelesen",
+        "ihr": "habt abgelesen",
+        "sie": "haben abgelesen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte abgelesen",
+        "du": "hattest abgelesen",
+        "er": "hatte abgelesen",
+        "wir": "hatten abgelesen",
+        "ihr": "hattet abgelesen",
+        "sie": "hatten abgelesen"
+      },
+      "Futur I": {
+        "ich": "werde ablesen",
+        "du": "wirst ablesen",
+        "er": "wird ablesen",
+        "wir": "werden ablesen",
+        "ihr": "werdet ablesen",
+        "sie": "werden ablesen"
+      },
+      "Futur II": {
+        "ich": "werde abgelesen haben",
+        "du": "wirst abgelesen haben",
+        "er": "wird abgelesen haben",
+        "wir": "werden abgelesen haben",
+        "ihr": "werdet abgelesen haben",
+        "sie": "werden abgelesen haben"
+      }
+    },
+    "imperative": [
+      "ich lese ab",
+      "du liest ab",
+      "er liest ab",
+      "wir lesen ab",
+      "ihr lest ab",
+      "sie lesen ab"
+    ],
+    "english": [
+      "read off",
+      "read out",
+      "deduce",
+      "infer",
+      "read",
+      "read the meter",
+      "recite",
+      "take a reading",
+      "take reading",
+      "take readings"
+    ],
+    "definitions_de": [
+      "einen Wert festhalten",
+      "etwas Geschriebenes laut sprechen",
+      "aus etwas folgern",
+      "pflücken, absammeln, absuchen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Denn sie lesen oft von den Lippen ab.",
+        "en": "For they often read from the lips."
+      },
+      {
+        "de": "Zeit ist das, was man an der Uhr abliest.",
+        "en": "Time is what you read on the clock."
+      },
+      {
+        "de": "Man konnte ihm die Verzweiflung am Gesicht ablesen.",
+        "en": "One could read the despair on his face."
+      },
+      {
+        "de": "Seine Enttäuschung war an seinem Gesichtsausdruck abzulesen.",
+        "en": "His disappointment was evident from his facial expression."
+      },
+      {
+        "de": "Heute wird die Wasseruhr abgelesen.",
+        "en": "Today the water meter will be read."
+      },
+      {
+        "de": "Bitte lesen Sie den Zähler ab.",
+        "en": "Please read the meter."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ablesen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ablesen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ablesen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ablesen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ablesen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ablesen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ablesen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ablesen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ablesen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ablesen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ablesen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ablesen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ablesen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ablesen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ablesen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ablesen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ablesen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ablesen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ablesen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ablesen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ablesen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ablesen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablesen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ablesen.htm",
+    "rank": 865,
+    "first_seen": "2026-10-12T14:34:37+00:00",
+    "updated_at": "2026-10-12T16:00:59+00:00",
+    "hash": "99c287bdc50ba8a4"
+  },
+  {
+    "id": "abschicken",
+    "type": "verb",
+    "infinitive": "abschicken",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "schickt ab",
+    "praeteritum_3sg": "schickte ab",
+    "perfekt_3sg": "hat abgeschickt",
+    "partizip2": "abgeschickt",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "schicke ab",
+        "du": "schickst ab",
+        "er": "schickt ab",
+        "wir": "schicken ab",
+        "ihr": "schickt ab",
+        "sie": "schicken ab"
+      },
+      "Präteritum": {
+        "ich": "schickte ab",
+        "du": "schicktest ab",
+        "er": "schickte ab",
+        "wir": "schickten ab",
+        "ihr": "schicktet ab",
+        "sie": "schickten ab"
+      },
+      "Perfekt": {
+        "ich": "habe abgeschickt",
+        "du": "hast abgeschickt",
+        "er": "hat abgeschickt",
+        "wir": "haben abgeschickt",
+        "ihr": "habt abgeschickt",
+        "sie": "haben abgeschickt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte abgeschickt",
+        "du": "hattest abgeschickt",
+        "er": "hatte abgeschickt",
+        "wir": "hatten abgeschickt",
+        "ihr": "hattet abgeschickt",
+        "sie": "hatten abgeschickt"
+      },
+      "Futur I": {
+        "ich": "werde abschicken",
+        "du": "wirst abschicken",
+        "er": "wird abschicken",
+        "wir": "werden abschicken",
+        "ihr": "werdet abschicken",
+        "sie": "werden abschicken"
+      },
+      "Futur II": {
+        "ich": "werde abgeschickt haben",
+        "du": "wirst abgeschickt haben",
+        "er": "wird abgeschickt haben",
+        "wir": "werden abgeschickt haben",
+        "ihr": "werdet abgeschickt haben",
+        "sie": "werden abgeschickt haben"
+      }
+    },
+    "imperative": [
+      "ich schicke ab",
+      "du schickst ab",
+      "er schickt ab",
+      "wir schicken ab",
+      "ihr schickt ab",
+      "sie schicken ab"
+    ],
+    "english": [
+      "dispatch",
+      "send",
+      "post",
+      "consign",
+      "despatch",
+      "get off",
+      "mail",
+      "post off",
+      "send away",
+      "send off",
+      "submit"
+    ],
+    "definitions_de": [
+      "etwas auf den Weg zu einem Empfänger bringen, absenden, versenden",
+      "aufgeben, übersenden"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hast du die Post schon abgeschickt?",
+        "en": "Have you already sent the mail?"
+      },
+      {
+        "de": "Haben Sie vergessen, meinen Brief abzuschicken?",
+        "en": "Did you forget to send my letter?"
+      },
+      {
+        "de": "Meine Oma hat den Brief heute Morgen abgeschickt.",
+        "en": "My grandmother posted the letter this morning."
+      },
+      {
+        "de": "Ich schreibe Briefe, die ich nie abschicke.",
+        "en": "I write letters which I never send."
+      },
+      {
+        "de": "Ich habe meinen Sohn beauftragt die Briefe abzuschicken.",
+        "en": "I got my son to post the letters."
+      },
+      {
+        "de": "Ich werde diesen Brief abschicken.",
+        "en": "I'm going to mail this letter."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/abschicken.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/abschicken.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/abschicken.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/abschicken.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/abschicken.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/abschicken.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/abschicken.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/abschicken.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/abschicken.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/abschicken.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/abschicken.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/abschicken.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/abschicken.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/abschicken.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/abschicken.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/abschicken.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/abschicken.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/abschicken.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/abschicken.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/abschicken.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/abschicken.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/abschicken.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/abschicken.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/abschicken.htm",
+    "rank": 828,
+    "first_seen": "2026-10-12T14:18:32+00:00",
+    "updated_at": "2026-10-12T15:57:08+00:00",
+    "hash": "ddfff60d116c2dab"
+  },
+  {
     "id": "abschreiben",
     "type": "verb",
     "infinitive": "abschreiben",
@@ -2178,6 +2492,177 @@
     "hash": "da05aa091dd34762"
   },
   {
+    "id": "austragen",
+    "type": "verb",
+    "infinitive": "austragen",
+    "level": "A2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "trägt aus",
+    "praeteritum_3sg": "trug aus",
+    "perfekt_3sg": "hat ausgetragen",
+    "partizip2": "ausgetragen",
+    "separable_prefix": "aus",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "aus+D",
+      "mit+D"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., aus+D, mit+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "trage aus",
+        "du": "trägst aus",
+        "er": "trägt aus",
+        "wir": "tragen aus",
+        "ihr": "tragt aus",
+        "sie": "tragen aus"
+      },
+      "Präteritum": {
+        "ich": "trug aus",
+        "du": "trugst aus",
+        "er": "trug aus",
+        "wir": "trugen aus",
+        "ihr": "trugt aus",
+        "sie": "trugen aus"
+      },
+      "Perfekt": {
+        "ich": "habe ausgetragen",
+        "du": "hast ausgetragen",
+        "er": "hat ausgetragen",
+        "wir": "haben ausgetragen",
+        "ihr": "habt ausgetragen",
+        "sie": "haben ausgetragen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte ausgetragen",
+        "du": "hattest ausgetragen",
+        "er": "hatte ausgetragen",
+        "wir": "hatten ausgetragen",
+        "ihr": "hattet ausgetragen",
+        "sie": "hatten ausgetragen"
+      },
+      "Futur I": {
+        "ich": "werde austragen",
+        "du": "wirst austragen",
+        "er": "wird austragen",
+        "wir": "werden austragen",
+        "ihr": "werdet austragen",
+        "sie": "werden austragen"
+      },
+      "Futur II": {
+        "ich": "werde ausgetragen haben",
+        "du": "wirst ausgetragen haben",
+        "er": "wird ausgetragen haben",
+        "wir": "werden ausgetragen haben",
+        "ihr": "werdet ausgetragen haben",
+        "sie": "werden ausgetragen haben"
+      }
+    },
+    "imperative": [
+      "ich trage aus",
+      "du trägst aus",
+      "er trägt aus",
+      "wir tragen aus",
+      "ihr tragt aus",
+      "sie tragen aus"
+    ],
+    "english": [
+      "deliver",
+      "distribute",
+      "carry out",
+      "argue out",
+      "bear",
+      "cancel name",
+      "carry",
+      "carry full term",
+      "carry to term",
+      "conduct",
+      "deal with",
+      "decide",
+      "deregister",
+      "discharge",
+      "gestate",
+      "remove",
+      "resolve",
+      "run off",
+      "settle",
+      "sign out",
+      "slug out",
+      "strike off"
+    ],
+    "definitions_de": [
+      "etwas verschiedenen Empfängern zubringen",
+      "eine Auseinandersetzung zur Entscheidung führen, ausfechten",
+      "ein Kind bis zur Geburt im Mutterleib tragen",
+      "jemanden, etwas aus einer Liste streichen, streichen, rausnehmen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom trägt Zeitungen aus.",
+        "en": "Tom delivers newspapers."
+      },
+      {
+        "de": "Das Finale wird in mehreren Spielen ausgetragen.",
+        "en": "The final will be played in several matches."
+      },
+      {
+        "de": "Der Briefträger trägt Briefe und Pakete aus.",
+        "en": "The postie delivers letters and parcels."
+      },
+      {
+        "de": "Er trägt seit dreißig Jahren die Post aus.",
+        "en": "He has been delivering the mail for thirty years."
+      },
+      {
+        "de": "Die Olympischen Spiele werden alle vier Jahre ausgetragen.",
+        "en": "The Olympic Games are held every four years."
+      },
+      {
+        "de": "Ich bin nicht sicher, mit welchen Waffen der dritte Weltkrieg ausgetragen wird, aber im vierten Weltkrieg werden sie mit Stöcken und Steinen kämpfen.",
+        "en": "I am not sure with what weapons the third world war will be fought, but in the fourth world war they will fight with sticks and stones."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/austragen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/austragen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/austragen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/austragen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/austragen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/austragen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/austragen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/austragen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/austragen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/austragen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/austragen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/austragen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/austragen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/austragen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/austragen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/austragen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/austragen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/austragen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/austragen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/austragen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/austragen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/austragen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/austragen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/austragen.htm",
+    "rank": 817,
+    "first_seen": "2026-10-12T14:13:37+00:00",
+    "updated_at": "2026-10-12T15:53:24+00:00",
+    "hash": "3ba599e78cd9a746"
+  },
+  {
     "id": "bedanken",
     "type": "verb",
     "infinitive": "bedanken",
@@ -3827,6 +4312,174 @@
     "first_seen": "2026-10-08T11:35:11+00:00",
     "updated_at": "2026-10-12T04:29:11+00:00",
     "hash": "5b2bcdd74708b7a1"
+  },
+  {
+    "id": "eintragen",
+    "type": "verb",
+    "infinitive": "eintragen",
+    "level": "A2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "trägt ein",
+    "praeteritum_3sg": "trug ein",
+    "perfekt_3sg": "hat eingetragen",
+    "partizip2": "eingetragen",
+    "separable_prefix": "ein",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "für+A",
+      "bei+D",
+      "in+A"
+    ],
+    "usage_pattern_raw": "sich+A, Dat., Akk., für+A, bei+D, in+A",
+    "indicative": {
+      "Präsens": {
+        "ich": "trage ein",
+        "du": "trägst ein",
+        "er": "trägt ein",
+        "wir": "tragen ein",
+        "ihr": "tragt ein",
+        "sie": "tragen ein"
+      },
+      "Präteritum": {
+        "ich": "trug ein",
+        "du": "trugst ein",
+        "er": "trug ein",
+        "wir": "trugen ein",
+        "ihr": "trugt ein",
+        "sie": "trugen ein"
+      },
+      "Perfekt": {
+        "ich": "habe eingetragen",
+        "du": "hast eingetragen",
+        "er": "hat eingetragen",
+        "wir": "haben eingetragen",
+        "ihr": "habt eingetragen",
+        "sie": "haben eingetragen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte eingetragen",
+        "du": "hattest eingetragen",
+        "er": "hatte eingetragen",
+        "wir": "hatten eingetragen",
+        "ihr": "hattet eingetragen",
+        "sie": "hatten eingetragen"
+      },
+      "Futur I": {
+        "ich": "werde eintragen",
+        "du": "wirst eintragen",
+        "er": "wird eintragen",
+        "wir": "werden eintragen",
+        "ihr": "werdet eintragen",
+        "sie": "werden eintragen"
+      },
+      "Futur II": {
+        "ich": "werde eingetragen haben",
+        "du": "wirst eingetragen haben",
+        "er": "wird eingetragen haben",
+        "wir": "werden eingetragen haben",
+        "ihr": "werdet eingetragen haben",
+        "sie": "werden eingetragen haben"
+      }
+    },
+    "imperative": [
+      "ich trage ein",
+      "du trägst ein",
+      "er trägt ein",
+      "wir tragen ein",
+      "ihr tragt ein",
+      "sie tragen ein"
+    ],
+    "english": [
+      "register",
+      "enter",
+      "record",
+      "enrol",
+      "enroll",
+      "fill in",
+      "book",
+      "endorse",
+      "enlist",
+      "enregister",
+      "fill out",
+      "inscribe",
+      "map (onto)",
+      "profit",
+      "roster",
+      "sign in",
+      "plot"
+    ],
+    "definitions_de": [
+      "etwas schriftlich festhalten, z. B. in eine Liste oder ein Heft einschreiben, einschreiben, markieren",
+      "einen Ertrag einbringen, einen Gewinn ergeben, bringen, einbringen, ernten",
+      "[Tiere] nach Hause in den Bau bringen, einbringen",
+      "[Fachsprache] irgendwohin tragen, einträglich sein, ausfüllen, erfassen, einpflegen, registrieren"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Trage das Datum selbst ein.",
+        "en": "Write in the date yourself."
+      },
+      {
+        "de": "Das wird in einem Dokument eingetragen.",
+        "en": "This will be entered in a document."
+      },
+      {
+        "de": "Haben Sie sich schon ins Gästebuch eingetragen?",
+        "en": "Have you already signed the guestbook?"
+      },
+      {
+        "de": "Ich habe in meinem Profil meine Sprachkenntnisse eingetragen.",
+        "en": "I have entered my language skills in my profile."
+      },
+      {
+        "de": "Bitte tragen Sie sich in der Teilnehmerliste ein.",
+        "en": "Please sign up on the participant list."
+      },
+      {
+        "de": "Oder die Sexualität soll gar nicht mehr in dem Dokument eingetragen werden.",
+        "en": "Or sexuality should no longer be recorded in the document."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/eintragen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/eintragen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/eintragen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/eintragen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/eintragen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/eintragen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/eintragen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/eintragen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/eintragen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/eintragen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/eintragen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/eintragen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/eintragen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/eintragen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/eintragen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/eintragen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/eintragen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/eintragen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/eintragen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/eintragen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/eintragen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/eintragen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/eintragen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/eintragen.htm",
+    "rank": 817,
+    "first_seen": "2026-10-12T14:13:37+00:00",
+    "updated_at": "2026-10-12T15:56:46+00:00",
+    "hash": "0d795e81b1b437e6"
   },
   {
     "id": "einziehen",
@@ -7794,6 +8447,176 @@
     "hash": "bcc04957ba4cd402"
   },
   {
+    "id": "verletzen",
+    "type": "verb",
+    "infinitive": "verletzen",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "verletzt",
+    "praeteritum_3sg": "verletzte",
+    "perfekt_3sg": "hat verletzt",
+    "partizip2": "verletzt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "an+D",
+      "mit+D",
+      "durch+A",
+      "in+D"
+    ],
+    "usage_pattern_raw": "sich+A, sich+D, Akk., an+D, mit+D, durch+A, in+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "verletze",
+        "du": "verletzt",
+        "er": "verletzt",
+        "wir": "verletzen",
+        "ihr": "verletzt",
+        "sie": "verletzen"
+      },
+      "Präteritum": {
+        "ich": "verletzte",
+        "du": "verletztest",
+        "er": "verletzte",
+        "wir": "verletzten",
+        "ihr": "verletztet",
+        "sie": "verletzten"
+      },
+      "Perfekt": {
+        "ich": "habe verletzt",
+        "du": "hast verletzt",
+        "er": "hat verletzt",
+        "wir": "haben verletzt",
+        "ihr": "habt verletzt",
+        "sie": "haben verletzt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte verletzt",
+        "du": "hattest verletzt",
+        "er": "hatte verletzt",
+        "wir": "hatten verletzt",
+        "ihr": "hattet verletzt",
+        "sie": "hatten verletzt"
+      },
+      "Futur I": {
+        "ich": "werde verletzen",
+        "du": "wirst verletzen",
+        "er": "wird verletzen",
+        "wir": "werden verletzen",
+        "ihr": "werdet verletzen",
+        "sie": "werden verletzen"
+      },
+      "Futur II": {
+        "ich": "werde verletzt haben",
+        "du": "wirst verletzt haben",
+        "er": "wird verletzt haben",
+        "wir": "werden verletzt haben",
+        "ihr": "werdet verletzt haben",
+        "sie": "werden verletzt haben"
+      }
+    },
+    "imperative": [
+      "ich verletze",
+      "du verletzt",
+      "er verletzt",
+      "wir verletzen",
+      "ihr verletzt",
+      "sie verletzen"
+    ],
+    "english": [
+      "hurt",
+      "wound",
+      "offend",
+      "violate",
+      "bruise",
+      "harm",
+      "injure",
+      "bash",
+      "break",
+      "contravene",
+      "damage",
+      "defect",
+      "harm oneself",
+      "injure oneself",
+      "insult",
+      "scathe",
+      "transgress",
+      "breach",
+      "lacerate"
+    ],
+    "definitions_de": [
+      "jemanden physisch (auch lebensgefährlich oder tödlich) verwunden, verwunden, eine Wunde zufügen",
+      "jemanden psychische Wunden zufügen, kränken, beleidigen, kränken",
+      "etwas (eine Grenze, ein Gesetz) übertreten, nicht einhalten, nicht beachten, birseyi görmezden gelmek, übertreten, missachten",
+      "kränken, (Vertrag) nicht einhalten, Schmerzen zufügen, brüskieren, kränken, brechen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ist jemand verletzt?",
+        "en": "Is anybody hurt?"
+      },
+      {
+        "de": "Ich verletze niemanden.",
+        "en": "I hurt nobody."
+      },
+      {
+        "de": "Sie fühlt sich verletzt.",
+        "en": "She feels hurt."
+      },
+      {
+        "de": "Bitte verletz mich nicht.",
+        "en": "Please don't hurt me."
+      },
+      {
+        "de": "Es ist niemand verletzt worden.",
+        "en": "No one has been injured."
+      },
+      {
+        "de": "Eine Schülerin von Herrn Hansen hat sich verletzt.",
+        "en": "One of Mr. Jackson's students got injured."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/verletzen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/verletzen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/verletzen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/verletzen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/verletzen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/verletzen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/verletzen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/verletzen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/verletzen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/verletzen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/verletzen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/verletzen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/verletzen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/verletzen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/verletzen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/verletzen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/verletzen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/verletzen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/verletzen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/verletzen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/verletzen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/verletzen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/verletzen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/verletzen.htm",
+    "rank": 814,
+    "first_seen": "2026-10-12T14:12:33+00:00",
+    "updated_at": "2026-10-12T15:52:42+00:00",
+    "hash": "01071a1c751b7168"
+  },
+  {
     "id": "verlieben",
     "type": "verb",
     "infinitive": "verlieben",
@@ -8585,6 +9408,163 @@
     "first_seen": "2026-10-08T13:06:24+00:00",
     "updated_at": "2026-10-12T04:29:16+00:00",
     "hash": "baf6cf291f13e35e"
+  },
+  {
+    "id": "vera3ndern",
+    "type": "verb",
+    "infinitive": "verändern",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "verändert",
+    "praeteritum_3sg": "veränderte",
+    "perfekt_3sg": "hat verändert",
+    "partizip2": "verändert",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "an+D"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., an+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "verändere",
+        "du": "veränderst",
+        "er": "verändert",
+        "wir": "verändern",
+        "ihr": "verändert",
+        "sie": "verändern"
+      },
+      "Präteritum": {
+        "ich": "veränderte",
+        "du": "verändertest",
+        "er": "veränderte",
+        "wir": "veränderten",
+        "ihr": "verändertet",
+        "sie": "veränderten"
+      },
+      "Perfekt": {
+        "ich": "habe verändert",
+        "du": "hast verändert",
+        "er": "hat verändert",
+        "wir": "haben verändert",
+        "ihr": "habt verändert",
+        "sie": "haben verändert"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte verändert",
+        "du": "hattest verändert",
+        "er": "hatte verändert",
+        "wir": "hatten verändert",
+        "ihr": "hattet verändert",
+        "sie": "hatten verändert"
+      },
+      "Futur I": {
+        "ich": "werde verändern",
+        "du": "wirst verändern",
+        "er": "wird verändern",
+        "wir": "werden verändern",
+        "ihr": "werdet verändern",
+        "sie": "werden verändern"
+      },
+      "Futur II": {
+        "ich": "werde verändert haben",
+        "du": "wirst verändert haben",
+        "er": "wird verändert haben",
+        "wir": "werden verändert haben",
+        "ihr": "werdet verändert haben",
+        "sie": "werden verändert haben"
+      }
+    },
+    "imperative": [
+      "ich verändere",
+      "du veränderst",
+      "er verändert",
+      "wir verändern",
+      "ihr verändert",
+      "sie verändern"
+    ],
+    "english": [
+      "change",
+      "alter",
+      "modify",
+      "convert",
+      "diversify",
+      "make a difference",
+      "mutate",
+      "shift",
+      "transform",
+      "undergo a change",
+      "vary"
+    ],
+    "definitions_de": [
+      "etwas in seiner Art, oder Beschaffenheit wandeln, ändern oder mutieren, ändern, umformen, umgestalten, umorganisieren, umwandeln",
+      "ändern, umkrempeln, (sich) ändern, umsteigen, modifizieren, beeinflussen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Geld verändert Menschen.",
+        "en": "Money changes people."
+      },
+      {
+        "de": "Wenig hat sich verändert.",
+        "en": "Little has changed."
+      },
+      {
+        "de": "Das hat mein Leben verändert.",
+        "en": "It changed my life."
+      },
+      {
+        "de": "Das Geld hat sein Leben verändert.",
+        "en": "Money has changed his life."
+      },
+      {
+        "de": "Menschen verändern sich.",
+        "en": "People change."
+      },
+      {
+        "de": "Tom veränderte sich.",
+        "en": "Tom changed."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/vera3ndern.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/vera3ndern.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/vera3ndern.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/vera3ndern.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/vera3ndern.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/vera3ndern.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/vera3ndern.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/vera3ndern.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/vera3ndern.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/vera3ndern.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/vera3ndern.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/vera3ndern.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/vera3ndern.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/vera3ndern.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/vera3ndern.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/vera3ndern.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/vera3ndern.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/vera3ndern.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/vera3ndern.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/vera3ndern.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/vera3ndern.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/vera3ndern.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/vera3ndern.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/vera3ndern.htm",
+    "rank": 815,
+    "first_seen": "2026-10-12T14:12:54+00:00",
+    "updated_at": "2026-10-12T15:53:03+00:00",
+    "hash": "05104f6d8cc504cc"
   },
   {
     "id": "vorbeigehen",
