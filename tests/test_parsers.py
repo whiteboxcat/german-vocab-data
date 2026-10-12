@@ -79,3 +79,12 @@ def test_search_live_page():
     assert rows["Tischbein"]["listing_level"] == "C2"
     assert "tischfertig" not in rows  # adjective
     assert len(rows) >= 15
+
+
+def test_search_page_without_nouns_or_verbs():
+    """Real page for "auch" (Oct 2026): only adverbs/conjunctions. It's a valid page, not unreadable."""
+    from scraper.parse_search import page_has_results
+    html = load("search_auch_live.html")
+    assert parse_search(html) == []
+    assert page_has_results(html)
+    assert not page_has_results("<html><body>Bitte warten …</body></html>")

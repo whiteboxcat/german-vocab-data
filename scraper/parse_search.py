@@ -87,6 +87,11 @@ def _parse_generic(soup) -> list[dict]:
     return out
 
 
+def page_has_results(html: str) -> bool:
+    """True if this is a normal search page (with results of any word type, or a clear 'no results')."""
+    return 'class="bTrf' in html or "Keine Wörter" in html or "Keine W&ouml;rter" in html
+
+
 def parse_search(html: str) -> list[dict]:
     soup = soupify(html)
     rows = _parse_blocks(soup) or _parse_generic(soup)

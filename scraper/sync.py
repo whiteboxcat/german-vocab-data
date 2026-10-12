@@ -18,7 +18,7 @@ import requests
 from .config import SEEDS_DIR, current_interval_days, load_config
 from .http import OutOfTime, PoliteClient, RateLimited
 from .parse_noun import REQUIRED_NOUN_FIELDS, parse_noun
-from .parse_search import parse_search, slug_from_url
+from .parse_search import page_has_results, parse_search, slug_from_url
 from .parse_verb import REQUIRED_VERB_FIELDS, parse_verb
 from .store import Store, archive_html, content_hash, now_iso
 
@@ -101,7 +101,9 @@ def discover(client: PoliteClient, store: Store, words: list[str], cfg: dict, ta
         if resp.status != 200:
             continue
         entries = parse_search(resp.text)
-        if not entries:
+        if not entries and page_has_results(resp.text):
+            pass  # a normal page with no nouns/verbs (e.g. "auch", "noch"): done, nothing to add
+        elif not entries:
             unreadable += 1
             if unreadable >= 15 and done == 0:
                 print("! Search pages can't be read; stopping discovery for this run (layout probably changed)")
