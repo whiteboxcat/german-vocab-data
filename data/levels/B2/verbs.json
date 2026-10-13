@@ -100,6 +100,9 @@
       "einen Schaden mittels Gleichwertigem ausgleichen, entschädigen",
       "sich zufrieden geben, etwas akzeptieren, sich einigen, (das) Handtuch schmeißen, (sich) fügen, (seinen) Widerstand aufgeben, sich begnügen"
     ],
+    "synonyms": [
+      "entschädigen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -153,10 +156,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abfinden.htm",
-    "rank": 220,
+    "rank": 1202,
+    "zipf": 3.38,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-12T04:29:31+00:00",
-    "hash": "233d26c6dc621a55"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "dc3f50b6d257028c"
   },
   {
     "id": "ablaufen",
@@ -271,6 +275,16 @@
       "(eine Strecke) zu Fuß bewältigen, bewältigen",
       "sich gerade ereignen, sich ereignen, vonstattengehen"
     ],
+    "synonyms": [
+      "starten",
+      "von",
+      "abzweigen",
+      "abfließen",
+      "wegfließen",
+      "bewältigen",
+      "vonstattengehen",
+      "verstreichen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -324,10 +338,191 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablaufen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ablaufen.htm",
-    "rank": 690,
+    "rank": 972,
+    "zipf": 3.65,
     "first_seen": "2026-10-09T00:31:30+00:00",
-    "updated_at": "2026-10-12T04:29:31+00:00",
-    "hash": "3ce6910b11b977dd"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d816523f74c21ed2"
+  },
+  {
+    "id": "ablegen",
+    "type": "verb",
+    "infinitive": "ablegen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "legt ab",
+    "praeteritum_3sg": "legte ab",
+    "perfekt_3sg": "hat abgelegt",
+    "partizip2": "abgelegt",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "lege ab",
+        "du": "legst ab",
+        "er": "legt ab",
+        "wir": "legen ab",
+        "ihr": "legt ab",
+        "sie": "legen ab"
+      },
+      "Präteritum": {
+        "ich": "legte ab",
+        "du": "legtest ab",
+        "er": "legte ab",
+        "wir": "legten ab",
+        "ihr": "legtet ab",
+        "sie": "legten ab"
+      },
+      "Perfekt": {
+        "ich": "habe abgelegt",
+        "du": "hast abgelegt",
+        "er": "hat abgelegt",
+        "wir": "haben abgelegt",
+        "ihr": "habt abgelegt",
+        "sie": "haben abgelegt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte abgelegt",
+        "du": "hattest abgelegt",
+        "er": "hatte abgelegt",
+        "wir": "hatten abgelegt",
+        "ihr": "hattet abgelegt",
+        "sie": "hatten abgelegt"
+      },
+      "Futur I": {
+        "ich": "werde ablegen",
+        "du": "wirst ablegen",
+        "er": "wird ablegen",
+        "wir": "werden ablegen",
+        "ihr": "werdet ablegen",
+        "sie": "werden ablegen"
+      },
+      "Futur II": {
+        "ich": "werde abgelegt haben",
+        "du": "wirst abgelegt haben",
+        "er": "wird abgelegt haben",
+        "wir": "werden abgelegt haben",
+        "ihr": "werdet abgelegt haben",
+        "sie": "werden abgelegt haben"
+      }
+    },
+    "imperative": [
+      "ich lege ab",
+      "du legst ab",
+      "er legt ab",
+      "wir legen ab",
+      "ihr legt ab",
+      "sie legen ab"
+    ],
+    "english": [
+      "lay down",
+      "put down",
+      "remove",
+      "take off",
+      "discard",
+      "get rid of",
+      "set aside",
+      "file",
+      "abandon",
+      "archive",
+      "cast off",
+      "depart",
+      "deposit",
+      "divest oneself of",
+      "grow out of",
+      "leave",
+      "place down",
+      "present",
+      "put out to sea",
+      "rack",
+      "set down",
+      "sit",
+      "store",
+      "submit",
+      "take",
+      "take off sth",
+      "doff"
+    ],
+    "definitions_de": [
+      "fortlegen, niederlegen, irgendwohin legen",
+      "etwas was bearbeitet ist, nicht mehr benötigt wird, zur Aufbewahrung weglegen",
+      "ein Kleidungsstück ausziehen, ausziehen",
+      "nicht mehr tragen"
+    ],
+    "synonyms": [
+      "fortlegen",
+      "niederlegen",
+      "irgendwohin legen",
+      "ausziehen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du musst es ablegen.",
+        "en": "You must put it down."
+      },
+      {
+        "de": "Schlechte Gewohnheiten abzulegen ist schwierig.",
+        "en": "Getting rid of bad habits is hard."
+      },
+      {
+        "de": "Tom muss mir Rechenschaft ablegen.",
+        "en": "Tom is accountable to me."
+      },
+      {
+        "de": "Du hast ein Versprechen abgelegt.",
+        "en": "You made a promise."
+      },
+      {
+        "de": "Der Eisbrecher hat nach Norden abgelegt.",
+        "en": "The icebreaker has set off north."
+      },
+      {
+        "de": "Sie müssen Rechenschaft für das Resultat ablegen.",
+        "en": "You have to account for the result."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ablegen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ablegen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ablegen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ablegen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ablegen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ablegen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ablegen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ablegen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ablegen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ablegen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ablegen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ablegen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ablegen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ablegen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ablegen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ablegen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ablegen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ablegen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ablegen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ablegen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ablegen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ablegen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablegen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ablegen.htm",
+    "rank": 849,
+    "zipf": 3.84,
+    "first_seen": "2026-10-13T01:45:39+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "88235b7326a43cc0"
   },
   {
     "id": "absterben",
@@ -420,6 +615,13 @@
       "langsam vom lebendigen in den toten Zustand übergehen",
       "[Pflanzen] sterben, eingehen, vertrocknen, verdorren, eingehen (Pflanzen), kaputtgehen"
     ],
+    "synonyms": [
+      "sterben",
+      "eingehen",
+      "vertrocknen",
+      "verdorren",
+      "kaputtgehen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -473,10 +675,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/absterben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/absterben.htm",
-    "rank": 405,
+    "rank": 1555,
+    "zipf": 3.04,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-12T04:29:31+00:00",
-    "hash": "1e12d83f52fb9039"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c48a14151327b105"
   },
   {
     "id": "anbringen",
@@ -593,6 +796,16 @@
       "etwas an einer Stelle befestigen, befestigen, festmachen, anfügen",
       "anbekommen, ankriegen"
     ],
+    "synonyms": [
+      "anschleppen",
+      "heranbringen",
+      "heranschleppen",
+      "vorbringen",
+      "anmerken",
+      "anfügen",
+      "befestigen",
+      "festmachen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -646,10 +859,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anbringen.htm",
-    "rank": 285,
+    "rank": 991,
+    "zipf": 3.63,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-12T04:29:31+00:00",
-    "hash": "f39e5bf19028bd63"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "432c05da4b7ddb24"
   },
   {
     "id": "anfreunden",
@@ -743,6 +957,11 @@
       "mit jemandem eine Freundschaft eingehen, Freundschaft schließen, jemandes Freund werden, befreunden, anbändeln, Freundschaft schließen, (sich jemanden) anlachen",
       "etwas akzeptieren, sich an etwas gewöhnen, mit etwas zurechtkommen, sich mit etwas vertraut machen, befreunden, Gefallen finden (an), sich abfinden, (sich) erwärmen (für), liebgewinnen"
     ],
+    "synonyms": [
+      "befreunden",
+      "anbändeln",
+      "liebgewinnen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -796,10 +1015,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anfreunden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anfreunden.htm",
-    "rank": 381,
+    "rank": 1295,
+    "zipf": 3.29,
     "first_seen": "2026-10-08T12:39:28+00:00",
-    "updated_at": "2026-10-12T04:29:31+00:00",
-    "hash": "ac5abb67ccad2cf6"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e4afe378a1c40210"
   },
   {
     "id": "anfu3hren",
@@ -915,6 +1135,16 @@
       "Argumente/Erklärung vorbringen, aufführen, aufzählen, benennen, erwähnen, mitteilen",
       "jemanden auf freundliche Art täuschen, hinters Licht führen, was meist direkt im Anschluss bekannt wird, necken, täuschen, veralbern, verspotten"
     ],
+    "synonyms": [
+      "befehligen",
+      "führen",
+      "leiten",
+      "lenken",
+      "vorangehen",
+      "angeben",
+      "anmerken",
+      "zitieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -968,10 +1198,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anfu3hren.htm",
-    "rank": 565,
+    "rank": 1130,
+    "zipf": 3.45,
     "first_seen": "2026-10-08T13:59:31+00:00",
-    "updated_at": "2026-10-12T04:29:32+00:00",
-    "hash": "232bccbf2acfc7c4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "48d95633b4dd4d59"
   },
   {
     "id": "ankaufen",
@@ -1066,6 +1297,13 @@
       "irgendwo Grundbesitz erstehen, um dort zu wohnen",
       "käuflich erwerben, kaufen, erstehen, erwerben, aufkaufen, erkaufen"
     ],
+    "synonyms": [
+      "kaufen",
+      "erstehen",
+      "erwerben",
+      "aufkaufen",
+      "erkaufen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1103,10 +1341,211 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ankaufen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ankaufen.htm",
-    "rank": 748,
+    "rank": 2653,
+    "zipf": 2.24,
     "first_seen": "2026-10-12T08:22:32+00:00",
-    "updated_at": "2026-10-12T09:12:43+00:00",
-    "hash": "e8047eeea00f235a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "42c53c2a96844f77"
+  },
+  {
+    "id": "anlegen",
+    "type": "verb",
+    "infinitive": "anlegen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "legt an",
+    "praeteritum_3sg": "legte an",
+    "perfekt_3sg": "hat angelegt",
+    "partizip2": "angelegt",
+    "separable_prefix": "an",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "an+D",
+      "mit+D",
+      "auf+A",
+      "an+A",
+      "in+D"
+    ],
+    "usage_pattern_raw": "sich+A, Dat., Akk., an+D, mit+D, auf+A, an+A, in+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "lege an",
+        "du": "legst an",
+        "er": "legt an",
+        "wir": "legen an",
+        "ihr": "legt an",
+        "sie": "legen an"
+      },
+      "Präteritum": {
+        "ich": "legte an",
+        "du": "legtest an",
+        "er": "legte an",
+        "wir": "legten an",
+        "ihr": "legtet an",
+        "sie": "legten an"
+      },
+      "Perfekt": {
+        "ich": "habe angelegt",
+        "du": "hast angelegt",
+        "er": "hat angelegt",
+        "wir": "haben angelegt",
+        "ihr": "habt angelegt",
+        "sie": "haben angelegt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte angelegt",
+        "du": "hattest angelegt",
+        "er": "hatte angelegt",
+        "wir": "hatten angelegt",
+        "ihr": "hattet angelegt",
+        "sie": "hatten angelegt"
+      },
+      "Futur I": {
+        "ich": "werde anlegen",
+        "du": "wirst anlegen",
+        "er": "wird anlegen",
+        "wir": "werden anlegen",
+        "ihr": "werdet anlegen",
+        "sie": "werden anlegen"
+      },
+      "Futur II": {
+        "ich": "werde angelegt haben",
+        "du": "wirst angelegt haben",
+        "er": "wird angelegt haben",
+        "wir": "werden angelegt haben",
+        "ihr": "werdet angelegt haben",
+        "sie": "werden angelegt haben"
+      }
+    },
+    "imperative": [
+      "ich lege an",
+      "du legst an",
+      "er legt an",
+      "wir legen an",
+      "ihr legt an",
+      "sie legen an"
+    ],
+    "english": [
+      "create",
+      "invest",
+      "attach",
+      "berth",
+      "dock",
+      "add",
+      "aim",
+      "buckle on",
+      "draw a bead (on)",
+      "edify",
+      "engage",
+      "establish",
+      "generate",
+      "initiate",
+      "inject",
+      "instal",
+      "install",
+      "land",
+      "latch (on)",
+      "lay alongside",
+      "lay out",
+      "lean (against)",
+      "moor",
+      "mooring",
+      "mount",
+      "pick a fight",
+      "put in",
+      "put on",
+      "set out",
+      "set up",
+      "start",
+      "start a dispute",
+      "take a bead (on)",
+      "take someone on",
+      "wear",
+      "lay in",
+      "put to"
+    ],
+    "definitions_de": [
+      "etwas erschaffen oder erstellen, aufstellen, schaffen, spuren (klassische Loipe), (Konto) eröffnen (Bank), ordnen",
+      "[Technik] etwas anfügen",
+      "einen Streit anfangen, Streit suchen",
+      "[Finanzen] investieren, investieren, (Geld) stecken (in), veranlagen, pumpen, reinstecken"
+    ],
+    "synonyms": [
+      "aufstellen",
+      "schaffen",
+      "ordnen",
+      "investieren",
+      "veranlagen",
+      "pumpen",
+      "reinstecken"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Bitte Sicherheitsgurt anlegen.",
+        "en": "Please fasten seatbelt."
+      },
+      {
+        "de": "Du hast es darauf angelegt.",
+        "en": "You were asking for it."
+      },
+      {
+        "de": "Bitte legen Sie den Sicherheitsgurt an.",
+        "en": "Please fasten your seat belt."
+      },
+      {
+        "de": "Der Garten ist im japanischen Stil angelegt.",
+        "en": "The garden is laid out in the Japanese style."
+      },
+      {
+        "de": "Er möchte sein Geld in Immobilien anlegen.",
+        "en": "He wants to invest his money in real estate."
+      },
+      {
+        "de": "Fast hätte ich mich mit ihm angelegt.",
+        "en": "I almost confronted him."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/anlegen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/anlegen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/anlegen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/anlegen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/anlegen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/anlegen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/anlegen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/anlegen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/anlegen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/anlegen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/anlegen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/anlegen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/anlegen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/anlegen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/anlegen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/anlegen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/anlegen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/anlegen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/anlegen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/anlegen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/anlegen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/anlegen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/anlegen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/anlegen.htm",
+    "rank": 680,
+    "zipf": 4.13,
+    "first_seen": "2026-10-13T01:45:39+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1943ee3bdac28a6b"
   },
   {
     "id": "anlernen",
@@ -1200,6 +1639,11 @@
       "[Berufe] jemanden in eine berufliche Tätigkeit einarbeiten",
       "einweisen, anleiten, heranführen (an), unterweisen (in), einarbeiten, vertraut machen (mit)"
     ],
+    "synonyms": [
+      "einweisen",
+      "anleiten",
+      "einarbeiten"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1233,10 +1677,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anlernen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anlernen.htm",
-    "rank": 684,
+    "rank": 2678,
+    "zipf": 2.22,
     "first_seen": "2026-10-08T14:50:35+00:00",
-    "updated_at": "2026-10-12T04:29:32+00:00",
-    "hash": "51e8cd8816c6ddcd"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "da0d5531c2bff5ff"
   },
   {
     "id": "aufkommen",
@@ -1356,6 +1801,16 @@
       "[Wirtschaft] Kosten tragen, Verantwortung tragen, übernehmen, den Buckel hinhalten, blechen, auf sich nehmen",
       "nach Sprung oder Flug die Erde wieder berühren, landen"
     ],
+    "synonyms": [
+      "üblich werden",
+      "entstehen",
+      "eintreten",
+      "vorfallen",
+      "auftreten",
+      "übernehmen",
+      "blechen",
+      "landen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1409,10 +1864,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufkommen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufkommen.htm",
-    "rank": 141,
+    "rank": 738,
+    "zipf": 4.03,
     "first_seen": "2026-10-08T11:00:50+00:00",
-    "updated_at": "2026-10-12T04:29:32+00:00",
-    "hash": "5ca1b3c3d08e9e62"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "00a565808f34e323"
   },
   {
     "id": "aufliegen",
@@ -1511,6 +1967,7 @@
       "auf etwas liegen, offen daliegen, außer Betrieb sein, sich wund liegen",
       "[Verkehr] wund liegen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -1539,10 +1996,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufliegen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufliegen.htm",
-    "rank": 920,
+    "rank": 2263,
+    "zipf": 2.52,
     "first_seen": "2026-10-12T22:43:07+00:00",
-    "updated_at": "2026-10-12T22:43:12+00:00",
-    "hash": "1ea68daaf5c52cf1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c25404f0154c30ad"
   },
   {
     "id": "ausbrechen",
@@ -1650,6 +2108,11 @@
       "eine bestimmte Stimmung annehmen",
       "sich seitwärts aus der ursprünglich vorgesehenen Richtung bewegen"
     ],
+    "synonyms": [
+      "befreien",
+      "fliehen",
+      "anfangen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1703,10 +2166,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausbrechen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausbrechen.htm",
-    "rank": 241,
+    "rank": 1152,
+    "zipf": 3.43,
     "first_seen": "2026-10-08T23:23:36+00:00",
-    "updated_at": "2026-10-12T04:29:32+00:00",
-    "hash": "6666c0f3bec91802"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "86b4f28942d3f9bb"
   },
   {
     "id": "aushelfen",
@@ -1803,6 +2267,11 @@
       "jemanden aus einer misslichen Situation befreien, indem man ihn mit eigenem Material oder Mitteln unterstützt",
       "vertreten, einspringen, supplieren"
     ],
+    "synonyms": [
+      "einspringen",
+      "vertreten",
+      "supplieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1856,10 +2325,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aushelfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aushelfen.htm",
-    "rank": 218,
+    "rank": 1372,
+    "zipf": 3.22,
     "first_seen": "2026-10-08T11:28:51+00:00",
-    "updated_at": "2026-10-12T04:29:32+00:00",
-    "hash": "5541260044623566"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "eb5fe6b20980cc7a"
   },
   {
     "id": "auslachen",
@@ -1956,6 +2426,13 @@
       "so lange lachen, bis man nicht mehr kann",
       "lachen (über), (sich) mokieren (über), belächeln, feixen, verspotten, nicht ernst nehmen"
     ],
+    "synonyms": [
+      "verhöhnen",
+      "verlachen",
+      "verspotten",
+      "belächeln",
+      "feixen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2009,10 +2486,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/auslachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/auslachen.htm",
-    "rank": 850,
+    "rank": 1472,
+    "zipf": 3.12,
     "first_seen": "2026-10-12T14:28:18+00:00",
-    "updated_at": "2026-10-12T22:40:37+00:00",
-    "hash": "2a27f561eabe886f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "aad6e95232b710ef"
   },
   {
     "id": "beauftragen",
@@ -2122,6 +2600,12 @@
     "definitions_de": [
       "jemandem einen Auftrag geben, jemanden auffordern, etwas zu tun, anhalten, mandatieren, einkaufen, auffordern"
     ],
+    "synonyms": [
+      "anhalten",
+      "mandatieren",
+      "einkaufen",
+      "auffordern"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2175,10 +2659,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beauftragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beauftragen.htm",
-    "rank": 817,
+    "rank": 1153,
+    "zipf": 3.43,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-12T22:39:35+00:00",
-    "hash": "8949436be4fa00ad"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7431aab3318d663a"
   },
   {
     "id": "bedu3rfen",
@@ -2275,6 +2760,12 @@
       "etwas benötigen, etwas brauchen, auf etwas angewiesen sein",
       "haben müssen, gebieten, brauchen, voraussetzen, Bedarf haben, benötigen"
     ],
+    "synonyms": [
+      "benötigen",
+      "brauchen",
+      "gebieten",
+      "voraussetzen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2328,10 +2819,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bedu3rfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bedu3rfen.htm",
-    "rank": 625,
+    "rank": 1041,
+    "zipf": 3.56,
     "first_seen": "2026-10-08T14:24:49+00:00",
-    "updated_at": "2026-10-12T04:29:33+00:00",
-    "hash": "c9168859d98e2950"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "973416e36d906408"
   },
   {
     "id": "beibringen",
@@ -2442,6 +2934,16 @@
       "erläutern, zeigen, wie etwas gemacht wird, so dass es der Betreffende dann kann, ebenso macht, anhalten, anleiten, einarbeiten, erklären, lehren",
       "etwas Unangenehmes vorsichtig, diplomatisch mitteilen, mitteilen, überbringen, zu verstehen geben"
     ],
+    "synonyms": [
+      "beschaffen",
+      "herbeiholen",
+      "vorlegen",
+      "schaden",
+      "zufügen",
+      "erläutern",
+      "zeigen",
+      "anhalten"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2495,10 +2997,183 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beibringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beibringen.htm",
-    "rank": 88,
+    "rank": 904,
+    "zipf": 3.75,
     "first_seen": "2026-10-08T10:55:39+00:00",
-    "updated_at": "2026-10-12T04:29:33+00:00",
-    "hash": "62861295da4b7ff9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7f3d62b69b06072a"
+  },
+  {
+    "id": "beilegen",
+    "type": "verb",
+    "infinitive": "beilegen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "legt bei",
+    "praeteritum_3sg": "legte bei",
+    "perfekt_3sg": "hat beigelegt",
+    "partizip2": "beigelegt",
+    "separable_prefix": "bei",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "lege bei",
+        "du": "legst bei",
+        "er": "legt bei",
+        "wir": "legen bei",
+        "ihr": "legt bei",
+        "sie": "legen bei"
+      },
+      "Präteritum": {
+        "ich": "legte bei",
+        "du": "legtest bei",
+        "er": "legte bei",
+        "wir": "legten bei",
+        "ihr": "legtet bei",
+        "sie": "legten bei"
+      },
+      "Perfekt": {
+        "ich": "habe beigelegt",
+        "du": "hast beigelegt",
+        "er": "hat beigelegt",
+        "wir": "haben beigelegt",
+        "ihr": "habt beigelegt",
+        "sie": "haben beigelegt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte beigelegt",
+        "du": "hattest beigelegt",
+        "er": "hatte beigelegt",
+        "wir": "hatten beigelegt",
+        "ihr": "hattet beigelegt",
+        "sie": "hatten beigelegt"
+      },
+      "Futur I": {
+        "ich": "werde beilegen",
+        "du": "wirst beilegen",
+        "er": "wird beilegen",
+        "wir": "werden beilegen",
+        "ihr": "werdet beilegen",
+        "sie": "werden beilegen"
+      },
+      "Futur II": {
+        "ich": "werde beigelegt haben",
+        "du": "wirst beigelegt haben",
+        "er": "wird beigelegt haben",
+        "wir": "werden beigelegt haben",
+        "ihr": "werdet beigelegt haben",
+        "sie": "werden beigelegt haben"
+      }
+    },
+    "imperative": [
+      "ich lege bei",
+      "du legst bei",
+      "er legt bei",
+      "wir legen bei",
+      "ihr legt bei",
+      "sie legen bei"
+    ],
+    "english": [
+      "attach",
+      "settle",
+      "add",
+      "heave to",
+      "arrange",
+      "attribute",
+      "compound",
+      "dispose",
+      "eliminate",
+      "enclose",
+      "patch up",
+      "reconcile",
+      "resolve",
+      "smooth over",
+      "turn to"
+    ],
+    "definitions_de": [
+      "zu etwas hinzufügen, beifügen, beigeben, beischließen, dazulegen, hinzufügen",
+      "aus der Welt schaffen, bereinigen, in Ordnung bringen, schlichten",
+      "[Verkehr] schlichten, aufhören (mit), beifügen, schlichten, aufgeben, beigeben"
+    ],
+    "synonyms": [
+      "beifügen",
+      "beigeben",
+      "beischließen",
+      "dazulegen",
+      "hinzufügen",
+      "bereinigen",
+      "schlichten",
+      "aufgeben"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Streit wurde schließlich beigelegt.",
+        "en": "The dispute was finally settled."
+      },
+      {
+        "de": "Ich lege Ihnen ein Foto bei.",
+        "en": "I am attaching a photo."
+      },
+      {
+        "de": "Die Angelegenheit wurde in seiner Abwesenheit beigelegt.",
+        "en": "The matter was settled in his absence."
+      },
+      {
+        "de": "Dem Brief ist noch ein weiteres Schreiben beigelegt.",
+        "en": "Another letter is attached to the letter."
+      },
+      {
+        "de": "Dem Brief haben wir noch ein weiteres Schreiben beigelegt.",
+        "en": "We have attached another letter to the letter."
+      },
+      {
+        "de": "Es ist uns endlich gelungen, die Sache beizulegen.",
+        "en": "We were able to settle the matter finally."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/beilegen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/beilegen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/beilegen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/beilegen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/beilegen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/beilegen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/beilegen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/beilegen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/beilegen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/beilegen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/beilegen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/beilegen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/beilegen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/beilegen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/beilegen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/beilegen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/beilegen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/beilegen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/beilegen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/beilegen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/beilegen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/beilegen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/beilegen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/beilegen.htm",
+    "rank": 1744,
+    "zipf": 2.89,
+    "first_seen": "2026-10-13T01:45:39+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "aedaf6d672a7f72a"
   },
   {
     "id": "beitragen",
@@ -2605,6 +3280,15 @@
       "etwas Bestimmtes geben, beisteuern, dazugeben, geben, einen Beitrag machen",
       "hinzufügen (zu), zusteuern, beisteuern, kontribuieren"
     ],
+    "synonyms": [
+      "beisteuern",
+      "dazugeben",
+      "beibringen",
+      "beteiligen",
+      "geben",
+      "zusteuern",
+      "kontribuieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2658,10 +3342,529 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beitragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beitragen.htm",
-    "rank": 817,
+    "rank": 647,
+    "zipf": 4.2,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-12T22:39:40+00:00",
-    "hash": "cf7c5287d8110890"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "32c1563be58e187e"
+  },
+  {
+    "id": "belegen",
+    "type": "verb",
+    "infinitive": "belegen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "belegt",
+    "praeteritum_3sg": "belegte",
+    "perfekt_3sg": "hat belegt",
+    "partizip2": "belegt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "mit+D",
+      "durch+A"
+    ],
+    "usage_pattern_raw": "Akk., mit+D, durch+A",
+    "indicative": {
+      "Präsens": {
+        "ich": "belege",
+        "du": "belegst",
+        "er": "belegt",
+        "wir": "belegen",
+        "ihr": "belegt",
+        "sie": "belegen"
+      },
+      "Präteritum": {
+        "ich": "belegte",
+        "du": "belegtest",
+        "er": "belegte",
+        "wir": "belegten",
+        "ihr": "belegtet",
+        "sie": "belegten"
+      },
+      "Perfekt": {
+        "ich": "habe belegt",
+        "du": "hast belegt",
+        "er": "hat belegt",
+        "wir": "haben belegt",
+        "ihr": "habt belegt",
+        "sie": "haben belegt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte belegt",
+        "du": "hattest belegt",
+        "er": "hatte belegt",
+        "wir": "hatten belegt",
+        "ihr": "hattet belegt",
+        "sie": "hatten belegt"
+      },
+      "Futur I": {
+        "ich": "werde belegen",
+        "du": "wirst belegen",
+        "er": "wird belegen",
+        "wir": "werden belegen",
+        "ihr": "werdet belegen",
+        "sie": "werden belegen"
+      },
+      "Futur II": {
+        "ich": "werde belegt haben",
+        "du": "wirst belegt haben",
+        "er": "wird belegt haben",
+        "wir": "werden belegt haben",
+        "ihr": "werdet belegt haben",
+        "sie": "werden belegt haben"
+      }
+    },
+    "imperative": [
+      "ich belege",
+      "du belegst",
+      "er belegt",
+      "wir belegen",
+      "ihr belegt",
+      "sie belegen"
+    ],
+    "english": [
+      "occupy",
+      "cover",
+      "prove",
+      "allocate",
+      "document",
+      "support",
+      "vouch",
+      "substantiate",
+      "assign",
+      "back",
+      "back up",
+      "belay",
+      "constrain",
+      "demonstrate",
+      "enroll",
+      "face",
+      "furnish evidence",
+      "lay on",
+      "overlay",
+      "rank",
+      "reserve",
+      "seize",
+      "source",
+      "take",
+      "take position",
+      "use",
+      "plate"
+    ],
+    "definitions_de": [
+      "den Beweis für etwas erbringen, beweisen, dokumentieren",
+      "etwas auf etwas legen, bedecken, zudecken, verdecken",
+      "etwas mit etwas versehen, auferlegen",
+      "einen Platz, Rang einnehmen, sich sichern, einschreiben, besetzen, reservieren"
+    ],
+    "synonyms": [
+      "beweisen",
+      "dokumentieren",
+      "bedecken",
+      "zudecken",
+      "verdecken",
+      "auferlegen",
+      "einschreiben",
+      "besetzen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Alle Zimmer sind belegt.",
+        "en": "All the rooms are taken."
+      },
+      {
+        "de": "Ich belege einen Platz.",
+        "en": "I take a place."
+      },
+      {
+        "de": "Wir belegen ein Brötchen.",
+        "en": "We are topping a roll."
+      },
+      {
+        "de": "Der Platz ist nicht belegt.",
+        "en": "This seat isn't taken."
+      },
+      {
+        "de": "Alle guten Plätze waren bereits belegt.",
+        "en": "All the good seats were already taken."
+      },
+      {
+        "de": "Er hat seine Behauptung nicht belegt.",
+        "en": "He has not substantiated his claim."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/belegen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/belegen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/belegen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/belegen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/belegen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/belegen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/belegen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/belegen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/belegen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/belegen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/belegen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/belegen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/belegen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/belegen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/belegen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/belegen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/belegen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/belegen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/belegen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/belegen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/belegen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/belegen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/belegen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/belegen.htm",
+    "rank": 612,
+    "zipf": 4.28,
+    "first_seen": "2026-10-13T01:45:39+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b06edf451575d6c9"
+  },
+  {
+    "id": "benachrichtigen",
+    "type": "verb",
+    "infinitive": "benachrichtigen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "benachrichtigt",
+    "praeteritum_3sg": "benachrichtigte",
+    "perfekt_3sg": "hat benachrichtigt",
+    "partizip2": "benachrichtigt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "über+A",
+      "von+D"
+    ],
+    "usage_pattern_raw": "Akk., über+A, von+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "benachrichtige",
+        "du": "benachrichtigst",
+        "er": "benachrichtigt",
+        "wir": "benachrichtigen",
+        "ihr": "benachrichtigt",
+        "sie": "benachrichtigen"
+      },
+      "Präteritum": {
+        "ich": "benachrichtigte",
+        "du": "benachrichtigtest",
+        "er": "benachrichtigte",
+        "wir": "benachrichtigten",
+        "ihr": "benachrichtigtet",
+        "sie": "benachrichtigten"
+      },
+      "Perfekt": {
+        "ich": "habe benachrichtigt",
+        "du": "hast benachrichtigt",
+        "er": "hat benachrichtigt",
+        "wir": "haben benachrichtigt",
+        "ihr": "habt benachrichtigt",
+        "sie": "haben benachrichtigt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte benachrichtigt",
+        "du": "hattest benachrichtigt",
+        "er": "hatte benachrichtigt",
+        "wir": "hatten benachrichtigt",
+        "ihr": "hattet benachrichtigt",
+        "sie": "hatten benachrichtigt"
+      },
+      "Futur I": {
+        "ich": "werde benachrichtigen",
+        "du": "wirst benachrichtigen",
+        "er": "wird benachrichtigen",
+        "wir": "werden benachrichtigen",
+        "ihr": "werdet benachrichtigen",
+        "sie": "werden benachrichtigen"
+      },
+      "Futur II": {
+        "ich": "werde benachrichtigt haben",
+        "du": "wirst benachrichtigt haben",
+        "er": "wird benachrichtigt haben",
+        "wir": "werden benachrichtigt haben",
+        "ihr": "werdet benachrichtigt haben",
+        "sie": "werden benachrichtigt haben"
+      }
+    },
+    "imperative": [
+      "ich benachrichtige",
+      "du benachrichtigst",
+      "er benachrichtigt",
+      "wir benachrichtigen",
+      "ihr benachrichtigt",
+      "sie benachrichtigen"
+    ],
+    "english": [
+      "notify",
+      "inform",
+      "acquaint",
+      "advertise",
+      "advise (of)",
+      "advise of",
+      "apprise of",
+      "certify",
+      "communicate (to)",
+      "give notice",
+      "give notification",
+      "inform (about)",
+      "inform (of)",
+      "inform on",
+      "pass word (to)",
+      "send word (of)",
+      "send word (to)"
+    ],
+    "definitions_de": [
+      "jemanden von etwas in Kenntnis setzen, jemandem eine Nachricht zukommen lassen, informieren, informieren, Auskunft geben, in Kenntnis setzen, verständigen"
+    ],
+    "synonyms": [
+      "informieren",
+      "verständigen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wir benachrichtigen Sie.",
+        "en": "We will notify you."
+      },
+      {
+        "de": "Haben Sie Tom benachrichtigt?",
+        "en": "Did you notify Tom?"
+      },
+      {
+        "de": "Du hättest uns benachrichtigen sollen.",
+        "en": "You should've notified us."
+      },
+      {
+        "de": "Du wirst per E-Mail benachrichtigt werden.",
+        "en": "You will be notified by email."
+      },
+      {
+        "de": "Der Mitarbeiter wurde über die Kündigung benachrichtigt.",
+        "en": "The employee was notified about the termination."
+      },
+      {
+        "de": "Warum wurden Tom und Mary nicht benachrichtigt?",
+        "en": "Why weren't Tom and Mary notified?"
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/benachrichtigen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/benachrichtigen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/benachrichtigen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/benachrichtigen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/benachrichtigen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/benachrichtigen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/benachrichtigen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/benachrichtigen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/benachrichtigen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/benachrichtigen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/benachrichtigen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/benachrichtigen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/benachrichtigen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/benachrichtigen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/benachrichtigen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/benachrichtigen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/benachrichtigen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/benachrichtigen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/benachrichtigen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/benachrichtigen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/benachrichtigen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/benachrichtigen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/benachrichtigen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/benachrichtigen.htm",
+    "rank": 1288,
+    "zipf": 3.3,
+    "first_seen": "2026-10-13T02:42:53+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "db7186bb49f3bac3"
+  },
+  {
+    "id": "benachteiligen",
+    "type": "verb",
+    "infinitive": "benachteiligen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "benachteiligt",
+    "praeteritum_3sg": "benachteiligte",
+    "perfekt_3sg": "hat benachteiligt",
+    "partizip2": "benachteiligt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "benachteilige",
+        "du": "benachteiligst",
+        "er": "benachteiligt",
+        "wir": "benachteiligen",
+        "ihr": "benachteiligt",
+        "sie": "benachteiligen"
+      },
+      "Präteritum": {
+        "ich": "benachteiligte",
+        "du": "benachteiligtest",
+        "er": "benachteiligte",
+        "wir": "benachteiligten",
+        "ihr": "benachteiligtet",
+        "sie": "benachteiligten"
+      },
+      "Perfekt": {
+        "ich": "habe benachteiligt",
+        "du": "hast benachteiligt",
+        "er": "hat benachteiligt",
+        "wir": "haben benachteiligt",
+        "ihr": "habt benachteiligt",
+        "sie": "haben benachteiligt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte benachteiligt",
+        "du": "hattest benachteiligt",
+        "er": "hatte benachteiligt",
+        "wir": "hatten benachteiligt",
+        "ihr": "hattet benachteiligt",
+        "sie": "hatten benachteiligt"
+      },
+      "Futur I": {
+        "ich": "werde benachteiligen",
+        "du": "wirst benachteiligen",
+        "er": "wird benachteiligen",
+        "wir": "werden benachteiligen",
+        "ihr": "werdet benachteiligen",
+        "sie": "werden benachteiligen"
+      },
+      "Futur II": {
+        "ich": "werde benachteiligt haben",
+        "du": "wirst benachteiligt haben",
+        "er": "wird benachteiligt haben",
+        "wir": "werden benachteiligt haben",
+        "ihr": "werdet benachteiligt haben",
+        "sie": "werden benachteiligt haben"
+      }
+    },
+    "imperative": [
+      "ich benachteilige",
+      "du benachteiligst",
+      "er benachteiligt",
+      "wir benachteiligen",
+      "ihr benachteiligt",
+      "sie benachteiligen"
+    ],
+    "english": [
+      "discriminate against",
+      "put at a disadvantage",
+      "adversely affect",
+      "affect adversely",
+      "cause prejudice (to)",
+      "detract",
+      "disadvantage",
+      "discriminate",
+      "discriminate (against)",
+      "handicap",
+      "penalise",
+      "penalize",
+      "place at a disadvantage",
+      "treat less favourably",
+      "wrong"
+    ],
+    "definitions_de": [
+      "jemandes Chancen oder Möglichkeiten mindern, diskriminieren, (jemanden) diskriminieren, ungleich behandeln, (jemanden) ungleich behandeln"
+    ],
+    "synonyms": [
+      "diskriminieren"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du warst benachteiligt.",
+        "en": "You were disadvantaged."
+      },
+      {
+        "de": "Wir wollten Sie nicht benachteiligen.",
+        "en": "We did not want to disadvantage you."
+      },
+      {
+        "de": "Denn in vielen Ländern werden Mädchen benachteiligt.",
+        "en": "For in many countries, girls are disadvantaged."
+      },
+      {
+        "de": "Das bedeutet, dass Sprache niemanden benachteiligen darf.",
+        "en": "This means that language must not disadvantage anyone."
+      },
+      {
+        "de": "Einige Firmen benachteiligen Frauen, die schwanger sind oder die Absicht einer Schwangerschaft verkünden.",
+        "en": "Some companies discriminate against women who are pregnant or who say that they intend to have children."
+      },
+      {
+        "de": "Behinderte dürfen also nicht benachteiligt werden.",
+        "en": "Disabled people must not be discriminated against."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/benachteiligen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/benachteiligen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/benachteiligen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/benachteiligen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/benachteiligen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/benachteiligen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/benachteiligen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/benachteiligen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/benachteiligen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/benachteiligen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/benachteiligen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/benachteiligen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/benachteiligen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/benachteiligen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/benachteiligen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/benachteiligen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/benachteiligen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/benachteiligen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/benachteiligen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/benachteiligen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/benachteiligen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/benachteiligen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/benachteiligen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/benachteiligen.htm",
+    "rank": 1909,
+    "zipf": 2.77,
+    "first_seen": "2026-10-13T02:42:53+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9756494a2838c76b"
   },
   {
     "id": "benennen",
@@ -2779,6 +3982,16 @@
       "jemanden ernennen, namhaft machen, ernennen, namhaft machen, bekannt geben",
       "benamsen, aufs Tapet bringen, bezeichnen, zur Sprache bringen, (etwas) ansprechen, zur Diskussion stellen"
     ],
+    "synonyms": [
+      "bezeichnen",
+      "betiteln",
+      "taufen",
+      "nennen",
+      "angeben",
+      "zitieren",
+      "namhaft machen",
+      "ernennen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2832,10 +4045,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/benennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/benennen.htm",
-    "rank": 687,
+    "rank": 860,
+    "zipf": 3.82,
     "first_seen": "2026-10-08T14:51:38+00:00",
-    "updated_at": "2026-10-12T04:29:33+00:00",
-    "hash": "388e08773862fbba"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a3944970d10c3463"
   },
   {
     "id": "bereithalten",
@@ -2934,6 +4148,12 @@
     "definitions_de": [
       "dafür sorgen, dass etwas bei Bedarf zur Verfügung steht/verwendbar ist, offerieren, speichern, einsatzbereit, bereitstellen, ablegen"
     ],
+    "synonyms": [
+      "offerieren",
+      "speichern",
+      "bereitstellen",
+      "ablegen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2987,10 +4207,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bereithalten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bereithalten.htm",
-    "rank": 331,
+    "rank": 1556,
+    "zipf": 3.04,
     "first_seen": "2026-10-08T12:17:47+00:00",
-    "updated_at": "2026-10-12T04:29:33+00:00",
-    "hash": "7a9c58d536b607bc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d8bbd3d46074f6ba"
   },
   {
     "id": "bereitstellen",
@@ -3093,6 +4314,11 @@
     "definitions_de": [
       "dafür sorgen, dass jemand etwas benutzen kann, jemanden etwas zur Verfügung bereithalten, verfügbar machen, offerieren, bewilligen (Geld) (für), zuteilen"
     ],
+    "synonyms": [
+      "verfügbar machen",
+      "offerieren",
+      "zuteilen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3146,10 +4372,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bereitstellen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bereitstellen.htm",
-    "rank": 393,
+    "rank": 1082,
+    "zipf": 3.51,
     "first_seen": "2026-10-08T12:44:45+00:00",
-    "updated_at": "2026-10-12T04:29:33+00:00",
-    "hash": "361cf53d01e47f6e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "754427c472737aa0"
   },
   {
     "id": "besagen",
@@ -3244,6 +4471,14 @@
     "definitions_de": [
       "bedeuten, zum Ausdruck bringen, beinhalten, ausdrücken, sagen, (etwas) heißen, erhärten, aussagen"
     ],
+    "synonyms": [
+      "bedeuten",
+      "beinhalten",
+      "ausdrücken",
+      "sagen",
+      "erhärten",
+      "aussagen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3297,10 +4532,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besagen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besagen.htm",
-    "rank": 98,
+    "rank": 1414,
+    "zipf": 3.17,
     "first_seen": "2026-10-08T10:56:40+00:00",
-    "updated_at": "2026-10-12T04:29:33+00:00",
-    "hash": "b726417b967e84f5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f2a4ec2183cfc468"
   },
   {
     "id": "beschaffen",
@@ -3401,6 +4637,15 @@
     "definitions_de": [
       "erwerben, kaufen, sich schenken lassen, von irgendwo holen, anschaffen, anschleppen, besorgen, beibringen, heranschaffen"
     ],
+    "synonyms": [
+      "erwerben",
+      "kaufen",
+      "anschaffen",
+      "anschleppen",
+      "besorgen",
+      "beibringen",
+      "heranschaffen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3454,10 +4699,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beschaffen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beschaffen.htm",
-    "rank": 660,
+    "rank": 905,
+    "zipf": 3.75,
     "first_seen": "2026-10-08T14:40:07+00:00",
-    "updated_at": "2026-10-12T04:29:34+00:00",
-    "hash": "43178dab967d375b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d5d98fea5d64cfb8"
   },
   {
     "id": "besehen",
@@ -3550,6 +4796,13 @@
     "definitions_de": [
       "genau, von allen Seiten ansehen, ansehen, beäugen, angucken, beobachten, anschauen"
     ],
+    "synonyms": [
+      "ansehen",
+      "beäugen",
+      "angucken",
+      "beobachten",
+      "anschauen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3603,10 +4856,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besehen.htm",
-    "rank": 108,
+    "rank": 2467,
+    "zipf": 2.39,
     "first_seen": "2026-10-08T10:57:40+00:00",
-    "updated_at": "2026-10-12T04:29:34+00:00",
-    "hash": "1b736708434f2cc8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e2a1d88b89fb73a5"
   },
   {
     "id": "besteigen",
@@ -3705,6 +4959,15 @@
       "ein Fortbewegungsmittel betreten, einsteigen",
       "ein weltliches oder kirchliches Amt annehmen, das als Ausdruck seiner Würde und Bedeutung mit einem Stuhl oder Thron verbunden ist"
     ],
+    "synonyms": [
+      "bergsteigen",
+      "bezwingen",
+      "erklimmen",
+      "klettern",
+      "aufsitzen",
+      "einsteigen",
+      "bespringen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3758,10 +5021,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besteigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besteigen.htm",
-    "rank": 520,
+    "rank": 1262,
+    "zipf": 3.33,
     "first_seen": "2026-10-08T13:39:36+00:00",
-    "updated_at": "2026-10-12T04:29:34+00:00",
-    "hash": "1828388859aa97a1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ef448dfdb1956772"
   },
   {
     "id": "betreffen",
@@ -3867,6 +5131,15 @@
       "bei einer Handlung beobachten, antreffen, betreten",
       "angehen, treffen, tangieren, (sich) beziehen (auf), (jemandem) gelten, wirken auf"
     ],
+    "synonyms": [
+      "anbelangen",
+      "angehen",
+      "zugehören",
+      "antreffen",
+      "betreten",
+      "treffen",
+      "tangieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3920,10 +5193,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/betreffen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/betreffen.htm",
-    "rank": 412,
+    "rank": 766,
+    "zipf": 3.98,
     "first_seen": "2026-10-08T12:53:27+00:00",
-    "updated_at": "2026-10-12T04:29:34+00:00",
-    "hash": "cad4482d5118019b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4579bd38061172fd"
   },
   {
     "id": "bevorzugen",
@@ -4022,6 +5296,16 @@
       "jemanden, etwas besser behandeln als andere, begünstigen, bevorrechtigen, bevorteilen, privilegieren",
       "bevorzugter Schüler, begünstigen, bevorteilen, (jemanden) vorziehen, favorisieren, besserstellen"
     ],
+    "synonyms": [
+      "präferieren",
+      "vorziehen",
+      "auswählen",
+      "begünstigen",
+      "bevorrechtigen",
+      "bevorteilen",
+      "privilegieren",
+      "favorisieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -4075,10 +5359,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bevorzugen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bevorzugen.htm",
-    "rank": 307,
+    "rank": 875,
+    "zipf": 3.8,
     "first_seen": "2026-10-08T12:07:16+00:00",
-    "updated_at": "2026-10-12T04:29:34+00:00",
-    "hash": "3ae1fdbcc4cf8f84"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "56c176fe853cd5a5"
   },
   {
     "id": "dastehen",
@@ -4170,6 +5455,7 @@
       "sich in einer bestimmten Situation oder Verfassung befinden, als etwas angesehen werden, auf jemanden in einer bestimmten Weise wirken",
       "Geltung haben"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4203,10 +5489,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/dastehen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/dastehen.htm",
-    "rank": 8,
+    "rank": 1100,
+    "zipf": 3.49,
     "first_seen": "2026-10-08T22:29:38+00:00",
-    "updated_at": "2026-10-12T04:29:35+00:00",
-    "hash": "b7dc256bf9d6230e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8dfe21643ef663ce"
   },
   {
     "id": "durcharbeiten",
@@ -4305,6 +5592,7 @@
       "eine Aufgabe gewissenhaft bewältigen",
       "(einen Teig) kneten"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4358,10 +5646,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/durcharbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/durcharbeiten.htm",
-    "rank": 194,
+    "rank": 1745,
+    "zipf": 2.89,
     "first_seen": "2026-10-08T11:19:21+00:00",
-    "updated_at": "2026-10-12T04:29:35+00:00",
-    "hash": "1714eb6dc15de441"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e40ff4f0aadadd05"
   },
   {
     "id": "einarbeiten",
@@ -4469,6 +5758,16 @@
       "Details in etwas Fertigem (Text oder Ähnliches) ergänzen, einbauen, hineinarbeiten, hinzufügen, integrieren",
       "einbinden, einsetzen, einweisen, lancieren, einbauen, anleiten"
     ],
+    "synonyms": [
+      "anlernen",
+      "einweisen",
+      "lehren",
+      "unterweisen",
+      "einbauen",
+      "hineinarbeiten",
+      "hinzufügen",
+      "integrieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -4522,10 +5821,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einarbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einarbeiten.htm",
-    "rank": 20,
+    "rank": 1541,
+    "zipf": 3.06,
     "first_seen": "2026-10-08T10:47:35+00:00",
-    "updated_at": "2026-10-12T04:29:35+00:00",
-    "hash": "a5a9a9a623dafec8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "75408a244d5937a0"
   },
   {
     "id": "einfu3hren",
@@ -4641,6 +5941,15 @@
       "eine Einführung geben, einleiten",
       "etwas in einen Raum, eine Lücke, eine Öffnung einbringen, einbringen, einschieben, hineingeben"
     ],
+    "synonyms": [
+      "importieren",
+      "einleiten",
+      "einbringen",
+      "einschieben",
+      "hineingeben",
+      "lancieren",
+      "anbahnen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -4694,10 +6003,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einfu3hren.htm",
-    "rank": 861,
+    "rank": 819,
+    "zipf": 3.89,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-12T22:40:49+00:00",
-    "hash": "881aa959433d7b25"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c8aba76ae7e10d3e"
   },
   {
     "id": "einholen",
@@ -4818,6 +6128,14 @@
       "einem Ankommenden feierlich entgegengehen, um sie zu begleiten",
       "für den täglichen Bedarf einkaufen gehen, kaufen"
     ],
+    "synonyms": [
+      "aufholen",
+      "überwinden",
+      "erreichen",
+      "fangen",
+      "kaufen",
+      "einziehen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -4871,10 +6189,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einholen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einholen.htm",
-    "rank": 494,
+    "rank": 992,
+    "zipf": 3.63,
     "first_seen": "2026-10-08T13:28:23+00:00",
-    "updated_at": "2026-10-12T04:29:35+00:00",
-    "hash": "3e7e5c41573b41da"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b5b218f459094fbc"
   },
   {
     "id": "einlassen",
@@ -4997,6 +6316,16 @@
       "Juwel in eine Fassung einsetzen, Schmuckstück einfassen",
       "etwas in eine Konstruktion, Mauer oder Boden einfügen, einbauen, einfügen, einpassen, einsetzen, dauerhaft verbinden"
     ],
+    "synonyms": [
+      "hereinbitten",
+      "hereinlassen",
+      "eintreten lassen",
+      "auftragen",
+      "einfließen lassen",
+      "einfüllen",
+      "einbauen",
+      "einfügen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5050,10 +6379,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einlassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einlassen.htm",
-    "rank": 164,
+    "rank": 951,
+    "zipf": 3.69,
     "first_seen": "2026-10-08T11:04:10+00:00",
-    "updated_at": "2026-10-12T04:29:35+00:00",
-    "hash": "2ac9e744ffa67117"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bdf4f900b6b5f5c9"
   },
   {
     "id": "einleben",
@@ -5145,6 +6475,16 @@
       "[Bildung] sich in eine Person oder Sache hineinversetzen, ein tieferes Verständnis erwerben, einfühlen, hineinversetzen, nachfühlen, vertraut werden",
       "(sich) akklimatisieren, vertraut werden (mit), (sich) gewöhnen, (sich) anpassen, (sich) eingewöhnen"
     ],
+    "synonyms": [
+      "akklimatisieren",
+      "eingewöhnen",
+      "eingliedern",
+      "heimisch werden",
+      "warmwerden",
+      "einfühlen",
+      "hineinversetzen",
+      "nachfühlen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5198,10 +6538,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einleben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einleben.htm",
-    "rank": 91,
+    "rank": 2159,
+    "zipf": 2.6,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-12T04:29:36+00:00",
-    "hash": "6f831effed7fb42b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5a12ce0555397d25"
   },
   {
     "id": "einsehen",
@@ -5307,6 +6648,12 @@
       "selbst zu der Überzeugung kommen",
       "sich durch andere überzeugen lassen"
     ],
+    "synonyms": [
+      "hineinblicken",
+      "akzeptieren",
+      "hineinsehen",
+      "annehmen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5360,10 +6707,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einsehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einsehen.htm",
-    "rank": 108,
+    "rank": 834,
+    "zipf": 3.86,
     "first_seen": "2026-10-08T10:57:40+00:00",
-    "updated_at": "2026-10-12T04:29:36+00:00",
-    "hash": "4a01289b0c46531f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "72d8bd0da7cfd2b2"
   },
   {
     "id": "eintauchen",
@@ -5460,6 +6808,11 @@
     "definitions_de": [
       "unter die Oberfläche einer Flüssigkeit (Wasser) gehen, abtauchen, tauchen, untertauchen"
     ],
+    "synonyms": [
+      "abtauchen",
+      "tauchen",
+      "untertauchen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5493,10 +6846,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/eintauchen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/eintauchen.htm",
-    "rank": 91,
+    "rank": 1253,
+    "zipf": 3.34,
     "first_seen": "2026-10-08T22:54:43+00:00",
-    "updated_at": "2026-10-12T04:29:36+00:00",
-    "hash": "d7c0dc3b8b64e44c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5c6c05e0f18ebbb4"
   },
   {
     "id": "empfinden",
@@ -5594,6 +6948,12 @@
       "ein bestimmtes Gefühl erleben",
       "[Gefühle] fühlen, spüren, wahrnehmen, verspüren"
     ],
+    "synonyms": [
+      "spüren",
+      "fühlen",
+      "wahrnehmen",
+      "verspüren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5647,10 +7007,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/empfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/empfinden.htm",
-    "rank": 220,
+    "rank": 691,
+    "zipf": 4.11,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-12T04:29:36+00:00",
-    "hash": "75e4b9cd5845933b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "048c7c030463de1c"
   },
   {
     "id": "entfu3hren",
@@ -5744,6 +7105,13 @@
       "jemanden (oder etwas in dem sich Personen befinden) heimlich oder gewaltsam wegbringen, verschleppen, kidnappen",
       "[Verkehr] kidnappen, kapern, abspenstig machen, mitnehmen, verschleppen, entern (Schiff)"
     ],
+    "synonyms": [
+      "verschleppen",
+      "kidnappen",
+      "kapern",
+      "abspenstig machen",
+      "mitnehmen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5797,10 +7165,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entfu3hren.htm",
-    "rank": 861,
+    "rank": 1116,
+    "zipf": 3.47,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-12T22:40:55+00:00",
-    "hash": "4bedc400fa1e39ce"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "915a65bc22866137"
   },
   {
     "id": "entgegenbringen",
@@ -5894,6 +7263,10 @@
       "etwas durch Tragen näher an jemanden heranbringen, um es z. B. übergeben zu können",
       "zuteil werden lassen, (jemandem) entgegenschlagen, zukommen lassen, (jemandem) entgegengebracht werden, zugutekommen lassen, (jemandem) begegnen mit"
     ],
+    "synonyms": [
+      "zukommen lassen",
+      "zugutekommen lassen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5947,10 +7320,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entgegenbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entgegenbringen.htm",
-    "rank": 285,
+    "rank": 1911,
+    "zipf": 2.77,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-12T04:29:36+00:00",
-    "hash": "32a6d0413d74abe1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0b3feb76405bbe41"
   },
   {
     "id": "entgegensehen",
@@ -6047,6 +7421,13 @@
       "in Richtung auf etwas oder auf jemanden sehen, entgegenblicken",
       "erwarten, mit etwas rechnen, auf etwas spekulieren, eingestellt sein auf"
     ],
+    "synonyms": [
+      "abwarten",
+      "erhoffen",
+      "ersehnen",
+      "erwarten",
+      "entgegenblicken"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6100,10 +7481,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entgegensehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entgegensehen.htm",
-    "rank": 108,
+    "rank": 2386,
+    "zipf": 2.44,
     "first_seen": "2026-10-08T10:57:40+00:00",
-    "updated_at": "2026-10-12T04:29:37+00:00",
-    "hash": "6964509da14e7986"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "16b28fe4a8c5498b"
   },
   {
     "id": "erachten",
@@ -6195,6 +7577,10 @@
     "definitions_de": [
       "eine bestimmte Meinung zu einem Thema vertreten, betrachten als, in Betracht ziehen, finden, erwägen, dass"
     ],
+    "synonyms": [
+      "finden",
+      "erwägen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6248,10 +7634,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erachten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erachten.htm",
-    "rank": 19,
+    "rank": 1452,
+    "zipf": 3.14,
     "first_seen": "2026-10-08T10:47:27+00:00",
-    "updated_at": "2026-10-12T04:29:37+00:00",
-    "hash": "5b6e2be8ae3e7bda"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "81c320f71db1584a"
   },
   {
     "id": "erahnen",
@@ -6343,6 +7730,12 @@
     "definitions_de": [
       "durch eine Mischung aus Intuition und Erfahrung in seinen wesentlichen Zügen erkennen, ausmachen, heraushören, (etwas) ahnen, einschätzen, erspüren"
     ],
+    "synonyms": [
+      "ausmachen",
+      "heraushören",
+      "einschätzen",
+      "erspüren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6396,10 +7789,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erahnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erahnen.htm",
-    "rank": 19,
+    "rank": 1091,
+    "zipf": 3.5,
     "first_seen": "2026-10-08T10:47:27+00:00",
-    "updated_at": "2026-10-12T04:29:37+00:00",
-    "hash": "19bf545442d2891d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7ff367638686f2e6"
   },
   {
     "id": "erbringen",
@@ -6504,6 +7898,16 @@
       "[Recht] ein Faktum zur Wahrheitsfindung beisteuern, beweisen, bezeugen, klären, nachweisen, zeugen",
       "herbeischaffen, aufbringen, abwerfen, hereinholen, einbringen, abfallen"
     ],
+    "synonyms": [
+      "hervorbringen",
+      "abwerfen",
+      "liefern",
+      "einbringen",
+      "abdecken",
+      "aufbringen",
+      "aufkommen",
+      "auszahlen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6557,10 +7961,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erbringen.htm",
-    "rank": 285,
+    "rank": 956,
+    "zipf": 3.68,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-12T04:29:37+00:00",
-    "hash": "f02a2c376f0ab229"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a09659d252c48bf4"
   },
   {
     "id": "erfolgen",
@@ -6658,6 +8063,12 @@
     "definitions_de": [
       "stattfinden, sich ereignen, getan werden (der Inhalt des Tuns steckt im Subjekt des Satzes), (sich) ereignen, passieren, geschehen, ergehen, kommen zu (es)"
     ],
+    "synonyms": [
+      "stattfinden",
+      "passieren",
+      "geschehen",
+      "ergehen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6711,10 +8122,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erfolgen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erfolgen.htm",
-    "rank": 907,
+    "rank": 504,
+    "zipf": 4.5,
     "first_seen": "2026-10-12T14:52:29+00:00",
-    "updated_at": "2026-10-12T22:42:37+00:00",
-    "hash": "d76873827f9011b5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6a1f2984493fe911"
   },
   {
     "id": "ergeben",
@@ -6831,6 +8243,16 @@
       "keinen Widerstand mehr leisten, aufgeben, kapitulieren, resignieren",
       "Lösung erbringen, kapitulieren, loyal, (sich) herauskristallisieren, (sich) ausliefern, demutsvoll"
     ],
+    "synonyms": [
+      "folgen",
+      "machen",
+      "resultieren",
+      "geschehen",
+      "begeben",
+      "ereignen",
+      "passieren",
+      "treffen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6884,10 +8306,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ergeben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ergeben.htm",
-    "rank": 233,
+    "rank": 478,
+    "zipf": 4.57,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-12T04:29:37+00:00",
-    "hash": "f606517f07da8cad"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "58d95b258cd36f33"
   },
   {
     "id": "erhoffen",
@@ -6982,6 +8405,11 @@
     "definitions_de": [
       "etwas zuversichtlich erwarten (meistens ein Ereignis), auf dessen Kommen vertrauen, wünschen, der Hoffnung sein, (sich) wünschen, erwarten, dürsten"
     ],
+    "synonyms": [
+      "wünschen",
+      "erwarten",
+      "dürsten"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7035,10 +8463,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erhoffen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erhoffen.htm",
-    "rank": 468,
+    "rank": 1254,
+    "zipf": 3.34,
     "first_seen": "2026-10-08T13:17:14+00:00",
-    "updated_at": "2026-10-12T04:29:38+00:00",
-    "hash": "6481372143df40a5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "2a881407483b1b91"
   },
   {
     "id": "ernennen",
@@ -7138,6 +8567,11 @@
       "jemandem ein Amt übergeben, berufen, einsetzen",
       "bestimmen (zu), berufen, denominieren, (jemanden) bestellen (zu), (jemanden) berufen"
     ],
+    "synonyms": [
+      "berufen",
+      "einsetzen",
+      "denominieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7191,10 +8625,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ernennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ernennen.htm",
-    "rank": 687,
+    "rank": 1325,
+    "zipf": 3.27,
     "first_seen": "2026-10-08T14:51:38+00:00",
-    "updated_at": "2026-10-12T04:29:38+00:00",
-    "hash": "933f3e57c9029880"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "87ac789e872235c4"
   },
   {
     "id": "erstarren",
@@ -7293,6 +8728,12 @@
       "starr werden, die Beweglichkeit verlieren",
       "starr werden, fest werden, sich entsetzen, in Bestürzung geraten, stutzig werden, verblüfft werden"
     ],
+    "synonyms": [
+      "starr werden",
+      "fest werden",
+      "stutzig werden",
+      "verblüfft werden"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7346,10 +8787,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erstarren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erstarren.htm",
-    "rank": 278,
+    "rank": 1805,
+    "zipf": 2.85,
     "first_seen": "2026-10-08T11:55:03+00:00",
-    "updated_at": "2026-10-12T04:29:38+00:00",
-    "hash": "022d95c859a35656"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0f709c1d5f48f510"
   },
   {
     "id": "erstatten",
@@ -7452,6 +8894,16 @@
       "etwas meist offiziell mündlich oder schriftlich wiedergeben",
       "entschädigen, retournieren, rückvergüten, begleichen, ausgleichen, (Geld) zurückgeben"
     ],
+    "synonyms": [
+      "ersetzen",
+      "rückvergüten",
+      "vergüten",
+      "zurückzahlen",
+      "entschädigen",
+      "retournieren",
+      "begleichen",
+      "ausgleichen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7505,10 +8957,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erstatten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erstatten.htm",
-    "rank": 278,
+    "rank": 940,
+    "zipf": 3.7,
     "first_seen": "2026-10-08T11:55:03+00:00",
-    "updated_at": "2026-10-12T04:29:38+00:00",
-    "hash": "3a52c3750218bbf7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "355cbc0ccfbcf1d1"
   },
   {
     "id": "ersteigern",
@@ -7598,6 +9051,7 @@
     "definitions_de": [
       "für ein Objekt einen Preis nennen und das Objekt erwerben, weil niemand einen höheren Preis nennt/ bietet, auf einer Auktion erwerben"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -7639,10 +9093,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ersteigern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ersteigern.htm",
-    "rank": 489,
+    "rank": 1897,
+    "zipf": 2.78,
     "first_seen": "2026-10-08T13:25:36+00:00",
-    "updated_at": "2026-10-12T04:29:38+00:00",
-    "hash": "49e5c71960c6b144"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "92bb4d3562d2edf6"
   },
   {
     "id": "ertragen",
@@ -7742,6 +9197,11 @@
     "definitions_de": [
       "eine unangenehme oder schwierige Situation hinnehmen und deswegen nicht die Beherrschung verlieren oder zusammenbrechen, aushalten, durchmachen, (einer Sache) standhalten, mitmachen, (sich) fügen"
     ],
+    "synonyms": [
+      "aushalten",
+      "durchmachen",
+      "mitmachen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7795,10 +9255,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ertragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ertragen.htm",
-    "rank": 817,
+    "rank": 654,
+    "zipf": 4.19,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-12T22:39:45+00:00",
-    "hash": "056d9ecf7bf60d7c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6b1823824221ced4"
   },
   {
     "id": "fasten",
@@ -7887,6 +9348,9 @@
     "definitions_de": [
       "(aus körperlichen oder religiösen Gründen) für eine bestimmte Zeit auf alle oder gewisse Nahrung verzichten, hungern"
     ],
+    "synonyms": [
+      "hungern"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7940,10 +9404,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fasten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fasten.htm",
-    "rank": 409,
+    "rank": 1038,
+    "zipf": 3.57,
     "first_seen": "2026-10-08T12:51:23+00:00",
-    "updated_at": "2026-10-12T04:29:39+00:00",
-    "hash": "4d4499fa5e4a3f47"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "abf92256e121b963"
   },
   {
     "id": "fertigen",
@@ -8036,6 +9501,13 @@
     "definitions_de": [
       "etwas herstellen, anfertigen, generieren, bauen, fabrizieren, erstellen"
     ],
+    "synonyms": [
+      "anfertigen",
+      "generieren",
+      "bauen",
+      "fabrizieren",
+      "erstellen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -8089,10 +9561,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fertigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fertigen.htm",
-    "rank": 314,
+    "rank": 883,
+    "zipf": 3.79,
     "first_seen": "2026-10-08T12:10:45+00:00",
-    "updated_at": "2026-10-12T04:29:39+00:00",
-    "hash": "457f7ecb7f5b9b86"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3c236187c6aee696"
   },
   {
     "id": "fortfu3hren",
@@ -8186,6 +9659,15 @@
       "etwas, jemanden an einen anderen Ort bringen, fortschaffen, wegführen",
       "weiterführen, fortfahren, fortsetzen, weitermachen, kontinuieren"
     ],
+    "synonyms": [
+      "fortsetzen",
+      "weiterführen",
+      "fortschaffen",
+      "wegführen",
+      "fortfahren",
+      "weitermachen",
+      "kontinuieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -8239,10 +9721,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fortfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fortfu3hren.htm",
-    "rank": 861,
+    "rank": 1336,
+    "zipf": 3.26,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-12T22:41:01+00:00",
-    "hash": "f656972ee96fc410"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "85abfa94a51ad048"
   },
   {
     "id": "fa3llen",
@@ -8347,6 +9830,15 @@
       "[Wissenschaft] sich aus einer Lösung ausscheiden, absondern",
       "[Militär, Wissenschaft] umschlagen, ausfällen, roden, absägen, abholzen, umhauen"
     ],
+    "synonyms": [
+      "absondern",
+      "umschlagen",
+      "ausfällen",
+      "roden",
+      "absägen",
+      "abholzen",
+      "umhauen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -8400,10 +9892,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fa3llen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fa3llen.htm",
-    "rank": 349,
+    "rank": 359,
+    "zipf": 4.82,
     "first_seen": "2026-10-08T12:25:08+00:00",
-    "updated_at": "2026-10-12T04:29:39+00:00",
-    "hash": "4bcca86cb8ca1bd3"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fda13ab8d61e4371"
   },
   {
     "id": "generalisieren",
@@ -8492,6 +9985,12 @@
     "definitions_de": [
       "verallgemeinern, eine allgemeine Aussage über etwas treffen, etwas verallgemeinern, induzieren, verallgemeinern, herleiten, ableiten"
     ],
+    "synonyms": [
+      "verallgemeinern",
+      "induzieren",
+      "herleiten",
+      "ableiten"
+    ],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -8520,10 +10019,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/generalisieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/generalisieren.htm",
-    "rank": 876,
+    "rank": 2734,
+    "zipf": 2.18,
     "first_seen": "2026-10-12T14:38:30+00:00",
-    "updated_at": "2026-10-12T22:42:04+00:00",
-    "hash": "a734784d6dae8fc3"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "df0c74e1e7144817"
   },
   {
     "id": "heranfu3hren",
@@ -8623,6 +10123,12 @@
       "jemanden oder etwas näher zu einem bestimmten Ort oder Interesse führen",
       "einweisen, anleiten, anlernen, unterweisen (in), einarbeiten"
     ],
+    "synonyms": [
+      "einweisen",
+      "anleiten",
+      "anlernen",
+      "einarbeiten"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -8656,10 +10162,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/heranfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/heranfu3hren.htm",
-    "rank": 861,
+    "rank": 2179,
+    "zipf": 2.59,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-12T22:41:07+00:00",
-    "hash": "99d784baa03ff0b2"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7cd801fa2e5ac1ce"
   },
   {
     "id": "hocharbeiten",
@@ -8747,6 +10254,7 @@
     "definitions_de": [
       "[Arbeit] sich durch ehrgeiziges Handeln, Tätigsein im Beruf oder Ähnlichem in eine höhergestellte Position bringen, sich emporarbeiten, sich heraufarbeiten, sich hinaufarbeiten, sich hinaufschaffen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -8784,10 +10292,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/hocharbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/hocharbeiten.htm",
-    "rank": 503,
+    "rank": 2620,
+    "zipf": 2.27,
     "first_seen": "2026-10-08T13:31:34+00:00",
-    "updated_at": "2026-10-12T04:29:39+00:00",
-    "hash": "654334240ecb45ae"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4f2c4baa852f549f"
   },
   {
     "id": "horten",
@@ -8879,6 +10388,16 @@
       "etwas Wertvolles oder Knappes in großen Mengen sammeln und behalten wollen, anhäufen, ansammeln, einlagern, einkellern, raffen",
       "bunkern, sammeln, aufbewahren, zusammenkriegen, hamstern, scheffeln"
     ],
+    "synonyms": [
+      "anhäufen",
+      "ansammeln",
+      "einlagern",
+      "einkellern",
+      "raffen",
+      "bunkern",
+      "sammeln",
+      "aufbewahren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -8924,10 +10443,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/horten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/horten.htm",
-    "rank": 451,
+    "rank": 1499,
+    "zipf": 3.1,
     "first_seen": "2026-10-08T13:10:13+00:00",
-    "updated_at": "2026-10-12T04:29:39+00:00",
-    "hash": "5d684c39f1bbb553"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0d3758b1c4db04c0"
   },
   {
     "id": "klarmachen",
@@ -9037,6 +10557,16 @@
       "einen fälligen Geldbetrag oder Ähnliches bezahlen, löhnen, zahlen",
       "[Verkehr] bezahlen, ausführen, anflirten, ad oculos demonstrare, einschärfen, zum Abschluss bringen"
     ],
+    "synonyms": [
+      "darlegen",
+      "klarlegen",
+      "verdeutlichen",
+      "bereit machen",
+      "vorbereiten",
+      "löhnen",
+      "zahlen",
+      "bezahlen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -9090,10 +10620,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/klarmachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/klarmachen.htm",
-    "rank": 176,
+    "rank": 1374,
+    "zipf": 3.22,
     "first_seen": "2026-10-08T11:09:27+00:00",
-    "updated_at": "2026-10-12T04:29:39+00:00",
-    "hash": "0a7047425e6e210d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cd702cebf86acd7c"
   },
   {
     "id": "leichtfallen",
@@ -9185,6 +10716,9 @@
     "definitions_de": [
       "keine Schwierigkeiten, keine Mühe verursachen, keine Anstrengung, keine Überwindung kosten, (jemandem) zufliegen, unterfordern, leichten Herzens (tun), (jemandem) liegen"
     ],
+    "synonyms": [
+      "unterfordern"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -9238,10 +10772,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/leichtfallen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/leichtfallen.htm",
-    "rank": 744,
+    "rank": 3241,
+    "zipf": 1.73,
     "first_seen": "2026-10-12T08:21:07+00:00",
-    "updated_at": "2026-10-12T09:12:23+00:00",
-    "hash": "1eaa760f9680fa0e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f7b54c3dcb4c4a4d"
   },
   {
     "id": "la3uten",
@@ -9343,6 +10878,13 @@
       "(an einem Eingang) akustisch Aufmerksamkeit hervorrufen",
       "klingeln, ertönen lassen, klingeln, bimmeln, schellen, gongen"
     ],
+    "synonyms": [
+      "bimmeln",
+      "klingeln",
+      "ertönen lassen",
+      "schellen",
+      "gongen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -9396,10 +10938,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/la3uten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/la3uten.htm",
-    "rank": 772,
+    "rank": 1225,
+    "zipf": 3.37,
     "first_seen": "2026-10-12T08:32:58+00:00",
-    "updated_at": "2026-10-12T09:16:27+00:00",
-    "hash": "c086744661d20b54"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "80ea2adb637f4076"
   },
   {
     "id": "missbilligen",
@@ -9505,6 +11048,11 @@
       "etwas nicht gut finden und es meist deutlich machen, ein Verhalten oder eine Entscheidung ablehnen, ablehnen, verpönen",
       "Anstoß nehmen (an), (sein) Missfallen bekunden, ablehnen, (sein) Missfallen äußern, verurteilen, (sich) ablehnend äußern"
     ],
+    "synonyms": [
+      "ablehnen",
+      "verpönen",
+      "verurteilen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -9558,10 +11106,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/missbilligen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/missbilligen.htm",
-    "rank": 484,
+    "rank": 2564,
+    "zipf": 2.32,
     "first_seen": "2026-10-08T13:23:50+00:00",
-    "updated_at": "2026-10-12T04:29:40+00:00",
-    "hash": "3a6ab6593fba5d2e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c0559f505670e229"
   },
   {
     "id": "mu3nden",
@@ -9663,6 +11212,7 @@
       "in ein anderes Gewässer hineinfließen",
       "in etwas anderes übergehen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -9691,10 +11241,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/mu3nden_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/mu3nden.htm",
-    "rank": 847,
+    "rank": 1056,
+    "zipf": 3.55,
     "first_seen": "2026-10-12T22:40:13+00:00",
-    "updated_at": "2026-10-12T22:40:20+00:00",
-    "hash": "3de5001687d02f6f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c31ad31c75efcdf2"
   },
   {
     "id": "nachahmen",
@@ -9797,6 +11348,16 @@
       "etwas möglichst originalgetreu nachmachen, die Eigenart, das Verhalten von jemandem / etwas imitieren, imitieren, nachäffen, nachmachen, kopieren",
       "parodieren, abkupfern, abschreiben, nachäffen, nachbilden, plagiieren"
     ],
+    "synonyms": [
+      "imitieren",
+      "nachäffen",
+      "nachmachen",
+      "kopieren",
+      "parodieren",
+      "abkupfern",
+      "abschreiben",
+      "nachbilden"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -9850,10 +11411,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nachahmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nachahmen.htm",
-    "rank": 76,
+    "rank": 1709,
+    "zipf": 2.92,
     "first_seen": "2026-10-08T10:54:20+00:00",
-    "updated_at": "2026-10-12T04:29:40+00:00",
-    "hash": "e25ef4561a5a80a5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "894c6027f3a460c1"
   },
   {
     "id": "nachfolgen",
@@ -9951,6 +11513,16 @@
       "eine Person verehren, die für eine Religion oder Weltanschauung steht, Jünger sein",
       "das sein, was folgt, was hinterherkommt"
     ],
+    "synonyms": [
+      "fahren",
+      "reisen",
+      "das sein",
+      "später kommen",
+      "hinterherkommen",
+      "nachtröpfeln",
+      "nachgetröpfelt kommen",
+      "hinterhergetröpfelt kommen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -10004,10 +11576,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nachfolgen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nachfolgen.htm",
-    "rank": 907,
+    "rank": 1940,
+    "zipf": 2.75,
     "first_seen": "2026-10-12T14:52:29+00:00",
-    "updated_at": "2026-10-12T22:42:43+00:00",
-    "hash": "56aabf4fb25a4362"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "28029d85deaa894c"
   },
   {
     "id": "nachhelfen",
@@ -10101,6 +11674,7 @@
     "definitions_de": [
       "durch eigenes Zutun am Gelingen einer Sache mitwirken"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -10146,10 +11720,174 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nachhelfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nachhelfen.htm",
-    "rank": 218,
+    "rank": 1772,
+    "zipf": 2.88,
     "first_seen": "2026-10-08T11:28:51+00:00",
-    "updated_at": "2026-10-12T04:29:40+00:00",
-    "hash": "3c4364df705386f7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "66ecb0e293365859"
+  },
+  {
+    "id": "offenbaren",
+    "type": "verb",
+    "infinitive": "offenbaren",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "offenbart",
+    "praeteritum_3sg": "offenbarte",
+    "perfekt_3sg": "hat offenbart",
+    "partizip2": "offenbart",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "offenbare",
+        "du": "offenbarst",
+        "er": "offenbart",
+        "wir": "offenbaren",
+        "ihr": "offenbart",
+        "sie": "offenbaren"
+      },
+      "Präteritum": {
+        "ich": "offenbarte",
+        "du": "offenbartest",
+        "er": "offenbarte",
+        "wir": "offenbarten",
+        "ihr": "offenbartet",
+        "sie": "offenbarten"
+      },
+      "Perfekt": {
+        "ich": "habe offenbart",
+        "du": "hast offenbart",
+        "er": "hat offenbart",
+        "wir": "haben offenbart",
+        "ihr": "habt offenbart",
+        "sie": "haben offenbart"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte offenbart",
+        "du": "hattest offenbart",
+        "er": "hatte offenbart",
+        "wir": "hatten offenbart",
+        "ihr": "hattet offenbart",
+        "sie": "hatten offenbart"
+      },
+      "Futur I": {
+        "ich": "werde offenbaren",
+        "du": "wirst offenbaren",
+        "er": "wird offenbaren",
+        "wir": "werden offenbaren",
+        "ihr": "werdet offenbaren",
+        "sie": "werden offenbaren"
+      },
+      "Futur II": {
+        "ich": "werde offenbart haben",
+        "du": "wirst offenbart haben",
+        "er": "wird offenbart haben",
+        "wir": "werden offenbart haben",
+        "ihr": "werdet offenbart haben",
+        "sie": "werden offenbart haben"
+      }
+    },
+    "imperative": [
+      "ich offenbare",
+      "du offenbarst",
+      "er offenbart",
+      "wir offenbaren",
+      "ihr offenbart",
+      "sie offenbaren"
+    ],
+    "english": [
+      "reveal",
+      "disclose",
+      "unveil",
+      "bare",
+      "confess",
+      "display",
+      "manifest",
+      "show oneself",
+      "unbosom"
+    ],
+    "definitions_de": [
+      "jemandem etwas sagen, das vorher geheim war, enthüllen, gestehen",
+      "sich selber enthüllen",
+      "einräumen, zum Vorschein bringen, kundtun, enthüllen, auspacken, (sich) herausstellen (als)"
+    ],
+    "synonyms": [
+      "enthüllen",
+      "gestehen",
+      "einräumen",
+      "kundtun",
+      "auspacken"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie offenbarte ihm das Geheimnis.",
+        "en": "She revealed the secret to him."
+      },
+      {
+        "de": "Endlich wurde uns die Wahrheit offenbart.",
+        "en": "At last, the truth was revealed to us."
+      },
+      {
+        "de": "Und wann offenbarst du uns deine Pläne?",
+        "en": "And when will you reveal your plans to us?"
+      },
+      {
+        "de": "Kannst du dich nicht deiner besten Freundin offenbaren?",
+        "en": "Can't you reveal yourself to your best friend?"
+      },
+      {
+        "de": "In vielen Szenen des Romans offenbart sich ein sanfter Humor.",
+        "en": "A gentle humour is on display in many of the novel's scenes."
+      },
+      {
+        "de": "Die Aufgabe der Umgebung ist nicht das Kind zu formen, sondern ihm zu erlauben, sich zu offenbaren.",
+        "en": "The task of the environment is not to shape the child, but to allow it to reveal itself."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/offenbaren.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/offenbaren.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/offenbaren.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/offenbaren.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/offenbaren.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/offenbaren.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/offenbaren.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/offenbaren.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/offenbaren.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/offenbaren.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/offenbaren.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/offenbaren.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/offenbaren.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/offenbaren.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/offenbaren.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/offenbaren.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/offenbaren.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/offenbaren.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/offenbaren.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/offenbaren.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/offenbaren.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/offenbaren.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/offenbaren.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/offenbaren.htm",
+    "rank": 1119,
+    "zipf": 3.47,
+    "first_seen": "2026-10-13T01:47:47+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b988668f27eb71b7"
   },
   {
     "id": "perfektionieren",
@@ -10242,6 +11980,9 @@
     "definitions_de": [
       "etwas (maximal) verbessern, etwas perfekt machen, vervollkommnen, (an etwas) feilen"
     ],
+    "synonyms": [
+      "vervollkommnen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -10295,10 +12036,375 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/perfektionieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/perfektionieren.htm",
-    "rank": 889,
+    "rank": 2013,
+    "zipf": 2.7,
     "first_seen": "2026-10-12T14:45:07+00:00",
-    "updated_at": "2026-10-12T22:42:15+00:00",
-    "hash": "41c795b1cc52f7a8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f2c3d21c13ac4f5e"
+  },
+  {
+    "id": "preisen",
+    "type": "verb",
+    "infinitive": "preisen",
+    "level": "B2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "preist",
+    "praeteritum_3sg": "pries",
+    "perfekt_3sg": "hat gepriesen",
+    "partizip2": "gepriesen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "für+A",
+      "wegen+G"
+    ],
+    "usage_pattern_raw": "Akk., für+A, wegen+G",
+    "indicative": {
+      "Präsens": {
+        "ich": "preise",
+        "du": "preist",
+        "er": "preist",
+        "wir": "preisen",
+        "ihr": "preist",
+        "sie": "preisen"
+      },
+      "Präteritum": {
+        "ich": "pries",
+        "du": "pries(es)t",
+        "er": "pries",
+        "wir": "priesen",
+        "ihr": "pries(e)t",
+        "sie": "priesen"
+      },
+      "Perfekt": {
+        "ich": "habe gepriesen",
+        "du": "hast gepriesen",
+        "er": "hat gepriesen",
+        "wir": "haben gepriesen",
+        "ihr": "habt gepriesen",
+        "sie": "haben gepriesen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gepriesen",
+        "du": "hattest gepriesen",
+        "er": "hatte gepriesen",
+        "wir": "hatten gepriesen",
+        "ihr": "hattet gepriesen",
+        "sie": "hatten gepriesen"
+      },
+      "Futur I": {
+        "ich": "werde preisen",
+        "du": "wirst preisen",
+        "er": "wird preisen",
+        "wir": "werden preisen",
+        "ihr": "werdet preisen",
+        "sie": "werden preisen"
+      },
+      "Futur II": {
+        "ich": "werde gepriesen haben",
+        "du": "wirst gepriesen haben",
+        "er": "wird gepriesen haben",
+        "wir": "werden gepriesen haben",
+        "ihr": "werdet gepriesen haben",
+        "sie": "werden gepriesen haben"
+      }
+    },
+    "imperative": [
+      "ich preise",
+      "du preist",
+      "er preist",
+      "wir preisen",
+      "ihr preist",
+      "sie preisen"
+    ],
+    "english": [
+      "praise",
+      "commend",
+      "glorify",
+      "eulogise",
+      "eulogize",
+      "laud",
+      "belaud",
+      "celebrate",
+      "exalt",
+      "extol",
+      "magnify",
+      "bless",
+      "vaunt"
+    ],
+    "definitions_de": [
+      "jemanden, etwas überschwänglich loben, dessen Größe bewundern/anerkennen, feiern, rühmen, gutheißen, glorifizieren, loben"
+    ],
+    "synonyms": [
+      "feiern",
+      "rühmen",
+      "gutheißen",
+      "glorifizieren",
+      "loben"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Guter Wein preist sich selbst.",
+        "en": "Good wine praises itself."
+      },
+      {
+        "de": "Man soll keinen vor seinem Tode glücklich preisen.",
+        "en": "One should not praise anyone as happy before their death."
+      },
+      {
+        "de": "Maria lobt und preist Gott.",
+        "en": "Maria praises and glorifies God."
+      },
+      {
+        "de": "Man preise der alten Griechen Zärtlichkeit.",
+        "en": "One praises the tenderness of the ancient Greeks."
+      },
+      {
+        "de": "Die Minnesänger übertrafen sich gegenseitig, die Schönheit der Königstochter zu preisen.",
+        "en": "The Minnesänger surpassed each other in praising the beauty of the king's daughter."
+      },
+      {
+        "de": "Lass uns hier ein Fahrrad preisen.",
+        "en": "Let's praise a bicycle here."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/preisen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/preisen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/preisen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/preisen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/preisen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/preisen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/preisen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/preisen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/preisen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/preisen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/preisen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/preisen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/preisen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/preisen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/preisen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/preisen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/preisen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/preisen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/preisen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/preisen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/preisen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/preisen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/preisen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/preisen.htm",
+    "rank": 658,
+    "zipf": 4.19,
+    "first_seen": "2026-10-13T02:44:40+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "edff26f38424ead0"
+  },
+  {
+    "id": "qua3len",
+    "type": "verb",
+    "infinitive": "quälen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "quält",
+    "praeteritum_3sg": "quälte",
+    "perfekt_3sg": "hat gequält",
+    "partizip2": "gequält",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "mit+D",
+      "durch+A"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., mit+D, durch+A",
+    "indicative": {
+      "Präsens": {
+        "ich": "quäle",
+        "du": "quälst",
+        "er": "quält",
+        "wir": "quälen",
+        "ihr": "quält",
+        "sie": "quälen"
+      },
+      "Präteritum": {
+        "ich": "quälte",
+        "du": "quältest",
+        "er": "quälte",
+        "wir": "quälten",
+        "ihr": "quältet",
+        "sie": "quälten"
+      },
+      "Perfekt": {
+        "ich": "habe gequält",
+        "du": "hast gequält",
+        "er": "hat gequält",
+        "wir": "haben gequält",
+        "ihr": "habt gequält",
+        "sie": "haben gequält"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gequält",
+        "du": "hattest gequält",
+        "er": "hatte gequält",
+        "wir": "hatten gequält",
+        "ihr": "hattet gequält",
+        "sie": "hatten gequält"
+      },
+      "Futur I": {
+        "ich": "werde quälen",
+        "du": "wirst quälen",
+        "er": "wird quälen",
+        "wir": "werden quälen",
+        "ihr": "werdet quälen",
+        "sie": "werden quälen"
+      },
+      "Futur II": {
+        "ich": "werde gequält haben",
+        "du": "wirst gequält haben",
+        "er": "wird gequält haben",
+        "wir": "werden gequält haben",
+        "ihr": "werdet gequält haben",
+        "sie": "werden gequält haben"
+      }
+    },
+    "imperative": [
+      "ich quäle",
+      "du quälst",
+      "er quält",
+      "wir quälen",
+      "ihr quält",
+      "sie quälen"
+    ],
+    "english": [
+      "torture",
+      "afflict",
+      "agonise",
+      "agonize",
+      "excruciate",
+      "harry",
+      "rack",
+      "torment",
+      "abuse",
+      "aggrieve",
+      "annoy",
+      "badger",
+      "bait",
+      "bedevil",
+      "bother",
+      "bully",
+      "crucify",
+      "disquiet",
+      "distress",
+      "fret",
+      "grieve",
+      "hagride",
+      "harrow",
+      "niggle",
+      "pester",
+      "plague",
+      "prey (on) mind",
+      "put about",
+      "smite",
+      "sting",
+      "struggle",
+      "suffer",
+      "tantalise",
+      "tantalize",
+      "tease",
+      "trouble",
+      "vex",
+      "worry",
+      "wrack"
+    ],
+    "definitions_de": [
+      "absichtlich Schmerzen zufügen, leiden machen, foltern, misshandeln, schänden",
+      "necken, plagen, peinigen, Qualen leiden, triezen, foltern"
+    ],
+    "synonyms": [
+      "leiden machen",
+      "foltern",
+      "misshandeln",
+      "schänden",
+      "necken",
+      "plagen",
+      "peinigen",
+      "triezen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Was quält dich?",
+        "en": "What's biting you?"
+      },
+      {
+        "de": "Tom quälte mich.",
+        "en": "Tom tormented me."
+      },
+      {
+        "de": "Warum quälst du mich?",
+        "en": "Why are you torturing me?"
+      },
+      {
+        "de": "Er hat mich gequält.",
+        "en": "He tormented me."
+      },
+      {
+        "de": "Das Problem quälte den Chef.",
+        "en": "The problem tortured the chief."
+      },
+      {
+        "de": "Hört auf, uns zu quälen.",
+        "en": "Stop tormenting us."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/qua3len.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/qua3len.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/qua3len.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/qua3len.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/qua3len.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/qua3len.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/qua3len.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/qua3len.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/qua3len.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/qua3len.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/qua3len.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/qua3len.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/qua3len.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/qua3len.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/qua3len.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/qua3len.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/qua3len.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/qua3len.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/qua3len.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/qua3len.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/qua3len.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/qua3len.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/qua3len.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/qua3len.htm",
+    "rank": 1036,
+    "zipf": 3.58,
+    "first_seen": "2026-10-13T02:21:08+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d5cd5fc4d6138eab"
   },
   {
     "id": "restaurieren",
@@ -10390,6 +12496,14 @@
       "etwas so herstellen, dass es wieder seinen ursprünglichen Zustand erhält, erneuern, rekonstruieren, renovieren, wiederherstellen, modernisieren",
       "[Fachsprache] wieder aufbauen, wiederherstellen, überholen, rekonstruieren, zum Alten machen"
     ],
+    "synonyms": [
+      "erneuern",
+      "rekonstruieren",
+      "renovieren",
+      "wiederherstellen",
+      "modernisieren",
+      "überholen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -10443,10 +12557,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/restaurieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/restaurieren.htm",
-    "rank": 780,
+    "rank": 1646,
+    "zipf": 2.97,
     "first_seen": "2026-10-12T08:36:46+00:00",
-    "updated_at": "2026-10-12T09:17:09+00:00",
-    "hash": "9dd7223ca31c3898"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b141bc9ba6382f7e"
   },
   {
     "id": "ruhen",
@@ -10559,6 +12674,16 @@
       "vorübergehend stillgelegt sein",
       "schlafen, schnarchen, bleiben, auf Eis liegen, vertagen, pennen"
     ],
+    "synonyms": [
+      "pausieren",
+      "rasten",
+      "ausrasten",
+      "befinden",
+      "stehen",
+      "schlafen",
+      "schnarchen",
+      "bleiben"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -10612,10 +12737,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ruhen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ruhen.htm",
-    "rank": 464,
+    "rank": 804,
+    "zipf": 3.92,
     "first_seen": "2026-10-08T13:15:49+00:00",
-    "updated_at": "2026-10-12T04:29:40+00:00",
-    "hash": "6441c4db08381608"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "15f3f3a2f11165eb"
   },
   {
     "id": "runterfallen",
@@ -10708,6 +12834,7 @@
       "von einer höheren Stelle nach unten fallen",
       "jemandem aus den Händen fallen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -10753,10 +12880,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/runterfallen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/runterfallen.htm",
-    "rank": 410,
+    "rank": 2025,
+    "zipf": 2.69,
     "first_seen": "2026-10-08T12:51:44+00:00",
-    "updated_at": "2026-10-12T04:29:40+00:00",
-    "hash": "66428b69a8af1390"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d67e76adcf83b55a"
   },
   {
     "id": "schulen",
@@ -10858,6 +12986,16 @@
       "etwas verbessern, verbessern",
       "erziehen, einschulen, einüben, einweisen, ausbilden, üben"
     ],
+    "synonyms": [
+      "trainieren",
+      "einweisen",
+      "unterrichten",
+      "unterweisen",
+      "verbessern",
+      "erziehen",
+      "einschulen",
+      "einüben"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -10911,10 +13049,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/schulen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/schulen.htm",
-    "rank": 554,
+    "rank": 372,
+    "zipf": 4.8,
     "first_seen": "2026-10-08T13:54:39+00:00",
-    "updated_at": "2026-10-12T04:29:41+00:00",
-    "hash": "65da0ec1b88143fc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cab5679e8a843c7b"
   },
   {
     "id": "stilllegen",
@@ -11016,6 +13155,11 @@
     "definitions_de": [
       "den Betrieb von etwas einstellen, stillegen, ausschalten, außer Dienst stellen, auflösen (Geschäft), auflassen"
     ],
+    "synonyms": [
+      "stillegen",
+      "ausschalten",
+      "auflassen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -11069,10 +13213,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/stilllegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/stilllegen.htm",
-    "rank": 843,
+    "rank": 2183,
+    "zipf": 2.59,
     "first_seen": "2026-10-12T14:25:50+00:00",
-    "updated_at": "2026-10-12T22:40:07+00:00",
-    "hash": "1897744fce30807e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b27a6bc5d65c45a1"
   },
   {
     "id": "taufen",
@@ -11165,6 +13310,10 @@
       "(feierlich) einen Namen geben, einweihen, nennen",
       "getaufter Jude, nennen"
     ],
+    "synonyms": [
+      "einweihen",
+      "nennen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -11218,10 +13367,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/taufen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/taufen.htm",
-    "rank": 91,
+    "rank": 1235,
+    "zipf": 3.36,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-12T04:29:41+00:00",
-    "hash": "0e240cb3b27800bb"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8e2c94e3fd5a66dd"
   },
   {
     "id": "umbringen",
@@ -11341,6 +13491,13 @@
       "sich, jemanden sehr anstrengen, hinbringen",
       "etwas auf sehr übertriebene Weise machen"
     ],
+    "synonyms": [
+      "abmurksen",
+      "kaltmachen",
+      "töten",
+      "totmachen",
+      "hinbringen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -11394,10 +13551,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/umbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/umbringen.htm",
-    "rank": 854,
+    "rank": 816,
+    "zipf": 3.9,
     "first_seen": "2026-10-12T14:30:44+00:00",
-    "updated_at": "2026-10-12T22:40:43+00:00",
-    "hash": "de9c602e4f18a72d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e150ca2f7eca1f03"
   },
   {
     "id": "unterscha3tzen",
@@ -11489,6 +13647,11 @@
     "definitions_de": [
       "etwas in seinem Ausmaße kleiner, unwichtiger oder harmloser einschätzen, als es tatsächlich ist, Ggs überschätzen, auf die leichte Schulter nehmen, unterbewerten, leichtnehmen, verharmlosen"
     ],
+    "synonyms": [
+      "unterbewerten",
+      "leichtnehmen",
+      "verharmlosen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -11542,10 +13705,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/unterscha3tzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/unterscha3tzen.htm",
-    "rank": 830,
+    "rank": 917,
+    "zipf": 3.75,
     "first_seen": "2026-10-12T14:19:14+00:00",
-    "updated_at": "2026-10-12T22:40:02+00:00",
-    "hash": "42d5f0f892270a68"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "48363458e9a8815c"
   },
   {
     "id": "verallgemeinern",
@@ -11639,6 +13803,11 @@
     "definitions_de": [
       "aus vielen einzelnen Fällen oder Erfahrungen ein allgemeines Modell erzeugen, das allgemein gültig ist, generalisieren, generalisieren, induzieren, (fälschlich) gleichsetzen, pauschalisieren"
     ],
+    "synonyms": [
+      "generalisieren",
+      "induzieren",
+      "pauschalisieren"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -11688,10 +13857,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verallgemeinern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verallgemeinern.htm",
-    "rank": 65,
+    "rank": 1679,
+    "zipf": 2.95,
     "first_seen": "2026-10-08T10:53:06+00:00",
-    "updated_at": "2026-10-12T04:29:41+00:00",
-    "hash": "6956950867e7b002"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8ce5706475770384"
   },
   {
     "id": "verdu3nnen",
@@ -11795,6 +13965,10 @@
       "die Konzentration eines Stoffes verringern, einer Flüssigkeit",
       "dünnflüssig machen, verwässern, versetzen mit"
     ],
+    "synonyms": [
+      "dünnflüssig machen",
+      "verwässern"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -11844,10 +14018,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verdu3nnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verdu3nnen.htm",
-    "rank": 961,
+    "rank": 1893,
+    "zipf": 2.79,
     "first_seen": "2026-10-12T15:16:37+00:00",
-    "updated_at": "2026-10-12T22:43:41+00:00",
-    "hash": "41e128d309b757af"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7bb64037a563bc6d"
   },
   {
     "id": "vereinen",
@@ -11949,6 +14124,16 @@
       "sich zusammentun, vereinigen, zusammenschließen, zusammentun",
       "kombinieren, verknüpfen, (sich) sammeln, zusammengehen, zusammentun, verschmelzen"
     ],
+    "synonyms": [
+      "einigen",
+      "zusammenbringen",
+      "zusammenfügen",
+      "vereinigen",
+      "zusammenschließen",
+      "zusammentun",
+      "kombinieren",
+      "verknüpfen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12002,10 +14187,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vereinen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vereinen.htm",
-    "rank": 51,
+    "rank": 663,
+    "zipf": 4.18,
     "first_seen": "2026-10-08T10:51:31+00:00",
-    "updated_at": "2026-10-12T04:29:41+00:00",
-    "hash": "93bd047370bf126d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1e0a8de1acbdc43b"
   },
   {
     "id": "verfolgen",
@@ -12121,6 +14307,16 @@
       "in seinen Freiheiten beschränken, seiner Existenzgrundlage berauben, behindern, belästigen, unterdrücken",
       "aufdringlich belästigen, bedrängen, stalken"
     ],
+    "synonyms": [
+      "hinterherlaufen",
+      "nachlaufen",
+      "nachsetzen",
+      "anstreben",
+      "erstreben",
+      "behindern",
+      "belästigen",
+      "unterdrücken"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12174,10 +14370,177 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verfolgen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verfolgen.htm",
-    "rank": 907,
+    "rank": 511,
+    "zipf": 4.47,
     "first_seen": "2026-10-12T14:52:29+00:00",
-    "updated_at": "2026-10-12T22:42:49+00:00",
-    "hash": "6246d7c297b55853"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c026f92f0132ceb2"
+  },
+  {
+    "id": "vermessen",
+    "type": "verb",
+    "infinitive": "vermessen",
+    "level": "B2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "vermisst",
+    "praeteritum_3sg": "vermaß",
+    "perfekt_3sg": "hat vermessen",
+    "partizip2": "vermessen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "vermesse",
+        "du": "vermisst",
+        "er": "vermisst",
+        "wir": "vermessen",
+        "ihr": "vermesst",
+        "sie": "vermessen"
+      },
+      "Präteritum": {
+        "ich": "vermaß",
+        "du": "vermaß(es)t",
+        "er": "vermaß",
+        "wir": "vermaßen",
+        "ihr": "vermaß(e)t",
+        "sie": "vermaßen"
+      },
+      "Perfekt": {
+        "ich": "habe vermessen",
+        "du": "hast vermessen",
+        "er": "hat vermessen",
+        "wir": "haben vermessen",
+        "ihr": "habt vermessen",
+        "sie": "haben vermessen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte vermessen",
+        "du": "hattest vermessen",
+        "er": "hatte vermessen",
+        "wir": "hatten vermessen",
+        "ihr": "hattet vermessen",
+        "sie": "hatten vermessen"
+      },
+      "Futur I": {
+        "ich": "werde vermessen",
+        "du": "wirst vermessen",
+        "er": "wird vermessen",
+        "wir": "werden vermessen",
+        "ihr": "werdet vermessen",
+        "sie": "werden vermessen"
+      },
+      "Futur II": {
+        "ich": "werde vermessen haben",
+        "du": "wirst vermessen haben",
+        "er": "wird vermessen haben",
+        "wir": "werden vermessen haben",
+        "ihr": "werdet vermessen haben",
+        "sie": "werden vermessen haben"
+      }
+    },
+    "imperative": [
+      "ich vermesse",
+      "du vermisst",
+      "er vermisst",
+      "wir vermessen",
+      "ihr vermesst",
+      "sie vermessen"
+    ],
+    "english": [
+      "measure",
+      "survey",
+      "map",
+      "miscalculate",
+      "mismeasure",
+      "overstep",
+      "transgress",
+      "calibrate",
+      "chart",
+      "dimension",
+      "gauge",
+      "range"
+    ],
+    "definitions_de": [
+      "die Entfernungen zwischen Objekten auf einem Stück der Erdoberfläche feststellen und in einem Lageplan nennen, abmessen, ausmessen, einmessen",
+      "unbeabsichtigt fehlerhaft messen, sich irren",
+      "die eigenen Grenzen angemessenen Tuns überschreiten, größenwahnsinnig handeln, überziehen",
+      "[Gefühle] übertrieben selbstbewusst, überheblich, bestimmen, draufgängerisch, großtuerisch, hochmütig"
+    ],
+    "synonyms": [
+      "abmessen",
+      "ausmessen",
+      "einmessen",
+      "überziehen",
+      "bestimmen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Achsen werden regelmäßig vermessen.",
+        "en": "Axes are measured regularly."
+      },
+      {
+        "de": "Was wäre die Welt ohne die Menschen, die sie vermessen?",
+        "en": "What would the world be like without the people who measure it?"
+      },
+      {
+        "de": "Das heißt, die Satelliten vermessen die Erde.",
+        "en": "That means the satellites measure the Earth."
+      },
+      {
+        "de": "Das Flurstück muss neu vermessen und das Flurbuch korrigiert werden.",
+        "en": "The parcel must be remeasured and the land register must be corrected."
+      },
+      {
+        "de": "Flüsse und Meere kann man vermessen, ein menschliches Herz aber nicht.",
+        "en": "Rivers and seas can be measured, but a human heart cannot."
+      },
+      {
+        "de": "Bald darauf kamen einige seltsam gekleidete Leute, die sich Landvermesser nannten, und sie vermaßen eine Strecke vor dem kleinen Haus meiner Großmutter.",
+        "en": "Pretty soon along came to the village some strangely dressed people who called themselves surveyors; and they surveyed a line in front of my grandmother's little house."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/vermessen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/vermessen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/vermessen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/vermessen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/vermessen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/vermessen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/vermessen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/vermessen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/vermessen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/vermessen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/vermessen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/vermessen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/vermessen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/vermessen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/vermessen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/vermessen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/vermessen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/vermessen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/vermessen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/vermessen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/vermessen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/vermessen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/vermessen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/vermessen.htm",
+    "rank": 1138,
+    "zipf": 3.45,
+    "first_seen": "2026-10-13T02:32:21+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "250451eb578d0b47"
   },
   {
     "id": "verschonen",
@@ -12276,6 +14639,10 @@
       "jemanden in Ruhe lassen, eine Person nicht mit etwas belästigen oder behelligen",
       "schonen, (jemanden) leben lassen, (jemandem etwas) ersparen, in Watte packen, nicht töten, hätscheln"
     ],
+    "synonyms": [
+      "schonen",
+      "hätscheln"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12329,10 +14696,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verschonen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verschonen.htm",
-    "rank": 827,
+    "rank": 1773,
+    "zipf": 2.88,
     "first_seen": "2026-10-12T14:18:10+00:00",
-    "updated_at": "2026-10-12T22:39:56+00:00",
-    "hash": "c3198231138ad3e5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cdf63a63cf443936"
   },
   {
     "id": "versinken",
@@ -12431,6 +14799,13 @@
       "sich in eine Tätigkeit vertiefen, in eine Stimmung geraten, versenken",
       "in einen Zustand geraten"
     ],
+    "synonyms": [
+      "einsinken",
+      "untergehen",
+      "versenken",
+      "sinken",
+      "absacken"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12484,10 +14859,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/versinken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/versinken.htm",
-    "rank": 91,
+    "rank": 1237,
+    "zipf": 3.36,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-12T04:29:41+00:00",
-    "hash": "81b9e9977f05bdc1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "372a7b45612d3dbf"
   },
   {
     "id": "versterben",
@@ -12582,6 +14958,11 @@
     "definitions_de": [
       "aus einem lebendigen in einen toten Zustand wechseln, sterben, eingehen, entschlafen, sein Leben aushauchen, sterben"
     ],
+    "synonyms": [
+      "sterben",
+      "eingehen",
+      "entschlafen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12635,10 +15016,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/versterben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/versterben.htm",
-    "rank": 405,
+    "rank": 2246,
+    "zipf": 2.54,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-12T04:29:42+00:00",
-    "hash": "d478d2b966dd2fbc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5e7a196a646af6eb"
   },
   {
     "id": "vertiefen",
@@ -12750,6 +15132,16 @@
       "[Fachsprache] ein Teil eines Kleidungsstückes (tiefer, nach unten) versetzen",
       "sich vollständig auf etwas konzentrieren, konzentrieren, versinken"
     ],
+    "synonyms": [
+      "ausbaggern",
+      "ausbohren",
+      "ausfräsen",
+      "ausgraben",
+      "ausheben",
+      "ausarbeiten",
+      "ausführen",
+      "beleuchten"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12803,10 +15195,175 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vertiefen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vertiefen.htm",
-    "rank": 91,
+    "rank": 1127,
+    "zipf": 3.46,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-12T04:29:42+00:00",
-    "hash": "7669652897e6f813"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "51bb5454ef3b890a"
+  },
+  {
+    "id": "verweilen",
+    "type": "verb",
+    "infinitive": "verweilen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "verweilt",
+    "praeteritum_3sg": "verweilte",
+    "perfekt_3sg": "hat verweilt",
+    "partizip2": "verweilt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [],
+    "prepositions": [
+      "bei+D",
+      "in+A",
+      "in+D"
+    ],
+    "usage_pattern_raw": "sich+A, bei+D, in+A, in+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "verweile",
+        "du": "verweilst",
+        "er": "verweilt",
+        "wir": "verweilen",
+        "ihr": "verweilt",
+        "sie": "verweilen"
+      },
+      "Präteritum": {
+        "ich": "verweilte",
+        "du": "verweiltest",
+        "er": "verweilte",
+        "wir": "verweilten",
+        "ihr": "verweiltet",
+        "sie": "verweilten"
+      },
+      "Perfekt": {
+        "ich": "habe verweilt",
+        "du": "hast verweilt",
+        "er": "hat verweilt",
+        "wir": "haben verweilt",
+        "ihr": "habt verweilt",
+        "sie": "haben verweilt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte verweilt",
+        "du": "hattest verweilt",
+        "er": "hatte verweilt",
+        "wir": "hatten verweilt",
+        "ihr": "hattet verweilt",
+        "sie": "hatten verweilt"
+      },
+      "Futur I": {
+        "ich": "werde verweilen",
+        "du": "wirst verweilen",
+        "er": "wird verweilen",
+        "wir": "werden verweilen",
+        "ihr": "werdet verweilen",
+        "sie": "werden verweilen"
+      },
+      "Futur II": {
+        "ich": "werde verweilt haben",
+        "du": "wirst verweilt haben",
+        "er": "wird verweilt haben",
+        "wir": "werden verweilt haben",
+        "ihr": "werdet verweilt haben",
+        "sie": "werden verweilt haben"
+      }
+    },
+    "imperative": [
+      "ich verweile",
+      "du verweilst",
+      "er verweilt",
+      "wir verweilen",
+      "ihr verweilt",
+      "sie verweilen"
+    ],
+    "english": [
+      "linger",
+      "stay",
+      "tarry",
+      "abide",
+      "abide by",
+      "bide",
+      "bide awhile",
+      "dwell",
+      "dwell on",
+      "linger (over)",
+      "pause",
+      "remain",
+      "sojourn"
+    ],
+    "definitions_de": [
+      "[Gesellschaft] an einem Ort bleiben, bleiben, (sich) aufhalten, innehalten, sich aufhalten, weilen"
+    ],
+    "synonyms": [
+      "bleiben",
+      "innehalten",
+      "weilen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Kurz verweilte Tom.",
+        "en": "Tom stayed briefly."
+      },
+      {
+        "de": "Kannst du bei uns verweilen?",
+        "en": "Can you stay with us?"
+      },
+      {
+        "de": "Tom wird drei Tage bei uns verweilen.",
+        "en": "Tom will be with us for three days."
+      },
+      {
+        "de": "Sie besucht ihn häufiger, doch verweilt nie lange.",
+        "en": "She visits him more often, but never stays long."
+      },
+      {
+        "de": "Es war ein idyllischer Aufenthalt, an dem sie verweilten.",
+        "en": "It was an idyllic stay, where they lingered."
+      },
+      {
+        "de": "Wie viele Jahre verweilte Tom in Boston?",
+        "en": "How many years did Tom stay in Boston?"
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/verweilen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/verweilen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/verweilen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/verweilen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/verweilen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/verweilen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/verweilen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/verweilen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/verweilen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/verweilen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/verweilen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/verweilen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/verweilen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/verweilen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/verweilen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/verweilen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/verweilen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/verweilen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/verweilen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/verweilen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/verweilen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/verweilen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/verweilen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/verweilen.htm",
+    "rank": 1016,
+    "zipf": 3.61,
+    "first_seen": "2026-10-13T02:12:44+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "79e6c26eafa4fdc2"
   },
   {
     "id": "verwirklichen",
@@ -12917,6 +15474,16 @@
       "sich den innewohnenden Ideen entsprechend in die Realität umsetzen, realisieren, wahr werden",
       "vornehmen, umsetzen, realisieren, durchführen, effektuieren, ausführen"
     ],
+    "synonyms": [
+      "ausführen",
+      "durchführen",
+      "realisieren",
+      "umsetzen",
+      "wahr machen",
+      "ausleben",
+      "entfalten",
+      "entwickeln"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -12970,10 +15537,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verwirklichen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verwirklichen.htm",
-    "rank": 126,
+    "rank": 859,
+    "zipf": 3.83,
     "first_seen": "2026-10-08T10:59:26+00:00",
-    "updated_at": "2026-10-12T04:29:42+00:00",
-    "hash": "84736b166b6d7810"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "88872d3b796b9dc6"
   },
   {
     "id": "vera3rgern",
@@ -13086,6 +15654,11 @@
     "definitions_de": [
       "jemandem die Laune verderben, Missmut (Ärger) hervorrufen, nachhaltig ärgern, anmachen, erregen, erbittern, (jemanden) sauer fahren"
     ],
+    "synonyms": [
+      "anmachen",
+      "erregen",
+      "erbittern"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -13139,10 +15712,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vera3rgern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vera3rgern.htm",
-    "rank": 946,
+    "rank": 1680,
+    "zipf": 2.95,
     "first_seen": "2026-10-12T15:09:19+00:00",
-    "updated_at": "2026-10-12T22:43:35+00:00",
-    "hash": "ca28780edae325a9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "85a9a2428eb73500"
   },
   {
     "id": "wegbleiben",
@@ -13242,6 +15816,14 @@
       "nicht aufgenommen, gesagt werden",
       "fernbleiben, nicht erscheinen, fortbleiben, blaumachen, fehlen, (unentschuldigt) fehlen"
     ],
+    "synonyms": [
+      "dazusein",
+      "gesagt werden",
+      "fernbleiben",
+      "fortbleiben",
+      "blaumachen",
+      "fehlen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -13295,10 +15877,179 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wegbleiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wegbleiben.htm",
-    "rank": 130,
+    "rank": 1848,
+    "zipf": 2.83,
     "first_seen": "2026-10-08T10:59:48+00:00",
-    "updated_at": "2026-10-12T04:29:42+00:00",
-    "hash": "157e303f552927bd"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8ee80ee6509991d0"
+  },
+  {
+    "id": "weisen",
+    "type": "verb",
+    "infinitive": "weisen",
+    "level": "B2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "weist",
+    "praeteritum_3sg": "wies",
+    "perfekt_3sg": "hat gewiesen",
+    "partizip2": "gewiesen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "aus+D",
+      "auf+A",
+      "von+D"
+    ],
+    "usage_pattern_raw": "sich+A, Dat., Akk., aus+D, auf+A, von+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "weise",
+        "du": "weist",
+        "er": "weist",
+        "wir": "weisen",
+        "ihr": "weist",
+        "sie": "weisen"
+      },
+      "Präteritum": {
+        "ich": "wies",
+        "du": "wies(es)t",
+        "er": "wies",
+        "wir": "wiesen",
+        "ihr": "wies(e)t",
+        "sie": "wiesen"
+      },
+      "Perfekt": {
+        "ich": "habe gewiesen",
+        "du": "hast gewiesen",
+        "er": "hat gewiesen",
+        "wir": "haben gewiesen",
+        "ihr": "habt gewiesen",
+        "sie": "haben gewiesen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gewiesen",
+        "du": "hattest gewiesen",
+        "er": "hatte gewiesen",
+        "wir": "hatten gewiesen",
+        "ihr": "hattet gewiesen",
+        "sie": "hatten gewiesen"
+      },
+      "Futur I": {
+        "ich": "werde weisen",
+        "du": "wirst weisen",
+        "er": "wird weisen",
+        "wir": "werden weisen",
+        "ihr": "werdet weisen",
+        "sie": "werden weisen"
+      },
+      "Futur II": {
+        "ich": "werde gewiesen haben",
+        "du": "wirst gewiesen haben",
+        "er": "wird gewiesen haben",
+        "wir": "werden gewiesen haben",
+        "ihr": "werdet gewiesen haben",
+        "sie": "werden gewiesen haben"
+      }
+    },
+    "imperative": [
+      "ich weise",
+      "du weist",
+      "er weist",
+      "wir weisen",
+      "ihr weist",
+      "sie weisen"
+    ],
+    "english": [
+      "indicate",
+      "show",
+      "point",
+      "deny",
+      "direct",
+      "disclaim",
+      "guide",
+      "point (to)",
+      "point out",
+      "show to",
+      "spurn"
+    ],
+    "definitions_de": [
+      "auf etwas zeigen, deuten, zeigen",
+      "jemandem etwas zeigen, zeigen",
+      "jemandem die Richtung vorgeben",
+      "schicken, zeigen, deuten"
+    ],
+    "synonyms": [
+      "deuten",
+      "zeigen",
+      "schicken"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er wies nach links.",
+        "en": "He pointed to the left."
+      },
+      {
+        "de": "Er weist mir den Weg.",
+        "en": "He shows me the way."
+      },
+      {
+        "de": "Können Sie mir den Weg weisen?",
+        "en": "Can you show me the way?"
+      },
+      {
+        "de": "Sie wies ihn aus dem Haus.",
+        "en": "She showed him out of the house."
+      },
+      {
+        "de": "Wir haben ihm die Tür gewiesen.",
+        "en": "We showed him the door."
+      },
+      {
+        "de": "Er ist intelligent, aber nicht weise.",
+        "en": "He is intelligent, but not wise."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/weisen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/weisen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/weisen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/weisen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/weisen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/weisen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/weisen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/weisen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/weisen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/weisen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/weisen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/weisen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/weisen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/weisen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/weisen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/weisen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/weisen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/weisen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/weisen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/weisen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/weisen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/weisen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/weisen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/weisen.htm",
+    "rank": 530,
+    "zipf": 4.45,
+    "first_seen": "2026-10-13T02:27:27+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4921e163c1752ab8"
   },
   {
     "id": "wiedererkennen",
@@ -13390,6 +16141,11 @@
     "definitions_de": [
       "etwas, jemanden aus der Erinnerung richtig zuordnen können, erkennen, wiederkennen, erinnern"
     ],
+    "synonyms": [
+      "erkennen",
+      "wiederkennen",
+      "erinnern"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -13443,10 +16199,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wiedererkennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wiedererkennen.htm",
-    "rank": 353,
+    "rank": 1447,
+    "zipf": 3.15,
     "first_seen": "2026-10-08T12:26:32+00:00",
-    "updated_at": "2026-10-12T04:29:42+00:00",
-    "hash": "bf9724dc48ceb9ef"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "aabbacc561fab72c"
   },
   {
     "id": "wiedersehen",
@@ -13535,6 +16292,11 @@
     "definitions_de": [
       "jemanden nach längerer oder kürzerer Abwesenheit wieder treffen, etwas wieder aufsuchen, aufsuchen, treffen, über den Weg laufen, zusammenkommen"
     ],
+    "synonyms": [
+      "aufsuchen",
+      "treffen",
+      "zusammenkommen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -13588,10 +16350,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wiedersehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wiedersehen.htm",
-    "rank": 596,
+    "rank": 700,
+    "zipf": 4.11,
     "first_seen": "2026-10-08T14:13:31+00:00",
-    "updated_at": "2026-10-12T04:29:43+00:00",
-    "hash": "f17e67ae6d879704"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3d97024e8c8c48c9"
   },
   {
     "id": "zumauern",
@@ -13684,6 +16447,7 @@
     "definitions_de": [
       "etwas mittels Mauerwerk verschließen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -13717,10 +16481,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zumauern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zumauern.htm",
-    "rank": 107,
+    "rank": 3216,
+    "zipf": 1.76,
     "first_seen": "2026-10-08T10:57:35+00:00",
-    "updated_at": "2026-10-12T04:29:43+00:00",
-    "hash": "3357eb1f207b4378"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0a5ee26d359d6e28"
   },
   {
     "id": "zurechtfinden",
@@ -13813,6 +16578,9 @@
     "definitions_de": [
       "[Gesellschaft] Dinge, Situationen, Erfahrungen verstehen und damit oder darin zurechtkommen, (sich) orientieren, (sich) richten nach, zu Rande kommen, (sich) anlehnen (an), klarkommen"
     ],
+    "synonyms": [
+      "klarkommen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -13866,10 +16634,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zurechtfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zurechtfinden.htm",
-    "rank": 174,
+    "rank": 1775,
+    "zipf": 2.88,
     "first_seen": "2026-10-08T11:08:55+00:00",
-    "updated_at": "2026-10-12T04:29:43+00:00",
-    "hash": "81f786830c144835"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "166a0daba3c2a19f"
   },
   {
     "id": "zusammenbinden",
@@ -13967,6 +16736,13 @@
     "definitions_de": [
       "durch Umgeben/Umwinden mit etwas zusammenfügen (und so befestigen), zusammenschnüren, verknüpfen, zusammenpacken, zusammenfügen, bündeln"
     ],
+    "synonyms": [
+      "zusammenschnüren",
+      "verknüpfen",
+      "zusammenpacken",
+      "zusammenfügen",
+      "bündeln"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -14020,10 +16796,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zusammenbinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zusammenbinden.htm",
-    "rank": 269,
+    "rank": 2763,
+    "zipf": 2.16,
     "first_seen": "2026-10-08T11:50:52+00:00",
-    "updated_at": "2026-10-12T04:29:43+00:00",
-    "hash": "869deee21cc53835"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4e48b1b06d0fc675"
   },
   {
     "id": "a3hneln",
@@ -14127,6 +16904,10 @@
     "definitions_de": [
       "weitgehend übereinstimmen, sich wenig unterscheiden, gleichkommen, (sich) ähnlich sehen, (jemandem) nachgeraten, gleichen, (sich) gleichen"
     ],
+    "synonyms": [
+      "gleichkommen",
+      "gleichen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -14180,10 +16961,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/a3hneln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/a3hneln.htm",
-    "rank": 562,
+    "rank": 1059,
+    "zipf": 3.55,
     "first_seen": "2026-10-08T13:58:28+00:00",
-    "updated_at": "2026-10-12T04:29:43+00:00",
-    "hash": "e9367abdb7255b63"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "747f270b795392d2"
   },
   {
     "id": "u3bergeben",
@@ -14267,6 +17049,7 @@
       "pass on"
     ],
     "definitions_de": [],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -14295,9 +17078,10 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/u3ber-geben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/u3bergeben.htm",
-    "rank": 241,
+    "rank": 568,
+    "zipf": 4.38,
     "first_seen": "2026-10-08T23:24:18+00:00",
-    "updated_at": "2026-10-08T23:24:39+00:00",
-    "hash": "49542718bd360834"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "2e52f1de030f227d"
   }
 ]

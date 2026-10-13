@@ -22,6 +22,13 @@
     "definitions_de": [
       "[Lebensmittel] Mahlzeit zum Tagesende, Abendessen, Abendmahl, Abendmahlzeit, Abendtafel, Dinner"
     ],
+    "synonyms": [
+      "Abendessen",
+      "Abendmahl",
+      "Abendmahlzeit",
+      "Abendtafel",
+      "Dinner"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -56,10 +63,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Abendbrot.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Abendbrot.htm",
-    "rank": 254,
+    "rank": 1360,
+    "zipf": 3.23,
     "first_seen": "2026-10-08T11:44:35+00:00",
-    "updated_at": "2026-10-12T04:28:21+00:00",
-    "hash": "20a7528f8e2cd60c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e5452709ee910496"
   },
   {
     "id": "Achselzucken",
@@ -81,6 +89,7 @@
     "definitions_de": [
       "Geste durch eine willkürliche Bewegung der Achsel oder Achseln, um Nichtwissen oder Unschlüssigkeit oder dergleichen anzudeuten"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -94,10 +103,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Achselzucken.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Achselzucken.htm",
-    "rank": 226,
+    "rank": 2555,
+    "zipf": 2.32,
     "first_seen": "2026-10-08T11:31:42+00:00",
-    "updated_at": "2026-10-08T21:08:49+00:00",
-    "hash": "f67594b6385efc5c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "2495dc7a3c0d76bd"
   },
   {
     "id": "Affe",
@@ -139,6 +149,14 @@
       "roher, primitiver, ungeschlachter Mann, Primitivling, Primat, Prolet",
       "[Tiere] ein junges Murmeltier"
     ],
+    "synonyms": [
+      "Fatzke",
+      "Lackaffe",
+      "Primitivling",
+      "Primat",
+      "Prolet",
+      "Felltornister"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -173,10 +191,75 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Affe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Affe.htm",
-    "rank": 871,
+    "rank": 931,
+    "zipf": 3.71,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-12T22:36:56+00:00",
-    "hash": "edcf45a6310b12b9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f12b8ed9c36c99d0"
+  },
+  {
+    "id": "Allergie",
+    "type": "noun",
+    "lemma": "Allergie",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Allergien",
+    "genitive": "Allergie",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "allergy",
+      "atopy"
+    ],
+    "definitions_de": [
+      "[Medizin] heftige Immunreaktion auf normalerweise harmlose Substanzen oder Umweltstoffe, Überempfindlichkeit"
+    ],
+    "synonyms": [
+      "Überempfindlichkeit"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Haben Sie Allergien?",
+        "en": "Do you have any allergies?"
+      },
+      {
+        "de": "Hast du irgendwelche Allergien?",
+        "en": "Do you have any allergies?"
+      },
+      {
+        "de": "Haben Sie eine Allergie gegen Medikamente?",
+        "en": "Are you allergic to any medicine?"
+      },
+      {
+        "de": "Er hat eine Allergie gegen die Wahrheit.",
+        "en": "He is allergic to the truth."
+      },
+      {
+        "de": "Zurzeit haben viele Leute mit Allergien zu tun.",
+        "en": "A lot of people are dealing with allergies now."
+      },
+      {
+        "de": "Diese Allergie kann Juckreiz hervorrufen.",
+        "en": "This allergy can cause itching."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Allergie.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Allergie.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Allergie.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Allergie.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Allergie.htm",
+    "rank": 1128,
+    "zipf": 3.45,
+    "first_seen": "2026-10-13T02:17:37+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "aa68a7383c41193b"
   },
   {
     "id": "Altenheim",
@@ -202,6 +285,14 @@
     ],
     "definitions_de": [
       "[Tradition] Einrichtung, in der Menschen im Alter wohnen und je nach Bedarf betreut und gepflegt werden, Altersheim, Seniorenheim, Seniorenstift, Seniorenwohnheim, Pensionistenheim"
+    ],
+    "synonyms": [
+      "Einrichtung",
+      "Altersheim",
+      "Seniorenheim",
+      "Seniorenstift",
+      "Seniorenwohnheim",
+      "Pensionistenheim"
     ],
     "ipa": [],
     "examples": [
@@ -233,10 +324,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Altenheim.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Altenheim.htm",
-    "rank": 593,
+    "rank": 1248,
+    "zipf": 3.34,
     "first_seen": "2026-10-08T14:11:26+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "0784fe0c0504eb2d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c625b915023265e7"
   },
   {
     "id": "Amateur",
@@ -264,6 +356,9 @@
       "jemand, der etwas rein aus Liebhaberei betreibt und nicht berufsmäßig ausübt",
       "Person, die einen Sport ausübt, ohne dafür bezahlt zu werden",
       "Person, die etwas laienhaft und damit unzulänglich tut"
+    ],
+    "synonyms": [
+      "Person"
     ],
     "ipa": [],
     "examples": [
@@ -299,10 +394,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Amateur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Amateur.htm",
-    "rank": 133,
+    "rank": 737,
+    "zipf": 4.03,
     "first_seen": "2026-10-08T11:00:05+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "e84ccae7a08290a1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cd6ef96db60fa21c"
   },
   {
     "id": "Arbeiter",
@@ -336,6 +432,11 @@
     ],
     "definitions_de": [
       "[Berufe] jemand, der zum Lohnerwerb standesgemäß einer Tätigkeit nachgeht, zur Arbeiterklasse zählend, Arbeitnehmer, Beschäftigter, Werktätiger"
+    ],
+    "synonyms": [
+      "Arbeitnehmer",
+      "Beschäftigter",
+      "Werktätiger"
     ],
     "ipa": [],
     "examples": [
@@ -371,10 +472,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arbeiter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arbeiter.htm",
-    "rank": 296,
+    "rank": 507,
+    "zipf": 4.48,
     "first_seen": "2026-10-08T12:03:23+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "a2fb0e4734d4fd70"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f744d8ebfb9efe1c"
   },
   {
     "id": "Arbeitnehmer",
@@ -397,6 +499,13 @@
     ],
     "definitions_de": [
       "[Berufe] jemand, der bei einer Firma eingestellt ist und für seine Arbeit bezahlt wird, Angestellter, Arbeiter, Beschäftigter, Gehaltsempfänger, Lohnempfänger"
+    ],
+    "synonyms": [
+      "Angestellter",
+      "Arbeiter",
+      "Beschäftigter",
+      "Gehaltsempfänger",
+      "Lohnempfänger"
     ],
     "ipa": [],
     "examples": [
@@ -432,10 +541,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arbeitnehmer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arbeitnehmer.htm",
-    "rank": 535,
+    "rank": 591,
+    "zipf": 4.33,
     "first_seen": "2026-10-08T13:45:55+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "6c957b35c6b9f3e1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ae45ce7777c01fda"
   },
   {
     "id": "Arbeitssuche",
@@ -461,6 +571,7 @@
     "definitions_de": [
       "[Arbeit] die Suche nach einer beruflichen Tätigkeit"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -495,10 +606,129 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arbeitssuche.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arbeitssuche.htm",
-    "rank": 713,
+    "rank": 1945,
+    "zipf": 2.74,
     "first_seen": "2026-10-12T08:07:12+00:00",
-    "updated_at": "2026-10-12T09:01:01+00:00",
-    "hash": "e8931ec5630798c6"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fc5b2e9697ab9b75"
+  },
+  {
+    "id": "Arbeitsweise",
+    "type": "noun",
+    "lemma": "Arbeitsweise",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Arbeitsweisen",
+    "genitive": "Arbeitsweise",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "working method",
+      "approach",
+      "functioning",
+      "mode of operation",
+      "mode of working",
+      "operation method",
+      "way of operation",
+      "work style",
+      "function",
+      "method of operation",
+      "operation"
+    ],
+    "definitions_de": [
+      "[Arbeit] Art, wie jemand oder etwas arbeitet, Arbeitsstil"
+    ],
+    "synonyms": [
+      "Art",
+      "Arbeitsstil"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Kritik an Walthers Arbeitsweise kam überwiegend vonseiten seiner Kollegen.",
+        "en": "The criticism of Walther's working method mainly came from his colleagues."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Arbeitsweise.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Arbeitsweise.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Arbeitsweise.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arbeitsweise.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Arbeitsweise.htm",
+    "rank": 1051,
+    "zipf": 3.55,
+    "first_seen": "2026-10-13T02:27:27+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5c522a2c99d5b5ef"
+  },
+  {
+    "id": "Armband",
+    "type": "noun",
+    "lemma": "Armband",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Armbänder/Armbande",
+    "genitive": "Armband(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "bracelet",
+      "strap",
+      "wristband",
+      "wristlet"
+    ],
+    "definitions_de": [
+      "ein meist als Schmuck am Handgelenk oder Arm getragenes Band"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das ist ein Armband.",
+        "en": "This is a bracelet."
+      },
+      {
+        "de": "Wir haben nur drei Armbänder.",
+        "en": "We've only got three bracelets."
+      },
+      {
+        "de": "Das Mädchen hat sein Armband verloren.",
+        "en": "The girl has lost her bracelet."
+      },
+      {
+        "de": "Die Armbänder merken auch, wenn man schlecht schläft.",
+        "en": "The bracelets also notice when one sleeps poorly."
+      },
+      {
+        "de": "Hast du das Armband geklaut?",
+        "en": "Did you steal the bracelet?"
+      },
+      {
+        "de": "Es gibt Grund zu der Annahme, dass Tom die Person ist, die Marys Armband gestohlen hat.",
+        "en": "There seems to be evidence suggesting Tom was the one who stole Mary's bracelet."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Armband.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Armband.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Armband.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Armband.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Armband.htm",
+    "rank": 1087,
+    "zipf": 3.5,
+    "first_seen": "2026-10-13T01:57:40+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "29154755156f810f"
   },
   {
     "id": "Augenblick",
@@ -530,6 +760,9 @@
     ],
     "definitions_de": [
       "kurze Dauer, Moment, Moment"
+    ],
+    "synonyms": [
+      "Moment"
     ],
     "ipa": [],
     "examples": [
@@ -565,10 +798,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Augenblick.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Augenblick.htm",
-    "rank": 291,
+    "rank": 509,
+    "zipf": 4.47,
     "first_seen": "2026-10-08T12:00:38+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "e12eb1b3fc555d45"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7a24a83535afa881"
   },
   {
     "id": "Aus",
@@ -595,6 +829,9 @@
     "definitions_de": [
       "Ende",
       "Bereich außerhalb einer Spielbegrenzung"
+    ],
+    "synonyms": [
+      "Ende"
     ],
     "ipa": [],
     "examples": [
@@ -629,10 +866,58 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Aus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Aus.htm",
-    "rank": 64,
+    "rank": 4,
+    "zipf": 6.6,
     "first_seen": "2026-10-08T10:52:59+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "a0969e8f84896049"
+    "updated_at": "2026-10-13T10:48:26+00:00",
+    "hash": "8c8cbe482a72da40"
+  },
+  {
+    "id": "Ausweiskontrolle",
+    "type": "noun",
+    "lemma": "Ausweiskontrolle",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Ausweiskontrollen",
+    "genitive": "Ausweiskontrolle",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "ID check",
+      "identity check",
+      "identity verification"
+    ],
+    "definitions_de": [
+      "Überprüfung der Ausweispapiere"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das ist eine routinemäßige Ausweiskontrolle.",
+        "en": "This is a routine identity check."
+      },
+      {
+        "de": "Der Polizeibeamte führte eine Ausweiskontrolle der Passagiere durch.",
+        "en": "The police officer conducted an identity check of the passengers."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ausweiskontrolle.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ausweiskontrolle.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ausweiskontrolle.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ausweiskontrolle.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ausweiskontrolle.htm",
+    "rank": 2728,
+    "zipf": 2.18,
+    "first_seen": "2026-10-13T02:23:57+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b3a4070cd4c618bf"
   },
   {
     "id": "Autofahren",
@@ -656,6 +941,7 @@
     "definitions_de": [
       "Fortbewegung mit einem Auto"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -689,10 +975,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Autofahren.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Autofahren.htm",
-    "rank": 371,
+    "rank": 1060,
+    "zipf": 3.54,
     "first_seen": "2026-10-08T12:34:56+00:00",
-    "updated_at": "2026-10-08T21:39:57+00:00",
-    "hash": "734c562327e5850f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "96f46e9780eacec7"
   },
   {
     "id": "Badewanne",
@@ -716,6 +1003,7 @@
     "definitions_de": [
       "[Möbel] Wanne im Badezimmer mit zumeist länglicher Form zum Baden"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -750,10 +1038,94 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Badewanne.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Badewanne.htm",
-    "rank": 312,
+    "rank": 854,
+    "zipf": 3.83,
     "first_seen": "2026-10-08T12:10:03+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "f1f6538f51c4f491"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cf7f3b52c2311e39"
+  },
+  {
+    "id": "Bescheid",
+    "type": "noun",
+    "lemma": "Bescheid",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Bescheide",
+    "genitive": "Bescheid(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "answer",
+      "awareness",
+      "communication",
+      "decision notice",
+      "information",
+      "insight",
+      "knowledge",
+      "message",
+      "news",
+      "note",
+      "notice",
+      "notification",
+      "official order",
+      "administrative decision",
+      "decision",
+      "office action",
+      "official letter",
+      "order",
+      "ruling",
+      "verdict"
+    ],
+    "definitions_de": [
+      "Nachricht über eine Entscheidung, oft auch deren schriftliche Form",
+      "Ahnung, etwas gut zu wissen oder zu können"
+    ],
+    "synonyms": [
+      "Ahnung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom weiß Bescheid.",
+        "en": "Tom knows."
+      },
+      {
+        "de": "Ich sage Tom Bescheid.",
+        "en": "I'll let Tom know."
+      },
+      {
+        "de": "Sie hat telefonisch Bescheid gesagt.",
+        "en": "She informed by phone."
+      },
+      {
+        "de": "Sag Bescheid, wenn es wehtut.",
+        "en": "Let me know when it hurts."
+      },
+      {
+        "de": "Wenn du Hilfe brauchst, sag Bescheid.",
+        "en": "If you need help, let me know."
+      },
+      {
+        "de": "Im Notfall gibst du mir Bescheid, okay?",
+        "en": "In case of emergency, let me know, okay?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bescheid.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bescheid.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bescheid.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bescheid.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bescheid.htm",
+    "rank": 524,
+    "zipf": 4.45,
+    "first_seen": "2026-10-13T01:39:41+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "66a694c708a797c5"
   },
   {
     "id": "Bettdecke",
@@ -781,6 +1153,7 @@
     "definitions_de": [
       "[Möbel] eine Decke zum Zudecken im Bett"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -815,10 +1188,81 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bettdecke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bettdecke.htm",
-    "rank": 550,
+    "rank": 1451,
+    "zipf": 3.14,
     "first_seen": "2026-10-08T13:53:14+00:00",
-    "updated_at": "2026-10-12T04:28:22+00:00",
-    "hash": "541a11afb1b54713"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9bffd58a0949b4c5"
+  },
+  {
+    "id": "Beweis",
+    "type": "noun",
+    "lemma": "Beweis",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Beweise",
+    "genitive": "Beweises",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "proof",
+      "evidence",
+      "demonstration",
+      "argument",
+      "clincher",
+      "indication",
+      "sign"
+    ],
+    "definitions_de": [
+      "[Recht, Wissenschaft] die Darlegung der Richtigkeit oder der Unrichtigkeit einer Aussage oder eines Urteils mittels empirischer oder logischer Methoden",
+      "[Wissenschaft] eine nach festgelegten Regeln durchgeführte Ableitung, Schluss"
+    ],
+    "synonyms": [
+      "Schluss"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hast du Beweise?",
+        "en": "Do you have evidence?"
+      },
+      {
+        "de": "Die Beweise sind eindeutig.",
+        "en": "The evidence is clear."
+      },
+      {
+        "de": "Hast du Beweise gegen ihn?",
+        "en": "Do you have evidence against him?"
+      },
+      {
+        "de": "Der Beweis wird dem Leser überlassen.",
+        "en": "The proof is left to the reader."
+      },
+      {
+        "de": "Die Geschichte verträgt sich mit den Beweisen.",
+        "en": "The story is consistent with the evidence."
+      },
+      {
+        "de": "Bester Beweis einer guten Erziehung ist die Pünktlichkeit.",
+        "en": "The best proof of a good upbringing is punctuality."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Beweis.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Beweis.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Beweis.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Beweis.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Beweis.htm",
+    "rank": 483,
+    "zipf": 4.55,
+    "first_seen": "2026-10-13T02:16:54+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6ab4cfec29725b48"
   },
   {
     "id": "Bewerbungsschreiben",
@@ -844,6 +1288,12 @@
     "definitions_de": [
       "[Schule] kurze, schriftliche Formulierung eines Begehren oder einer Bewerbung, Bewerbung, Bewerbungsunterlage, Stellenbewerbung, Stellengesuch"
     ],
+    "synonyms": [
+      "Bewerbung",
+      "Bewerbungsunterlage",
+      "Stellenbewerbung",
+      "Stellengesuch"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -866,10 +1316,145 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bewerbungsschreiben.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bewerbungsschreiben.htm",
-    "rank": 791,
+    "rank": 1989,
+    "zipf": 2.71,
     "first_seen": "2026-10-12T08:41:37+00:00",
-    "updated_at": "2026-10-12T09:11:20+00:00",
-    "hash": "3a3608fc6baf5aaa"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f61fb0cfbbc55c66"
+  },
+  {
+    "id": "Beziehung",
+    "type": "noun",
+    "lemma": "Beziehung",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Beziehungen",
+    "genitive": "Beziehung",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "relationship",
+      "relation",
+      "connection",
+      "concern",
+      "connections",
+      "connexion",
+      "contact",
+      "correlation",
+      "dependency",
+      "feeling",
+      "partnership",
+      "relatedness",
+      "respect",
+      "tie"
+    ],
+    "definitions_de": [
+      "Verhältnis, in dem Menschen oder Organisationen zueinander stehen, Verbindung, Verhältnis, Affinität, Relation",
+      "wechselseitiges Verhältnis zwischen beliebigen Objekten, Bezug, Kontext, Relation, Zusammenhang, Verhältnis",
+      "[Gefühle] Partnerschaft zwischen zwei Menschen, Liebschaft, Relation, Verhältnis, Partnerschaft"
+    ],
+    "synonyms": [
+      "Verhältnis",
+      "Verbindung",
+      "Affinität",
+      "Relation",
+      "Bezug",
+      "Kontext",
+      "Zusammenhang",
+      "Liebschaft"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich habe Beziehungen.",
+        "en": "I have relationships."
+      },
+      {
+        "de": "Menschliche Beziehungen sind kompliziert.",
+        "en": "Human relationships are complex."
+      },
+      {
+        "de": "Sie führen eine glückliche Beziehung.",
+        "en": "They have a happy relationship."
+      },
+      {
+        "de": "Sie haben keine gleichberechtigte Beziehung.",
+        "en": "Their relationship isn't equal."
+      },
+      {
+        "de": "Ich schreibe gerne Lieder über Beziehungen.",
+        "en": "I like writing songs about relationships."
+      },
+      {
+        "de": "Unsere Beziehung ist sehr innig und liebevoll.",
+        "en": "Our relationship is very close and loving."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Beziehung.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Beziehung.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Beziehung.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Beziehung.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Beziehung.htm",
+    "rank": 375,
+    "zipf": 4.79,
+    "first_seen": "2026-10-13T02:42:31+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ff1565889510273e"
+  },
+  {
+    "id": "Beziehungskiste",
+    "type": "noun",
+    "lemma": "Beziehungskiste",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Beziehungskisten",
+    "genitive": "Beziehungskiste",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "relationship",
+      "problematic relationship",
+      "troubled relationship"
+    ],
+    "definitions_de": [
+      "problematische Liebesbeziehung, Zweierkiste, Beziehung, Zweierbeziehung, Verhältnis, Ehe"
+    ],
+    "synonyms": [
+      "Zweierkiste",
+      "Beziehung",
+      "Zweierbeziehung",
+      "Verhältnis",
+      "Ehe"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich möchte heute wirklich nicht über die Beziehungskiste diskutieren.",
+        "en": "I really don't want to discuss the relationship today."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Beziehungskiste.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Beziehungskiste.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Beziehungskiste.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Beziehungskiste.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Beziehungskiste.htm",
+    "rank": 3361,
+    "zipf": 1.59,
+    "first_seen": "2026-10-13T02:42:31+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6fbf1592383e5b0a"
   },
   {
     "id": "Blo3dmann",
@@ -904,6 +1489,7 @@
     "definitions_de": [
       "ein vermeintlich unwissender, ungebildeter, ignoranter Mann"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -940,10 +1526,11 @@
       "menge": "https://www.verbformen.de/deklination/substantive/menge/mehrere_Blo3dmann.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Blo3dmann.htm",
-    "rank": 871,
+    "rank": 2345,
+    "zipf": 2.47,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-12T22:37:02+00:00",
-    "hash": "78b267e31171703a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "62330e5e330467fa"
   },
   {
     "id": "Brauch",
@@ -974,6 +1561,7 @@
       "[Tradition] übliche oder traditionelle Verhaltensweise in einer Gesellschaft",
       "[Tradition] das Benutzen, Verwenden einer Sache zu ihrem Zweck, das Gebrauchen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -1008,10 +1596,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Brauch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Brauch.htm",
-    "rank": 289,
+    "rank": 510,
+    "zipf": 4.47,
     "first_seen": "2026-10-08T11:59:57+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "d876b19c32277a2a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e45ad65ebfcb8eab"
   },
   {
     "id": "Dieb",
@@ -1054,6 +1643,11 @@
       "Mark einer Schreibfeder",
       "Dekanter"
     ],
+    "synonyms": [
+      "Schelm",
+      "Kind",
+      "Dekanter"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1088,10 +1682,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dieb.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Dieb.htm",
-    "rank": 12,
+    "rank": 856,
+    "zipf": 3.83,
     "first_seen": "2026-10-08T10:46:30+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "0e457137cee8cb6c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5105345e28e3777a"
   },
   {
     "id": "Diebstahl",
@@ -1120,6 +1715,7 @@
       "heimliche Entwendung fremden Eigentums",
       "Wegnahme einer fremden beweglichen Sache in Zueignungsabsicht"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -1154,10 +1750,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Diebstahl.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Diebstahl.htm",
-    "rank": 12,
+    "rank": 718,
+    "zipf": 4.07,
     "first_seen": "2026-10-08T10:46:30+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "83afe2556e232924"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "50bf6f097e4999dc"
   },
   {
     "id": "Diesel",
@@ -1187,6 +1784,16 @@
       "mit Dieselmotor betriebenes Fahrzeug, Dieselauto, Dieselfahrzeug, Dieselwagen",
       "Kurzform für Dieselkraftstoff, einen Treibstoff mit schweren Kohlenwasserstoffen, Dieselöl, Dieseltreibstoff",
       "Cola-Bier-Mischgetränk, Dreckiges"
+    ],
+    "synonyms": [
+      "Dieselmotor",
+      "Dieselauto",
+      "Dieselfahrzeug",
+      "Dieselwagen",
+      "Dieselöl",
+      "Dieseltreibstoff",
+      "Cola-Bier-Mischgetränk",
+      "Dreckiges"
     ],
     "ipa": [],
     "examples": [
@@ -1222,10 +1829,161 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Diesel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Diesel.htm",
-    "rank": 113,
+    "rank": 639,
+    "zipf": 4.22,
     "first_seen": "2026-10-08T10:58:10+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "98fa67226083b8ad"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "486fd550f66dd10e"
+  },
+  {
+    "id": "Ehe",
+    "type": "noun",
+    "lemma": "Ehe",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Ehen",
+    "genitive": "Ehe",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "marriage",
+      "matrimony",
+      "wedlock"
+    ],
+    "definitions_de": [
+      "[Menschen] institutionell anerkannte und beurkundete Verbindung zweier oder mehr Menschen, die in der Regel durch eine Liebesbeziehung, gemeinsame Lebensführung und dauerhaftes Bestehen gekennzeichnet ist, Eheband, Ehejoch, Eheleben, Ehestand"
+    ],
+    "synonyms": [
+      "Eheband",
+      "Ehejoch",
+      "Eheleben",
+      "Ehestand"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Unsere Ehe endete.",
+        "en": "Our marriage is over."
+      },
+      {
+        "de": "Manche Ehen halten nicht.",
+        "en": "Some marriages don't last."
+      },
+      {
+        "de": "Ich bin gegen die Ehe.",
+        "en": "I am against marriage."
+      },
+      {
+        "de": "Ehen in Hollywood halten selten lange.",
+        "en": "Marriages in Hollywood rarely last long."
+      },
+      {
+        "de": "Ohne meine Frau wäre die Ehe unerträglich.",
+        "en": "Without my wife, marriage would be unbearable."
+      },
+      {
+        "de": "Ehe ist die Verbindung von Mann und Frau.",
+        "en": "Marriage is the union of a man and woman."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ehe.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ehe.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ehe.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ehe.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ehe.htm",
+    "rank": 317,
+    "zipf": 4.9,
+    "first_seen": "2026-10-13T01:52:44+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "24353bf61185652b"
+  },
+  {
+    "id": "Ehre",
+    "type": "noun",
+    "lemma": "Ehre",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Ehren",
+    "genitive": "Ehre",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "honor",
+      "dignity",
+      "esteem",
+      "glory",
+      "honour",
+      "kudos",
+      "pride",
+      "privilege",
+      "reputation",
+      "respect",
+      "self-respect",
+      "sense of honour"
+    ],
+    "definitions_de": [
+      "innere Würde, Würde, Stolz, Ehrgefühl, Wertgefühl, Selbstgefühl",
+      "Wertschätzung, Hochachtung, Achtungswürdigkeit, Jungfräulichkeit, Virginität, Achtung, Hochachtung, Wertschätzung"
+    ],
+    "synonyms": [
+      "Würde",
+      "Stolz",
+      "Ehrgefühl",
+      "Wertgefühl",
+      "Selbstgefühl",
+      "Wertschätzung",
+      "Hochachtung",
+      "Achtungswürdigkeit"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Lehren bringt Ehren.",
+        "en": "Teaching brings honor."
+      },
+      {
+        "de": "Es ist eine Ehre.",
+        "en": "It's an honor."
+      },
+      {
+        "de": "Er hat seine Ehre verloren.",
+        "en": "He lost his honor."
+      },
+      {
+        "de": "Ohne Ehrlichkeit gibt es keine Ehre.",
+        "en": "Without honesty, there is no honor."
+      },
+      {
+        "de": "Ist das nicht zu viel der Ehre?",
+        "en": "Isn't that too much honor?"
+      },
+      {
+        "de": "Tom ist auf dem Feld der Ehre gefallen.",
+        "en": "Tom has fallen on the field of honor."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ehre.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ehre.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ehre.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ehre.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ehre.htm",
+    "rank": 492,
+    "zipf": 4.53,
+    "first_seen": "2026-10-13T02:37:15+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f4a9bac24f42e8bb"
   },
   {
     "id": "Ehrlichkeit",
@@ -1257,6 +2015,9 @@
     ],
     "definitions_de": [
       "die Eigenschaft aufrichtig und ehrlich zu sein, Aufrichtigkeit"
+    ],
+    "synonyms": [
+      "Aufrichtigkeit"
     ],
     "ipa": [],
     "examples": [
@@ -1291,10 +2052,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ehrlichkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ehrlichkeit.htm",
-    "rank": 587,
+    "rank": 939,
+    "zipf": 3.7,
     "first_seen": "2026-10-08T14:09:18+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "a0c2b186bb7dd90d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b26603532d8fbc87"
   },
   {
     "id": "Eimer",
@@ -1350,6 +2112,13 @@
       "[Technik] eine der Vorrichtungen zum Schürfen, die sich an einem Eimerbagger befindet",
       "Filzhut oder eine ähnliche Kopfbedeckung, der senkrecht über den Kopf gestülpt ist"
     ],
+    "synonyms": [
+      "Kübel",
+      "Amper",
+      "Kessel",
+      "Pütz",
+      "Stiefel"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1384,10 +2153,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Eimer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Eimer.htm",
-    "rank": 33,
+    "rank": 841,
+    "zipf": 3.85,
     "first_seen": "2026-10-08T10:49:19+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "ece25493aaa2f4b1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6c5e920f2f374ef4"
   },
   {
     "id": "Einsamkeit",
@@ -1419,6 +2189,15 @@
     "definitions_de": [
       "das Alleinsein oder Verlassensein, Abkapselung, Einsiedlerleben, Isolation, Klausur, Vereinsamung",
       "Abgeschiedenheit, Einöde"
+    ],
+    "synonyms": [
+      "Abkapselung",
+      "Einsiedlerleben",
+      "Isolation",
+      "Klausur",
+      "Vereinsamung",
+      "Abgeschiedenheit",
+      "Einöde"
     ],
     "ipa": [],
     "examples": [
@@ -1454,10 +2233,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Einsamkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Einsamkeit.htm",
-    "rank": 390,
+    "rank": 842,
+    "zipf": 3.85,
     "first_seen": "2026-10-08T12:43:41+00:00",
-    "updated_at": "2026-10-08T21:45:05+00:00",
-    "hash": "1373e4ac0c442602"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "05df2fc6870aca70"
   },
   {
     "id": "Elternabend",
@@ -1481,6 +2261,9 @@
     "definitions_de": [
       "[Schule] eine Versammlung, bei der die Eltern von Schülern Gelegenheit bekommen, mit deren Lehrern über die schulischen Themen zu sprechen, Elternversammlung"
     ],
+    "synonyms": [
+      "Elternversammlung"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1503,10 +2286,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Elternabend.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Elternabend.htm",
-    "rank": 588,
+    "rank": 1746,
+    "zipf": 2.89,
     "first_seen": "2026-10-08T14:09:39+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "0f44c21296c79e62"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3b8d6494a1d55dea"
   },
   {
     "id": "Elternbeirat",
@@ -1532,6 +2316,7 @@
     "definitions_de": [
       "[Schule] Vertretung der Eltern in der Schule"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -1541,10 +2326,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Elternbeirat.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Elternbeirat.htm",
-    "rank": 588,
+    "rank": 2204,
+    "zipf": 2.57,
     "first_seen": "2026-10-08T14:09:39+00:00",
-    "updated_at": "2026-10-08T22:10:33+00:00",
-    "hash": "13e50372a4010796"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1143d55489893bce"
   },
   {
     "id": "Elternteil",
@@ -1566,6 +2352,7 @@
     "definitions_de": [
       "[Familie] eine Person, Vater oder Mutter"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -1600,10 +2387,158 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Elternteil.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Elternteil.htm",
-    "rank": 588,
+    "rank": 1084,
+    "zipf": 3.51,
     "first_seen": "2026-10-08T14:09:39+00:00",
-    "updated_at": "2026-10-12T04:28:23+00:00",
-    "hash": "08ef27f2c7499776"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fd8bd394b4612c59"
+  },
+  {
+    "id": "Erza3hler",
+    "type": "noun",
+    "lemma": "Erzähler",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Erzähler",
+    "genitive": "Erzählers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "narrator",
+      "storyteller",
+      "teller",
+      "author",
+      "raconteur",
+      "relator",
+      "taleteller",
+      "talker"
+    ],
+    "definitions_de": [
+      "Person, die etwas erzählt",
+      "Verfasser einer Erzählung",
+      "[Wissenschaft] abstrakte Instanz in einem epischen Werk, aus deren Sichtweise erzählt wird, Narrator"
+    ],
+    "synonyms": [
+      "Person",
+      "Narrator"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Es kann keine Erzählung ohne einen Erzähler geben.",
+        "en": "There can be no narrative without a narrator."
+      },
+      {
+        "de": "Autor und Erzähler darf man nicht identifizieren.",
+        "en": "The author and the narrator should not be identified."
+      },
+      {
+        "de": "Seine Angst steigerte sich, als der Erzähler seine Stimme verstellte.",
+        "en": "His fear increased as the narrator changed his voice."
+      },
+      {
+        "de": "Der Erzähler liefert nur wenige Beschreibungen des Umfelds.",
+        "en": "The narrator describes the surroundings only sparingly."
+      },
+      {
+        "de": "Die Ironie der Novelle liegt weniger in der Sprechweise als in der Situation des Erzählers.",
+        "en": "The irony of the novella lies less in the way of speaking than in the situation of the narrator."
+      },
+      {
+        "de": "Lyriker und Erzähler, Kritiker und Literarhistoriker behandeln darin ausgewählte Gedichte Rilkes.",
+        "en": "Lyricists and narrators, critics and literary historians discuss selected poems of Rilke."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Erza3hler.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Erza3hler.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Erza3hler.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Erza3hler.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Erza3hler.htm",
+    "rank": 876,
+    "zipf": 3.8,
+    "first_seen": "2026-10-13T02:16:13+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "78137e6c6d63807f"
+  },
+  {
+    "id": "Erza3hlung",
+    "type": "noun",
+    "lemma": "Erzählung",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Erzählungen",
+    "genitive": "Erzählung",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "story",
+      "tale",
+      "narrative",
+      "account",
+      "anecdote",
+      "conte",
+      "narration",
+      "novella",
+      "relation",
+      "report",
+      "telling"
+    ],
+    "definitions_de": [
+      "Darstellung eines Ereignisses, Vorkommnisses",
+      "[Wissenschaft] relativ kurzer Prosatext, in dem ein Geschehen dargestellt wird"
+    ],
+    "synonyms": [
+      "Vorkommnisses"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich habe viele Erzählungen geschrieben.",
+        "en": "I've written a lot of stories."
+      },
+      {
+        "de": "Heinrich Böll hat viele Erzählungen geschrieben.",
+        "en": "Heinrich Böll wrote many stories."
+      },
+      {
+        "de": "Konrad will eine kleine Erzählung schreiben.",
+        "en": "Konrad wants to write a little tale."
+      },
+      {
+        "de": "Die neuen Zeiten verlangten nach neuen Erzählungen.",
+        "en": "The new times demanded new narratives."
+      },
+      {
+        "de": "Liest du die Erzählungen von Tom Jackson?",
+        "en": "Are you reading the stories of Tom Jackson?"
+      },
+      {
+        "de": "Es kann keine Erzählung ohne einen Erzähler geben.",
+        "en": "There can be no narrative without a narrator."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Erza3hlung.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Erza3hlung.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Erza3hlung.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Erza3hlung.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Erza3hlung.htm",
+    "rank": 719,
+    "zipf": 4.07,
+    "first_seen": "2026-10-13T02:16:13+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4b2b1c824bcbaea5"
   },
   {
     "id": "Faden",
@@ -1657,6 +2592,15 @@
       "gedankliche Linie, Verbindung",
       "Balken, der quer über das Wappen gezogen wird, Bastardfaden, Bastardbalken"
     ],
+    "synonyms": [
+      "Garn",
+      "Zwirn",
+      "Verbindung",
+      "Balken",
+      "Bastardfaden",
+      "Bastardbalken",
+      "Klafter"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -1692,10 +2636,89 @@
       "menge": "https://www.verbformen.de/deklination/substantive/menge/mehrere_Faden.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Faden.htm",
-    "rank": 496,
+    "rank": 734,
+    "zipf": 4.04,
     "first_seen": "2026-10-08T13:29:06+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "1a5706b794739e2d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7b3248500450652f"
+  },
+  {
+    "id": "Fahrbahn",
+    "type": "noun",
+    "lemma": "Fahrbahn",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Fahrbahnen",
+    "genitive": "Fahrbahn",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "carriageway",
+      "lane",
+      "pavement",
+      "roadway",
+      "carriageroad",
+      "deck",
+      "decking",
+      "driving surface",
+      "rail track",
+      "road",
+      "road surface",
+      "track",
+      "trackway",
+      "traveled ways",
+      "travelled way",
+      "travelled ways"
+    ],
+    "definitions_de": [
+      "befestigte Oberseite, Fahrfläche einer Straße, Straßendecke"
+    ],
+    "synonyms": [
+      "Straßendecke"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Kinder sollten nicht auf der Fahrbahn spielen.",
+        "en": "Children should not play on the roadway."
+      },
+      {
+        "de": "Abends ist es gefährlich, mit dem Fahrrad auf der Fahrbahn zu fahren.",
+        "en": "In the evening, it is dangerous to ride a bicycle on the road."
+      },
+      {
+        "de": "Toms Wagen kam von der Fahrbahn ab.",
+        "en": "Tom's car went off the motorway."
+      },
+      {
+        "de": "Die Fahrbahn wurde durch einen Bagger aufgerissen.",
+        "en": "The roadway was torn up by an excavator."
+      },
+      {
+        "de": "Er wartete am Rande der Fahrbahn auf den Abschleppdienst.",
+        "en": "He waited at the edge of the roadway for the towing service."
+      },
+      {
+        "de": "Und dort blieb der Mercedes stehen, weil die Fahrbahn zertrümmert und voller Schutt und Geröll war.",
+        "en": "And there the Mercedes stopped, because the road was shattered and full of debris and rubble."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fahrbahn.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fahrbahn.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fahrbahn.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fahrbahn.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fahrbahn.htm",
+    "rank": 852,
+    "zipf": 3.84,
+    "first_seen": "2026-10-13T01:46:43+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6a7fb708f94e38d4"
   },
   {
     "id": "Filmbranche",
@@ -1717,6 +2740,7 @@
     "definitions_de": [
       "[Handel] wirtschaftlicher Sektor der Filmproduktion und -vermarktung"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -1731,10 +2755,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Filmbranche.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Filmbranche.htm",
-    "rank": 669,
+    "rank": 2020,
+    "zipf": 2.69,
     "first_seen": "2026-10-08T14:44:18+00:00",
-    "updated_at": "2026-10-08T22:26:32+00:00",
-    "hash": "80bec8caa3708a1c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4e9eed8ec52a8d90"
   },
   {
     "id": "Fliege",
@@ -1766,6 +2791,15 @@
       "[Kleidung] Kleidungsstück, das überwiegend von Männern um den Hals getragen wird, Mascherl, Querbinder",
       "Chaplin-Schnauzbart, Zweifingerbart, Chaplinbart",
       "künstlicher Angelköder"
+    ],
+    "synonyms": [
+      "Brummer",
+      "Kleidungsstück",
+      "Mascherl",
+      "Querbinder",
+      "Chaplin-Schnauzbart",
+      "Zweifingerbart",
+      "Chaplinbart"
     ],
     "ipa": [],
     "examples": [
@@ -1801,10 +2835,78 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fliege.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fliege.htm",
-    "rank": 873,
+    "rank": 868,
+    "zipf": 3.81,
     "first_seen": "2026-10-12T14:37:27+00:00",
-    "updated_at": "2026-10-12T22:37:25+00:00",
-    "hash": "468f057249af1497"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "51904775f29aa140"
+  },
+  {
+    "id": "Fotografie",
+    "type": "noun",
+    "lemma": "Fotografie",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Fotografien",
+    "genitive": "Fotografie",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "photography",
+      "photo",
+      "photograph"
+    ],
+    "definitions_de": [
+      "[Technik] technisches Verfahren, bei dem mit Hilfe von optischen Verfahren ein Bild auf ein lichtempfindliches Medium produziert und dort dauerhaft gespeichert wird, Belichtung, Ablichtung",
+      "ein auf chemisch behandelten lichtempfindlichen Platten oder Filmen festgehaltenes Bildnis der realen Umgebung"
+    ],
+    "synonyms": [
+      "Belichtung",
+      "Ablichtung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Alle auf der Fotografie lächeln.",
+        "en": "Everybody in the picture is smiling."
+      },
+      {
+        "de": "Tom sah sich alte Fotografien an.",
+        "en": "Tom looked at the old photographs."
+      },
+      {
+        "de": "Ich werde dir nun die Fotografie zeigen.",
+        "en": "I will now show you the photograph."
+      },
+      {
+        "de": "Eine Fotografie ist ein Gedicht in Form eines Bildes.",
+        "en": "A photograph is a poem in the form of an image."
+      },
+      {
+        "de": "Dieses Buch enthält vierzig Fotografien.",
+        "en": "This book contains forty photographs."
+      },
+      {
+        "de": "Kennst du den Autor dieser Fotografien?",
+        "en": "Do you know the author of these photographs?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fotografie.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fotografie.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fotografie.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fotografie.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fotografie.htm",
+    "rank": 685,
+    "zipf": 4.12,
+    "first_seen": "2026-10-13T02:11:19+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "feff99c318a56da6"
   },
   {
     "id": "Freibad",
@@ -1830,6 +2932,9 @@
     ],
     "definitions_de": [
       "[Sport] Schwimmbad im Freien, Sommerbad"
+    ],
+    "synonyms": [
+      "Sommerbad"
     ],
     "ipa": [],
     "examples": [
@@ -1865,10 +2970,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Freibad.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Freibad.htm",
-    "rank": 597,
+    "rank": 927,
+    "zipf": 3.72,
     "first_seen": "2026-10-08T14:13:51+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "82a6e0d3765ab195"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1c0e712cb221b619"
   },
   {
     "id": "Freundeskreis",
@@ -1891,6 +2997,7 @@
     "definitions_de": [
       "Kreis von Menschen, mit denen man eine Freundschaft hat"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -1925,10 +3032,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Freundeskreis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Freundeskreis.htm",
-    "rank": 260,
+    "rank": 863,
+    "zipf": 3.82,
     "first_seen": "2026-10-08T11:46:40+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "c50c171b32c80b97"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d3601b3f227d1c4f"
   },
   {
     "id": "Fa3hre",
@@ -1950,6 +3058,9 @@
     ],
     "definitions_de": [
       "[Verkehr] spezielles Schiff, das der Beförderung von Personen oder Transportmitteln von Ufer zu Ufer dient, Fährschiff"
+    ],
+    "synonyms": [
+      "Fährschiff"
     ],
     "ipa": [],
     "examples": [
@@ -1985,10 +3096,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fa3hre.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fa3hre.htm",
-    "rank": 371,
+    "rank": 891,
+    "zipf": 3.78,
     "first_seen": "2026-10-08T12:34:56+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "88514300d44199fc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "71b2fc6335bcdb6e"
   },
   {
     "id": "Garantie",
@@ -2020,6 +3132,10 @@
       "Sicherheit, Gewähr, verbindliche Zusage",
       "[Handel] schriftliche Zusicherung einer fehlerfreien Leistung",
       "[Finanzen] Umstand, oftmals aber ein Wertgegenstand, der als Bürgschaft für einen Kredit gelten kann"
+    ],
+    "synonyms": [
+      "Gewähr",
+      "Umstand"
     ],
     "ipa": [],
     "examples": [
@@ -2055,10 +3171,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Garantie.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Garantie.htm",
-    "rank": 228,
+    "rank": 735,
+    "zipf": 4.04,
     "first_seen": "2026-10-08T11:33:25+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "4741bbefc3faddd0"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7b0a6be8f989cd68"
   },
   {
     "id": "Geda3chtnis",
@@ -2084,6 +3201,16 @@
       "Fähigkeit, Erlebnisse und Sinneseindrücke zu speichern, um sich später wieder daran erinnern zu können, Erinnerungsvermögen, Mneme",
       "Erinnerung an eine Person oder ein Ereignis, Andenken, Gedenken",
       "kirchliche Veranstaltung, um einer Person zu gedenken, Gedächtnisgottesdienst, Gedächtnismesse, Seelenamt"
+    ],
+    "synonyms": [
+      "Fähigkeit",
+      "Erinnerungsvermögen",
+      "Mneme",
+      "Andenken",
+      "Gedenken",
+      "Gedächtnisgottesdienst",
+      "Gedächtnismesse",
+      "Seelenamt"
     ],
     "ipa": [],
     "examples": [
@@ -2119,10 +3246,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geda3chtnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geda3chtnis.htm",
-    "rank": 578,
+    "rank": 681,
+    "zipf": 4.13,
     "first_seen": "2026-10-08T14:05:07+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "8d838cde2a3f4e99"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "39860e09aa18fe1e"
   },
   {
     "id": "Gefa3ngnis",
@@ -2152,6 +3280,7 @@
     "definitions_de": [
       "[Gebäude] Gebäude oder Anlage, in dem Personen, die vom Gericht zu einer unbedingten Haftstrafe verurteilt wurden, unter Verschluss gehalten werden"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2186,10 +3315,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gefa3ngnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gefa3ngnis.htm",
-    "rank": 784,
+    "rank": 515,
+    "zipf": 4.46,
     "first_seen": "2026-10-12T08:38:10+00:00",
-    "updated_at": "2026-10-12T09:08:34+00:00",
-    "hash": "216a567e10235bd3"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "44be96966d312e2e"
   },
   {
     "id": "Gegend",
@@ -2222,6 +3352,16 @@
     "definitions_de": [
       "eine, meist relativ eng gefasste, Landschaft oder eine Region, Atmosphäre, Bereich, Bezirk, Breiten, Distrikt",
       "ein Teil des Körpers, etwa die Umgebung oder den Bereich eines Organs oder eines Körperteils, Abschnitt, Nähe, Ort, Umfeld, Umgebung"
+    ],
+    "synonyms": [
+      "Atmosphäre",
+      "Bereich",
+      "Bezirk",
+      "Breiten",
+      "Distrikt",
+      "Abschnitt",
+      "Nähe",
+      "Ort"
     ],
     "ipa": [],
     "examples": [
@@ -2257,10 +3397,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gegend.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gegend.htm",
-    "rank": 290,
+    "rank": 453,
+    "zipf": 4.64,
     "first_seen": "2026-10-08T12:00:18+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "9c6c3a3b0ed7743c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b68b096c1a07804d"
   },
   {
     "id": "Geheimnummer",
@@ -2287,6 +3428,7 @@
     "definitions_de": [
       "Abfolge von Ziffern, die bloß einem bestimmten Personenkreis bekannt ist"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2301,10 +3443,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geheimnummer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geheimnummer.htm",
-    "rank": 616,
+    "rank": 3110,
+    "zipf": 1.86,
     "first_seen": "2026-10-08T14:20:37+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "8123abfe78285e56"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "32befb7370f13c0c"
   },
   {
     "id": "Gehsteig",
@@ -2327,6 +3470,11 @@
     ],
     "definitions_de": [
       "neben einer Fahrbahn befindlicher Weg für Fußgänger, besonderer, meist erhöhter Weg für Fußgänger an der Seite einer Straße, Bürgersteig, Trottoir, Fußgängerweg"
+    ],
+    "synonyms": [
+      "Bürgersteig",
+      "Trottoir",
+      "Fußgängerweg"
     ],
     "ipa": [],
     "examples": [
@@ -2362,10 +3510,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gehsteig.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gehsteig.htm",
-    "rank": 548,
+    "rank": 1782,
+    "zipf": 2.87,
     "first_seen": "2026-10-08T13:51:30+00:00",
-    "updated_at": "2026-10-12T04:28:24+00:00",
-    "hash": "3234974256946d31"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7f435003d6b58b09"
   },
   {
     "id": "Geldautomat",
@@ -2398,6 +3547,12 @@
     ],
     "definitions_de": [
       "[Finanzen] Geldausgabeautomat, Geldausgabeautomat, Bankautomat, Bankomat, Bancomat"
+    ],
+    "synonyms": [
+      "Geldausgabeautomat",
+      "Bankautomat",
+      "Bankomat",
+      "Bancomat"
     ],
     "ipa": [],
     "examples": [
@@ -2433,10 +3588,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geldautomat.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geldautomat.htm",
-    "rank": 193,
+    "rank": 1914,
+    "zipf": 2.77,
     "first_seen": "2026-10-08T11:19:00+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "6185e5281c030fc1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b1029114ba9d6fc0"
   },
   {
     "id": "Geldbetrag",
@@ -2462,6 +3618,7 @@
     "definitions_de": [
       "[Finanzen] eine bestimme Menge an Geld, Geld von einem bestimmten Wert"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2496,10 +3653,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geldbetrag.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geldbetrag.htm",
-    "rank": 193,
+    "rank": 1609,
+    "zipf": 3.0,
     "first_seen": "2026-10-08T11:19:00+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "c60c7fa60429ada9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "facdb8ec945c5f5c"
   },
   {
     "id": "Geldbeutel",
@@ -2523,6 +3681,7 @@
     "definitions_de": [
       "[Finanzen] kleine Tasche oder Beutel, worin hauptsächlich Bargeld aufbewahrt wird"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2557,10 +3716,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geldbeutel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geldbeutel.htm",
-    "rank": 193,
+    "rank": 928,
+    "zipf": 3.72,
     "first_seen": "2026-10-08T11:19:00+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "d7428087f8fc61ec"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c8b01cbd7383acfa"
   },
   {
     "id": "Gelegenheit",
@@ -2589,6 +3749,10 @@
     ],
     "definitions_de": [
       "günstige Aussicht, die im Gegensatz zu einem Risiko steht, Chance, Möglichkeit"
+    ],
+    "synonyms": [
+      "Chance",
+      "Möglichkeit"
     ],
     "ipa": [],
     "examples": [
@@ -2624,10 +3788,66 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gelegenheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gelegenheit.htm",
-    "rank": 538,
+    "rank": 426,
+    "zipf": 4.69,
     "first_seen": "2026-10-08T13:46:58+00:00",
-    "updated_at": "2026-10-08T22:00:40+00:00",
-    "hash": "0bdd9d2fea750735"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3ada13c0b06b7f02"
+  },
+  {
+    "id": "Geschenkpapier",
+    "type": "noun",
+    "lemma": "Geschenkpapier",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Geschenkpapiere",
+    "genitive": "Geschenkpapiers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "gift wrap paper",
+      "wrapping paper",
+      "gift wrap"
+    ],
+    "definitions_de": [
+      "Papier zum Verpacken von Geschenken"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Könnten Sie das hier bitte in Geschenkpapier einschlagen?",
+        "en": "Can you gift-wrap this, please?"
+      },
+      {
+        "de": "Er entfaltete das Geschenkpapier.",
+        "en": "He unfolded the gift wrap."
+      },
+      {
+        "de": "Ich höre schon das Geschenkpapier rascheln.",
+        "en": "I can already hear the gift wrap rustling."
+      },
+      {
+        "de": "Der Bäcker legte sie in eine hübsche Pappschachtel und wickelte sie in prachtvolles Geschenkpapier ein.",
+        "en": "The baker placed them in a pretty cardboard box and wrapped them in magnificent gift paper."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Geschenkpapier.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Geschenkpapier.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Geschenkpapier.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geschenkpapier.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Geschenkpapier.htm",
+    "rank": 1961,
+    "zipf": 2.73,
+    "first_seen": "2026-10-13T02:37:58+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "469fdc1d1a4ba476"
   },
   {
     "id": "Geschmackssache",
@@ -2650,6 +3870,7 @@
     "definitions_de": [
       "Frage des persönlichen Geschmacks"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2668,10 +3889,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geschmackssache.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geschmackssache.htm",
-    "rank": 322,
+    "rank": 1474,
+    "zipf": 3.12,
     "first_seen": "2026-10-08T12:14:35+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "87d1ccf6b2172087"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ccf234e2d117d8ad"
   },
   {
     "id": "Gewinn",
@@ -2710,6 +3932,15 @@
       "[Wirtschaft] Ertrag eines Unternehmens nach Abzug der Kosten, Reibach, Profit, Überschuss",
       "[Finanzen] Erlös oder Sachwert aus Spiel, Wetten, Lotto und Ähnlichem, Treffer"
     ],
+    "synonyms": [
+      "Bereicherung",
+      "Nutzen",
+      "Reibach",
+      "Profit",
+      "Überschuss",
+      "Wetten",
+      "Treffer"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -2744,10 +3975,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gewinn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gewinn.htm",
-    "rank": 939,
+    "rank": 459,
+    "zipf": 4.63,
     "first_seen": "2026-10-12T15:06:51+00:00",
-    "updated_at": "2026-10-12T22:38:50+00:00",
-    "hash": "2f7aaebfb6dac96f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d5de959247f1da0a"
   },
   {
     "id": "Gleichberechtigung",
@@ -2771,6 +4003,9 @@
     ],
     "definitions_de": [
       "Gleichheit verschiedener Träger von Rechten und Pflichten in einem bestimmten Rechtssystem, Gleichstellung"
+    ],
+    "synonyms": [
+      "Gleichstellung"
     ],
     "ipa": [],
     "examples": [
@@ -2805,10 +4040,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gleichberechtigung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gleichberechtigung.htm",
-    "rank": 235,
+    "rank": 877,
+    "zipf": 3.8,
     "first_seen": "2026-10-08T11:35:53+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "e57f42c1f1c163e4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "aec6df92750e5b87"
   },
   {
     "id": "Gott",
@@ -2840,6 +4076,7 @@
       "eines von mehreren übernatürlichen, oft unsterblichen Wesen mit großer Macht",
       "ein in seinem Fach besonders talentierter Mensch oder ein überaus schöner Mensch"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2874,10 +4111,69 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gott.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gott.htm",
-    "rank": 167,
+    "rank": 126,
+    "zipf": 5.26,
     "first_seen": "2026-10-08T11:04:34+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "7d8edad5e003db67"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4f4c242b00814e04"
+  },
+  {
+    "id": "Grenzkontrolle",
+    "type": "noun",
+    "lemma": "Grenzkontrolle",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Grenzkontrollen",
+    "genitive": "Grenzkontrolle",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "border control",
+      "border guards",
+      "border inspection"
+    ],
+    "definitions_de": [
+      "Überprüfung von Identitäten und eingeführten Gegenständen bei der Überschreitung von Grenzen zwischen Regionen oder Staaten",
+      "Grenzer"
+    ],
+    "synonyms": [
+      "Grenzer"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Grenzkontrolle fiel ihm ein.",
+        "en": "The border control came to his mind."
+      },
+      {
+        "de": "Deutschland hat zeitweise Grenzkontrollen an der Grenze zu Österreich eingeführt.",
+        "en": "Germany has temporarily introduced border controls at the border with Austria."
+      },
+      {
+        "de": "Am Schlagbaum fand die Grenzkontrolle statt.",
+        "en": "The border control took place at the barrier."
+      },
+      {
+        "de": "Die Grenzkontrolle winkte uns durch, ohne das Auto zu durchsuchen.",
+        "en": "The border control waved us through, without searching the car."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Grenzkontrolle.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Grenzkontrolle.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Grenzkontrolle.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Grenzkontrolle.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Grenzkontrolle.htm",
+    "rank": 2471,
+    "zipf": 2.39,
+    "first_seen": "2026-10-13T02:23:57+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8bd9d124a6e749fb"
   },
   {
     "id": "Gu3terzug",
@@ -2903,6 +4199,7 @@
     "definitions_de": [
       "[Gesellschaft] Eisenbahnzug zum Transport von Gütern aller Art"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -2937,10 +4234,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gu3terzug.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gu3terzug.htm",
-    "rank": 537,
+    "rank": 1485,
+    "zipf": 3.11,
     "first_seen": "2026-10-08T13:46:37+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "7c230768f871bf91"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "aeb919613a57803d"
   },
   {
     "id": "Halt",
@@ -2976,6 +4274,15 @@
       "Stütze",
       "Stütze, Beistand, Hilfe, Unterstützung"
     ],
+    "synonyms": [
+      "Aufenthalt",
+      "Haltestelle",
+      "Stopp",
+      "Stütze",
+      "Beistand",
+      "Hilfe",
+      "Unterstützung"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3010,10 +4317,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Halt_se.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Halt.htm",
-    "rank": 315,
+    "rank": 99,
+    "zipf": 5.36,
     "first_seen": "2026-10-08T21:30:38+00:00",
-    "updated_at": "2026-10-12T04:28:25+00:00",
-    "hash": "7fa6ecdb8ba8a2ab"
+    "updated_at": "2026-10-13T10:48:26+00:00",
+    "hash": "378f80e108161c8c"
   },
   {
     "id": "Handel",
@@ -3047,6 +4355,7 @@
       "transaction"
     ],
     "definitions_de": [],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -3055,10 +4364,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Handel_sk.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Handel.htm",
-    "rank": 646,
+    "rank": 450,
+    "zipf": 4.65,
     "first_seen": "2026-10-08T22:21:03+00:00",
-    "updated_at": "2026-10-08T22:21:24+00:00",
-    "hash": "f742c9a19b412d06"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3676c3a798ac5b59"
   },
   {
     "id": "Herrenanzug",
@@ -3080,6 +4390,7 @@
     "definitions_de": [
       "[Kleidung] formelle Kleidung für Männer"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -3089,10 +4400,72 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Herrenanzug.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Herrenanzug.htm",
-    "rank": 300,
+    "rank": 3584,
+    "zipf": 1.32,
     "first_seen": "2026-10-08T12:04:48+00:00",
-    "updated_at": "2026-10-08T21:29:13+00:00",
-    "hash": "a26b8f43d8110607"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ae2de36e0e6e6264"
+  },
+  {
+    "id": "Hilfsbereitschaft",
+    "type": "noun",
+    "lemma": "Hilfsbereitschaft",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Hilfsbereitschaften",
+    "genitive": "Hilfsbereitschaft",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "helpfulness",
+      "willingness to help",
+      "cooperativeness"
+    ],
+    "definitions_de": [
+      "Einstellung, jemanden oder andere unterstützen zu wollen"
+    ],
+    "synonyms": [
+      "Einstellung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Mit seiner Hilfsbereitschaft war es nicht weit her.",
+        "en": "With his willingness to help, it was not far."
+      },
+      {
+        "de": "Freundschaft ist Gefühl und Verständnis füreinander und Hilfsbereitschaft in allen Lebenslagen.",
+        "en": "Friendship is feeling and understanding for each other and willingness to help in all situations of life."
+      },
+      {
+        "de": "Die Kameradschaft und die Hilfsbereitschaft waren wunderbar, eine für alle und alle für eine.",
+        "en": "The camaraderie and willingness to help were wonderful, one for all and all for one."
+      },
+      {
+        "de": "Hilfsbereitschaft ist eine Charakterstärke.",
+        "en": "Willingness to help is a strength of character."
+      },
+      {
+        "de": "Er nahm ihre Menschenfreundlichkeit und Hilfsbereitschaft über Gebühr in Anspruch.",
+        "en": "He took her kindness and willingness to help excessively."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Hilfsbereitschaft.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Hilfsbereitschaft.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hilfsbereitschaft.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hilfsbereitschaft.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Hilfsbereitschaft.htm",
+    "rank": 1373,
+    "zipf": 3.22,
+    "first_seen": "2026-10-13T01:47:25+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "94781d62fb9453f7"
   },
   {
     "id": "Hu3hnchen",
@@ -3117,6 +4490,9 @@
     ],
     "definitions_de": [
       "[Lebensmittel] jung geschlachtetes Huhn, Hähnchen"
+    ],
+    "synonyms": [
+      "Hähnchen"
     ],
     "ipa": [],
     "examples": [
@@ -3152,10 +4528,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hu3hnchen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hu3hnchen.htm",
-    "rank": 942,
+    "rank": 1338,
+    "zipf": 3.26,
     "first_seen": "2026-10-12T15:07:54+00:00",
-    "updated_at": "2026-10-12T22:38:56+00:00",
-    "hash": "1c907a3dad01e782"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "161583a3303c87ca"
   },
   {
     "id": "Ingwer",
@@ -3177,6 +4554,10 @@
     "definitions_de": [
       "[Pflanzen] eine Pflanzenart der Ingwergewächse, Ingber, Ingwerwurzel",
       "[Lebensmittel] Rhizom der Ingwerpflanze, welches als Gewürz verwendet wird, Rhizoma zingiberis"
+    ],
+    "synonyms": [
+      "Ingber",
+      "Ingwerwurzel"
     ],
     "ipa": [],
     "examples": [
@@ -3212,10 +4593,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ingwer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ingwer.htm",
-    "rank": 420,
+    "rank": 1223,
+    "zipf": 3.37,
     "first_seen": "2026-10-08T12:56:15+00:00",
-    "updated_at": "2026-10-12T04:28:26+00:00",
-    "hash": "952639e9c23286f2"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c7ef1cc7de4eb1ac"
   },
   {
     "id": "Insekt",
@@ -3237,6 +4619,11 @@
     ],
     "definitions_de": [
       "[Tiere] mehrzelliges, gliederfüßiges Tier mit sechs Beinen, Kerbtier, Kerf, Krabbeltier"
+    ],
+    "synonyms": [
+      "Kerbtier",
+      "Kerf",
+      "Krabbeltier"
     ],
     "ipa": [],
     "examples": [
@@ -3272,10 +4659,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Insekt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Insekt.htm",
-    "rank": 229,
+    "rank": 1464,
+    "zipf": 3.13,
     "first_seen": "2026-10-08T11:33:46+00:00",
-    "updated_at": "2026-10-12T04:28:26+00:00",
-    "hash": "93a8b73b952b47be"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "092f33eb217ad753"
   },
   {
     "id": "Jagd",
@@ -3307,6 +4695,15 @@
       "das Aufsuchen, Nachstellen, Fangen, Erlegen und Aneignen von Wild durch Jäger, Waidwerk",
       "die Verfolgung, Aufklärung, Hatz",
       "kurz für Jagdrevier, Jagdgrund, Jagdrevier"
+    ],
+    "synonyms": [
+      "Nachstellen",
+      "Fangen",
+      "Waidwerk",
+      "Aufklärung",
+      "Hatz",
+      "Jagdgrund",
+      "Jagdrevier"
     ],
     "ipa": [],
     "examples": [
@@ -3342,10 +4739,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Jagd.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Jagd.htm",
-    "rank": 22,
+    "rank": 600,
+    "zipf": 4.31,
     "first_seen": "2026-10-08T10:47:51+00:00",
-    "updated_at": "2026-10-12T04:28:26+00:00",
-    "hash": "fa24bd755672c680"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d8a8803a9be7379d"
   },
   {
     "id": "Jahresbericht",
@@ -3373,6 +4771,10 @@
     "definitions_de": [
       "Bericht, in dem die Ereignisse oder Umsätze oder Ähnliches des vorangegangenen Jahres festgehalten sind, Geschäftsbericht"
     ],
+    "synonyms": [
+      "Bericht",
+      "Geschäftsbericht"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3391,10 +4793,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Jahresbericht.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Jahresbericht.htm",
-    "rank": 308,
+    "rank": 1078,
+    "zipf": 3.52,
     "first_seen": "2026-10-08T12:08:38+00:00",
-    "updated_at": "2026-10-08T21:29:34+00:00",
-    "hash": "ad56c46c6bd4ee16"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b6cd21fcb3b01121"
   },
   {
     "id": "Jobcenter",
@@ -3420,6 +4823,7 @@
       "[Arbeit] eine aus einem Zusammenschluss von Arbeitsagenturen und Sozialämtern bestehende Einrichtung zur Betreuung von Arbeitslosengeld-II-Empfängerinnen und -Empfängern",
       "[Berufe] ein Angebot oder Unternehmen zur Vermittlung von Arbeitsplätzen und Jobs"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -3429,10 +4833,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Jobcenter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Jobcenter.htm",
-    "rank": 448,
+    "rank": 923,
+    "zipf": 3.73,
     "first_seen": "2026-10-08T13:09:10+00:00",
-    "updated_at": "2026-10-08T21:51:00+00:00",
-    "hash": "def8cf495f94a280"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4ec9a288746c2e91"
   },
   {
     "id": "Jobsuche",
@@ -3457,6 +4862,9 @@
     ],
     "definitions_de": [
       "[Arbeit] Suche nach einer Anstellung, unselbständigen beruflichen Beschäftigung in einem Arbeitsverhältnis, Stellensuche"
+    ],
+    "synonyms": [
+      "Stellensuche"
     ],
     "ipa": [],
     "examples": [
@@ -3484,10 +4892,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Jobsuche.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Jobsuche.htm",
-    "rank": 448,
+    "rank": 1339,
+    "zipf": 3.26,
     "first_seen": "2026-10-08T13:09:10+00:00",
-    "updated_at": "2026-10-12T04:28:26+00:00",
-    "hash": "07edef49705d49ec"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "34dac838043951c7"
   },
   {
     "id": "Kampf",
@@ -3521,6 +4930,16 @@
       "handgreifliche Auseinandersetzung zweier oder mehrerer Personen oder Parteien, Clinch, Duell, Gerangel, Rauferei, Reiberei",
       "Wettstreit mit anderen Menschen oder im übertragenen Sinne mit der Natur oder mit sich selbst",
       "[Sport] Wettstreit, Partie, Rennen, Runde, Satz, Spiel"
+    ],
+    "synonyms": [
+      "Blutbad",
+      "Fehde",
+      "Gefecht",
+      "Gemetzel",
+      "Hader",
+      "Clinch",
+      "Duell",
+      "Gerangel"
     ],
     "ipa": [],
     "examples": [
@@ -3556,10 +4975,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kampf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kampf.htm",
-    "rank": 848,
+    "rank": 289,
+    "zipf": 4.97,
     "first_seen": "2026-10-12T14:27:36+00:00",
-    "updated_at": "2026-10-12T22:35:46+00:00",
-    "hash": "cb5727eeb2f82f94"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5aa27fa3741caf0b"
   },
   {
     "id": "Kapita3n",
@@ -3588,6 +5008,16 @@
       "[Militär] Kurzform für die Dienstgrade Kapitän zur See, Fregattenkapitän, Korvettenkapitän",
       "[Verkehr] Schiffsführer, Schiffskapitän",
       "[Berufe] Inhaber eines Kapitänspatentes"
+    ],
+    "synonyms": [
+      "Kommandant",
+      "Fregattenkapitän",
+      "Korvettenkapitän",
+      "Schiffsführer",
+      "Schiffskapitän",
+      "Flugkapitän",
+      "Luftfahrzeugführer",
+      "Pilot"
     ],
     "ipa": [],
     "examples": [
@@ -3623,10 +5053,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kapita3n.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kapita3n.htm",
-    "rank": 565,
+    "rank": 564,
+    "zipf": 4.39,
     "first_seen": "2026-10-08T13:59:31+00:00",
-    "updated_at": "2026-10-12T04:28:26+00:00",
-    "hash": "2fcd19e118b1621b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5b3a7aeb5701df20"
   },
   {
     "id": "Kauf",
@@ -3655,6 +5086,10 @@
       "[Handel] der entgeltliche Erwerb einer Ware, Einkauf",
       "[Handel] der erworbene Gegenstand, Einkauf",
       "[Finanzen] Zahlung an einen Amtsträger mit zu erwartender Gegenleistung, Bestechung"
+    ],
+    "synonyms": [
+      "Einkauf",
+      "Bestechung"
     ],
     "ipa": [],
     "examples": [
@@ -3690,10 +5125,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kauf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kauf.htm",
-    "rank": 748,
+    "rank": 419,
+    "zipf": 4.71,
     "first_seen": "2026-10-12T08:22:32+00:00",
-    "updated_at": "2026-10-12T09:02:47+00:00",
-    "hash": "657f3cd96ceda3b6"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a830e85ef1ab492c"
   },
   {
     "id": "Kaufentscheidung",
@@ -3718,6 +5154,7 @@
     "definitions_de": [
       "Vorgang einer Wahl zwischen mehreren entgeltlichen Erwerben einer oder mehrerer Waren"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -3732,10 +5169,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kaufentscheidung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kaufentscheidung.htm",
-    "rank": 748,
+    "rank": 1948,
+    "zipf": 2.74,
     "first_seen": "2026-10-12T08:22:32+00:00",
-    "updated_at": "2026-10-12T09:03:08+00:00",
-    "hash": "4b1955181df08626"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "22463c03a7a69ffb"
   },
   {
     "id": "Kerl",
@@ -3771,6 +5209,7 @@
     "definitions_de": [
       "[Personen] eine männliche Person"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -3805,10 +5244,162 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kerl.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kerl.htm",
-    "rank": 440,
+    "rank": 546,
+    "zipf": 4.42,
     "first_seen": "2026-10-08T13:05:21+00:00",
-    "updated_at": "2026-10-12T04:28:26+00:00",
-    "hash": "4f3bd6fc5f339c9a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "31a5a6174b66a728"
+  },
+  {
+    "id": "Kraft",
+    "type": "noun",
+    "lemma": "Kraft",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Kräfte",
+    "genitive": "Kraft",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "power",
+      "force",
+      "might",
+      "potency",
+      "strength",
+      "employee",
+      "energy",
+      "human ability",
+      "human capacity",
+      "labor force",
+      "vigor",
+      "worker",
+      "workforce"
+    ],
+    "definitions_de": [
+      "[Technik, Wissenschaft] Größe, die je größer desto mehr den Bewegungszustand eines Körpers verändert oder ihn deformiert, und von deren Zustandekommen die Mechanik absehen kann",
+      "das menschliche Vermögen, Arbeitsvermögen",
+      "etwas den Dingen Innewohnendes",
+      "[Arbeitskraft] die Arbeitskraft, Dienstmädchen, Hausangestellte, Mitarbeiter"
+    ],
+    "synonyms": [
+      "Größe",
+      "Arbeitsvermögen",
+      "Dienstmädchen",
+      "Hausangestellte",
+      "Mitarbeiter"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Gedanken sind Kräfte.",
+        "en": "Thoughts are forces."
+      },
+      {
+        "de": "Die Stille hat Kraft.",
+        "en": "Silence has strength."
+      },
+      {
+        "de": "Er arbeitet mit ganzer Kraft.",
+        "en": "He is a hard worker."
+      },
+      {
+        "de": "Ich half ihr nach Kräften.",
+        "en": "I helped her to the best of my ability."
+      },
+      {
+        "de": "In der Einheit liegt die Kraft.",
+        "en": "In unity is strength."
+      },
+      {
+        "de": "Im Judo ist Technik wichtiger als Kraft.",
+        "en": "In judo, technique is more important than strength."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Kraft.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Kraft.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kraft.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kraft.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Kraft.htm",
+    "rank": 290,
+    "zipf": 4.97,
+    "first_seen": "2026-10-13T02:36:10+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6a89d79ffba69b62"
+  },
+  {
+    "id": "Kraftfahrzeug",
+    "type": "noun",
+    "lemma": "Kraftfahrzeug",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Kraftfahrzeuge",
+    "genitive": "Kraftfahrzeug(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "motor vehicle",
+      "automobile",
+      "car",
+      "power-driven vehicle",
+      "autocar",
+      "motorcar",
+      "vehicle"
+    ],
+    "definitions_de": [
+      "jedes nicht an Gleise gebundene Landfahrzeug, das sich mit Hilfe eines ein- oder angebauten Motors aus eigener Kraft fortbewegt, Motorfahrzeug"
+    ],
+    "synonyms": [
+      "Motorfahrzeug"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich lernte ein Kraftfahrzeug steuern.",
+        "en": "I learned to drive a motor vehicle."
+      },
+      {
+        "de": "Die hunderttausend Kraftfahrzeuge, die mittlerweile in der Hauptstadt zugelassen waren, schienen alle den gleichen Weg zu haben.",
+        "en": "The hundred thousand motor vehicles that were now registered in the capital all seemed to have the same way."
+      },
+      {
+        "de": "Der Markt für Kraftfahrzeuge war vorübergehend eingebrochen.",
+        "en": "The market for motor vehicles had temporarily collapsed."
+      },
+      {
+        "de": "In Finnland gibt es mehr Saunas als Kraftfahrzeuge.",
+        "en": "In Finland, there are more saunas than motor vehicles."
+      },
+      {
+        "de": "Ein Fuhrwerk ist kein Kraftfahrzeug.",
+        "en": "A cart is not a motor vehicle."
+      },
+      {
+        "de": "Ein Amphibienfahrzeug an Land ist auch ein Kraftfahrzeug.",
+        "en": "An amphibious vehicle on land is also a motor vehicle."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Kraftfahrzeug.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Kraftfahrzeug.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kraftfahrzeug.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kraftfahrzeug.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Kraftfahrzeug.htm",
+    "rank": 1659,
+    "zipf": 2.96,
+    "first_seen": "2026-10-13T02:36:10+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e490d56d35162ef8"
   },
   {
     "id": "Kumpel",
@@ -3850,6 +5441,14 @@
       "[Fachsprache] Bergmann, Kohlekumpel",
       "[Personen] Arbeitskollege"
     ],
+    "synonyms": [
+      "Mensch",
+      "Freund",
+      "Kamerad",
+      "Bergmann",
+      "Kohlekumpel",
+      "Arbeitskollege"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -3884,10 +5483,107 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kumpel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kumpel.htm",
-    "rank": 697,
+    "rank": 611,
+    "zipf": 4.29,
     "first_seen": "2026-10-08T14:56:11+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "d1d2de1d97b37ee7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9fb5b898d9e438f7"
+  },
+  {
+    "id": "Lager",
+    "type": "noun",
+    "lemma": "Lager",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Lager/Läger",
+    "genitive": "Lagers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "bearing",
+      "camp",
+      "warehouse",
+      "storage",
+      "bed",
+      "depot",
+      "encampment",
+      "storehouse",
+      "support",
+      "adherents",
+      "barracks",
+      "bracket",
+      "bunk",
+      "campsite",
+      "concentration camp",
+      "deposit",
+      "dump",
+      "followers",
+      "holiday camp",
+      "lair",
+      "layer",
+      "mounting",
+      "repository",
+      "shakedown",
+      "sleeping place",
+      "stock",
+      "store",
+      "stratum",
+      "temporary accommodation"
+    ],
+    "definitions_de": [
+      "[Zuhause] Raum oder Gebäude zur geordneten Unterbringung von Waren, Magazin",
+      "Gelände zur Unterbringung von großen Materialmengen",
+      "vorübergehende Unterkunft oder Unterbringung, insbesondere militärisch",
+      "[Umwelt] Erz- oder Gesteinsschicht, Lagerstätte"
+    ],
+    "synonyms": [
+      "Magazin",
+      "Lagerstätte",
+      "Maschinenelement"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das Lager war illegal.",
+        "en": "The camp was illegal."
+      },
+      {
+        "de": "Wir transportierten Medikamente ins Lager.",
+        "en": "We transported medications to the warehouse."
+      },
+      {
+        "de": "Hast du einen Zaubertrick auf Lager?",
+        "en": "Do you have a magic trick up your sleeve?"
+      },
+      {
+        "de": "Momentan haben wir es nicht auf Lager.",
+        "en": "We're out of stock now."
+      },
+      {
+        "de": "Hast du sonst noch irgendwelche Tricks auf Lager?",
+        "en": "Do you have any more tricks up your sleeve?"
+      },
+      {
+        "de": "Die Anhänger des konservativen Lagers waren mit dem Vorschlag nicht einverstanden.",
+        "en": "The supporters of the conservative camp disagreed with the proposal."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Lager.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Lager.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Lager.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lager.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Lager.htm",
+    "rank": 451,
+    "zipf": 4.65,
+    "first_seen": "2026-10-13T02:34:28+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a128fb885f4e11b6"
   },
   {
     "id": "Lebensgefahr",
@@ -3912,6 +5608,9 @@
     ],
     "definitions_de": [
       "Möglichkeit, dass jemand so krank ist oder so schwere Verletzungen erleidet, dass er davon stirbt"
+    ],
+    "synonyms": [
+      "Möglichkeit"
     ],
     "ipa": [],
     "examples": [
@@ -3946,10 +5645,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Lebensgefahr.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lebensgefahr.htm",
-    "rank": 63,
+    "rank": 1039,
+    "zipf": 3.57,
     "first_seen": "2026-10-08T10:52:53+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "821dbfd6495e258c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c32dd9de7b758e24"
   },
   {
     "id": "Manager",
@@ -3975,6 +5675,14 @@
     "definitions_de": [
       "[Berufe, Wirtschaft] Person, Führungskraft, in einem Unternehmen, Direktor, Leiter, Wirtschaftskapitän",
       "[Computer] Verwaltungsprogramm oder -software in der Datenverarbeitung und Informationstechnik, Verwalter"
+    ],
+    "synonyms": [
+      "Person",
+      "Führungskraft",
+      "Direktor",
+      "Leiter",
+      "Wirtschaftskapitän",
+      "Verwalter"
     ],
     "ipa": [],
     "examples": [
@@ -4010,10 +5718,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Manager.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Manager.htm",
-    "rank": 78,
+    "rank": 485,
+    "zipf": 4.55,
     "first_seen": "2026-10-08T10:54:35+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "a15aa0dbbcdbb361"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5f68f772d62bd90c"
   },
   {
     "id": "Meister",
@@ -4054,6 +5763,10 @@
       "[Sport] Gewinner einer Meisterschaft",
       "Herr über einen Untergebenen, Besitzer eines Leibeigenen, Gebieter"
     ],
+    "synonyms": [
+      "Könner",
+      "Gebieter"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -4088,10 +5801,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Meister.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Meister.htm",
-    "rank": 840,
+    "rank": 342,
+    "zipf": 4.85,
     "first_seen": "2026-10-12T14:23:46+00:00",
-    "updated_at": "2026-10-12T22:35:35+00:00",
-    "hash": "aa8f151f68ac1797"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "042078f009e18b31"
   },
   {
     "id": "Menschenkenntnis",
@@ -4115,6 +5829,9 @@
     ],
     "definitions_de": [
       "[Menschen] Fähigkeit, Menschen richtig beurteilen zu können"
+    ],
+    "synonyms": [
+      "Fähigkeit"
     ],
     "ipa": [],
     "examples": [
@@ -4149,10 +5866,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Menschenkenntnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Menschenkenntnis.htm",
-    "rank": 759,
+    "rank": 1858,
+    "zipf": 2.82,
     "first_seen": "2026-10-12T08:27:22+00:00",
-    "updated_at": "2026-10-12T09:06:51+00:00",
-    "hash": "38019e8d05b7ff13"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b6cd6d61dd8fabb7"
   },
   {
     "id": "Millionenstadt",
@@ -4176,6 +5894,9 @@
     ],
     "definitions_de": [
       "[Stadt] Stadt mit über einer Million Einwohnern, Millionenmetropole"
+    ],
+    "synonyms": [
+      "Millionenmetropole"
     ],
     "ipa": [],
     "examples": [
@@ -4203,10 +5924,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Millionenstadt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Millionenstadt.htm",
-    "rank": 808,
+    "rank": 1736,
+    "zipf": 2.9,
     "first_seen": "2026-10-12T14:10:26+00:00",
-    "updated_at": "2026-10-12T22:34:27+00:00",
-    "hash": "60370c465fcd0b50"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b4320c325c97b21f"
   },
   {
     "id": "Missbrauch",
@@ -4238,6 +5960,7 @@
       "der Gebrauch von etwas für einen Zweck, für den es ursprünglich nicht genutzt werden sollte",
       "eine häufig durch Gewalt herbeigeführte und verbotene sexuelle Handlung"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4272,10 +5995,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Missbrauch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Missbrauch.htm",
-    "rank": 484,
+    "rank": 678,
+    "zipf": 4.14,
     "first_seen": "2026-10-08T13:23:50+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "512c67da5297cf9c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a5ee6224f32221aa"
   },
   {
     "id": "Ma3dchenname",
@@ -4299,6 +6023,10 @@
       "weiblicher Vorname, Frauenname",
       "Nachname einer Frau vor ihrer Heirat, Geburtsname"
     ],
+    "synonyms": [
+      "Frauenname",
+      "Geburtsname"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -4313,10 +6041,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ma3dchenname.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ma3dchenname.htm",
-    "rank": 251,
+    "rank": 2443,
+    "zipf": 2.41,
     "first_seen": "2026-10-08T11:43:31+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "28aac35c204da410"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "57802ac2fa8dbb1f"
   },
   {
     "id": "Nachbardorf",
@@ -4340,6 +6069,9 @@
     ],
     "definitions_de": [
       "Dorf, das in der Nachbarschaft einer Stadt oder eines Dorfes liegt, Dorf, dass man von der betreffenden Gemeinde aus direkt erreichen kann, ohne durch ein anderes Dorf oder eine Stadt zu fahren"
+    ],
+    "synonyms": [
+      "Dorf"
     ],
     "ipa": [],
     "examples": [
@@ -4375,10 +6107,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nachbardorf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nachbardorf.htm",
-    "rank": 76,
+    "rank": 1951,
+    "zipf": 2.74,
     "first_seen": "2026-10-08T10:54:20+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "8efea43a293ea4d5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "671c9580aa455bf6"
   },
   {
     "id": "Nachtdienst",
@@ -4401,6 +6134,9 @@
     ],
     "definitions_de": [
       "[Berufe] Arbeit während der Nacht, Nachtarbeit"
+    ],
+    "synonyms": [
+      "Nachtarbeit"
     ],
     "ipa": [],
     "examples": [
@@ -4436,10 +6172,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nachtdienst.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nachtdienst.htm",
-    "rank": 219,
+    "rank": 1879,
+    "zipf": 2.8,
     "first_seen": "2026-10-08T11:29:12+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "9e10d4edb401b128"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b79d8643cae4616f"
   },
   {
     "id": "Nebel",
@@ -4469,6 +6206,13 @@
       "[Wetter] Gemisch fein verteilter Flüssigkeitströpfchen, meistens Wassertröpfchen, oder Eiskristalle in Gasen, meist in der Luft, Bodenwolke, Stratus",
       "[Wissenschaft] ein flächenhaft leuchtendes Objekt am Himmel, Gaswolke, Raumwolke, Sternwolke",
       "[Wetter] durch die Weltorganisation für Meteorologie standardisierte Wettererscheinung mit Sichtminderung unter 1000 m"
+    ],
+    "synonyms": [
+      "Bodenwolke",
+      "Stratus",
+      "Gaswolke",
+      "Raumwolke",
+      "Sternwolke"
     ],
     "ipa": [],
     "examples": [
@@ -4504,10 +6248,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nebel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nebel.htm",
-    "rank": 325,
+    "rank": 687,
+    "zipf": 4.12,
     "first_seen": "2026-10-08T12:15:39+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "704fd11995b6bad4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "208fa6d2ec9b04fa"
   },
   {
     "id": "Neubau",
@@ -4535,6 +6280,11 @@
     "definitions_de": [
       "[Gebäude] ein erst unlängst fertiggestelltes Gebäude",
       "die Tätigkeit des Neubauens, Errichtung, Wiedererrichtung, Wiederaufbau"
+    ],
+    "synonyms": [
+      "Errichtung",
+      "Wiedererrichtung",
+      "Wiederaufbau"
     ],
     "ipa": [],
     "examples": [
@@ -4569,10 +6319,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Neubau.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Neubau.htm",
-    "rank": 949,
+    "rank": 597,
+    "zipf": 4.32,
     "first_seen": "2026-10-12T15:11:22+00:00",
-    "updated_at": "2026-10-12T22:39:02+00:00",
-    "hash": "a69121db834558ef"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bf0bc043b479ff11"
   },
   {
     "id": "Neuerung",
@@ -4601,6 +6352,7 @@
     "definitions_de": [
       "neue Veränderung"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4635,10 +6387,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Neuerung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Neuerung.htm",
-    "rank": 419,
+    "rank": 1123,
+    "zipf": 3.46,
     "first_seen": "2026-10-08T12:55:54+00:00",
-    "updated_at": "2026-10-08T21:48:33+00:00",
-    "hash": "4c2c2337ba7ce84c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bf9181d4499c4d29"
   },
   {
     "id": "Nichte",
@@ -4661,6 +6414,7 @@
       "[Familie] Tochter der Schwester oder des Bruders , im weiteren Sinne auch des Schwagers oder der Schwägerin",
       "[Menschen] Tochter der Cousine oder des Cousins"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4695,10 +6449,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nichte.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nichte.htm",
-    "rank": 11,
+    "rank": 943,
+    "zipf": 3.7,
     "first_seen": "2026-10-08T10:46:22+00:00",
-    "updated_at": "2026-10-12T04:28:27+00:00",
-    "hash": "4d5af1223082d68c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "173a819e57275f9a"
   },
   {
     "id": "Nichtstun",
@@ -4723,6 +6478,7 @@
     "definitions_de": [
       "Verhalten ohne Aktivität"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4756,10 +6512,72 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Nichtstun.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nichtstun.htm",
-    "rank": 77,
+    "rank": 1511,
+    "zipf": 3.09,
     "first_seen": "2026-10-08T10:54:28+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "95d3746b77874189"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3dd65898d75254bb"
+  },
+  {
+    "id": "Na3hmaschine",
+    "type": "noun",
+    "lemma": "Nähmaschine",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Nähmaschinen",
+    "genitive": "Nähmaschine",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "sewing machine"
+    ],
+    "definitions_de": [
+      "[Technik] eine Maschine zur Herstellung von Nähten durch Verknüpfen von Fäden innerhalb eines Gewebes mit Hilfe von Nadeln"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich brauche eine Nähmaschine.",
+        "en": "I need a sewing machine."
+      },
+      {
+        "de": "Ich habe eine neue Nähmaschine gekauft.",
+        "en": "I bought a new sewing machine."
+      },
+      {
+        "de": "Früher hat Oma oft die Nähmaschine benutzt.",
+        "en": "Nan often used to use the sewing machine."
+      },
+      {
+        "de": "Wenn die Nähmaschine nicht mehr gebraucht wird, kannst du sie haben.",
+        "en": "If the sewing machine is no longer needed, you can have it."
+      },
+      {
+        "de": "Sie war gekommen mit Mutter, Großmutter, vier Schwestern und sechs Nähmaschinen.",
+        "en": "She had come with her mother, grandmother, four sisters, and six sewing machines."
+      },
+      {
+        "de": "Du baust Nähmaschinen zusammen.",
+        "en": "You assemble sewing machines."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Na3hmaschine.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Na3hmaschine.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Na3hmaschine.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Na3hmaschine.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Na3hmaschine.htm",
+    "rank": 1544,
+    "zipf": 3.06,
+    "first_seen": "2026-10-13T02:17:15+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a41c69f7d18df391"
   },
   {
     "id": "Opfer",
@@ -4790,6 +6608,16 @@
       "etwas, das man abgibt oder spendet, so dass man selbst darauf verzichten muss, Einsatz, Hingabe, Preisgabe, Spende, Verzicht",
       "[Tradition] jemand, der durch etwas Schaden erlitten hat, Geschädigter, Geschädigte, Leidtragender, Leidtragende, Toter",
       "[Spiele] die freiwillige Hergabe eines Bauern oder einer Figur in der Erwartung, dadurch einen andersartigen Vorteil zu erreichen"
+    ],
+    "synonyms": [
+      "Opferung",
+      "Opfergabe",
+      "Einsatz",
+      "Hingabe",
+      "Preisgabe",
+      "Spende",
+      "Verzicht",
+      "Geschädigter"
     ],
     "ipa": [],
     "examples": [
@@ -4825,10 +6653,79 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Opfer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Opfer.htm",
-    "rank": 785,
+    "rank": 266,
+    "zipf": 5.01,
     "first_seen": "2026-10-12T08:38:31+00:00",
-    "updated_at": "2026-10-12T09:08:55+00:00",
-    "hash": "da4fd8d7c0af1bac"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "dae9d48d06f1954f"
+  },
+  {
+    "id": "Partnerschaft",
+    "type": "noun",
+    "lemma": "Partnerschaft",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Partnerschaften",
+    "genitive": "Partnerschaft",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "partnership",
+      "association",
+      "collaboration",
+      "cooperation",
+      "general partnership",
+      "relationship"
+    ],
+    "definitions_de": [
+      "gemeinschaftliche Zusammenarbeit zwischen unterschiedlichen Gruppierungen, Organisationen oder politischen Einrichtungen, die auf mehreren Ebenen wirken kann",
+      "[Beziehung] Beziehung zwischen zwei Menschen",
+      "[Recht] Gemeinschaft mehrerer natürlicher oder juristischer Personen"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Zeit ohne Partnerschaft ist auch fruchtbar.",
+        "en": "The time without partnership is also fruitful."
+      },
+      {
+        "de": "Eine Form der Partnerschaft zwischen Mann und Frau bildet die Ehe.",
+        "en": "A form of partnership between man and woman is marriage."
+      },
+      {
+        "de": "Die Partnerschaft ging nun endgültig auseinander.",
+        "en": "The partnership has now finally broken up."
+      },
+      {
+        "de": "Vertrauen ist das Fundament einer glücklichen Partnerschaft.",
+        "en": "Trust is the foundation of a happy partnership."
+      },
+      {
+        "de": "Wer zu den Interessenten an einer Partnerschaft mit oder einem Kauf von Zielpunkt ist, ist nicht bekannt.",
+        "en": "It is not known who is interested in a partnership with or a purchase of Zielpunkt."
+      },
+      {
+        "de": "Mehrere Umweltgruppen vereinbarten eine Partnerschaft zum Thema Artenschutz.",
+        "en": "Several environmental groups agreed on a partnership regarding species protection."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Partnerschaft.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Partnerschaft.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Partnerschaft.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Partnerschaft.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Partnerschaft.htm",
+    "rank": 707,
+    "zipf": 4.09,
+    "first_seen": "2026-10-13T01:50:16+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "60d41269b0cd7f07"
   },
   {
     "id": "Personal",
@@ -4858,6 +6755,16 @@
     "definitions_de": [
       "[Berufe] Belegschaft eines Geschäftes, Unternehmens oder einer Firma, Angestelltenschaft, Arbeiterschaft, Belegschaft, Beschäftigte, Betriebsangehörige",
       "kurz für Dienstpersonal oder Hauspersonal, Bedienstete, Dienerschaft, Dienstpersonal"
+    ],
+    "synonyms": [
+      "Angestelltenschaft",
+      "Arbeiterschaft",
+      "Belegschaft",
+      "Beschäftigte",
+      "Betriebsangehörige",
+      "Bedienstete",
+      "Dienerschaft",
+      "Dienstpersonal"
     ],
     "ipa": [],
     "examples": [
@@ -4892,10 +6799,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Personal.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Personal.htm",
-    "rank": 829,
+    "rank": 493,
+    "zipf": 4.53,
     "first_seen": "2026-10-12T14:18:53+00:00",
-    "updated_at": "2026-10-12T22:35:07+00:00",
-    "hash": "3e70d3876c01e222"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "266ad43780fca781"
   },
   {
     "id": "Personalchef",
@@ -4922,6 +6830,7 @@
     "definitions_de": [
       "[Berufe] für Personalfragen zuständiger Vorgesetzter"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -4952,10 +6861,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Personalchef.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Personalchef.htm",
-    "rank": 829,
+    "rank": 2087,
+    "zipf": 2.65,
     "first_seen": "2026-10-12T14:18:53+00:00",
-    "updated_at": "2026-10-12T22:35:13+00:00",
-    "hash": "e5e973b9729de98d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "99bdffdaa77766b2"
   },
   {
     "id": "Pfleger",
@@ -4987,6 +6897,9 @@
     "definitions_de": [
       "[Berufe] Person, die jemanden pflegt",
       "[Fachsprache] vom Vormundschaftsgericht bestimmte Vertrauensperson, die sich in manchen Fällen um die rechtlichen Angelegenheiten einer Person kümmert"
+    ],
+    "synonyms": [
+      "Person"
     ],
     "ipa": [],
     "examples": [
@@ -5022,10 +6935,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Pfleger.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Pfleger.htm",
-    "rank": 47,
+    "rank": 965,
+    "zipf": 3.67,
     "first_seen": "2026-10-08T10:51:02+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "0437398b94ab02ed"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1ff363fb06da89a4"
   },
   {
     "id": "Putzfrau",
@@ -5053,6 +6967,13 @@
     "definitions_de": [
       "[Berufe] Frau, die erwerbsmäßig Räumlichkeiten putzt, Reinemachefrau, Raumpflegerin, Zugehfrau, Bedienerin"
     ],
+    "synonyms": [
+      "Frau",
+      "Reinemachefrau",
+      "Raumpflegerin",
+      "Zugehfrau",
+      "Bedienerin"
+    ],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -5062,10 +6983,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Putzfrau.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Putzfrau.htm",
-    "rank": 789,
+    "rank": 1159,
+    "zipf": 3.43,
     "first_seen": "2026-10-12T08:40:55+00:00",
-    "updated_at": "2026-10-12T09:10:38+00:00",
-    "hash": "b187dbe3c58b6420"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6ec6d2aeedaa1eba"
   },
   {
     "id": "Recht",
@@ -5096,6 +7018,16 @@
       "[Recht] Befugnis einer Person, etwas zu tun, zu unterlassen oder zu verlangen, die sich aus dem Recht im objektiven Sinn ableiten lässt, Anspruch, subjektives Recht",
       "[Recht] ein Anspruch, der nach dem Rechtsempfinden der Menschen und der Rechtsordnung gerecht und richtig ist, Billigkeit, eines Menschen gutes Recht, Gerechtigkeit, Richtigkeit",
       "[Recht] Jura, Rechtswissenschaft"
+    ],
+    "synonyms": [
+      "Rechtsordnung",
+      "Rechtssystem",
+      "Anspruch",
+      "Billigkeit",
+      "Gerechtigkeit",
+      "Richtigkeit",
+      "Jura",
+      "Rechtswissenschaft"
     ],
     "ipa": [],
     "examples": [
@@ -5131,10 +7063,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Recht.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Recht.htm",
-    "rank": 237,
+    "rank": 57,
+    "zipf": 5.61,
     "first_seen": "2026-10-08T11:36:35+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "bdd964d23a3f6512"
+    "updated_at": "2026-10-13T10:48:26+00:00",
+    "hash": "2e6e78a44fb7c601"
   },
   {
     "id": "Rede",
@@ -5168,6 +7101,14 @@
     "definitions_de": [
       "Ansprache, Vortrag vor anderen Personen, Äußerung, Vortrag, Ansprache, Gespräch, Rezitation",
       "[Sprache] Verwendung des Sprachsystems beim Schreiben oder Sprechen etc, parole, Sprachverwendung"
+    ],
+    "synonyms": [
+      "Ansprache",
+      "Äußerung",
+      "Vortrag",
+      "Gespräch",
+      "Rezitation",
+      "Sprachverwendung"
     ],
     "ipa": [],
     "examples": [
@@ -5203,10 +7144,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rede.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rede.htm",
-    "rank": 186,
+    "rank": 272,
+    "zipf": 5.0,
     "first_seen": "2026-10-08T11:15:31+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "6a71fe53781586a4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0ba82cfadd07637e"
   },
   {
     "id": "Rufnummer",
@@ -5229,6 +7171,10 @@
     ],
     "definitions_de": [
       "eindeutige, aus Ziffern bestehende Kennung zur Anwahl eines Telefonanschlusses, Anschlussnummer, Telefonnummer"
+    ],
+    "synonyms": [
+      "Anschlussnummer",
+      "Telefonnummer"
     ],
     "ipa": [],
     "examples": [
@@ -5256,10 +7202,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rufnummer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rufnummer.htm",
-    "rank": 659,
+    "rank": 1160,
+    "zipf": 3.43,
     "first_seen": "2026-10-08T14:39:46+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "0663726f15124dfb"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b32fbc22037b5284"
   },
   {
     "id": "Schaf",
@@ -5287,6 +7234,14 @@
     "definitions_de": [
       "[Tiere] ein Paarhufer, der als Lieferant für Wolle, Fleisch und Milch dient, Schöps, Bähschaf, Wolltier, Wolllieferant, Lamm",
       "gutmütiger, dummer Mensch, Dummkopf"
+    ],
+    "synonyms": [
+      "Schöps",
+      "Bähschaf",
+      "Wolltier",
+      "Wolllieferant",
+      "Lamm",
+      "Dummkopf"
     ],
     "ipa": [],
     "examples": [
@@ -5322,10 +7277,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schaf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schaf.htm",
-    "rank": 871,
+    "rank": 925,
+    "zipf": 3.73,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-12T22:37:08+00:00",
-    "hash": "51e124057ad15bdf"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a5c7bbef4387988f"
   },
   {
     "id": "Schlu3sselanha3nger",
@@ -5353,6 +7309,9 @@
     "definitions_de": [
       "Gegenstand, der an einen oder mehrere Schlüssel angebracht wird"
     ],
+    "synonyms": [
+      "Gegenstand"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5371,10 +7330,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schlu3sselanha3nger.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schlu3sselanha3nger.htm",
-    "rank": 779,
+    "rank": 1552,
+    "zipf": 3.05,
     "first_seen": "2026-10-12T08:36:25+00:00",
-    "updated_at": "2026-10-12T09:08:14+00:00",
-    "hash": "56dcbe041c5ba5bc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "43baf1af68a43d2e"
   },
   {
     "id": "Schneider",
@@ -5420,6 +7380,14 @@
       "[Tiere] wie Schnake, Schuster",
       "[Tiere] wie Wasserläufer"
     ],
+    "synonyms": [
+      "Gewerbetreibender",
+      "Kleidermacher",
+      "Schneiderfisch",
+      "Alandblecke",
+      "Breitblecke",
+      "Schuster"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5454,10 +7422,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schneider.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schneider.htm",
-    "rank": 820,
+    "rank": 558,
+    "zipf": 4.4,
     "first_seen": "2026-10-12T14:15:41+00:00",
-    "updated_at": "2026-10-12T22:34:44+00:00",
-    "hash": "4008d509236223d3"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bf8efe0a2da3b740"
   },
   {
     "id": "Schreiben",
@@ -5485,6 +7454,7 @@
       "Vorgang des schriftlichen Verfassens von Text",
       "an einen Adressaten gerichteter verfasster Text"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -5519,10 +7489,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schreiben.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schreiben.htm",
-    "rank": 791,
+    "rank": 130,
+    "zipf": 5.25,
     "first_seen": "2026-10-12T08:41:37+00:00",
-    "updated_at": "2026-10-12T09:10:59+00:00",
-    "hash": "809d56251df331cf"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1bda64ec6336fb09"
   },
   {
     "id": "Schuld",
@@ -5556,6 +7527,12 @@
       "[Recht] neben Tatbestandsmäßigkeit und Rechtswidrigkeit eine Strafbarkeitsvoraussetzung, Vorwerfbarkeit",
       "[Finanzen] Verpflichtung zu einer Leistung an einen Dritten, in Geld oder sonstigen Werten",
       "moralisches Fehlverhalten oder die Last infolge des Fehlverhaltens"
+    ],
+    "synonyms": [
+      "Verbindlichkeit",
+      "Pflicht",
+      "Verbindlichkeiten",
+      "Vorwerfbarkeit"
     ],
     "ipa": [],
     "examples": [
@@ -5591,10 +7568,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schuld.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schuld.htm",
-    "rank": 515,
+    "rank": 303,
+    "zipf": 4.94,
     "first_seen": "2026-10-08T13:36:49+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "1be05ff2c32564ce"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f68ad7d2dc7a2df5"
   },
   {
     "id": "Scho3nheit",
@@ -5630,6 +7608,15 @@
       "eine äußerlich schöne weibliche Person, Traumfrau",
       "auch für männliche Personen, Adonis"
     ],
+    "synonyms": [
+      "Anmut",
+      "Grazie",
+      "Liebreiz",
+      "Pracht",
+      "Wunder",
+      "Traumfrau",
+      "Adonis"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5664,10 +7651,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Scho3nheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Scho3nheit.htm",
-    "rank": 180,
+    "rank": 551,
+    "zipf": 4.42,
     "first_seen": "2026-10-08T11:10:33+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "a929469f469f263b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "603d89c64bab31cd"
   },
   {
     "id": "Sicherheitsgurt",
@@ -5694,6 +7682,10 @@
     ],
     "definitions_de": [
       "eine Befestigungsvorrichtung, die dazu dient, Personen innerhalb eines Transportmittels bei einem Unfall in ihrer Position zu halten, Anschnallgurt, Haltegurt"
+    ],
+    "synonyms": [
+      "Anschnallgurt",
+      "Haltegurt"
     ],
     "ipa": [],
     "examples": [
@@ -5730,10 +7722,11 @@
       "plural2": "https://www.verbformen.de/deklination/substantive/plural2/der_Sicherheitsgurt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sicherheitsgurt.htm",
-    "rank": 152,
+    "rank": 2119,
+    "zipf": 2.63,
     "first_seen": "2026-10-08T11:01:51+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "d412ec10d0d1aa41"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ce117efd82a42b3f"
   },
   {
     "id": "Sicherheitskontrolle",
@@ -5755,6 +7748,9 @@
     ],
     "definitions_de": [
       "Kontrolle, um Sicherheit zu gewährleisten"
+    ],
+    "synonyms": [
+      "Kontrolle"
     ],
     "ipa": [],
     "examples": [
@@ -5778,10 +7774,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sicherheitskontrolle.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sicherheitskontrolle.htm",
-    "rank": 844,
+    "rank": 1964,
+    "zipf": 2.73,
     "first_seen": "2026-10-12T14:26:11+00:00",
-    "updated_at": "2026-10-12T22:35:41+00:00",
-    "hash": "c54e4f7a868917fd"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5bb1f09bb078f70a"
   },
   {
     "id": "Sitz",
@@ -5828,6 +7825,16 @@
       "ein Ort, an dem sich die Verwaltungszentrale einer Körperschaft, einer Institution befindet beziehungsweise der aktenkundige Registrierungseintrag gemacht worden ist",
       "[Geschichte] ein Ort, den der Gesellschaftsvertrag beziehungsweise die Satzung bestimmt, der Ort, wo eine Gesellschaft einen Betrieb hat oder wo sich die Verwaltung befindet oder die Verwaltung geführt wird, Satzungssitz"
     ],
+    "synonyms": [
+      "Hocker",
+      "Platz",
+      "Schemel",
+      "Sessel",
+      "Sitzplatz",
+      "Ort",
+      "Stelle",
+      "Satzungssitz"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5862,10 +7869,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sitz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sitz.htm",
-    "rank": 775,
+    "rank": 473,
+    "zipf": 4.59,
     "first_seen": "2026-10-12T08:34:01+00:00",
-    "updated_at": "2026-10-12T09:07:32+00:00",
-    "hash": "c5c5e2aebe1fc595"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "49a35c40ce277192"
   },
   {
     "id": "Spinner",
@@ -5907,6 +7915,15 @@
       "Person, die Lügen erzählt und dadurch auch Intrigen strickt, Lügner, intriganter Typ",
       "löffel- oder weidenblattförmiger, auf einer Stahldrahtachse rotierender künstlicher Angelköder, fliegender Löffel"
     ],
+    "synonyms": [
+      "Person",
+      "Wirrkopf",
+      "Pseudologe",
+      "Kauz",
+      "Narr",
+      "Närrin",
+      "Lügner"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -5941,10 +7958,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Spinner.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Spinner.htm",
-    "rank": 871,
+    "rank": 829,
+    "zipf": 3.87,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-12T22:37:14+00:00",
-    "hash": "eb83f5d9fa570e41"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3a55221b1311ba90"
   },
   {
     "id": "Stundenlohn",
@@ -5972,6 +7990,9 @@
     ],
     "definitions_de": [
       "[Wirtschaft] Entgelt, das für eine Arbeitsstunde bezahlt wird"
+    ],
+    "synonyms": [
+      "Entgelt"
     ],
     "ipa": [],
     "examples": [
@@ -6007,10 +8028,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stundenlohn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stundenlohn.htm",
-    "rank": 467,
+    "rank": 1503,
+    "zipf": 3.1,
     "first_seen": "2026-10-08T13:16:53+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "6e013b85ff00b6fb"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7d29ba9f943ffe81"
   },
   {
     "id": "Sta3rkemehl",
@@ -6037,6 +8059,7 @@
     "definitions_de": [
       "feines Pulver aus Stärke"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -6046,10 +8069,128 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sta3rkemehl.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sta3rkemehl.htm",
-    "rank": 822,
+    "rank": 3213,
+    "zipf": 1.76,
     "first_seen": "2026-10-12T14:16:23+00:00",
-    "updated_at": "2026-10-12T22:34:50+00:00",
-    "hash": "a3875cd0a898c48d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fafe483985f2c9aa"
+  },
+  {
+    "id": "Su3s5stoff",
+    "type": "noun",
+    "lemma": "Süßstoff",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Süßstoffe",
+    "genitive": "Süßstoff(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "sweetener",
+      "artificial sweetener",
+      "sugar substitute",
+      "sweetening",
+      "sweetening agent"
+    ],
+    "definitions_de": [
+      "meist synthetisch hergestellte Alternative zu Zucker"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Haben Sie Süßstoff für meinen Kaffee?",
+        "en": "Do you have sweetener for my coffee?"
+      },
+      {
+        "de": "Der Süßstoff Aspartam ist ein Peptid aus nur zwei Aminosäuren.",
+        "en": "The sweetener aspartame is a peptide made up of only two amino acids."
+      },
+      {
+        "de": "Die meisten künstlichen Süßstoffe haben einen unangenehmen Nachgeschmack.",
+        "en": "Most artificial sweeteners have an unpleasant aftertaste."
+      },
+      {
+        "de": "Er macht ein bisschen Süßstoff in seinen Tee.",
+        "en": "He puts a little sweetener in his tea."
+      },
+      {
+        "de": "Seit Erfrischungsgetränke mit Orangengeschmack mit künstlichen Süßstoffen hergestellt werden, schmecken sie nach Kotze.",
+        "en": "Since orange-flavored soft drinks started being made with artificial sweeteners, they taste like vomit."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Su3s5stoff.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Su3s5stoff.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Su3s5stoff.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Su3s5stoff.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Su3s5stoff.htm",
+    "rank": 1942,
+    "zipf": 2.75,
+    "first_seen": "2026-10-13T01:51:41+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "422040777530faba"
+  },
+  {
+    "id": "Taschenbuch",
+    "type": "noun",
+    "lemma": "Taschenbuch",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Taschenbücher",
+    "genitive": "Taschenbuch(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "B1",
+    "english": [
+      "paperback",
+      "pocketbook",
+      "pocket book",
+      "soft-cover"
+    ],
+    "definitions_de": [
+      "ein kleinformatiges Buch mit gewöhnlich weichem Einband"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Roman erschien als Taschenbuch.",
+        "en": "The novel was published in paperback."
+      },
+      {
+        "de": "Der Roman ist als Taschenbuch erschienen.",
+        "en": "The novel has been published in paperback."
+      },
+      {
+        "de": "Gibt es dieses Buch als kartoniertes Taschenbuch?",
+        "en": "Is there a paperback edition of this book?"
+      },
+      {
+        "de": "Taschenbücher sind meistens etwas preisgünstiger als andere Bücher.",
+        "en": "Paperback books are usually a bit cheaper than other books."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Taschenbuch.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Taschenbuch.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Taschenbuch.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Taschenbuch.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Taschenbuch.htm",
+    "rank": 936,
+    "zipf": 3.71,
+    "first_seen": "2026-10-13T02:38:40+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "759a424351470d4b"
   },
   {
     "id": "Tat",
@@ -6080,6 +8221,14 @@
     "definitions_de": [
       "einmalige Handlung, die etwas Gutes oder Böses bewirkt, Tun, Handeln, Aktion",
       "kurz für Straftat, Straftat, Delikt, Vergehen"
+    ],
+    "synonyms": [
+      "Tun",
+      "Handeln",
+      "Aktion",
+      "Straftat",
+      "Delikt",
+      "Vergehen"
     ],
     "ipa": [],
     "examples": [
@@ -6115,10 +8264,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tat.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tat.htm",
-    "rank": 675,
+    "rank": 291,
+    "zipf": 4.97,
     "first_seen": "2026-10-08T14:46:24+00:00",
-    "updated_at": "2026-10-12T04:28:28+00:00",
-    "hash": "8903c52e07452e87"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "29ec63350f3bafdc"
   },
   {
     "id": "Telefonat",
@@ -6142,6 +8292,9 @@
     ],
     "definitions_de": [
       "Gespräch mittels Telefon, Telefongespräch"
+    ],
+    "synonyms": [
+      "Telefongespräch"
     ],
     "ipa": [],
     "examples": [
@@ -6177,10 +8330,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Telefonat.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Telefonat.htm",
-    "rank": 628,
+    "rank": 1079,
+    "zipf": 3.52,
     "first_seen": "2026-10-08T14:25:51+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "14b5d2103696480e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bde89c051ca5778f"
   },
   {
     "id": "Theaterbu3hne",
@@ -6202,6 +8356,9 @@
     "definitions_de": [
       "[Kunst] Plattform, auf der Schauspieler vor Zuschauern agieren"
     ],
+    "synonyms": [
+      "Plattform"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6216,10 +8373,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Theaterbu3hne.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Theaterbu3hne.htm",
-    "rank": 552,
+    "rank": 2198,
+    "zipf": 2.58,
     "first_seen": "2026-10-08T13:53:56+00:00",
-    "updated_at": "2026-10-08T22:04:43+00:00",
-    "hash": "b2ebd093732c8efa"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c5cc08899fc45c93"
   },
   {
     "id": "Tod",
@@ -6245,6 +8403,14 @@
     "definitions_de": [
       "[Wissenschaft] das Ende des Sterbevorgangs, Ableben, Lebensende, Sterben",
       "[Kultur] Figur mit einer Sense, personifizierter Tod, Gevatter Tod, Knochenmann, Schnitter, Sensenmann"
+    ],
+    "synonyms": [
+      "Ableben",
+      "Lebensende",
+      "Sterben",
+      "Knochenmann",
+      "Schnitter",
+      "Sensenmann"
     ],
     "ipa": [],
     "examples": [
@@ -6280,10 +8446,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tod.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tod.htm",
-    "rank": 466,
+    "rank": 188,
+    "zipf": 5.16,
     "first_seen": "2026-10-08T13:16:31+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "13b19cfa8e94dfa4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7ef0eefcfcefd44d"
   },
   {
     "id": "Todesfall",
@@ -6308,6 +8475,10 @@
     ],
     "definitions_de": [
       "[Tradition] Tod einer Person, Sterbefall, Trauerfall"
+    ],
+    "synonyms": [
+      "Sterbefall",
+      "Trauerfall"
     ],
     "ipa": [],
     "examples": [
@@ -6343,10 +8514,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Todesfall.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Todesfall.htm",
-    "rank": 466,
+    "rank": 1184,
+    "zipf": 3.41,
     "first_seen": "2026-10-08T13:16:31+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "6c4aca80c51a85bc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7c0d0c60f37a11f9"
   },
   {
     "id": "Tomatensos5e",
@@ -6368,6 +8540,7 @@
     "definitions_de": [
       "[Lebensmittel] herzhafte Soße, die hauptsächlich aus Tomaten besteht"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -6398,10 +8571,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tomatensos5e.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tomatensos5e.htm",
-    "rank": 954,
+    "rank": 1801,
+    "zipf": 2.86,
     "first_seen": "2026-10-12T15:13:08+00:00",
-    "updated_at": "2026-10-12T22:39:08+00:00",
-    "hash": "44a4fc52baf2ef4d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5f13ca814ad2286c"
   },
   {
     "id": "Verkauf",
@@ -6431,6 +8605,11 @@
     "definitions_de": [
       "[Handel] der Akt des Verkaufens, Veräußerung",
       "[Handel] Einrichtung oder Abteilung zum Verkaufen, Ladenlokal, Vertrieb"
+    ],
+    "synonyms": [
+      "Veräußerung",
+      "Ladenlokal",
+      "Vertrieb"
     ],
     "ipa": [],
     "examples": [
@@ -6466,10 +8645,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Verkauf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Verkauf.htm",
-    "rank": 921,
+    "rank": 468,
+    "zipf": 4.61,
     "first_seen": "2026-10-12T14:58:26+00:00",
-    "updated_at": "2026-10-12T22:38:39+00:00",
-    "hash": "3a24393b16da5d01"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c1216132c2a9e97e"
   },
   {
     "id": "Vertrauen",
@@ -6497,6 +8677,12 @@
     ],
     "definitions_de": [
       "Überzeugung von der Richtigkeit oder Wahrheit einer Handlung oder eines anderen Menschen, Gewissheit, Glaube, Sicherheit, Zuversicht, Zutrauen"
+    ],
+    "synonyms": [
+      "Gewissheit",
+      "Glaube",
+      "Zuversicht",
+      "Zutrauen"
     ],
     "ipa": [],
     "examples": [
@@ -6531,10 +8717,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Vertrauen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vertrauen.htm",
-    "rank": 741,
+    "rank": 379,
+    "zipf": 4.79,
     "first_seen": "2026-10-12T08:20:04+00:00",
-    "updated_at": "2026-10-12T09:02:25+00:00",
-    "hash": "9032a417b703611f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8fa317201e220084"
   },
   {
     "id": "Verzeihung",
@@ -6558,6 +8745,10 @@
     ],
     "definitions_de": [
       "das Vergeben eines Fehlverhaltens, die Annahme einer Entschuldigung, Entschuldigung, Vergebung"
+    ],
+    "synonyms": [
+      "Entschuldigung",
+      "Vergebung"
     ],
     "ipa": [],
     "examples": [
@@ -6592,10 +8783,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Verzeihung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Verzeihung.htm",
-    "rank": 872,
+    "rank": 1095,
+    "zipf": 3.5,
     "first_seen": "2026-10-12T14:37:06+00:00",
-    "updated_at": "2026-10-12T22:37:19+00:00",
-    "hash": "88b98e91460ea27c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d45e39d5bac9b1e1"
   },
   {
     "id": "Vorhersage",
@@ -6624,6 +8816,11 @@
     ],
     "definitions_de": [
       "eine Aussage über etwas, das in Zukunft sein wird, Prädiktion, Prognose, Voraussage"
+    ],
+    "synonyms": [
+      "Prädiktion",
+      "Prognose",
+      "Voraussage"
     ],
     "ipa": [],
     "examples": [
@@ -6659,10 +8856,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vorhersage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vorhersage.htm",
-    "rank": 880,
+    "rank": 1173,
+    "zipf": 3.42,
     "first_seen": "2026-10-12T14:40:55+00:00",
-    "updated_at": "2026-10-12T22:37:32+00:00",
-    "hash": "395ef24cb37a4af2"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0ce116f2b1ff68cd"
   },
   {
     "id": "Wahl",
@@ -6700,6 +8898,16 @@
       "[Politik] das Abstimmen darüber, wer bestimmte Ämter oder Gremien besetzen beziehungsweise ausüben darf, auch über einzelne Sachthemen, Abstimmung, Herrschaftsbestimmung, Kür, Plebiszit",
       "eine Qualitätsstufe, Qualitätsstufe, Güte"
     ],
+    "synonyms": [
+      "Entscheidung",
+      "Option",
+      "Abstimmung",
+      "Herrschaftsbestimmung",
+      "Kür",
+      "Plebiszit",
+      "Qualitätsstufe",
+      "Güte"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6734,10 +8942,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wahl.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wahl.htm",
-    "rank": 740,
+    "rank": 168,
+    "zipf": 5.19,
     "first_seen": "2026-10-12T08:18:42+00:00",
-    "updated_at": "2026-10-12T09:01:43+00:00",
-    "hash": "f1dc0a485d039bc9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3d8379f66006c4ef"
   },
   {
     "id": "Wahrheit",
@@ -6765,6 +8974,7 @@
     "definitions_de": [
       "was wahr ist, was Bestand hat, was wirklich der Fall ist, was zutrifft"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -6799,10 +9009,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wahrheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wahrheit.htm",
-    "rank": 338,
+    "rank": 304,
+    "zipf": 4.94,
     "first_seen": "2026-10-08T12:20:15+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "36101c9933ab73ec"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3099a7d9a3221e17"
   },
   {
     "id": "Wanne",
@@ -6842,6 +9053,10 @@
       "Mannschaftswagen der Polizei, grüne Minna, Gefangenentransportwagen",
       "der große untere Teil eines Panzers, an welchem auch die Ketten oder Räder befestigt sind"
     ],
+    "synonyms": [
+      "Bottich",
+      "Gefangenentransportwagen"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -6876,10 +9091,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wanne.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wanne.htm",
-    "rank": 312,
+    "rank": 953,
+    "zipf": 3.69,
     "first_seen": "2026-10-08T12:10:03+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "48bc8a533d632f60"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0ef8b3fd4b286741"
   },
   {
     "id": "Ware",
@@ -6911,6 +9127,7 @@
       "[Handel] durch Handel oder Tausch erwerbbares Gut",
       "[Handel] Erzeugnis von einer bestimmten Beschaffenheit, zum Beispiel bei Textilien"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -6945,10 +9162,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ware.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ware.htm",
-    "rank": 37,
+    "rank": 615,
+    "zipf": 4.28,
     "first_seen": "2026-10-08T10:49:51+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "2471bf01681fc6de"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f907ecb1653e6711"
   },
   {
     "id": "Wende",
@@ -6999,6 +9217,10 @@
       "[Geschichte] historische Veränderung zu einem neuen Abschnitt",
       "[Sport] Technik des Richtungswechsels am Ende des Schwimmbeckens"
     ],
+    "synonyms": [
+      "Umbruch",
+      "Sprung"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7033,10 +9255,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wende_fem.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wende.htm",
-    "rank": 598,
+    "rank": 631,
+    "zipf": 4.25,
     "first_seen": "2026-10-08T22:12:58+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "66a6bca58dc83456"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ed4dacf58d389900"
   },
   {
     "id": "Wendepunkt",
@@ -7073,6 +9296,15 @@
       "[Wissenschaft] Punkt eines Funktionsgraphen mit der lokal größten oder kleinsten Steigung",
       "Extremwert, Extremum"
     ],
+    "synonyms": [
+      "Kehre",
+      "Wende",
+      "Zeitpunkt",
+      "Einschnitt",
+      "Umschwung",
+      "Extremwert",
+      "Extremum"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7107,10 +9339,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wendepunkt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wendepunkt.htm",
-    "rank": 598,
+    "rank": 1259,
+    "zipf": 3.34,
     "first_seen": "2026-10-08T14:14:13+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "b315492826258981"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f24bf316ed809478"
   },
   {
     "id": "Werbeagentur",
@@ -7133,6 +9366,9 @@
     ],
     "definitions_de": [
       "Unternehmen, welches im Auftrag anderer Unternehmen Werbung kreiert"
+    ],
+    "synonyms": [
+      "Unternehmen"
     ],
     "ipa": [],
     "examples": [
@@ -7168,10 +9404,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Werbeagentur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Werbeagentur.htm",
-    "rank": 111,
+    "rank": 1274,
+    "zipf": 3.33,
     "first_seen": "2026-10-08T10:57:58+00:00",
-    "updated_at": "2026-10-12T04:28:29+00:00",
-    "hash": "7fae8211b34a251e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cd2c2ec251b8cf5f"
   },
   {
     "id": "Wille",
@@ -7197,6 +9434,9 @@
     ],
     "definitions_de": [
       "ein alle Handlungen bestimmendes Streben, Wollen"
+    ],
+    "synonyms": [
+      "Wollen"
     ],
     "ipa": [],
     "examples": [
@@ -7232,10 +9472,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wille.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wille.htm",
-    "rank": 81,
+    "rank": 701,
+    "zipf": 4.11,
     "first_seen": "2026-10-08T10:54:55+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "7d02efad1265d8d1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d9ab42ae5e05b00f"
   },
   {
     "id": "Wirbelsa3ule",
@@ -7259,6 +9500,9 @@
     ],
     "definitions_de": [
       "[Körper] bei Menschen und höher entwickelten Tieren die aus miteinander verbundenen Wirbeln und dazwischenliegenden Bandscheiben gebildete Achse des Skeletts, Rückgrat"
+    ],
+    "synonyms": [
+      "Rückgrat"
     ],
     "ipa": [],
     "examples": [
@@ -7294,10 +9538,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wirbelsa3ule.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wirbelsa3ule.htm",
-    "rank": 16,
+    "rank": 1021,
+    "zipf": 3.6,
     "first_seen": "2026-10-08T10:47:03+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "b46717f1c0df748a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "baef076c4d9aad87"
   },
   {
     "id": "Wissenschaftlerin",
@@ -7324,6 +9569,7 @@
     "definitions_de": [
       "[Wissenschaft] weibliche Person, die sich mit der Wissenschaft befasst"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -7358,10 +9604,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wissenschaftlerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wissenschaftlerin.htm",
-    "rank": 120,
+    "rank": 1530,
+    "zipf": 3.08,
     "first_seen": "2026-10-08T10:58:52+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "c06d3f509f794c53"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "039163cede739ac5"
   },
   {
     "id": "Wohnungsamt",
@@ -7385,6 +9632,7 @@
     "definitions_de": [
       "[Behörden] Behörde für Wohnungsvermittlung und Wohnungswesen"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [],
     "audio": {
@@ -7394,10 +9642,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wohnungsamt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wohnungsamt.htm",
-    "rank": 802,
+    "rank": 2824,
+    "zipf": 2.11,
     "first_seen": "2026-10-12T14:07:17+00:00",
-    "updated_at": "2026-10-12T22:34:17+00:00",
-    "hash": "e7ff3657d0f59b44"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5978bd7052c5b811"
   },
   {
     "id": "Wohnungsbau",
@@ -7427,6 +9676,7 @@
     "definitions_de": [
       "Errichtung von Gebäuden oder Siedlungen für Wohnzwecke"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -7444,10 +9694,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wohnungsbau.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wohnungsbau.htm",
-    "rank": 802,
+    "rank": 968,
+    "zipf": 3.67,
     "first_seen": "2026-10-12T14:07:17+00:00",
-    "updated_at": "2026-10-12T22:34:22+00:00",
-    "hash": "00602763c3c60fc7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0a6ae40771a19e0a"
   },
   {
     "id": "Wolle",
@@ -7473,6 +9724,12 @@
       "[Zuhause] aus Wolle bestehendes Garn",
       "[Zuhause] Gewebe aus Wolle, Wollgewebe",
       "innere Fellschicht aus feinen, dichten Haaren, Unterwolle, Wollhaar"
+    ],
+    "synonyms": [
+      "Vlies",
+      "Wollgewebe",
+      "Unterwolle",
+      "Wollhaar"
     ],
     "ipa": [],
     "examples": [
@@ -7508,10 +9765,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wolle.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wolle.htm",
-    "rank": 145,
+    "rank": 506,
+    "zipf": 4.5,
     "first_seen": "2026-10-08T11:01:14+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "166db86d23b103c8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "52a2aa71c3766ca2"
   },
   {
     "id": "Wortfamilie",
@@ -7533,6 +9791,9 @@
     "definitions_de": [
       "Gruppe von Wörtern, die auf das gleiche Ursprungswort, Etymon zurückgeht, Wortsippe",
       "[Sprache] Gruppe von Wörtern, die in einem Grundwort oder Grundmorphem übereinstimmen"
+    ],
+    "synonyms": [
+      "Wortsippe"
     ],
     "ipa": [],
     "examples": [
@@ -7556,10 +9817,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wortfamilie.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wortfamilie.htm",
-    "rank": 556,
+    "rank": 3567,
+    "zipf": 1.34,
     "first_seen": "2026-10-08T13:55:21+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "e063c5eef1f15432"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "2e82e09c2d54ceb0"
   },
   {
     "id": "Wunder",
@@ -7584,6 +9846,7 @@
     "definitions_de": [
       "etwas, das über das alltägliche Verständnis hinausgeht, eine Überschreitung der anerkannten Naturgesetze"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -7618,10 +9881,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wunder.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wunder.htm",
-    "rank": 23,
+    "rank": 439,
+    "zipf": 4.68,
     "first_seen": "2026-10-08T10:47:59+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "7b997c819e4af6d1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9718443a44ab96a1"
   },
   {
     "id": "Zeitarbeit",
@@ -7648,6 +9912,9 @@
     "definitions_de": [
       "[Arbeit] Arbeitsverhältnis, das durch zeitlich befristetes Ausleihen oder Verleihen von eigenen Arbeitnehmern an fremde Arbeitgebern zustande kommt"
     ],
+    "synonyms": [
+      "Arbeitsverhältnis"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7662,10 +9929,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeitarbeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeitarbeit.htm",
-    "rank": 138,
+    "rank": 1468,
+    "zipf": 3.13,
     "first_seen": "2026-10-08T11:00:33+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "b18e88f501d72767"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d580909f96202c98"
   },
   {
     "id": "Zeug",
@@ -7707,6 +9975,16 @@
       "[Kleidung] Kleidung, Klamotten, Sachen",
       "Unsinn, dummes Geschwätz, Quatsch"
     ],
+    "synonyms": [
+      "Material",
+      "Gerät",
+      "Zeugs",
+      "Bettel",
+      "Kram",
+      "Plunder",
+      "Gezeug",
+      "Tuch"
+    ],
     "ipa": [],
     "examples": [
       {
@@ -7741,10 +10019,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeug.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeug.htm",
-    "rank": 852,
+    "rank": 481,
+    "zipf": 4.56,
     "first_seen": "2026-10-12T14:29:01+00:00",
-    "updated_at": "2026-10-12T22:36:04+00:00",
-    "hash": "82c056b5e998f627"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9dad3e7b9954d623"
   },
   {
     "id": "Zeuge",
@@ -7769,6 +10048,7 @@
     "definitions_de": [
       "eine Person, die etwas Bestimmtes gesehen oder auf andere Art wahrgenommen hat und dies auch bestätigenkann oder könnte"
     ],
+    "synonyms": [],
     "ipa": [],
     "examples": [
       {
@@ -7803,10 +10083,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeuge.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeuge.htm",
-    "rank": 852,
+    "rank": 674,
+    "zipf": 4.15,
     "first_seen": "2026-10-12T14:29:01+00:00",
-    "updated_at": "2026-10-12T22:36:10+00:00",
-    "hash": "02b9b0194c63f899"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c6092373845eb073"
   },
   {
     "id": "Zusammenarbeit",
@@ -7833,6 +10114,11 @@
     ],
     "definitions_de": [
       "das gemeinschaftliche Arbeiten an einer Sache, Kollaboration, Kooperation, Teamarbeit"
+    ],
+    "synonyms": [
+      "Kollaboration",
+      "Kooperation",
+      "Teamarbeit"
     ],
     "ipa": [],
     "examples": [
@@ -7867,9 +10153,10 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Zusammenarbeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zusammenarbeit.htm",
-    "rank": 269,
+    "rank": 385,
+    "zipf": 4.78,
     "first_seen": "2026-10-08T11:50:52+00:00",
-    "updated_at": "2026-10-12T04:28:30+00:00",
-    "hash": "c261686bf73a578b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b619e172065736e2"
   }
 ]

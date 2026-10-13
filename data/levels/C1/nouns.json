@@ -57,10 +57,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Agent.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Agent.htm",
-    "rank": 965,
+    "rank": 798,
     "first_seen": "2026-10-12T15:18:02+00:00",
-    "updated_at": "2026-10-12T23:10:56+00:00",
-    "hash": "f431c5b7b024f2ec"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "533a8f66e644fc50",
+    "zipf": 3.92
   },
   {
     "id": "Amateurfus5baller",
@@ -101,10 +102,74 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Amateurfus5baller.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Amateurfus5baller.htm",
-    "rank": 133,
+    "rank": 3390,
     "first_seen": "2026-10-08T11:00:05+00:00",
-    "updated_at": "2026-10-09T01:00:25+00:00",
-    "hash": "8c0cb807e0f948c5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3c95b1188732d84a",
+    "zipf": 1.55
+  },
+  {
+    "id": "Armbanduhr",
+    "type": "noun",
+    "lemma": "Armbanduhr",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Armbanduhren",
+    "genitive": "Armbanduhr",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "wristwatch",
+      "ticker",
+      "watch"
+    ],
+    "definitions_de": [
+      "[Zuhause] eine an einem Armband befestigte Uhr"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Meine Armbanduhr geht genau.",
+        "en": "My wristwatch is accurate."
+      },
+      {
+        "de": "Tom trägt eine goldene Armbanduhr.",
+        "en": "Tom wears a gold wristwatch."
+      },
+      {
+        "de": "Trägt Tom überhaupt je eine Armbanduhr?",
+        "en": "Does Tom ever wear a wristwatch?"
+      },
+      {
+        "de": "Tom warf einen Blick auf seine Armbanduhr.",
+        "en": "Tom glanced at his watch."
+      },
+      {
+        "de": "Mein Onkel hat mir eine schöne Armbanduhr geschenkt.",
+        "en": "I was given a nice watch by my uncle."
+      },
+      {
+        "de": "Ich mag diese Armbanduhr.",
+        "en": "I like this watch."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Armbanduhr.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Armbanduhr.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Armbanduhr.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Armbanduhr.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Armbanduhr.htm",
+    "rank": 1437,
+    "zipf": 3.15,
+    "first_seen": "2026-10-13T01:57:40+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "342fd8fe4d5c94ae"
   },
   {
     "id": "Aufsatz",
@@ -178,10 +243,159 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Aufsatz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Aufsatz.htm",
-    "rank": 878,
+    "rank": 788,
     "first_seen": "2026-10-12T14:40:13+00:00",
-    "updated_at": "2026-10-12T23:02:53+00:00",
-    "hash": "0459b2bae10c4a66"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5898307c3bd702b5",
+    "zipf": 3.95
+  },
+  {
+    "id": "Ausdrucksweise",
+    "type": "noun",
+    "lemma": "Ausdrucksweise",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Ausdrucksweisen",
+    "genitive": "Ausdrucksweise",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "diction",
+      "enunciation",
+      "expression",
+      "idiom",
+      "mode of expression",
+      "parlance",
+      "phraseology",
+      "phrasing",
+      "style",
+      "terminology",
+      "way of expressing oneself",
+      "way of expression",
+      "wording"
+    ],
+    "definitions_de": [
+      "Art des mündlichen oder schriftlichen Ausdrucks, Diktion, Redeweise, Redestil, Sprechweise"
+    ],
+    "synonyms": [
+      "Diktion",
+      "Redeweise",
+      "Redestil",
+      "Sprechweise"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Verzeihen Sie meine Ausdrucksweise.",
+        "en": "Please excuse my way of expressing myself."
+      },
+      {
+        "de": "Das ist keine gewählte Ausdrucksweise.",
+        "en": "This is not a chosen expression."
+      },
+      {
+        "de": "Er neigt zu einer abstrakten Ausdrucksweise.",
+        "en": "He tends to use abstract language."
+      },
+      {
+        "de": "Ich achtete auf seine Ausdrucksweise und schwieg.",
+        "en": "I paid attention to his way of expressing himself and remained silent."
+      },
+      {
+        "de": "Es ist komisch, wenn andere meine Ausdrucksweisen übernehmen.",
+        "en": "It's strange when others adopt my ways of expression."
+      },
+      {
+        "de": "Zu verlernen waren damals hauptsächlich die typischen nationalsozialistischen Ausdrucksweisen, das Vokabular des Dritten Reiches.",
+        "en": "At that time, the main things to unlearn were the typical National Socialist expressions, the vocabulary of the Third Reich."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ausdrucksweise.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ausdrucksweise.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ausdrucksweise.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ausdrucksweise.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ausdrucksweise.htm",
+    "rank": 1204,
+    "zipf": 3.38,
+    "first_seen": "2026-10-13T02:27:27+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3f1f5460771897f8"
+  },
+  {
+    "id": "Barbar",
+    "type": "noun",
+    "lemma": "Barbar",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Barbaren",
+    "genitive": "Barbaren",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "barbarian",
+      "savage",
+      "brute"
+    ],
+    "definitions_de": [
+      "Bezeichnung im antiken Griechenland für schlecht oder gar nicht griechisch sprechende Menschen",
+      "Mensch, dessen Verhaltensstandard wenig zivilisiert ist, Ekel, Lump, Scheusal, Schurke"
+    ],
+    "synonyms": [
+      "Mensch",
+      "Ekel",
+      "Lump",
+      "Scheusal",
+      "Schurke"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich bin kein Barbar.",
+        "en": "I am not a barbarian."
+      },
+      {
+        "de": "Die Barbaren überfielen und plünderten das Dorf und entheiligten die Kirche.",
+        "en": "The barbarians attacked and plundered the village and desecrated the church."
+      },
+      {
+        "de": "Die Barbaren zogen plündernd durch die Tiefebene und sengten, was ihnen in den Weg kam.",
+        "en": "The barbarians plundered through the plain and burned whatever came in their way."
+      },
+      {
+        "de": "So konnten sie offensichtlich eigennützige Feldzüge als altruistische Missionen tarnen, die dazu dienten, wilde Barbaren zu zivilisieren.",
+        "en": "Thus, they could obviously disguise selfish campaigns as altruistic missions aimed at civilizing wild barbarians."
+      },
+      {
+        "de": "Es ist dort, als seien die Barbaren schon einmal dagewesen, als sei die Steppe schon zu spüren.",
+        "en": "It is there, as if the barbarians had already been there, as if the steppe could already be felt."
+      },
+      {
+        "de": "Die angeblichen Barbaren vom Kontinent sollten Britannien kulturell und sprachlich stärker prägen als zuvor die Römer und später die Wikinger und Normannen.",
+        "en": "The alleged barbarians from the continent were supposed to culturally and linguistically shape Britain more strongly than the Romans before and later the Vikings and Normans."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Barbar.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Barbar.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Barbar.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Barbar.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Barbar.htm",
+    "rank": 1803,
+    "zipf": 2.85,
+    "first_seen": "2026-10-13T02:38:19+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "372f214969c65358"
   },
   {
     "id": "Beihilfe",
@@ -245,10 +459,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Beihilfe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Beihilfe.htm",
-    "rank": 323,
+    "rank": 1030,
     "first_seen": "2026-10-08T12:14:56+00:00",
-    "updated_at": "2026-10-12T04:35:40+00:00",
-    "hash": "3c354b3aa4ee2037"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "075e33c82c0b493e",
+    "zipf": 3.58
   },
   {
     "id": "Bereitstellung",
@@ -294,10 +509,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bereitstellung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bereitstellung.htm",
-    "rank": 393,
+    "rank": 1009,
     "first_seen": "2026-10-08T12:44:45+00:00",
-    "updated_at": "2026-10-09T10:43:56+00:00",
-    "hash": "df923ed097be1f1c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0181d566e7f507a6",
+    "zipf": 3.61
   },
   {
     "id": "Besserwisserei",
@@ -343,10 +559,255 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Besserwisserei.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Besserwisserei.htm",
-    "rank": 204,
+    "rank": 2451,
     "first_seen": "2026-10-08T11:22:53+00:00",
-    "updated_at": "2026-10-09T01:14:12+00:00",
-    "hash": "0b0d900552234d8e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "05ccaa76ab3caf87",
+    "zipf": 2.4
+  },
+  {
+    "id": "Bestandsaufnahme",
+    "type": "noun",
+    "lemma": "Bestandsaufnahme",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Bestand(s)aufnahmen",
+    "genitive": "Bestand(s)aufnahme",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "inventory",
+      "stocktaking",
+      "appraisal",
+      "assessment",
+      "baseline study",
+      "evaluation",
+      "inventory control",
+      "inventory taking",
+      "inventory-taking",
+      "regional surveys",
+      "stock taking",
+      "stock-check",
+      "stock-taking",
+      "survey",
+      "taking stock"
+    ],
+    "definitions_de": [
+      "körperliche Inventur durch zählen, messen, wiegen, Inventur, Inventarisierung",
+      "eine kritische Analyse"
+    ],
+    "synonyms": [
+      "Inventur",
+      "Inventarisierung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Es müsse jetzt eine ehrliche Bestandsaufnahme erfolgen, sagte der Minister.",
+        "en": "An honest assessment must now be made, said the minister."
+      },
+      {
+        "de": "Nehmen Sie bitte eine aktuelle Bestandsaufnahme Ihrer Stärken und Schwächen vor.",
+        "en": "Please take a current assessment of your strengths and weaknesses."
+      },
+      {
+        "de": "Das Ergebnis der Bestandsaufnahme fließt in die Bilanz ein.",
+        "en": "The result of the inventory flows into the balance sheet."
+      },
+      {
+        "de": "Aus diesem Blickwinkel betrachtet, galt deshalb mein spätherbstlicher Besuch mehr einer Hommage an die Vergangenheit, als einer der sonst üblichen eingespielten gastronomischen Bestandsaufnahmen.",
+        "en": "From this perspective, my late autumn visit was more of a tribute to the past than one of the usual established gastronomic assessments."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bestandsaufnahme.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bestandsaufnahme.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bestandsaufnahme.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bestandsaufnahme.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bestandsaufnahme.htm",
+    "rank": 1177,
+    "zipf": 3.41,
+    "first_seen": "2026-10-13T02:17:15+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f3a4d5776cc929b9"
+  },
+  {
+    "id": "Bezugnahme",
+    "type": "noun",
+    "lemma": "Bezugnahme",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Bezugnahmen",
+    "genitive": "Bezugnahme",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "quotation",
+      "reference",
+      "relation"
+    ],
+    "definitions_de": [
+      "das Verweisen auf etwas, das Sich-Beziehen auf etwas"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Unter Bezugnahme auf unser letztes Telefonat unterbreite ich Ihnen heute unser neues Angebot.",
+        "en": "With reference to our last phone call, I am presenting you today our new offer."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bezugnahme.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bezugnahme.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bezugnahme.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bezugnahme.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bezugnahme.htm",
+    "rank": 1641,
+    "zipf": 2.97,
+    "first_seen": "2026-10-13T02:17:15+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "66dc9d6712289c09"
+  },
+  {
+    "id": "Bierbauch",
+    "type": "noun",
+    "lemma": "Bierbauch",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Bierbäuche",
+    "genitive": "Bierbauch(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "beer belly",
+      "beer gut",
+      "paunch",
+      "potbelly"
+    ],
+    "definitions_de": [
+      "[Körper] Bauch eines Mannes mit einem übergroßem Umfang bei ansonsten normalen Proportionen, Wampe, Wanst, Ranzen, Plauze",
+      "starker Biertrinker, Biersäufer"
+    ],
+    "synonyms": [
+      "Wampe",
+      "Wanst",
+      "Ranzen",
+      "Plauze",
+      "Biersäufer"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich habe einen Bierbauch.",
+        "en": "I have a beer belly."
+      },
+      {
+        "de": "Er war schon immer ein Bierbauch.",
+        "en": "He has always been a beer belly."
+      },
+      {
+        "de": "Er trägt seinen Bierbauch stolz vor sich her.",
+        "en": "He proudly carries his beer belly in front of him."
+      },
+      {
+        "de": "Tom trug ein Korsett, um seinen Bierbauch kleiner erscheinen zu lassen.",
+        "en": "Tom wore a corset to make his beer belly appear smaller."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bierbauch.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bierbauch.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bierbauch.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bierbauch.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bierbauch.htm",
+    "rank": 2469,
+    "zipf": 2.39,
+    "first_seen": "2026-10-13T01:49:33+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bf1fd0f531d0f568"
+  },
+  {
+    "id": "Bierdeckel",
+    "type": "noun",
+    "lemma": "Bierdeckel",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Bierdeckel",
+    "genitive": "Bierdeckels",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "beer mat",
+      "bottle cap",
+      "coaster",
+      "beer coaster",
+      "bottle top"
+    ],
+    "definitions_de": [
+      "ein meist runder oder viereckiger Untersetzer aus Pappe, auf den man sein Bierglas stellt, Untersetzer, Bierfilz, Bierteller",
+      "Verschlusskappe einer Bierflasche, meist aus Metall, Flaschendeckel"
+    ],
+    "synonyms": [
+      "Untersetzer",
+      "Bierfilz",
+      "Bierteller",
+      "Flaschendeckel"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich sammle Bierdeckel.",
+        "en": "I collect beer coasters."
+      },
+      {
+        "de": "Die Berechnung der Einkommensteuer sollte auf einem Bierdeckel möglich sein.",
+        "en": "The calculation of income tax should be possible on a beer mat."
+      },
+      {
+        "de": "Während des Polterabends hat ein Scherzkeks einen ganzen Sack voll Bierdeckel ausgeschüttet.",
+        "en": "During the bachelor party, a joker spilled a whole bag of beer coasters."
+      },
+      {
+        "de": "Früher waren fast alle Bierdeckel als Kronenkorken ausgeführt, heute sind auch häufiger Drehverschlüsse anzutreffen.",
+        "en": "In the past, almost all beer coasters were made as crown caps, today screw caps are also more frequently encountered."
+      },
+      {
+        "de": "Die Bedienung oder der Wirt schreibt für jedes getrunkene Bier auf dem Bierdeckel einen Strich an.",
+        "en": "The waiter or the host marks a line on the beer coaster for each beer consumed."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bierdeckel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bierdeckel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bierdeckel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bierdeckel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bierdeckel.htm",
+    "rank": 2041,
+    "zipf": 2.67,
+    "first_seen": "2026-10-13T01:49:33+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "dfcd46c9c5414122"
   },
   {
     "id": "Bildband",
@@ -398,10 +859,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bildband.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bildband.htm",
-    "rank": 947,
+    "rank": 1396,
     "first_seen": "2026-10-12T15:10:40+00:00",
-    "updated_at": "2026-10-12T23:09:52+00:00",
-    "hash": "36770d179c2c0958"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1c3aa739fa9e0cc0",
+    "zipf": 3.19
   },
   {
     "id": "Bindegewebe",
@@ -453,10 +915,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bindegewebe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bindegewebe.htm",
-    "rank": 45,
+    "rank": 1571,
     "first_seen": "2026-10-08T10:50:49+00:00",
-    "updated_at": "2026-10-12T04:30:29+00:00",
-    "hash": "41b08422714900c0"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8b34ed6f924661a3",
+    "zipf": 3.03
   },
   {
     "id": "Bistro",
@@ -512,10 +975,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bistro.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bistro.htm",
-    "rank": 70,
+    "rank": 1299,
     "first_seen": "2026-10-08T10:53:40+00:00",
-    "updated_at": "2026-10-12T04:31:25+00:00",
-    "hash": "af14ed73b3f53dbc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "23e54f325cd5f694",
+    "zipf": 3.29
   },
   {
     "id": "Bu3rokratie",
@@ -576,10 +1040,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bu3rokratie.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bu3rokratie.htm",
-    "rank": 655,
+    "rank": 949,
     "first_seen": "2026-10-08T14:38:23+00:00",
-    "updated_at": "2026-10-12T04:40:35+00:00",
-    "hash": "8904e6e55dd2f8ab"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6caef69c47b2bafa",
+    "zipf": 3.69
   },
   {
     "id": "Denkfehler",
@@ -638,10 +1103,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Denkfehler.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Denkfehler.htm",
-    "rank": 887,
+    "rank": 1874,
     "first_seen": "2026-10-12T14:43:24+00:00",
-    "updated_at": "2026-10-12T23:03:35+00:00",
-    "hash": "99bcb325c4a1d40b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "691332ed19de5c1d",
+    "zipf": 2.8
   },
   {
     "id": "Drang",
@@ -704,10 +1170,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Drang.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Drang.htm",
-    "rank": 414,
+    "rank": 833,
     "first_seen": "2026-10-08T12:54:10+00:00",
-    "updated_at": "2026-10-09T10:45:09+00:00",
-    "hash": "32488a75006918b3"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "133be6bbcee3bddb",
+    "zipf": 3.86
   },
   {
     "id": "Ebenbu3rtigkeit",
@@ -747,10 +1214,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ebenbu3rtigkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ebenbu3rtigkeit.htm",
-    "rank": 532,
+    "rank": 3225,
     "first_seen": "2026-10-08T13:44:51+00:00",
-    "updated_at": "2026-10-09T10:47:36+00:00",
-    "hash": "8a697a007429bdc7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "603a842eda2f383a",
+    "zipf": 1.74
   },
   {
     "id": "Echtheit",
@@ -812,10 +1280,80 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Echtheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Echtheit.htm",
-    "rank": 362,
+    "rank": 1241,
     "first_seen": "2026-10-08T12:30:43+00:00",
-    "updated_at": "2026-10-09T01:39:25+00:00",
-    "hash": "341c99004995e4a7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "42f4ef7bd606f1cc",
+    "zipf": 3.35
+  },
+  {
+    "id": "Ehrenamt",
+    "type": "noun",
+    "lemma": "Ehrenamt",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Ehrenämter",
+    "genitive": "Ehrenamt(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "honorary office",
+      "honorary post",
+      "voluntary office",
+      "voluntary position",
+      "volunteer position",
+      "volunteer work",
+      "volunteering"
+    ],
+    "definitions_de": [
+      "[Tradition] freiwilliges unentgeltliches Engagement in gesellschaftlich relevanten Bereichen",
+      "verpflichtendes Amt der Bürger als Schöffe oder Wahlhelfer",
+      "öffentliches unvergütetes Amt einer angesehenen Person in einer Organisation oder Institution, um die Autorität und Attraktivität selbiger zu stärken"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wir haben ein Ehrenamt übernommen.",
+        "en": "We have taken on a volunteer position."
+      },
+      {
+        "de": "Willst du dich nicht auch im Ehrenamt engagieren?",
+        "en": "Don't you want to get involved in volunteer work as well?"
+      },
+      {
+        "de": "Man findet leichter jemanden, der sein elftes Ehrenamt übernimmt, als jemanden, der sein erstes Ehrenamt übernimmt.",
+        "en": "It is easier to find someone who takes on their eleventh honorary position than someone who takes on their first honorary position."
+      },
+      {
+        "de": "Manche Haftpflichtversicherung für Vereine deckt nur die Arbeit derjenigen Ehrenämter, die in der Satzung genannt sind.",
+        "en": "Some liability insurance for associations only covers the work of those volunteer positions that are mentioned in the statutes."
+      },
+      {
+        "de": "Die Arbeit für Wiki-Projekte kann als Ehrenamt bezeichnet werden.",
+        "en": "The work for Wiki projects can be referred to as volunteer work."
+      },
+      {
+        "de": "Ein Zeitaufwand von durchschnittlich zehn Stunden pro Woche ist bei diesem Ehrenamt einzuplanen.",
+        "en": "An average time commitment of ten hours per week must be planned for this volunteer work."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ehrenamt.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ehrenamt.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ehrenamt.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ehrenamt.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ehrenamt.htm",
+    "rank": 1122,
+    "zipf": 3.46,
+    "first_seen": "2026-10-13T02:37:15+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7e06a4af624274a8"
   },
   {
     "id": "Einsatzbereitschaft",
@@ -865,10 +1403,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Einsatzbereitschaft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Einsatzbereitschaft.htm",
-    "rank": 390,
+    "rank": 1574,
     "first_seen": "2026-10-08T12:43:41+00:00",
-    "updated_at": "2026-10-09T10:43:51+00:00",
-    "hash": "b902d95948569e47"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "367fbe2133acf045",
+    "zipf": 3.03
   },
   {
     "id": "Endlichkeit",
@@ -917,10 +1456,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Endlichkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Endlichkeit.htm",
-    "rank": 476,
+    "rank": 1936,
     "first_seen": "2026-10-08T13:21:03+00:00",
-    "updated_at": "2026-10-09T10:46:51+00:00",
-    "hash": "25cde79c7ebf7722"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "325be0215e73635b",
+    "zipf": 2.75
   },
   {
     "id": "Entscheidungsfreiheit",
@@ -958,10 +1498,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Entscheidungsfreiheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Entscheidungsfreiheit.htm",
-    "rank": 967,
+    "rank": 1937,
     "first_seen": "2026-10-12T15:18:44+00:00",
-    "updated_at": "2026-10-12T23:11:38+00:00",
-    "hash": "0d819865a4f42e2b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "30014e2b83ae042e",
+    "zipf": 2.75
   },
   {
     "id": "Entscheidungstra3ger",
@@ -1009,10 +1550,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Entscheidungstra3ger.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Entscheidungstra3ger.htm",
-    "rank": 967,
+    "rank": 1314,
     "first_seen": "2026-10-12T15:18:44+00:00",
-    "updated_at": "2026-10-12T23:11:59+00:00",
-    "hash": "102da561b1bb89f8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fbee1890ec8ba262",
+    "zipf": 3.28
   },
   {
     "id": "Ernsthaftigkeit",
@@ -1066,10 +1608,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ernsthaftigkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ernsthaftigkeit.htm",
-    "rank": 521,
+    "rank": 1362,
     "first_seen": "2026-10-08T13:39:57+00:00",
-    "updated_at": "2026-10-09T10:47:26+00:00",
-    "hash": "2b720d896e889205"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "22a9a6d1f87dcb96",
+    "zipf": 3.23
   },
   {
     "id": "Erstellung",
@@ -1125,10 +1668,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Erstellung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Erstellung.htm",
-    "rank": 489,
+    "rank": 823,
     "first_seen": "2026-10-08T13:25:36+00:00",
-    "updated_at": "2026-10-09T10:47:08+00:00",
-    "hash": "cbb8314e47085a77"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c71b23552208a894",
+    "zipf": 3.87
   },
   {
     "id": "Fachkenntnis",
@@ -1178,10 +1722,77 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fachkenntnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fachkenntnis.htm",
-    "rank": 759,
+    "rank": 2217,
     "first_seen": "2026-10-12T08:27:22+00:00",
-    "updated_at": "2026-10-12T09:26:48+00:00",
-    "hash": "2a511c731dc1f01b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c1959cc14be89ab5",
+    "zipf": 2.56
+  },
+  {
+    "id": "Fachrichtung",
+    "type": "noun",
+    "lemma": "Fachrichtung",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Fachrichtungen",
+    "genitive": "Fachrichtung",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "discipline",
+      "field",
+      "specialization",
+      "branch of study",
+      "functional direction",
+      "profession",
+      "specialisation",
+      "subject area"
+    ],
+    "definitions_de": [
+      "[Fachsprache] ein bestimmtes, fachliches Themengebiet, Fachbereich, Fachgebiet, Ressort, Sachgebiet, Teilgebiet"
+    ],
+    "synonyms": [
+      "Fachbereich",
+      "Fachgebiet",
+      "Ressort",
+      "Sachgebiet",
+      "Teilgebiet"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Arbeitsbereich eines Ingenieurs richtet sich nach der von ihm gewählten Fachrichtung und seiner persönlichen Neigung.",
+        "en": "The work area of an engineer is determined by the specialty he has chosen and his personal inclination."
+      },
+      {
+        "de": "Einer wie du kennt doch bestimmt Studenten der unterschiedlichsten Fachrichtungen, oder?",
+        "en": "Someone like you surely knows students from various fields, right?"
+      },
+      {
+        "de": "In den Fachrichtungen Schiffbau und Meerestechnik ist der Bedarf an Fachkräften doppelt so hoch wie das Angebot, klagt ein Branchenverband.",
+        "en": "In the fields of shipbuilding and marine engineering, the demand for skilled workers is twice as high as the supply, complains an industry association."
+      },
+      {
+        "de": "Laut Arbeitsagentur hatten Arbeitgeber vor allem im Süden und Westen Deutschlands Schwierigkeiten, ihre offenen Stellen in einigen Fachrichtungen mit den gesuchten Ingenieuren zu besetzen.",
+        "en": "According to the employment agency, employers especially in the south and west of Germany had difficulties filling their open positions in certain fields with the sought-after engineers."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fachrichtung.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fachrichtung.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fachrichtung.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fachrichtung.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fachrichtung.htm",
+    "rank": 1196,
+    "zipf": 3.39,
+    "first_seen": "2026-10-13T02:34:07+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a4d079800d53ee18"
   },
   {
     "id": "Familiendrama",
@@ -1227,10 +1838,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Familiendrama.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Familiendrama.htm",
-    "rank": 303,
+    "rank": 1794,
     "first_seen": "2026-10-08T12:05:51+00:00",
-    "updated_at": "2026-10-12T04:35:23+00:00",
-    "hash": "3b160bd9401e6a86"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6172a3de553567f2",
+    "zipf": 2.86
   },
   {
     "id": "Festanstellung",
@@ -1277,10 +1889,141 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Festanstellung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Festanstellung.htm",
-    "rank": 603,
+    "rank": 1454,
     "first_seen": "2026-10-08T14:15:59+00:00",
-    "updated_at": "2026-10-12T04:40:01+00:00",
-    "hash": "853a937b763bbd89"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e5c4253606e53cd8",
+    "zipf": 3.14
+  },
+  {
+    "id": "Fingerabdruck",
+    "type": "noun",
+    "lemma": "Fingerabdruck",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Fingerabdrücke",
+    "genitive": "Fingerabdruck(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "fingerprint",
+      "fingermark",
+      "dactylogram",
+      "finger print",
+      "fingerprint impression"
+    ],
+    "definitions_de": [
+      "Abdruck der Innenseite einer Fingerkuppe, der das als charakteristisch angesehene Muster des Hautreliefs erkennen lässt"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Es gab keine Fingerabdrücke.",
+        "en": "There were no fingerprints."
+      },
+      {
+        "de": "Eineiige Zwillingen haben unterschiedliche Fingerabdrücke.",
+        "en": "Identical twins have different fingerprints."
+      },
+      {
+        "de": "Gewohnheiten sind die Fingerabdrücke des Charakters.",
+        "en": "Habits are the fingerprints of character."
+      },
+      {
+        "de": "Sind Ihnen schon einmal Fingerabdrücke abgenommen worden?",
+        "en": "Have you ever been fingerprinted?"
+      },
+      {
+        "de": "Die Polizei hat Fingerabdrücke genommen, Bad und Kinderzimmer vermessen.",
+        "en": "The police took fingerprints, measured the bathroom and the children's room."
+      },
+      {
+        "de": "Es gibt Zufälle, an denen sind noch die Fingerabdrücke Gottes.",
+        "en": "There are coincidences that still bear the fingerprints of God."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fingerabdruck.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fingerabdruck.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fingerabdruck.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fingerabdruck.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fingerabdruck.htm",
+    "rank": 1289,
+    "zipf": 3.3,
+    "first_seen": "2026-10-13T01:52:23+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9d9fd60ca0df154c"
+  },
+  {
+    "id": "Firmament",
+    "type": "noun",
+    "lemma": "Firmament",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "-",
+    "genitive": "Firmament(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "firmament",
+      "canopy",
+      "sky"
+    ],
+    "definitions_de": [
+      "Himmel, Himmelsgewölbe"
+    ],
+    "synonyms": [
+      "Himmel",
+      "Himmelsgewölbe"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Fällt Schnee vom Firmament?",
+        "en": "Does snow fall from the firmament?"
+      },
+      {
+        "de": "Der Mond steht am Firmament.",
+        "en": "The moon is in the sky."
+      },
+      {
+        "de": "Der Himmel öffnete sein blaues Firmament.",
+        "en": "The sky opened its blue firmament."
+      },
+      {
+        "de": "Hell glänzt der Stern am Firmament.",
+        "en": "The star shines brightly in the firmament."
+      },
+      {
+        "de": "Der Sonnenaufgang färbt das Firmament in vielen Farben.",
+        "en": "The sunrise colors the sky in many colors."
+      },
+      {
+        "de": "Die Sterne prangen am Firmament.",
+        "en": "Stars are shining in the sky."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Firmament.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Firmament.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Firmament.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Firmament.htm",
+    "rank": 2112,
+    "zipf": 2.63,
+    "first_seen": "2026-10-13T02:47:08+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f269ffb67bb83487"
   },
   {
     "id": "Fro3hlichkeit",
@@ -1350,10 +2093,120 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fro3hlichkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fro3hlichkeit.htm",
-    "rank": 724,
+    "rank": 1426,
     "first_seen": "2026-10-12T08:12:03+00:00",
-    "updated_at": "2026-10-12T09:22:23+00:00",
-    "hash": "9ccaabd6e9c661f1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0c606652ae714012",
+    "zipf": 3.16
+  },
+  {
+    "id": "Fu3rsorgepflicht",
+    "type": "noun",
+    "lemma": "Fürsorgepflicht",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "-",
+    "genitive": "Fürsorgepflicht",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "care obligation",
+      "duty of care",
+      "fiduciary duty"
+    ],
+    "definitions_de": [
+      "[Recht] rechtlich geregelte oder moralisch empfundene Aufgabe, sich um das Wohlergehen Abhängiger/Untergebener zu kümmern"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fu3rsorgepflicht.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fu3rsorgepflicht.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fu3rsorgepflicht.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fu3rsorgepflicht.htm",
+    "rank": 2161,
+    "zipf": 2.6,
+    "first_seen": "2026-10-13T01:49:54+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b3b1f001cdd80cd4"
+  },
+  {
+    "id": "Fu3rst",
+    "type": "noun",
+    "lemma": "Fürst",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Fürsten",
+    "genitive": "Fürsten",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "prince",
+      "ruler",
+      "chieftain",
+      "duke",
+      "leader",
+      "monarch",
+      "noble",
+      "sovereign"
+    ],
+    "definitions_de": [
+      "hoher Adliger im Rang zwischen Graf und Herzog",
+      "allgemein ein Herrscher, Monarch",
+      "ein führender, überragender Mann"
+    ],
+    "synonyms": [
+      "Monarch"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie lieben den Fürsten.",
+        "en": "They love the prince."
+      },
+      {
+        "de": "Ich wurde zu des Fürsten Kellner bestimmt.",
+        "en": "I was appointed as the prince's waiter."
+      },
+      {
+        "de": "Der Fürst verband sich mit dem französischen König.",
+        "en": "The prince allied himself with the French king."
+      },
+      {
+        "de": "Gib unsern Fürsten Fried und gut Regiment.",
+        "en": "Give our princes peace and good governance."
+      },
+      {
+        "de": "Der Fürst hat sich soeben in seine Gemächer zurückgezogen.",
+        "en": "The prince has just withdrawn to his chambers."
+      },
+      {
+        "de": "Der Fürst fühlte sich durch die vielen Beileidsbezeugungen geschmeichelt.",
+        "en": "The prince felt flattered by the many expressions of condolence."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fu3rst.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fu3rst.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fu3rst.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fu3rst.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fu3rst.htm",
+    "rank": 703,
+    "zipf": 4.1,
+    "first_seen": "2026-10-13T01:49:54+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "351f22497b5317c5"
   },
   {
     "id": "Garant",
@@ -1408,10 +2261,136 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Garant.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Garant.htm",
-    "rank": 228,
+    "rank": 1231,
     "first_seen": "2026-10-08T11:33:25+00:00",
-    "updated_at": "2026-10-09T01:15:16+00:00",
-    "hash": "bb7f65c3f0a925e7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fd2d6a1673d1a847",
+    "zipf": 3.36
+  },
+  {
+    "id": "Geburtenkontrolle",
+    "type": "noun",
+    "lemma": "Geburtenkontrolle",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "-",
+    "genitive": "Geburtenkontrolle",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "birth control",
+      "population control",
+      "family planning"
+    ],
+    "definitions_de": [
+      "Schutzmaßnahmen gegen Überbevölkerung durch Überwachung und eventueller Reduktion der Geburtenzahl"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich benutze Geburtenkontrolle.",
+        "en": "I use birth control."
+      },
+      {
+        "de": "Geburtenkontrolle ist in vielen Ländern ein wichtiges Thema.",
+        "en": "Birth control is an important topic in many countries."
+      },
+      {
+        "de": "Die wirksamste Form der Geburtenkontrolle, die ich kenne, ist, den Tag mit meinen Kindern zu verbringen.",
+        "en": "The most effective form of birth control that I know is to spend the day with my children."
+      },
+      {
+        "de": "Katholiken sind gegen Geburtenkontrolle.",
+        "en": "Catholics are against birth control."
+      },
+      {
+        "de": "Im Wiener Tiergarten Schönbrunn setzt man bei den Löwen auf dauerhafte Geburtenkontrolle.",
+        "en": "At the Vienna Zoo Schönbrunn, they rely on permanent birth control for the lions."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Geburtenkontrolle.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Geburtenkontrolle.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Geburtenkontrolle.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Geburtenkontrolle.htm",
+    "rank": 2292,
+    "zipf": 2.5,
+    "first_seen": "2026-10-13T02:23:57+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e421aee5f5c208f8"
+  },
+  {
+    "id": "Gedankengang",
+    "type": "noun",
+    "lemma": "Gedankengang",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Gedankengänge",
+    "genitive": "Gedankengang(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "train of thought",
+      "thought process",
+      "chain of thought",
+      "line of thought",
+      "reasoning",
+      "thread",
+      "train of thoughts"
+    ],
+    "definitions_de": [
+      "Abfolge der Gedanken"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hier gibt es zwei Gedankengänge.",
+        "en": "There are two lines of thought here."
+      },
+      {
+        "de": "Dein Gedankengang ist nicht ganz klar.",
+        "en": "Your line of thought is not quite clear."
+      },
+      {
+        "de": "Ich habe deren Gedankengänge nie ganz verstanden.",
+        "en": "I never fully understood their thought processes."
+      },
+      {
+        "de": "Die Gedankengänge bestimmter Menschen können dich sprachlos machen.",
+        "en": "The thought processes of certain people can leave you speechless."
+      },
+      {
+        "de": "Dieser Gedankengang ist nicht sehr logisch.",
+        "en": "This line of thought is not very logical."
+      },
+      {
+        "de": "Diesen Gedankengang kann ich nicht nachvollziehen.",
+        "en": "I cannot follow this line of thought."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Gedankengang.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Gedankengang.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gedankengang.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gedankengang.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Gedankengang.htm",
+    "rank": 1399,
+    "zipf": 3.19,
+    "first_seen": "2026-10-13T01:40:23+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cc05003697fded6b"
   },
   {
     "id": "Geda3chtnishilfe",
@@ -1444,10 +2423,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geda3chtnishilfe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geda3chtnishilfe.htm",
-    "rank": 578,
+    "rank": 3868,
     "first_seen": "2026-10-08T14:05:07+00:00",
-    "updated_at": "2026-10-09T10:49:01+00:00",
-    "hash": "a401721d480a75c9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4ca6b3d03d5ebe0f",
+    "zipf": 0.0
   },
   {
     "id": "Geda3chtnislu3cke",
@@ -1490,10 +2470,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geda3chtnislu3cke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geda3chtnislu3cke.htm",
-    "rank": 578,
+    "rank": 3144,
     "first_seen": "2026-10-08T14:05:07+00:00",
-    "updated_at": "2026-10-12T04:39:50+00:00",
-    "hash": "e0281dcb2f32be20"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3a333a471ab6498d",
+    "zipf": 1.82
   },
   {
     "id": "Gegenbewegung",
@@ -1547,10 +2528,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gegenbewegung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gegenbewegung.htm",
-    "rank": 290,
+    "rank": 1632,
     "first_seen": "2026-10-08T12:00:18+00:00",
-    "updated_at": "2026-10-09T01:28:22+00:00",
-    "hash": "c324274346f5a804"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0e4f2d2444efa89b",
+    "zipf": 2.98
   },
   {
     "id": "Geldeingang",
@@ -1599,10 +2581,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geldeingang.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geldeingang.htm",
-    "rank": 193,
+    "rank": 2799,
     "first_seen": "2026-10-08T11:19:00+00:00",
-    "updated_at": "2026-10-09T01:09:41+00:00",
-    "hash": "ece754322a857d91"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0f2f7dcf608c04cc",
+    "zipf": 2.12
   },
   {
     "id": "Gela3chter",
@@ -1661,10 +2644,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gela3chter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gela3chter.htm",
-    "rank": 834,
+    "rank": 1035,
     "first_seen": "2026-10-12T14:21:40+00:00",
-    "updated_at": "2026-10-12T22:46:01+00:00",
-    "hash": "f02999bfa25c0483"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "52c7e00815740999",
+    "zipf": 3.58
   },
   {
     "id": "Gescha3ftsbereich",
@@ -1718,10 +2702,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gescha3ftsbereich.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gescha3ftsbereich.htm",
-    "rank": 870,
+    "rank": 1170,
     "first_seen": "2026-10-12T14:36:24+00:00",
-    "updated_at": "2026-10-12T23:01:49+00:00",
-    "hash": "dad555d41f1d9faf"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0f4a314214b32ea3",
+    "zipf": 3.42
   },
   {
     "id": "Gescha3ftsbericht",
@@ -1757,10 +2742,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gescha3ftsbericht.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gescha3ftsbericht.htm",
-    "rank": 870,
+    "rank": 1463,
     "first_seen": "2026-10-12T14:36:24+00:00",
-    "updated_at": "2026-10-12T23:02:11+00:00",
-    "hash": "95de6c5d0a9abb65"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8e1504f291c49dcc",
+    "zipf": 3.13
   },
   {
     "id": "Gesichtsausdruck",
@@ -1819,10 +2805,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gesichtsausdruck.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gesichtsausdruck.htm",
-    "rank": 566,
+    "rank": 1061,
     "first_seen": "2026-10-08T13:59:52+00:00",
-    "updated_at": "2026-10-12T04:39:23+00:00",
-    "hash": "71194e3a8e5e8177"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c812c00143566ff6",
+    "zipf": 3.54
   },
   {
     "id": "Gleichmacherei",
@@ -1864,10 +2851,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gleichmacherei.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gleichmacherei.htm",
-    "rank": 352,
+    "rank": 2236,
     "first_seen": "2026-10-08T12:26:11+00:00",
-    "updated_at": "2026-10-09T01:39:04+00:00",
-    "hash": "04339599657f034e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "13e13fe22878cf54",
+    "zipf": 2.54
   },
   {
     "id": "Glu3cksbringer",
@@ -1918,10 +2906,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Glu3cksbringer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Glu3cksbringer.htm",
-    "rank": 379,
+    "rank": 1623,
     "first_seen": "2026-10-08T12:38:46+00:00",
-    "updated_at": "2026-10-12T04:36:30+00:00",
-    "hash": "d1e5582e9155b4d2"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f2df5c23b4befa59",
+    "zipf": 2.99
   },
   {
     "id": "Gros",
@@ -1955,10 +2944,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gros_kk.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gros.htm",
-    "rank": 458,
+    "rank": 1076,
     "first_seen": "2026-10-09T10:46:11+00:00",
-    "updated_at": "2026-10-09T10:46:17+00:00",
-    "hash": "e4a652681da79ead"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "88bf95733c76866a",
+    "zipf": 3.52
   },
   {
     "id": "Gros5papa",
@@ -2016,10 +3006,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gros5papa.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gros5papa.htm",
-    "rank": 612,
+    "rank": 2999,
     "first_seen": "2026-10-08T14:19:12+00:00",
-    "updated_at": "2026-10-09T10:49:40+00:00",
-    "hash": "90373bd78250c2b9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c461eaf9c54d7b19",
+    "zipf": 1.96
   },
   {
     "id": "Grundausstattung",
@@ -2081,10 +3072,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Grundausstattung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Grundausstattung.htm",
-    "rank": 460,
+    "rank": 1765,
     "first_seen": "2026-10-08T13:14:25+00:00",
-    "updated_at": "2026-10-12T04:38:22+00:00",
-    "hash": "15bb9107c1feb52f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "406c1ca0aa6ba753",
+    "zipf": 2.88
   },
   {
     "id": "Grundbedu3rfnis",
@@ -2133,10 +3125,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Grundbedu3rfnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Grundbedu3rfnis.htm",
-    "rank": 460,
+    "rank": 2398,
     "first_seen": "2026-10-08T13:14:25+00:00",
-    "updated_at": "2026-10-12T04:38:28+00:00",
-    "hash": "a4772f6dc1658998"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9ab1c42af274b664",
+    "zipf": 2.43
   },
   {
     "id": "Grundriss",
@@ -2212,10 +3205,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Grundriss.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Grundriss.htm",
-    "rank": 6,
+    "rank": 963,
     "first_seen": "2026-10-08T10:45:43+00:00",
-    "updated_at": "2026-10-12T04:30:00+00:00",
-    "hash": "1b83ad7360be68e7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "917361ab4159804c",
+    "zipf": 3.67
   },
   {
     "id": "Gummi",
@@ -2281,10 +3275,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gummi_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gummi.htm",
-    "rank": 557,
+    "rank": 957,
     "first_seen": "2026-10-09T10:47:53+00:00",
-    "updated_at": "2026-10-12T04:39:12+00:00",
-    "hash": "efff94bb7b806331"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "056de08d9e880cfd",
+    "zipf": 3.68
   },
   {
     "id": "Gutdu3nken",
@@ -2332,10 +3327,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gutdu3nken.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gutdu3nken.htm",
-    "rank": 56,
+    "rank": 1766,
     "first_seen": "2026-10-08T10:52:05+00:00",
-    "updated_at": "2026-10-12T04:30:46+00:00",
-    "hash": "c5d7e2f572074bd5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "099711aa45388c37",
+    "zipf": 2.88
   },
   {
     "id": "Gutenachtkuss",
@@ -2392,10 +3388,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gutenachtkuss.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gutenachtkuss.htm",
-    "rank": 56,
+    "rank": 3489,
     "first_seen": "2026-10-08T10:52:05+00:00",
-    "updated_at": "2026-10-12T04:30:52+00:00",
-    "hash": "7dc20df1bcf2695c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c692444bcb3687d2",
+    "zipf": 1.43
   },
   {
     "id": "Handarbeit",
@@ -2464,10 +3461,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Handarbeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Handarbeit.htm",
-    "rank": 459,
+    "rank": 1085,
     "first_seen": "2026-10-08T13:14:03+00:00",
-    "updated_at": "2026-10-12T04:38:16+00:00",
-    "hash": "c79c7125c3f193ca"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9b74ba5f1e55919e",
+    "zipf": 3.51
   },
   {
     "id": "Hass",
@@ -2529,10 +3527,74 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hass.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hass.htm",
-    "rank": 856,
+    "rank": 505,
     "first_seen": "2026-10-12T14:31:27+00:00",
-    "updated_at": "2026-10-12T22:56:19+00:00",
-    "hash": "69ae00314022e104"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "59f40cd42b637275",
+    "zipf": 4.5
+  },
+  {
+    "id": "Heis5luftballon",
+    "type": "noun",
+    "lemma": "Heißluftballon",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Heißluftballons/Heißluftballone",
+    "genitive": "Heißluftballons",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "hot-air balloon",
+      "aerostat",
+      "hot air balloon"
+    ],
+    "definitions_de": [
+      "als Luftfahrzeug verwendeter Ballon, bei dem der Auftrieb durch Aufheizen der in der Ballonhülle enthaltenen Luft mit Hilfe eines Gasbrenners erzeugt wird"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wie funktionieren Heißluftballons?",
+        "en": "How do hot air balloons work?"
+      },
+      {
+        "de": "Ich fuhr in einem Heißluftballon.",
+        "en": "I rode in a hot air balloon."
+      },
+      {
+        "de": "Ich bin in einem Heißluftballon gefahren.",
+        "en": "I rode in a hot air balloon."
+      },
+      {
+        "de": "Unser Heißluftballon stieg in den Himmel auf.",
+        "en": "Our hot-air balloon rose into the sky."
+      },
+      {
+        "de": "Bist du schon einmal in einem Heißluftballon gefahren?",
+        "en": "Have you ever ridden in a hot air balloon?"
+      },
+      {
+        "de": "Ein Heißluftballon ist gestern Abend in der Innenstadt der deutschen Stadt Köln notgelandet.",
+        "en": "A hot air balloon made an emergency landing last night in the city center of the German city of Cologne."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Heis5luftballon.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Heis5luftballon.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Heis5luftballon.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Heis5luftballon.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Heis5luftballon.htm",
+    "rank": 2047,
+    "zipf": 2.67,
+    "first_seen": "2026-10-13T02:10:58+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c2352fdd84873284"
   },
   {
     "id": "Hektik",
@@ -2589,10 +3651,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hektik.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hektik.htm",
-    "rank": 53,
+    "rank": 1220,
     "first_seen": "2026-10-08T10:51:44+00:00",
-    "updated_at": "2026-10-12T04:30:40+00:00",
-    "hash": "5d09546a90a6111d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1e08b7c8d0ffb364",
+    "zipf": 3.37
   },
   {
     "id": "Hilfeleistung",
@@ -2641,10 +3704,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hilfeleistung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hilfeleistung.htm",
-    "rank": 323,
+    "rank": 1268,
     "first_seen": "2026-10-08T12:14:56+00:00",
-    "updated_at": "2026-10-09T01:34:53+00:00",
-    "hash": "749b3aae8ebea84d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "93b4304b4c52747b",
+    "zipf": 3.33
   },
   {
     "id": "Hilfestellung",
@@ -2704,10 +3768,51 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hilfestellung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hilfestellung.htm",
-    "rank": 323,
+    "rank": 1301,
     "first_seen": "2026-10-08T12:14:56+00:00",
-    "updated_at": "2026-10-09T01:35:14+00:00",
-    "hash": "b1b2462271d24132"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b758c38172bbc2ee",
+    "zipf": 3.29
+  },
+  {
+    "id": "Hilfsaktion",
+    "type": "noun",
+    "lemma": "Hilfsaktion",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Hilfsaktionen",
+    "genitive": "Hilfsaktion",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "relief action",
+      "aid campaign",
+      "aid programme",
+      "relief effort",
+      "relief operation"
+    ],
+    "definitions_de": [
+      "Unternehmung mit dem Ziel, jemandem zu helfen"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Hilfsaktion.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Hilfsaktion.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hilfsaktion.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hilfsaktion.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Hilfsaktion.htm",
+    "rank": 2255,
+    "zipf": 2.53,
+    "first_seen": "2026-10-13T01:47:25+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e75ee218fdd55a1b"
   },
   {
     "id": "Holding",
@@ -2744,10 +3849,54 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Holding.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Holding.htm",
-    "rank": 716,
+    "rank": 909,
     "first_seen": "2026-10-12T08:08:15+00:00",
-    "updated_at": "2026-10-12T09:20:59+00:00",
-    "hash": "794f5ffc75615638"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "99e92e7b1ad6a7aa",
+    "zipf": 3.75
+  },
+  {
+    "id": "Hungerjahr",
+    "type": "noun",
+    "lemma": "Hungerjahr",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Hungerjahre",
+    "genitive": "Hungerjahr(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "famine year",
+      "hungry year",
+      "year of famine"
+    ],
+    "definitions_de": [
+      "ein Jahr, in dem besonders starker Hunger herrscht"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Kaufleute erholen sich nach den Kriegs- und Hungerjahren am raschesten.",
+        "en": "The merchants recover the fastest after the years of war and hunger."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Hungerjahr.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Hungerjahr.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hungerjahr.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hungerjahr.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Hungerjahr.htm",
+    "rank": 3633,
+    "zipf": 1.25,
+    "first_seen": "2026-10-13T02:41:27+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d637088f5bd90c13"
   },
   {
     "id": "Ho3lle",
@@ -2808,10 +3957,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ho3lle.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ho3lle.htm",
-    "rank": 663,
+    "rank": 526,
     "first_seen": "2026-10-08T14:41:10+00:00",
-    "updated_at": "2026-10-12T04:40:52+00:00",
-    "hash": "be627f4adcd889d3"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "abb47cfb84951151",
+    "zipf": 4.45
   },
   {
     "id": "Ideenreichtum",
@@ -2854,10 +4004,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ideenreichtum.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ideenreichtum.htm",
-    "rank": 428,
+    "rank": 2333,
     "first_seen": "2026-10-08T13:00:06+00:00",
-    "updated_at": "2026-10-12T04:37:31+00:00",
-    "hash": "eca14bcf5121b679"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "046871cb9ef09667",
+    "zipf": 2.48
   },
   {
     "id": "Image",
@@ -2918,10 +4069,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Image.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Image.htm",
-    "rank": 67,
+    "rank": 672,
     "first_seen": "2026-10-08T10:53:19+00:00",
-    "updated_at": "2026-10-12T04:31:14+00:00",
-    "hash": "6125fb7548fd0a8d"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "a619fe98c14f0784",
+    "zipf": 4.15
   },
   {
     "id": "Imagination",
@@ -2971,10 +4123,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Imagination.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Imagination.htm",
-    "rank": 67,
+    "rank": 1587,
     "first_seen": "2026-10-08T10:53:19+00:00",
-    "updated_at": "2026-10-09T00:49:01+00:00",
-    "hash": "18a1d167dc9770f4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0baa70660cb25199",
+    "zipf": 3.02
   },
   {
     "id": "Jugendfu3rsorge",
@@ -3005,10 +4158,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Jugendfu3rsorge.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Jugendfu3rsorge.htm",
-    "rank": 577,
+    "rank": 2643,
     "first_seen": "2026-10-08T14:04:45+00:00",
-    "updated_at": "2026-10-09T10:48:50+00:00",
-    "hash": "f642052bc54488fe"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e634ab31761610b3",
+    "zipf": 2.25
   },
   {
     "id": "Kamerad",
@@ -3077,10 +4231,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kamerad.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kamerad.htm",
-    "rank": 335,
+    "rank": 1211,
     "first_seen": "2026-10-08T12:19:12+00:00",
-    "updated_at": "2026-10-12T04:36:02+00:00",
-    "hash": "6cbfc1d1886eb5bd"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6136761b239d13b7",
+    "zipf": 3.38
   },
   {
     "id": "Kinderarzt",
@@ -3139,10 +4294,143 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kinderarzt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kinderarzt.htm",
-    "rank": 282,
+    "rank": 1357,
     "first_seen": "2026-10-08T11:56:28+00:00",
-    "updated_at": "2026-10-12T04:35:06+00:00",
-    "hash": "59d1fa1194de6ffa"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "cc862182f21185b9",
+    "zipf": 3.24
+  },
+  {
+    "id": "Klappe",
+    "type": "noun",
+    "lemma": "Klappe",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Klappen",
+    "genitive": "Klappe",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "flap",
+      "cover",
+      "lid",
+      "mouth",
+      "baffle",
+      "cakehole",
+      "clack",
+      "clapperboard",
+      "damper",
+      "gay bar",
+      "gob",
+      "hatch",
+      "key",
+      "louver",
+      "louvre",
+      "servo tab",
+      "shutter",
+      "trap",
+      "valve"
+    ],
+    "definitions_de": [
+      "Vorrichtung, die an einer Seite befestigt ist, bewegt werden kann und eine Öffnung verschließt",
+      "Mund, Babbel, Fresse, Fressluke, Maul, Mund"
+    ],
+    "synonyms": [
+      "Vorrichtung",
+      "Mund",
+      "Babbel",
+      "Fresse",
+      "Fressluke",
+      "Maul"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich halte lieber die Klappe.",
+        "en": "I prefer to keep quiet."
+      },
+      {
+        "de": "Zwei Fliegen mit einer Klappe schlagen.",
+        "en": "To kill two birds with one stone."
+      },
+      {
+        "de": "Sei so freundlich und halt die Klappe.",
+        "en": "Do me a favour and shut up."
+      },
+      {
+        "de": "So schlage ich zwei Fliegen mit einer Klappe.",
+        "en": "That way I kill two birds with one stone."
+      },
+      {
+        "de": "Die Klappen des Krankenwagens standen bereits offen, standen eigenartig schräg in der Luft.",
+        "en": "The ambulance doors were already open, standing oddly tilted in the air."
+      },
+      {
+        "de": "Hinter Anatols großer Klappe steckt ein sehr schwaches Selbstbewusstsein.",
+        "en": "Behind Anatol's big mouth lies a very weak self-confidence."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Klappe.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Klappe.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Klappe.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Klappe.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Klappe.htm",
+    "rank": 786,
+    "zipf": 3.96,
+    "first_seen": "2026-10-13T01:51:19+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "eaca512f6d01c7cb"
+  },
+  {
+    "id": "Klappentext",
+    "type": "noun",
+    "lemma": "Klappentext",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Klappentexte",
+    "genitive": "Klappentext(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "blurb"
+    ],
+    "definitions_de": [
+      "relativ kurzer Text auf einem eingeklappten Teil eines Buchumschlags"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Von großer Neugier getrieben lief ich zum Haus, beugte mich über den Stuhl und las den Klappentext.",
+        "en": "Driven by great curiosity, I ran to the house, leaned over the chair, and read the blurb."
+      },
+      {
+        "de": "Der Klappentext des Buches wimmelt nur so von Superlativen.",
+        "en": "The book's blurbs overflow with superlatives."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Klappentext.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Klappentext.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Klappentext.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Klappentext.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Klappentext.htm",
+    "rank": 2135,
+    "zipf": 2.62,
+    "first_seen": "2026-10-13T01:51:19+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b035a618fcf2effe"
   },
   {
     "id": "Krankengeld",
@@ -3182,10 +4470,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Krankengeld.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Krankengeld.htm",
-    "rank": 718,
+    "rank": 1767,
     "first_seen": "2026-10-12T08:09:58+00:00",
-    "updated_at": "2026-10-12T09:21:41+00:00",
-    "hash": "58858cd7003a4b75"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1a3419f5ad6e0afc",
+    "zipf": 2.88
   },
   {
     "id": "Ko3nigreich",
@@ -3243,10 +4532,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ko3nigreich.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ko3nigreich.htm",
-    "rank": 680,
+    "rank": 705,
     "first_seen": "2026-10-08T14:49:10+00:00",
-    "updated_at": "2026-10-12T04:41:14+00:00",
-    "hash": "8fa5ff9dedc4f410"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3793320af40abb1f",
+    "zipf": 4.09
   },
   {
     "id": "Ko3rperfunktion",
@@ -3288,10 +4578,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ko3rperfunktion.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ko3rperfunktion.htm",
-    "rank": 786,
+    "rank": 3357,
     "first_seen": "2026-10-12T08:38:52+00:00",
-    "updated_at": "2026-10-12T11:03:56+00:00",
-    "hash": "acc493b2ff242031"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e96477d88922023f",
+    "zipf": 1.6
   },
   {
     "id": "Ko3rpergeruch",
@@ -3333,10 +4624,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ko3rpergeruch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ko3rpergeruch.htm",
-    "rank": 786,
+    "rank": 2440,
     "first_seen": "2026-10-12T08:38:52+00:00",
-    "updated_at": "2026-10-12T11:04:04+00:00",
-    "hash": "f645ff1f602b8df7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "20eb7a527a5568a2",
+    "zipf": 2.41
   },
   {
     "id": "Ladenpreis",
@@ -3370,10 +4662,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ladenpreis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ladenpreis.htm",
-    "rank": 860,
+    "rank": 2947,
     "first_seen": "2026-10-12T14:32:52+00:00",
-    "updated_at": "2026-10-12T22:56:41+00:00",
-    "hash": "887995339126c161"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fd496526dfb67a3f",
+    "zipf": 2.0
   },
   {
     "id": "Laut",
@@ -3434,10 +4727,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Laut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Laut.htm",
-    "rank": 772,
+    "rank": 144,
     "first_seen": "2026-10-12T08:32:58+00:00",
-    "updated_at": "2026-10-12T09:27:31+00:00",
-    "hash": "0d7a57de54dfd584"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9db5927506f04600",
+    "zipf": 5.23
   },
   {
     "id": "Lebensalter",
@@ -3490,10 +4784,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lebensalter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lebensalter.htm",
-    "rank": 136,
+    "rank": 1487,
     "first_seen": "2026-10-08T11:00:21+00:00",
-    "updated_at": "2026-10-09T01:00:45+00:00",
-    "hash": "e5a2600190e8ab69"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "038e827cab1cf05e",
+    "zipf": 3.11
   },
   {
     "id": "Lebensart",
@@ -3554,10 +4849,54 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lebensart.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lebensart.htm",
-    "rank": 136,
+    "rank": 1429,
     "first_seen": "2026-10-08T11:00:21+00:00",
-    "updated_at": "2026-10-12T04:32:47+00:00",
-    "hash": "3a3187b6c5f77b18"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d59280d6a3c41742",
+    "zipf": 3.16
+  },
+  {
+    "id": "Legat",
+    "type": "noun",
+    "lemma": "Legat",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Legaten",
+    "genitive": "Legaten",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "legate",
+      "papal legate"
+    ],
+    "definitions_de": [
+      "römischer Gesandter im Range eines Unterfeldherrn",
+      "[Religion] päpstlicher Gesandter"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Unter den Führern dieser Schar befanden sich Markgraf Albrecht und Bischof Anselm von Havelberg als päpstlicher Legat.",
+        "en": "Among the leaders of this group were Margrave Albrecht and Bishop Anselm of Havelberg as papal legate."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Legat_mask.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Legat_mask.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Legat_mask.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Legat_mask.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Legat.htm",
+    "rank": 1589,
+    "zipf": 3.02,
+    "first_seen": "2026-10-13T11:46:44+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "98a3db89466e7052"
   },
   {
     "id": "Leidensgenosse",
@@ -3598,10 +4937,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Leidensgenosse.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Leidensgenosse.htm",
-    "rank": 158,
+    "rank": 3378,
     "first_seen": "2026-10-08T11:02:26+00:00",
-    "updated_at": "2026-10-12T04:33:10+00:00",
-    "hash": "932590353e473581"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "07318a2a6d66a0b4",
+    "zipf": 1.57
   },
   {
     "id": "Lichtblick",
@@ -3653,10 +4993,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lichtblick.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lichtblick.htm",
-    "rank": 764,
+    "rank": 1358,
     "first_seen": "2026-10-12T08:30:08+00:00",
-    "updated_at": "2026-10-12T09:27:09+00:00",
-    "hash": "9dc6e439db9021d1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "efeb4163c8b31baf",
+    "zipf": 3.24
   },
   {
     "id": "La3ssigkeit",
@@ -3705,10 +5046,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_La3ssigkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/La3ssigkeit.htm",
-    "rank": 175,
+    "rank": 2080,
     "first_seen": "2026-10-08T11:09:11+00:00",
-    "updated_at": "2026-10-09T01:06:14+00:00",
-    "hash": "ae73e86d1e668ce4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "50b0e6b4cec59f62",
+    "zipf": 2.65
   },
   {
     "id": "Machbarkeit",
@@ -3740,10 +5082,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Machbarkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Machbarkeit.htm",
-    "rank": 201,
+    "rank": 1721,
     "first_seen": "2026-10-08T11:21:49+00:00",
-    "updated_at": "2026-10-09T01:13:51+00:00",
-    "hash": "3f04a968f8c4af5f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7ee2788429f04aca",
+    "zipf": 2.91
   },
   {
     "id": "Meinungsa3us5erung",
@@ -3803,10 +5146,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Meinungsa3us5erung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Meinungsa3us5erung.htm",
-    "rank": 69,
+    "rank": 1135,
     "first_seen": "2026-10-08T10:53:33+00:00",
-    "updated_at": "2026-10-12T04:31:19+00:00",
-    "hash": "389a51e3d255f5b4"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "2ee38ae95b86a8c8",
+    "zipf": 3.45
   },
   {
     "id": "Menschenwu3rde",
@@ -3848,10 +5192,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Menschenwu3rde.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Menschenwu3rde.htm",
-    "rank": 131,
+    "rank": 1179,
     "first_seen": "2026-10-08T10:59:53+00:00",
-    "updated_at": "2026-10-12T04:32:42+00:00",
-    "hash": "c8b5fad794305a16"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0fe126eac25a4ded",
+    "zipf": 3.41
   },
   {
     "id": "Missbildung",
@@ -3898,10 +5243,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Missbildung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Missbildung.htm",
-    "rank": 484,
+    "rank": 2623,
     "first_seen": "2026-10-08T13:23:50+00:00",
-    "updated_at": "2026-10-12T04:38:43+00:00",
-    "hash": "c9b0af435efba577"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fdcd77dc08ae108f",
+    "zipf": 2.27
   },
   {
     "id": "Nachahmung",
@@ -3964,10 +5310,113 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nachahmung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nachahmung.htm",
-    "rank": 76,
+    "rank": 1501,
     "first_seen": "2026-10-08T10:54:20+00:00",
-    "updated_at": "2026-10-12T04:31:30+00:00",
-    "hash": "d97eab45f14adc8c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9db64e2d533b0186",
+    "zipf": 3.1
+  },
+  {
+    "id": "Nenner",
+    "type": "noun",
+    "lemma": "Nenner",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Nenner",
+    "genitive": "Nenners",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "denominator"
+    ],
+    "definitions_de": [
+      "[Wissenschaft] im gemeinen Bruch die Zahl unter dem Bruchstrich"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Man muss den kleinsten gemeinsamen Nenner ermitteln.",
+        "en": "You need to find the lowest common denominator."
+      },
+      {
+        "de": "Jede Bruchzahl besteht aus Zähler und Nenner.",
+        "en": "Every fraction consists of a numerator and a denominator."
+      },
+      {
+        "de": "Um einen gemeinen Bruch zu kürzen, dividiert man Zähler und Nenner durch den größten gemeinsamen Teiler.",
+        "en": "To simplify a common fraction, one divides the numerator and denominator by the greatest common divisor."
+      },
+      {
+        "de": "Es kostete viel Überzeugungsarbeit, um alles auf einen Nenner zu bringen.",
+        "en": "It took a lot of persuasive work to bring everything to a common denominator."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Nenner.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Nenner.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Nenner.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nenner.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Nenner.htm",
+    "rank": 1198,
+    "zipf": 3.39,
+    "first_seen": "2026-10-13T02:16:33+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "adff309af658955a"
+  },
+  {
+    "id": "Nennform",
+    "type": "noun",
+    "lemma": "Nennform",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Nennformen",
+    "genitive": "Nennform",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "infinitive",
+      "base form",
+      "citation form",
+      "lemma",
+      "reference form"
+    ],
+    "definitions_de": [
+      "[Sprache] die Wortform aus dem Paradigma eines Wortes, die man benutzt, um das Wort zu nennen oder im Lexikon zu suchen, Zitierform im Lexikon, Grundform, Zitierform, Infinitiv"
+    ],
+    "synonyms": [
+      "Grundform",
+      "Zitierform",
+      "Infinitiv"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "In einigen sprachwissenschaftlichen Lexika wird mit Nennform nur auf den Infinitiv verwiesen.",
+        "en": "In some linguistic dictionaries, the nominative form refers only to the infinitive."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Nennform.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Nennform.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Nennform.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nennform.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Nennform.htm",
+    "rank": 3942,
+    "zipf": 0.0,
+    "first_seen": "2026-10-13T02:16:33+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ec2d5e3edd28ac37"
   },
   {
     "id": "Neuauflage",
@@ -4024,10 +5473,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Neuauflage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Neuauflage.htm",
-    "rank": 949,
+    "rank": 892,
     "first_seen": "2026-10-12T15:11:22+00:00",
-    "updated_at": "2026-10-12T23:10:13+00:00",
-    "hash": "0dc981f0481d5058"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4ea7b03b9a94a872",
+    "zipf": 3.78
   },
   {
     "id": "Neuerscheinung",
@@ -4068,10 +5518,76 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Neuerscheinung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Neuerscheinung.htm",
-    "rank": 419,
+    "rank": 2010,
     "first_seen": "2026-10-08T12:55:54+00:00",
-    "updated_at": "2026-10-12T04:37:20+00:00",
-    "hash": "3f5b2a5e35db3a9c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3e28aec1e4e266a0",
+    "zipf": 2.7
+  },
+  {
+    "id": "Normalfall",
+    "type": "noun",
+    "lemma": "Normalfall",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Normalfälle",
+    "genitive": "Normalfall(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "normal case",
+      "rule",
+      "usual situation"
+    ],
+    "definitions_de": [
+      "gewöhnlich vorherrschende oder eintreffende Situation oder Beurteilung der Lage, Regelfall"
+    ],
+    "synonyms": [
+      "Regelfall"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Im Normalfall sind Männer größer als Frauen.",
+        "en": "In normal cases, men are taller than women."
+      },
+      {
+        "de": "Daran hängen sich im Normalfall immer zwei Personen.",
+        "en": "Normally, two people always hang on to this."
+      },
+      {
+        "de": "Wir sprechen hier nicht von Normalfällen, sondern von Notfällen.",
+        "en": "We are not talking about normal cases, but about emergencies."
+      },
+      {
+        "de": "Im Normalfall sieht es so aus, als wäre die Erdachse ein Stabmagnet.",
+        "en": "In normal cases, it looks like the Earth's axis is a bar magnet."
+      },
+      {
+        "de": "Schwankende Einkommen sind der Normalfall.",
+        "en": "Fluctuating incomes are the norm."
+      },
+      {
+        "de": "Sommerliche Hitzewellen werden in Europa zum Normalfall.",
+        "en": "Summer heatwaves are becoming the new normal across Europe."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Normalfall.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Normalfall.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Normalfall.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Normalfall.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Normalfall.htm",
+    "rank": 1110,
+    "zipf": 3.48,
+    "first_seen": "2026-10-13T02:36:31+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "1ff9fa80ef36ab66"
   },
   {
     "id": "Ochse",
@@ -4132,10 +5648,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ochse.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ochse.htm",
-    "rank": 871,
+    "rank": 1591,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-12T23:02:32+00:00",
-    "hash": "ec2339ad365722be"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "2c597ba7ecb7a48c",
+    "zipf": 3.02
   },
   {
     "id": "Ordensfrau",
@@ -4172,10 +5689,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ordensfrau.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ordensfrau.htm",
-    "rank": 155,
+    "rank": 2804,
     "first_seen": "2026-10-08T11:02:09+00:00",
-    "updated_at": "2026-10-12T04:33:04+00:00",
-    "hash": "f2458915e18c763a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0fdf8d6202f00a48",
+    "zipf": 2.12
   },
   {
     "id": "Perfektionismus",
@@ -4223,10 +5741,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Perfektionismus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Perfektionismus.htm",
-    "rank": 889,
+    "rank": 1994,
     "first_seen": "2026-10-12T14:45:07+00:00",
-    "updated_at": "2026-10-12T23:04:57+00:00",
-    "hash": "4193a3a1b09dd337"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "5a080bc65dacdf50",
+    "zipf": 2.71
   },
   {
     "id": "Pflegekind",
@@ -4264,10 +5783,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Pflegekind.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Pflegekind.htm",
-    "rank": 47,
+    "rank": 2368,
     "first_seen": "2026-10-08T10:51:02+00:00",
-    "updated_at": "2026-10-12T04:30:35+00:00",
-    "hash": "5a8861d37602d94b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "933586392c4b0836",
+    "zipf": 2.46
   },
   {
     "id": "Platzhalter",
@@ -4313,10 +5833,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Platzhalter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Platzhalter.htm",
-    "rank": 609,
+    "rank": 1810,
     "first_seen": "2026-10-08T14:18:08+00:00",
-    "updated_at": "2026-10-09T10:49:24+00:00",
-    "hash": "5181138ee8eb58b5"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7ed58cdb264949a4",
+    "zipf": 2.85
   },
   {
     "id": "Platzierung",
@@ -4366,10 +5887,74 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Platzierung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Platzierung.htm",
-    "rank": 609,
+    "rank": 935,
     "first_seen": "2026-10-08T14:18:08+00:00",
-    "updated_at": "2026-10-12T04:40:07+00:00",
-    "hash": "92085572934459a1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "dafacd815b0b2205",
+    "zipf": 3.71
+  },
+  {
+    "id": "Raumfahrer",
+    "type": "noun",
+    "lemma": "Raumfahrer",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Raumfahrer",
+    "genitive": "Raumfahrers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "astronaut",
+      "spaceman"
+    ],
+    "definitions_de": [
+      "Besatzungsmitglied eines Raumfahrzeugs im Rahmen einer Weltraummission, Teilnehmer eines Raumflugs, Raumflieger, Raumpilot, Weltraumflieger, Weltraumpilot"
+    ],
+    "synonyms": [
+      "Raumflieger",
+      "Raumpilot",
+      "Weltraumflieger",
+      "Weltraumpilot"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich will Raumfahrer werden.",
+        "en": "I want to be an astronaut."
+      },
+      {
+        "de": "Alle bis auf drei Astronauten sind schon erfahrene Raumfahrer.",
+        "en": "All but three of the astronauts are space flight veterans."
+      },
+      {
+        "de": "Schiffe und Hubschrauber machten sich auf den Weg, um die Raumfahrer zu retten.",
+        "en": "Ships and helicopters left for the spacemen's rescue."
+      },
+      {
+        "de": "Die dünne und empfindliche Außenhaut ist alles, was die Raumfahrer vor dem Vakuum des Weltalls schützt.",
+        "en": "The thin and sensitive outer skin is all that protects astronauts from the vacuum of space."
+      },
+      {
+        "de": "Und welche Strategien und Gegenmaßnahmen hält die Weltraummedizin bereit, um die Gesundheit von Raumfahrern bei Reisen zum Mars bestmöglich zu schützen?",
+        "en": "And what strategies and countermeasures does space medicine provide to best protect the health of astronauts on journeys to Mars?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Raumfahrer.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Raumfahrer.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Raumfahrer.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Raumfahrer.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Raumfahrer.htm",
+    "rank": 1880,
+    "zipf": 2.8,
+    "first_seen": "2026-10-13T02:10:37+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c823882552e301ce"
   },
   {
     "id": "Rechthaber",
@@ -4404,10 +5989,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rechthaber.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rechthaber.htm",
-    "rank": 237,
+    "rank": 3276,
     "first_seen": "2026-10-08T11:36:35+00:00",
-    "updated_at": "2026-10-09T01:19:19+00:00",
-    "hash": "bac8c22d7066f2b8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8bc905f2b001b278",
+    "zipf": 1.69
   },
   {
     "id": "Reichtum",
@@ -4477,10 +6063,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Reichtum.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Reichtum.htm",
-    "rank": 602,
+    "rank": 771,
     "first_seen": "2026-10-08T14:15:38+00:00",
-    "updated_at": "2026-10-12T04:39:56+00:00",
-    "hash": "d4ec844b64ce7e46"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ab0d3a066ca5c88f",
+    "zipf": 3.98
   },
   {
     "id": "Restaurierung",
@@ -4529,10 +6116,167 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Restaurierung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Restaurierung.htm",
-    "rank": 780,
+    "rank": 1149,
     "first_seen": "2026-10-12T08:36:46+00:00",
-    "updated_at": "2026-10-12T09:28:13+00:00",
-    "hash": "10b1af626176669c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "f910b2948eab38e8",
+    "zipf": 3.44
+  },
+  {
+    "id": "Richtungswechsel",
+    "type": "noun",
+    "lemma": "Richtungswechsel",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Richtungswechsel",
+    "genitive": "Richtungswechsels",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "change in direction",
+      "shift in direction",
+      "change of direction",
+      "direction change"
+    ],
+    "definitions_de": [
+      "Änderung der Bewegungsrichtung"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der in den Richtungswechsel einbezogene Streckenabschnitt einer Autobahn ist in drei durch Schutzplanken voneinander getrennten Fahrbahnen aufgeteilt.",
+        "en": "The section of the highway involved in the change of direction is divided into three lanes separated by guardrails."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Richtungswechsel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Richtungswechsel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Richtungswechsel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Richtungswechsel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Richtungswechsel.htm",
+    "rank": 1927,
+    "zipf": 2.76,
+    "first_seen": "2026-10-13T02:34:07+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c848248c5f9285bd"
+  },
+  {
+    "id": "Rollenfach",
+    "type": "noun",
+    "lemma": "Rollenfach",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Rollenfächer",
+    "genitive": "Rollenfach(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "specialized role"
+    ],
+    "definitions_de": [
+      "spezialisierte Rollenart im Theater"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Witz ist hübsch boshaft, sodass es sich lohnt, ihn über die Abwanderung des Betroffenen in das Rollenfach alter, edler Staatsmann auf Friedensmission hinaus zu bewahren.",
+        "en": "The joke is quite malicious, so it is worth preserving it beyond the departure of the affected person into the role of an old, noble statesman on a peace mission."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Rollenfach.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Rollenfach.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Rollenfach.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rollenfach.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Rollenfach.htm",
+    "rank": 3514,
+    "zipf": 1.41,
+    "first_seen": "2026-10-13T01:53:06+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "314a93d392818f26"
+  },
+  {
+    "id": "Rollenspiel",
+    "type": "noun",
+    "lemma": "Rollenspiel",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Rollenspiele",
+    "genitive": "Rollenspiel(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "role play",
+      "role-playing",
+      "role-playing game",
+      "RPG",
+      "roleplay"
+    ],
+    "definitions_de": [
+      "Spielgeschehen, bei dem sich die Spielenden in andere Personen oder in Tiere versetzen und deren Denkweisen und Verhalten darstellen",
+      "[Bildung, Gefühle, Gesellschaft] Lehr- oder Therapiemethode",
+      "[Spiele] Spiel",
+      "[Sprache] Simulation von Konfliktsituationen und Gesprächen zu Schulungs- oder Einstellungszwecken"
+    ],
+    "synonyms": [
+      "Spielgeschehen",
+      "Spiel"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Beim Rollenspiel wollte er immer nur Zwerge spielen.",
+        "en": "In the role-playing game, he always wanted to play only dwarves."
+      },
+      {
+        "de": "Doch sollte Clara sich bald entschließen, das falsche Rollenspiel zu beenden.",
+        "en": "But Clara should soon decide to end the false role play."
+      },
+      {
+        "de": "Welcher Unterschied ist zwischen einem Rollenspiel und einem Brettspiel?",
+        "en": "What is the difference between a role-playing game and a board game?"
+      },
+      {
+        "de": "Sie mag es gerne, wenn sie bei Rollenspielen angeleint wird.",
+        "en": "She likes it when she is leashed during role-playing games."
+      },
+      {
+        "de": "Die Beliebtheit und Häufigkeit des Motivs der mehrfachen Verwandlung hebt diese deutlich von der Spielweise des Rollenspiels ab.",
+        "en": "The popularity and frequency of the motif of multiple transformations clearly distinguishes this from the gameplay of role-playing games."
+      },
+      {
+        "de": "Gewaltprävention für Jugendliche arbeitet oft mit Rollenspiel und Verhaltenstraining.",
+        "en": "Violence prevention for young people often works with role-playing and behavior training."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Rollenspiel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Rollenspiel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Rollenspiel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rollenspiel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Rollenspiel.htm",
+    "rank": 1086,
+    "zipf": 3.51,
+    "first_seen": "2026-10-13T01:53:06+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "141c7ac44ccbc0c3"
   },
   {
     "id": "Ruhepause",
@@ -4587,10 +6331,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ruhepause.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ruhepause.htm",
-    "rank": 464,
+    "rank": 2014,
     "first_seen": "2026-10-08T13:15:49+00:00",
-    "updated_at": "2026-10-12T04:38:33+00:00",
-    "hash": "a0f460dfddaafeee"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4084858af1a113bd",
+    "zipf": 2.7
   },
   {
     "id": "Ruhestand",
@@ -4646,10 +6391,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ruhestand.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ruhestand.htm",
-    "rank": 464,
+    "rank": 721,
     "first_seen": "2026-10-08T13:15:49+00:00",
-    "updated_at": "2026-10-12T04:38:38+00:00",
-    "hash": "bdccb9c0fa1c64b7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "02462de5fef81d14",
+    "zipf": 4.07
   },
   {
     "id": "Schlussfolgerung",
@@ -4711,10 +6457,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schlussfolgerung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schlussfolgerung.htm",
-    "rank": 881,
+    "rank": 1048,
     "first_seen": "2026-10-12T14:41:16+00:00",
-    "updated_at": "2026-10-12T23:03:14+00:00",
-    "hash": "4aec31d3cf7981c6"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "863b1d58cf818924",
+    "zipf": 3.56
   },
   {
     "id": "Scha3ferhund",
@@ -4778,10 +6525,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Scha3ferhund.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Scha3ferhund.htm",
-    "rank": 59,
+    "rank": 1431,
     "first_seen": "2026-10-08T10:52:25+00:00",
-    "updated_at": "2026-10-12T04:30:57+00:00",
-    "hash": "258360224898f1aa"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c3bbcc7d1549b68e",
+    "zipf": 3.16
   },
   {
     "id": "Schu3leraustausch",
@@ -4823,10 +6571,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schu3leraustausch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schu3leraustausch.htm",
-    "rank": 554,
+    "rank": 1902,
     "first_seen": "2026-10-08T13:54:39+00:00",
-    "updated_at": "2026-10-09T10:47:48+00:00",
-    "hash": "ffa7ab3a90069881"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "745759329862c088",
+    "zipf": 2.78
   },
   {
     "id": "Siebdruck",
@@ -4871,10 +6620,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Siebdruck.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Siebdruck.htm",
-    "rank": 7,
+    "rank": 2271,
     "first_seen": "2026-10-08T10:45:51+00:00",
-    "updated_at": "2026-10-12T04:30:06+00:00",
-    "hash": "5d30c8ea13b2740e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "55bd06a580731e57",
+    "zipf": 2.52
   },
   {
     "id": "Siebensachen",
@@ -4946,10 +6696,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Siebensachen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Siebensachen.htm",
-    "rank": 551,
+    "rank": 3131,
     "first_seen": "2026-10-08T13:53:35+00:00",
-    "updated_at": "2026-10-12T04:39:07+00:00",
-    "hash": "b2202d878d805122"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ebec1f7dd2ee204e",
+    "zipf": 1.84
   },
   {
     "id": "Sinnbild",
@@ -5009,10 +6760,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sinnbild.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sinnbild.htm",
-    "rank": 812,
+    "rank": 1305,
     "first_seen": "2026-10-12T14:11:51+00:00",
-    "updated_at": "2026-10-12T22:45:11+00:00",
-    "hash": "273e7fd3d8c27364"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "bdb01bb40d7cad50",
+    "zipf": 3.29
   },
   {
     "id": "Sinnengenuss",
@@ -5044,10 +6796,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sinnengenuss.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sinnengenuss.htm",
-    "rank": 812,
+    "rank": 3986,
     "first_seen": "2026-10-12T14:11:51+00:00",
-    "updated_at": "2026-10-12T22:45:19+00:00",
-    "hash": "f680125442655410"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b3a2e37b42f6ad76",
+    "zipf": 0.0
   },
   {
     "id": "Sinneseindruck",
@@ -5081,10 +6834,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sinneseindruck.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sinneseindruck.htm",
-    "rank": 812,
+    "rank": 3303,
     "first_seen": "2026-10-12T14:11:51+00:00",
-    "updated_at": "2026-10-12T22:45:28+00:00",
-    "hash": "36cf0c79599b0823"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d90815b27dff2302",
+    "zipf": 1.66
   },
   {
     "id": "Sorgenkind",
@@ -5128,10 +6882,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sorgenkind.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sorgenkind.htm",
-    "rank": 422,
+    "rank": 2101,
     "first_seen": "2026-10-08T12:56:58+00:00",
-    "updated_at": "2026-10-12T04:37:25+00:00",
-    "hash": "7e04815163559457"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "4cd673840c0dbf58",
+    "zipf": 2.64
   },
   {
     "id": "Sorgerecht",
@@ -5177,10 +6932,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Sorgerecht.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sorgerecht.htm",
-    "rank": 577,
+    "rank": 1247,
     "first_seen": "2026-10-08T14:04:45+00:00",
-    "updated_at": "2026-10-09T10:48:56+00:00",
-    "hash": "71222ac526ada964"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "49d08dd9f90263cc",
+    "zipf": 3.35
   },
   {
     "id": "Standard",
@@ -5242,10 +6998,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Standard_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Standard.htm",
-    "rank": 835,
+    "rank": 467,
     "first_seen": "2026-10-12T22:53:09+00:00",
-    "updated_at": "2026-10-12T22:53:30+00:00",
-    "hash": "1bdba1ad7a323794"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "38e27ef5d6f0a3cc",
+    "zipf": 4.61
   },
   {
     "id": "Standardsprache",
@@ -5294,10 +7051,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Standardsprache.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Standardsprache.htm",
-    "rank": 835,
+    "rank": 2057,
     "first_seen": "2026-10-12T14:22:00+00:00",
-    "updated_at": "2026-10-12T22:54:34+00:00",
-    "hash": "c53dbe0fb3ed9b1c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "496a626cf696e216",
+    "zipf": 2.67
   },
   {
     "id": "Standbein",
@@ -5352,10 +7110,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Standbein.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Standbein.htm",
-    "rank": 835,
+    "rank": 1480,
     "first_seen": "2026-10-12T14:22:00+00:00",
-    "updated_at": "2026-10-12T22:54:55+00:00",
-    "hash": "38a3b3c5b1de634a"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d062d20a7ae0b499",
+    "zipf": 3.12
   },
   {
     "id": "Stellenangebot",
@@ -5422,10 +7181,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stellenangebot.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stellenangebot.htm",
-    "rank": 575,
+    "rank": 1664,
     "first_seen": "2026-10-08T14:04:03+00:00",
-    "updated_at": "2026-10-12T04:39:38+00:00",
-    "hash": "30a648370df5691c"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6a4c12aa21a81f65",
+    "zipf": 2.96
   },
   {
     "id": "Stellensuche",
@@ -5464,10 +7224,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stellensuche.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stellensuche.htm",
-    "rank": 575,
+    "rank": 2635,
     "first_seen": "2026-10-08T14:04:03+00:00",
-    "updated_at": "2026-10-12T04:39:44+00:00",
-    "hash": "23f18ed50adf5852"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "0e9159e4b502d554",
+    "zipf": 2.26
   },
   {
     "id": "Sterbenswo3rtchen",
@@ -5504,10 +7265,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sterbenswo3rtchen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sterbenswo3rtchen.htm",
-    "rank": 405,
+    "rank": 3095,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-12T04:36:57+00:00",
-    "hash": "4dc5bce498693c51"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "019101c9660e2fd9",
+    "zipf": 1.88
   },
   {
     "id": "Sternstunde",
@@ -5555,10 +7317,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sternstunde.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sternstunde.htm",
-    "rank": 291,
+    "rank": 1890,
     "first_seen": "2026-10-08T12:00:38+00:00",
-    "updated_at": "2026-10-12T04:35:17+00:00",
-    "hash": "6bd1ebc184ee53a9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "95d3467d4c5b5f5a",
+    "zipf": 2.79
   },
   {
     "id": "Sta3rke",
@@ -5645,10 +7408,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sta3rke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sta3rke.htm",
-    "rank": 822,
+    "rank": 535,
     "first_seen": "2026-10-12T14:16:23+00:00",
-    "updated_at": "2026-10-12T22:45:44+00:00",
-    "hash": "527a8cc5800e4545"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e2afe05adac05b73",
+    "zipf": 4.44
   },
   {
     "id": "Stu3ckzahl",
@@ -5710,10 +7474,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stu3ckzahl.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stu3ckzahl.htm",
-    "rank": 757,
+    "rank": 1459,
     "first_seen": "2026-10-12T08:26:40+00:00",
-    "updated_at": "2026-10-12T09:26:27+00:00",
-    "hash": "88abd048f0792ad9"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "07caabd9f9bd2d22",
+    "zipf": 3.14
   },
   {
     "id": "Suche",
@@ -5775,10 +7540,121 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Suche.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Suche.htm",
-    "rank": 443,
+    "rank": 218,
     "first_seen": "2026-10-08T13:06:24+00:00",
-    "updated_at": "2026-10-12T04:37:42+00:00",
-    "hash": "2e7431524df7bc56"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "3dee26a2f5c91b3e",
+    "zipf": 5.1
+  },
+  {
+    "id": "Suchtgefahr",
+    "type": "noun",
+    "lemma": "Suchtgefahr",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Suchtgefahren",
+    "genitive": "Suchtgefahr",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "addiction risk",
+      "danger of addiction"
+    ],
+    "definitions_de": [
+      "Gefahr einer Sucht"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Suchtgefahr.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Suchtgefahr.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Suchtgefahr.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Suchtgefahr.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Suchtgefahr.htm",
+    "rank": 2460,
+    "zipf": 2.4,
+    "first_seen": "2026-10-13T02:22:11+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "af335049fb7bbf59"
+  },
+  {
+    "id": "Su3s5e",
+    "type": "noun",
+    "lemma": "Süße",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "-",
+    "genitive": "Süße",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "sweetness",
+      "sweet",
+      "coyness",
+      "cutie",
+      "sweetener",
+      "sweetheart"
+    ],
+    "definitions_de": [
+      "süßer Geschmack, Geruch",
+      "das Süßsein",
+      "übertriebene beziehungsweise unehrliche Liebenswürdigkeit",
+      "Bezeichnung für eine attraktive, liebenswerte weibliche Person, vertraute Anrede weiblicher Personen, Baby, Darling, Liebling"
+    ],
+    "synonyms": [
+      "Geruch",
+      "Baby",
+      "Darling",
+      "Liebling"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie ist eine Süße.",
+        "en": "She's a cutie."
+      },
+      {
+        "de": "Wie heißt du, Süße?",
+        "en": "What is your name, sweet?"
+      },
+      {
+        "de": "Soll ich dich mitnehmen, Süße?",
+        "en": "Do you need a ride, babe?"
+      },
+      {
+        "de": "Die Süße des Weins war überwältigend.",
+        "en": "The sweetness of the wine was overwhelming."
+      },
+      {
+        "de": "Sie versuchte, ihn mit Süße zu überreden.",
+        "en": "She tried to persuade him with sweetness."
+      },
+      {
+        "de": "Ich habe mir alles Süße versagt, um abzunehmen.",
+        "en": "I have denied myself all sweets to lose weight."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Su3s5e.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Su3s5e.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Su3s5e.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Su3s5e.htm",
+    "rank": 554,
+    "zipf": 4.41,
+    "first_seen": "2026-10-13T01:51:41+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ebe78c717b9abb49"
   },
   {
     "id": "Tagebucheintrag",
@@ -5809,10 +7685,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tagebucheintrag.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tagebucheintrag.htm",
-    "rank": 184,
+    "rank": 2461,
     "first_seen": "2026-10-08T11:14:48+00:00",
-    "updated_at": "2026-10-09T01:08:17+00:00",
-    "hash": "acb1d547fc0bf622"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "efe94892325ddb9e",
+    "zipf": 2.4
   },
   {
     "id": "Tagelo3hner",
@@ -5864,10 +7741,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tagelo3hner.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tagelo3hner.htm",
-    "rank": 184,
+    "rank": 1800,
     "first_seen": "2026-10-08T11:14:48+00:00",
-    "updated_at": "2026-10-12T04:33:27+00:00",
-    "hash": "2f6e75c81b891763"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "497d22e54ff72403",
+    "zipf": 2.86
   },
   {
     "id": "Tatendrang",
@@ -5920,10 +7798,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Tatendrang.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tatendrang.htm",
-    "rank": 675,
+    "rank": 1688,
     "first_seen": "2026-10-08T14:46:24+00:00",
-    "updated_at": "2026-10-12T04:41:09+00:00",
-    "hash": "08753bc3084ff46f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "9f30bdd0069398d0",
+    "zipf": 2.94
   },
   {
     "id": "Teilgebiet",
@@ -5986,10 +7865,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Teilgebiet.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Teilgebiet.htm",
-    "rank": 571,
+    "rank": 1930,
     "first_seen": "2026-10-08T14:01:39+00:00",
-    "updated_at": "2026-10-12T04:39:33+00:00",
-    "hash": "297924fc01b63218"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "83ad3a04bd019e6a",
+    "zipf": 2.76
   },
   {
     "id": "Teufelskreis",
@@ -6049,10 +7929,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Teufelskreis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Teufelskreis.htm",
-    "rank": 455,
+    "rank": 1386,
     "first_seen": "2026-10-08T13:11:38+00:00",
-    "updated_at": "2026-10-12T04:38:10+00:00",
-    "hash": "5e48afc22498dd42"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6d07041e328c1358",
+    "zipf": 3.21
   },
   {
     "id": "Tomografie",
@@ -6088,10 +7969,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tomografie.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tomografie.htm",
-    "rank": 954,
+    "rank": 3191,
     "first_seen": "2026-10-12T15:13:08+00:00",
-    "updated_at": "2026-10-12T23:10:35+00:00",
-    "hash": "1e41a13d04c0c063"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6bb65cca445567d2",
+    "zipf": 1.78
   },
   {
     "id": "Traumbild",
@@ -6140,10 +8022,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Traumbild.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Traumbild.htm",
-    "rank": 966,
+    "rank": 3044,
     "first_seen": "2026-10-12T15:18:22+00:00",
-    "updated_at": "2026-10-12T23:11:17+00:00",
-    "hash": "be11fb675f362ece"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d53c7f21ab150e9a",
+    "zipf": 1.93
   },
   {
     "id": "Tube",
@@ -6199,10 +8082,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tube.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tube.htm",
-    "rank": 563,
+    "rank": 1050,
     "first_seen": "2026-10-08T13:58:49+00:00",
-    "updated_at": "2026-10-12T04:39:17+00:00",
-    "hash": "208d8dba0eda7e2e"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d6ce9918112e605d",
+    "zipf": 3.56
   },
   {
     "id": "Tutor",
@@ -6246,10 +8130,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tutor.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tutor.htm",
-    "rank": 132,
+    "rank": 1741,
     "first_seen": "2026-10-08T10:59:59+00:00",
-    "updated_at": "2026-10-09T01:00:04+00:00",
-    "hash": "8c8bfb6a4719e343"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "71c0a96bed6c9db2",
+    "zipf": 2.9
   },
   {
     "id": "Tu3ftler",
@@ -6287,10 +8172,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tu3ftler.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tu3ftler.htm",
-    "rank": 891,
+    "rank": 2303,
     "first_seen": "2026-10-12T14:45:48+00:00",
-    "updated_at": "2026-10-12T23:05:18+00:00",
-    "hash": "7878938e7699c4cc"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "00b8d2494d259aa6",
+    "zipf": 2.5
   },
   {
     "id": "Vollbart",
@@ -6346,10 +8232,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vollbart.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vollbart.htm",
-    "rank": 668,
+    "rank": 1638,
     "first_seen": "2026-10-08T14:43:57+00:00",
-    "updated_at": "2026-10-12T04:41:03+00:00",
-    "hash": "b9fc26bdc7fdd5bd"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "749082a2417bd30e",
+    "zipf": 2.98
   },
   {
     "id": "Vollbesitz",
@@ -6401,10 +8288,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vollbesitz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vollbesitz.htm",
-    "rank": 668,
+    "rank": 2446,
     "first_seen": "2026-10-08T14:43:57+00:00",
-    "updated_at": "2026-10-09T10:51:00+00:00",
-    "hash": "a991730511f1a827"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "6f3eb0213c0995ed",
+    "zipf": 2.41
   },
   {
     "id": "Vorahnung",
@@ -6466,10 +8354,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vorahnung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vorahnung.htm",
-    "rank": 94,
+    "rank": 1813,
     "first_seen": "2026-10-08T10:56:16+00:00",
-    "updated_at": "2026-10-12T04:32:04+00:00",
-    "hash": "620657eec91d574f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "716c3d54fc6dd451",
+    "zipf": 2.85
   },
   {
     "id": "Wahrscheinlichkeit",
@@ -6532,10 +8421,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wahrscheinlichkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wahrscheinlichkeit.htm",
-    "rank": 624,
+    "rank": 605,
     "first_seen": "2026-10-08T14:24:27+00:00",
-    "updated_at": "2026-10-12T04:40:24+00:00",
-    "hash": "31a46dad73538971"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "87bbd68bb02a969d",
+    "zipf": 4.31
   },
   {
     "id": "Waschbenzin",
@@ -6571,10 +8461,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Waschbenzin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Waschbenzin.htm",
-    "rank": 17,
+    "rank": 3516,
     "first_seen": "2026-10-08T10:47:11+00:00",
-    "updated_at": "2026-10-09T00:40:03+00:00",
-    "hash": "ccb7423cc99b2720"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "628affc249b63f81",
+    "zipf": 1.41
   },
   {
     "id": "Wegbereiter",
@@ -6614,10 +8505,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wegbereiter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wegbereiter.htm",
-    "rank": 130,
+    "rank": 1388,
     "first_seen": "2026-10-08T10:59:48+00:00",
-    "updated_at": "2026-10-09T00:59:00+00:00",
-    "hash": "404179596acd9483"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c7ed4e7c6974aa50",
+    "zipf": 3.21
   },
   {
     "id": "Weh",
@@ -6679,10 +8571,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Weh.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Weh.htm",
-    "rank": 803,
+    "rank": 495,
     "first_seen": "2026-10-12T14:07:39+00:00",
-    "updated_at": "2026-10-12T22:43:52+00:00",
-    "hash": "01e70d02fc87b79b"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "7a6cfd57ff96ae00",
+    "zipf": 4.53
   },
   {
     "id": "Weltall",
@@ -6740,10 +8633,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Weltall.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Weltall.htm",
-    "rank": 270,
+    "rank": 1073,
     "first_seen": "2026-10-08T11:51:13+00:00",
-    "updated_at": "2026-10-09T01:23:50+00:00",
-    "hash": "bb58442931042c21"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "26efb9307bb03913",
+    "zipf": 3.53
   },
   {
     "id": "Werbeabteilung",
@@ -6777,10 +8671,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Werbeabteilung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Werbeabteilung.htm",
-    "rank": 111,
+    "rank": 2838,
     "first_seen": "2026-10-08T10:57:58+00:00",
-    "updated_at": "2026-10-09T00:54:55+00:00",
-    "hash": "54abeb6c12af5f9f"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "fe3017f9ff825345",
+    "zipf": 2.1
   },
   {
     "id": "Werdegang",
@@ -6844,10 +8739,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Werdegang.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Werdegang.htm",
-    "rank": 124,
+    "rank": 1074,
     "first_seen": "2026-10-08T10:59:14+00:00",
-    "updated_at": "2026-10-12T04:32:31+00:00",
-    "hash": "cf6f8fadae384cf7"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "c26fc56e29483158",
+    "zipf": 3.53
   },
   {
     "id": "Wiederaufbau",
@@ -6906,10 +8802,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wiederaufbau.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wiederaufbau.htm",
-    "rank": 25,
+    "rank": 897,
     "first_seen": "2026-10-08T10:48:15+00:00",
-    "updated_at": "2026-10-12T04:30:23+00:00",
-    "hash": "44c4b2cd1b3119e2"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "910f51499a28dbac",
+    "zipf": 3.77
   },
   {
     "id": "Wirbelsturm",
@@ -6970,10 +8867,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wirbelsturm.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wirbelsturm.htm",
-    "rank": 16,
+    "rank": 1802,
     "first_seen": "2026-10-08T10:47:03+00:00",
-    "updated_at": "2026-10-12T04:30:18+00:00",
-    "hash": "40230401f7654059"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "e6e44cb3005be39f",
+    "zipf": 2.86
   },
   {
     "id": "Wochenendbeilage",
@@ -7010,10 +8908,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wochenendbeilage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wochenendbeilage.htm",
-    "rank": 84,
+    "rank": 3285,
     "first_seen": "2026-10-08T10:55:13+00:00",
-    "updated_at": "2026-10-12T04:31:47+00:00",
-    "hash": "c54dd3079e808ce8"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "de64e699e717d2d1",
+    "zipf": 1.68
   },
   {
     "id": "Wohlergehen",
@@ -7066,10 +8965,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wohlergehen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wohlergehen.htm",
-    "rank": 187,
+    "rank": 1175,
     "first_seen": "2026-10-08T11:15:52+00:00",
-    "updated_at": "2026-10-12T04:33:38+00:00",
-    "hash": "21ae60d399a754a1"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "d31550593ce3078d",
+    "zipf": 3.42
   },
   {
     "id": "Zeugenaussage",
@@ -7130,10 +9030,66 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeugenaussage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeugenaussage.htm",
-    "rank": 852,
+    "rank": 1602,
     "first_seen": "2026-10-12T14:29:01+00:00",
-    "updated_at": "2026-10-12T22:55:58+00:00",
-    "hash": "c4028475b385b419"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "20c949e9b89e0308",
+    "zipf": 3.01
+  },
+  {
+    "id": "Zielgruppe",
+    "type": "noun",
+    "lemma": "Zielgruppe",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Zielgruppen",
+    "genitive": "Zielgruppe",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "target group",
+      "audience",
+      "target audience"
+    ],
+    "definitions_de": [
+      "Gruppe von Personen, die mit einer bestimmten Handlung erreicht werden soll"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Noch zwei, drei Anzeigen dazu, und wir haben diese Zielgruppe gut abgedeckt.",
+        "en": "Just two or three more ads, and we have this target group well covered."
+      },
+      {
+        "de": "Die Plakatkampagne hat ihre Zielgruppe nicht erreicht.",
+        "en": "The poster campaign did not reach its target audience."
+      },
+      {
+        "de": "Die krisengeplagte Tourismusbranche in den Alpen braucht nicht nur jeden zahlenden Gast, sondern hat gerade abenteuerlustige Bergsportler als lohnende Zielgruppe wiederentdeckt.",
+        "en": "The crisis-hit tourism industry in the Alps needs not only every paying guest but has just rediscovered adventurous mountain sports enthusiasts as a profitable target group."
+      },
+      {
+        "de": "Bei der Entwicklung von Plansprachen ist im Allgemeinen zu beachten, dass ihre Grammatik möglichst einfach gehalten wird und der Wortschatz für die Zielgruppe relativ leicht erwerbbar ist.",
+        "en": "In the development of planned languages, it is generally to be noted that their grammar should be kept as simple as possible and that the vocabulary for the target audience is relatively easy to acquire."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Zielgruppe.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Zielgruppe.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Zielgruppe.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zielgruppe.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Zielgruppe.htm",
+    "rank": 744,
+    "zipf": 4.03,
+    "first_seen": "2026-10-13T01:41:05+00:00",
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "ea303270ee77d76e"
   },
   {
     "id": "Zwischenfrage",
@@ -7184,10 +9140,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zwischenfrage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zwischenfrage.htm",
-    "rank": 531,
+    "rank": 2554,
     "first_seen": "2026-10-08T13:44:30+00:00",
-    "updated_at": "2026-10-09T10:47:31+00:00",
-    "hash": "d5234a2aa0114f39"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "b0db19c35425e1b5",
+    "zipf": 2.33
   },
   {
     "id": "U3beralterung",
@@ -7231,9 +9188,10 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_U3beralterung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/U3beralterung.htm",
-    "rank": 117,
+    "rank": 2017,
     "first_seen": "2026-10-08T10:58:34+00:00",
-    "updated_at": "2026-10-09T00:55:16+00:00",
-    "hash": "1f14b6d37927f958"
+    "updated_at": "2026-10-13T15:48:41+00:00",
+    "hash": "8a423c515decbef6",
+    "zipf": 2.7
   }
 ]
