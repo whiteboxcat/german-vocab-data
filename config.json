@@ -19,6 +19,8 @@
   "switch_to_monthly_on": "2026-11-08",
   "monthly_interval_days": 30,
   "discovery": {
+    "frequency_source": "wordfreq",
+    "_frequency_comment": "wordfreq = written + spoken German (Wikipedia, news, books, web, subtitles), CC BY-SA 4.0. frequency_list_url is only used if wordfreq isn't installed.",
     "frequency_list_url": "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/de/de_50k.txt",
     "frequency_top_n": 20000,
     "recheck_candidates_after_days": 120,

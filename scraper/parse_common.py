@@ -14,7 +14,7 @@ from .textutil import (
 BASE = "https://www.verbformen.de/"
 
 # Bump this whenever a parser fix should be applied to words already saved (see scraper/reparse.py).
-PARSER_VERSION = 2
+PARSER_VERSION = 3   # 2: whole example sentences · 3: synonyms
 
 
 def parse_level(text: str) -> str | None:
@@ -132,3 +132,42 @@ def _dedupe(items):
 def level_in_text(s: str) -> str | None:
     m = LEVEL_RE.search(s)
     return m.group(1) if m else None
+
+
+def parse_synonyms(soup: BeautifulSoup, headword: str, kind: str, limit: int = 8) -> list[str]:
+    """Synonyms from the 'Bedeutungen' list (OpenThesaurus, CC BY-SA 4.0).
+
+    Each line there is a definition followed by synonyms, all comma-separated, e.g.
+    "mit Wasser … reinigen, den Schmutz entfernen, …, reinigen, sauber machen".
+    Synonyms are the short items (one word, or two like "sauber machen"); longer items are
+    the definition. Nouns keep capitalised single words, verbs keep lowercase verb forms.
+    """
+    h = find_heading(soup, "Bedeutungen")
+    if not h:
+        return []
+    own = headword.lower()
+    out: list[str] = []
+    for el in nodes_until_next_heading(h):
+        if el.name != "li":
+            continue
+        line = clean(el.get_text(""))
+        line = re.sub(r"\[[^\]]*\]", "", line)          # "[Möbel]", "[Fachsprache]" tags
+        for item in (x.strip(" .") for x in line.split(",")):
+            item = item.split("/")[0].strip()                 # "antelefonieren/antelephonieren"
+            words = item.split()
+            if not words or len(words) > 2 or item.lower() == own or "(" in item or "~" in item:
+                continue
+            if any(w.lower().startswith(("jemand", "etwas", "sich", "einer", "einem", "einen")) for w in words):
+                continue                                       # pieces of a definition, not synonyms
+            if kind == "noun":
+                ok = len(words) == 1 and item[:1].isupper() and item.replace("-", "").isalpha()
+            else:
+                last_ok = re.search(r"(e?n|ern|eln)$", words[-1]) is not None
+                light = {"machen", "sein", "werden", "haben", "lassen", "gehen", "kommen", "nehmen",
+                         "geben", "bringen", "halten", "stellen", "setzen", "legen"}
+                ok = item[:1].islower() and last_ok and (len(words) == 1 or words[-1] in light)
+            if ok and item not in out:
+                out.append(item)
+            if len(out) >= limit:
+                return out
+    return out

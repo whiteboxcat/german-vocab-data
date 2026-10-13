@@ -20,6 +20,7 @@ from .http import OutOfTime, PoliteClient, RateLimited
 from .parse_noun import REQUIRED_NOUN_FIELDS, parse_noun
 from .parse_search import page_has_results, parse_search, slug_from_url
 from .parse_verb import REQUIRED_VERB_FIELDS, parse_verb
+from .rank import apply_ranks
 from .store import Store, archive_html, content_hash, now_iso
 
 ARCHIVE_LEVELS: set[str] = set()   # filled from config.json in run()
@@ -42,6 +43,19 @@ def load_candidate_words(cfg: dict) -> list[str]:
     words: list[str] = load_seed_words()
     disc = cfg["discovery"]
     url, top_n = disc.get("frequency_list_url"), int(disc.get("frequency_top_n", 0))
+    if disc.get("frequency_source") == "wordfreq" and top_n > 0:
+        try:
+            from wordfreq import top_n_list
+            n = 0
+            for w in top_n_list("de", top_n * 2, wordlist="large"):
+                if WORD_RE.match(w):
+                    words.append(w)                    # lowercase; the search is case-insensitive
+                    n += 1
+                    if n >= top_n:
+                        break
+            url = None
+        except ImportError:
+            print("! wordfreq not installed; using the frequency_list_url instead")
     if url and top_n > 0:
         try:
             r = requests.get(url, timeout=60)
@@ -235,9 +249,10 @@ def fetch_entry(client: PoliteClient, store: Store, e: dict, targets: set[str]) 
     reg.pop("parse_error", None)
     reg["status"] = "included"
 
-    rec = {"id": slug, **rec, "rank": reg.get("rank")}  # lower rank = more common; the app teaches these first
-    h = content_hash(rec)
     old = store.records[kind].get(slug)
+    # Keep the word's place in the frequency order (set by rank.py) so it doesn't count as a change.
+    rec = {"id": slug, **rec, "rank": (old or {}).get("rank", reg.get("rank")), "zipf": (old or {}).get("zipf")}
+    h = content_hash(rec)
     if old and reg.get("hash") == h:
         return "unchanged"
     rec["first_seen"] = (old or {}).get("first_seen") or reg.get("first_seen") or now_iso()
@@ -311,6 +326,7 @@ def run(force: bool = False, limit: int | None = None, skip_discovery: bool = Fa
     except OutOfTime:
         stop_reason = "paused: time budget used; the next run continues"
     finally:
+        apply_ranks(store)
         store.meta["last_run"] = now_iso()
         store.meta["last_run_result"] = stop_reason
         store.meta["last_run_stats"] = {"results": stats, **client.stats()}

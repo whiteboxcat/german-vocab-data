@@ -52,6 +52,9 @@ jobs:
       - name: Apply parser fixes to saved words
         run: python -m scraper.reparse
 
+      - name: Order words by frequency (written + spoken German)
+        run: python -m scraper.rank
+
       - name: Upload fixes to Supabase straight away
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}

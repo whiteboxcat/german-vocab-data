@@ -4,7 +4,7 @@ from __future__ import annotations
 import re
 
 from .parse_common import (
-    parse_audio, parse_definition_lines, parse_english, parse_examples, parse_ipa, parse_level,
+    parse_audio, parse_definition_lines, parse_english, parse_examples, parse_ipa, parse_level, parse_synonyms,
 )
 from .textutil import clean, norm_quotes, soupify, to_text
 
@@ -65,6 +65,7 @@ def parse_noun(html: str, url: str) -> dict:
         "level": parse_level(text),
         "english": parse_english(soup),
         "definitions_de": parse_definition_lines(soup),
+        "synonyms": parse_synonyms(soup, lemma or "", "noun"),
         "ipa": parse_ipa(text),
         "examples": parse_examples(soup),
         "audio": parse_audio(soup),

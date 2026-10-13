@@ -40,7 +40,8 @@ def main() -> int:
             key = f"{kind}:{slug}"
             if page.exists():
                 html = gzip.open(page).read().decode("utf-8")
-                rec = {"id": slug, **PARSERS[kind](html, old.get("source_url", "")), "rank": old.get("rank")}
+                rec = {"id": slug, **PARSERS[kind](html, old.get("source_url", "")),
+                       "rank": old.get("rank"), "zipf": old.get("zipf")}
                 h = content_hash(rec)
                 if h == old.get("hash"):
                     unchanged += 1
