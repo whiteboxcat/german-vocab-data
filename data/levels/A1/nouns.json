@@ -801,6 +801,80 @@
     "hash": "b45364637a1bb538"
   },
   {
+    "id": "Arm",
+    "type": "noun",
+    "lemma": "Arm",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Arme",
+    "genitive": "Arm(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "arm",
+      "ass",
+      "sleeve",
+      "arm of a river",
+      "assistant",
+      "authority",
+      "branch",
+      "influence",
+      "power",
+      "right-hand man",
+      "right-hand woman",
+      "support",
+      "worker"
+    ],
+    "definitions_de": [
+      "[Körper] ein paariges Körperteil beim Menschen, das sich zwischen Rumpf und Hand befindet, Vorderextremität, Glied, Vorderextremität",
+      "Bau- oder Bestandteile, die in der Form einem Arm ähneln, Bauteil, Baugruppe, Bestandteil, Detail, Einzelheit",
+      "[Berufe] für Arbeitskraft, Hilfskraft, Unterstützung, Arbeitskraft, Glied, Helfer, Hilfsarbeiter, Hilfskraft",
+      "für Macht, fremde unüberwindbare Kräfte, Einflüsse, höhere Gewalt, hierarchisch übergeordnete Personen, Wesen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er hilft den Armen.",
+        "en": "He helps the poor."
+      },
+      {
+        "de": "Tom hat lange Arme.",
+        "en": "Tom has long arms."
+      },
+      {
+        "de": "Er hat stärkere Arme als sein Vater.",
+        "en": "He has stronger arms than his father."
+      },
+      {
+        "de": "Mir tut der Arm weh.",
+        "en": "I have an ache in my arm."
+      },
+      {
+        "de": "Die Armen sind nicht immer unglücklich.",
+        "en": "The poor are not always unhappy."
+      },
+      {
+        "de": "Sie hatte einen blauen Fleck am Arm.",
+        "en": "She had a bruise on her arm."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Arm.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Arm.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Arm.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arm.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Arm.htm",
+    "rank": 1003,
+    "first_seen": "2026-10-13T01:49:12+00:00",
+    "updated_at": "2026-10-13T02:55:47+00:00",
+    "hash": "cf76afe654b1c27d"
+  },
+  {
     "id": "Arzt",
     "type": "noun",
     "lemma": "Arzt",
@@ -1334,6 +1408,72 @@
     "hash": "0d4aaafa0a0d4b55"
   },
   {
+    "id": "Beispiel",
+    "type": "noun",
+    "lemma": "Beispiel",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Beispiele",
+    "genitive": "Beispiels",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "example",
+      "case",
+      "exemplar",
+      "instance",
+      "lead",
+      "paradigm",
+      "sample"
+    ],
+    "definitions_de": [
+      "Einzelfall, der zufällig aus einer Menge genommen wurde, der als Erklärung oder Nachweis dient",
+      "Einzelfall, der besonders und deshalb vorbildlich ist"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich gebe ein Beispiel.",
+        "en": "I give an example."
+      },
+      {
+        "de": "Das ist ein schlechtes Beispiel.",
+        "en": "It's a bad example."
+      },
+      {
+        "de": "Das ist kein sehr gutes Beispiel.",
+        "en": "This is not a very good example."
+      },
+      {
+        "de": "Das ist ein Beispiel aus dem Leben.",
+        "en": "It's an example taken from life."
+      },
+      {
+        "de": "Gib uns bitte einige Beispiele.",
+        "en": "Please give us some examples."
+      },
+      {
+        "de": "Ich mag Blumen, zum Beispiel Rosen.",
+        "en": "I like flowers, for example, roses."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Beispiel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Beispiel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Beispiel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Beispiel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Beispiel.htm",
+    "rank": 1085,
+    "first_seen": "2026-10-13T02:24:19+00:00",
+    "updated_at": "2026-10-13T03:26:55+00:00",
+    "hash": "840cc0fb690aa39d"
+  },
+  {
     "id": "Besserung",
     "type": "noun",
     "lemma": "Besserung",
@@ -1463,6 +1603,147 @@
     "first_seen": "2026-10-07T13:43:14+00:00",
     "updated_at": "2026-10-12T04:27:59+00:00",
     "hash": "ad7c648829981b2a"
+  },
+  {
+    "id": "Bewegung",
+    "type": "noun",
+    "lemma": "Bewegung",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Bewegungen",
+    "genitive": "Bewegung",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "movement",
+      "motion",
+      "exercise",
+      "move",
+      "action",
+      "activity",
+      "agitation",
+      "animation",
+      "change",
+      "deformation",
+      "drive",
+      "emotion",
+      "flow",
+      "fluctuation",
+      "gesture",
+      "movement of the hand",
+      "transaction",
+      "travel",
+      "stir"
+    ],
+    "definitions_de": [
+      "Zustand jenseits der Ruhe",
+      "Orts-Zeitkurve des Objekts, Fahrt",
+      "aus der Ruhe gebrachter Gemütszustand, Aufgewühltheit, Rührung",
+      "[Politik] große Gruppe von Menschen, die eine politische Veränderung anstreben, nicht fest organisiert, Bund, Bündnis, Bürgerinitiative, Front, Gruppe"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Eigene Bewegung tut gut.",
+        "en": "Personal movement is good."
+      },
+      {
+        "de": "Sie ist immer in Bewegung.",
+        "en": "She is always doing something."
+      },
+      {
+        "de": "Bewegung ist gut für die Gesundheit.",
+        "en": "Exercise is good for your health."
+      },
+      {
+        "de": "Keine Bewegung, oder ich schieße.",
+        "en": "Don't move, or I'll shoot you."
+      },
+      {
+        "de": "Die Erde ist dort oft in Bewegung.",
+        "en": "The Earth is often in motion there."
+      },
+      {
+        "de": "Unser Planet, die Erde, ist immer in Bewegung.",
+        "en": "Our planet, Earth, is always in motion."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bewegung.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bewegung.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bewegung.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bewegung.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bewegung.htm",
+    "rank": 985,
+    "first_seen": "2026-10-13T01:41:48+00:00",
+    "updated_at": "2026-10-13T02:52:18+00:00",
+    "hash": "e11fd0387c6532de"
+  },
+  {
+    "id": "Bier",
+    "type": "noun",
+    "lemma": "Bier",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Biere",
+    "genitive": "Bier(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "beer",
+      "ale"
+    ],
+    "definitions_de": [
+      "[Gastronomie] aus Hopfen, Malz und Wasser gebrautes alkoholisches Getränk, Hirse, Helles, Hopfentee, Hopfenblütentee, flüssiges Brot",
+      "[Lebensmittel] ein Glas, ein Krug oder auch eine Flasche Bier, Humpen, Kanne, kühle Blonde, kühles Blondes, Maß"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich trinke Bier.",
+        "en": "I drink beer."
+      },
+      {
+        "de": "Ich bestell lieber Bier.",
+        "en": "I would rather order beer."
+      },
+      {
+        "de": "Die Kellnerin bringt das Bier.",
+        "en": "The waitress brings the beer."
+      },
+      {
+        "de": "Das Bier war frisch und gut.",
+        "en": "The beer was fresh and good."
+      },
+      {
+        "de": "Ich habe Lust auf noch ein Bier.",
+        "en": "I feel like another beer."
+      },
+      {
+        "de": "Er sitzt mit einer Flasche Bier vor dem Fernseher.",
+        "en": "He is sitting with a bottle of beer in front of the television."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bier.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bier.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bier.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bier.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bier.htm",
+    "rank": 1004,
+    "first_seen": "2026-10-13T01:49:33+00:00",
+    "updated_at": "2026-10-13T02:56:08+00:00",
+    "hash": "a326b6e9fc7fb9ac"
   },
   {
     "id": "Bild",
@@ -1657,6 +1938,68 @@
     "first_seen": "2026-10-07T10:29:16+00:00",
     "updated_at": "2026-10-08T03:29:46+00:00",
     "hash": "7f22a518358fa47d"
+  },
+  {
+    "id": "Brief",
+    "type": "noun",
+    "lemma": "Brief",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Briefe",
+    "genitive": "Brief(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "letter",
+      "ask",
+      "epistle",
+      "sales letter"
+    ],
+    "definitions_de": [
+      "geschriebene, verschlossene Mitteilung, die per Post oder Boten verschickt wird, Schreiben, Sendschreiben, Epistel"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom schreibt Briefe.",
+        "en": "Tom is writing letters."
+      },
+      {
+        "de": "Er schreibt einen Brief.",
+        "en": "He writes a letter."
+      },
+      {
+        "de": "Es ist ein wichtiger Brief.",
+        "en": "It is an important letter."
+      },
+      {
+        "de": "Ich schreibe keinen Brief auf Englisch.",
+        "en": "I won't write a letter in English."
+      },
+      {
+        "de": "Ich warte auf einen Brief von ihr.",
+        "en": "I am waiting for a letter from her."
+      },
+      {
+        "de": "Schreibst du einen Brief?",
+        "en": "Are you writing a letter?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Brief.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Brief.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Brief.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Brief.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Brief.htm",
+    "rank": 1077,
+    "first_seen": "2026-10-13T02:21:29+00:00",
+    "updated_at": "2026-10-13T03:23:24+00:00",
+    "hash": "91d0802d85bbc48b"
   },
   {
     "id": "Bruder",
@@ -1933,6 +2276,81 @@
     "first_seen": "2026-10-12T14:23:46+00:00",
     "updated_at": "2026-10-12T15:22:56+00:00",
     "hash": "e91e403d4f66f561"
+  },
+  {
+    "id": "Dame",
+    "type": "noun",
+    "lemma": "Dame",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Damen",
+    "genitive": "Dame",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "lady",
+      "queen",
+      "woman",
+      "card",
+      "checker",
+      "checkers",
+      "companion",
+      "dame",
+      "draughts",
+      "female partner",
+      "gentlewoman",
+      "king",
+      "madam",
+      "partner"
+    ],
+    "definitions_de": [
+      "[Personen] Frau",
+      "Spielkarte in verschiedenen Kartenspielen, Ober",
+      "die mächtigste Schachfigur, Königin, Tante",
+      "[Spiele] durch Aufeinanderlegen von zwei Spielsteinen gebildete Spielfigur beim Damespiel"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom tanzt mit den Damen.",
+        "en": "Tom is dancing with the ladies."
+      },
+      {
+        "de": "Ich schenke den Damen die Blumen.",
+        "en": "I give the flowers to the ladies."
+      },
+      {
+        "de": "Darf den Damen geholfen werden?",
+        "en": "Do you ladies need some help?"
+      },
+      {
+        "de": "Meine Damen und Herren, bitte hier entlang.",
+        "en": "Ladies and gentlemen, please come this way."
+      },
+      {
+        "de": "Die Damen und Herren am Empfang haben, schlicht und einfach gesagt, zu repräsentieren.",
+        "en": "The ladies and gentlemen at the reception have, simply put, to represent."
+      },
+      {
+        "de": "Meine Damen und Herren, aufgrund eines Unfalls auf dem Flughafen wird sich die Ankunft verzögern.",
+        "en": "Ladies and gentlemen, due to an accident at the airport, our arrival will be delayed."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Dame_kn.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Dame_kn.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Dame_kn.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dame_kn.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Dame.htm",
+    "rank": 1041,
+    "first_seen": "2026-10-13T03:07:15+00:00",
+    "updated_at": "2026-10-13T03:07:36+00:00",
+    "hash": "bd8b25f8c9259f73"
   },
   {
     "id": "Dank",
@@ -2880,6 +3298,69 @@
     "hash": "6fdfceea6c1c6380"
   },
   {
+    "id": "Fenster",
+    "type": "noun",
+    "lemma": "Fenster",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Fenster",
+    "genitive": "Fensters",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "window",
+      "fenster"
+    ],
+    "definitions_de": [
+      "[Architektur] eine baulich verschieden ausgestaltete verglaste Öffnung in einem Bauwerk, deren hauptsächliche Funktion darin besteht, Licht in das Bauwerk zu führen und dieses zu belüften",
+      "[Räume] das gerahmte Glas, das in eine Fensteröffnung eingesetzt wird",
+      "eine zeitliche, temporäre Öffnung in einem Medium",
+      "[Computer] ein Bildschirmelement in der Informationstechnologie"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das Fenster ist offen.",
+        "en": "The window is open."
+      },
+      {
+        "de": "Mein Wohnzimmer hat breite Fenster.",
+        "en": "My living room has wide windows."
+      },
+      {
+        "de": "Die Fenster waren aus weißem Zucker.",
+        "en": "The windows were made of white sugar."
+      },
+      {
+        "de": "Das Haus hat zwei Türen und viele Fenster.",
+        "en": "The house has two doors and a lot of windows."
+      },
+      {
+        "de": "Schließ das Fenster.",
+        "en": "Close the window."
+      },
+      {
+        "de": "Öffnet das Fenster nicht.",
+        "en": "Don't open the window."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fenster.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fenster.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fenster.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fenster.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fenster.htm",
+    "rank": 970,
+    "first_seen": "2026-10-13T01:33:29+00:00",
+    "updated_at": "2026-10-13T02:48:12+00:00",
+    "hash": "0c0d022418b70ac3"
+  },
+  {
     "id": "Ferienende",
     "type": "noun",
     "lemma": "Ferienende",
@@ -3132,6 +3613,319 @@
     "first_seen": "2026-10-07T14:43:07+00:00",
     "updated_at": "2026-10-12T04:28:01+00:00",
     "hash": "185a2cefe319bf86"
+  },
+  {
+    "id": "Finger",
+    "type": "noun",
+    "lemma": "Finger",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Finger",
+    "genitive": "Fingers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "finger",
+      "boarding bridge",
+      "digit",
+      "dog",
+      "jet bridge"
+    ],
+    "definitions_de": [
+      "[Körper] ein bewegliches Glied der Hand höherer Primaten",
+      "[Computer, Internet] ein Internetprotokoll",
+      "[Einheiten] eine alte Längeneinheit, Fingerbreit",
+      "[Verkehr] eine Fluggastbrücke"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du hast schöne Finger.",
+        "en": "Your fingers are pretty."
+      },
+      {
+        "de": "Wie viele Finger sind das?",
+        "en": "How many fingers are that?"
+      },
+      {
+        "de": "Tom hat sehr lange Finger.",
+        "en": "Tom's fingers are really long."
+      },
+      {
+        "de": "Toms Finger sind wie die einer Frau.",
+        "en": "Tom's fingers are like a woman's."
+      },
+      {
+        "de": "Sein Finger blutet.",
+        "en": "His finger bleeds."
+      },
+      {
+        "de": "Er hat riesige Finger.",
+        "en": "He has enormous fingers."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Finger.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Finger.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Finger.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Finger.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Finger.htm",
+    "rank": 1012,
+    "first_seen": "2026-10-13T01:52:23+00:00",
+    "updated_at": "2026-10-13T02:57:54+00:00",
+    "hash": "a601b6e610ffa66b"
+  },
+  {
+    "id": "Foto",
+    "type": "noun",
+    "lemma": "Foto",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Fotos",
+    "genitive": "Fotos",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "photo",
+      "picture",
+      "photograph",
+      "image",
+      "photographic image",
+      "photographic picture",
+      "photographical image",
+      "photographical picture",
+      "photography",
+      "pic",
+      "print",
+      "shot"
+    ],
+    "definitions_de": [
+      "[Kunst] mit Hilfe eines Fotoapparates erzeugtes Bild, Kurzform für Fotografie, Fotografie, Lichtbild"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich habe viele Fotos.",
+        "en": "I have a lot of photos."
+      },
+      {
+        "de": "Das hier sind zwei schöne Fotos.",
+        "en": "These are two nice pictures."
+      },
+      {
+        "de": "Ich brauche deinen Pass und drei Fotos.",
+        "en": "I need your passport and three photographs."
+      },
+      {
+        "de": "Hier sind Fotos.",
+        "en": "Here are some pictures."
+      },
+      {
+        "de": "Das Foto wirkt gestellt.",
+        "en": "The photo appears staged."
+      },
+      {
+        "de": "Ist das ein aktuelles Foto?",
+        "en": "Is it a recent picture?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Foto_neut.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Foto_neut.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Foto_neut.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Foto_neut.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Foto.htm",
+    "rank": 1054,
+    "first_seen": "2026-10-13T03:12:23+00:00",
+    "updated_at": "2026-10-13T03:12:44+00:00",
+    "hash": "8a964aacb4e3ca87"
+  },
+  {
+    "id": "Fotoalbum",
+    "type": "noun",
+    "lemma": "Fotoalbum",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Fotoalben/Fotoalbums",
+    "genitive": "Fotoalbums",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "photo album"
+    ],
+    "definitions_de": [
+      "Buch mit einer Ansammlung von Fotos, die möglicherweise in einer bestimmten Reihenfolge geordnet sind"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das ist Toms Fotoalbum.",
+        "en": "This is Tom's photo album."
+      },
+      {
+        "de": "Ich habe ein Fotoalbum mitgebracht.",
+        "en": "I brought a photo album."
+      },
+      {
+        "de": "Er zeigte mir sein Fotoalbum.",
+        "en": "He showed me his photograph album."
+      },
+      {
+        "de": "Er hat mir sein Fotoalbum gezeigt.",
+        "en": "He showed me his photo album."
+      },
+      {
+        "de": "Tom ließ mich sein Fotoalbum durchblättern.",
+        "en": "Tom made me look through his photo album."
+      },
+      {
+        "de": "Tom saß an seinem Schreibtisch und blätterte durch ein altes Fotoalbum.",
+        "en": "Tom was sitting at his desk, flipping through an old photo album."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fotoalbum.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fotoalbum.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fotoalbum.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fotoalbum.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fotoalbum.htm",
+    "rank": 1054,
+    "first_seen": "2026-10-13T02:11:19+00:00",
+    "updated_at": "2026-10-13T03:17:31+00:00",
+    "hash": "9746ac3fcf9307a7"
+  },
+  {
+    "id": "Fotoapparat",
+    "type": "noun",
+    "lemma": "Fotoapparat",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Fotoapparate",
+    "genitive": "Fotoapparat(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "camera"
+    ],
+    "definitions_de": [
+      "[Computer] Gerät, das zum Aufnehmen von Fotos dient, Fotokamera, Kamera, Foto"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich habe zwei Fotoapparate.",
+        "en": "I have two cameras."
+      },
+      {
+        "de": "Hast du einen Fotoapparat?",
+        "en": "Do you have a camera?"
+      },
+      {
+        "de": "Hast du meinen Fotoapparat gesehen?",
+        "en": "Did you see my camera?"
+      },
+      {
+        "de": "Hast du deinen Fotoapparat eingepackt?",
+        "en": "Did you pack your camera?"
+      },
+      {
+        "de": "Er hat einen kaputten Fotoapparat gefunden.",
+        "en": "He found a broken camera."
+      },
+      {
+        "de": "Ich habe einen sehr guten Fotoapparat gekauft.",
+        "en": "I bought a very good camera."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fotoapparat.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fotoapparat.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fotoapparat.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fotoapparat.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fotoapparat.htm",
+    "rank": 1054,
+    "first_seen": "2026-10-13T02:11:19+00:00",
+    "updated_at": "2026-10-13T03:17:52+00:00",
+    "hash": "75133128daf41f18"
+  },
+  {
+    "id": "Fotograf",
+    "type": "noun",
+    "lemma": "Fotograf",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Fotografen",
+    "genitive": "Fotografen",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "photographer"
+    ],
+    "definitions_de": [
+      "[Berufe] Person, die sich beruflich mit dem Herstellen und Bearbeiten von Lichtbildern beschäftigt"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich bin Fotograf.",
+        "en": "I'm a photographer."
+      },
+      {
+        "de": "Wir sind Fotografen.",
+        "en": "We are photographers."
+      },
+      {
+        "de": "Er war auch Fotograf.",
+        "en": "He was also a photographer."
+      },
+      {
+        "de": "Er ist von Beruf Fotograf.",
+        "en": "He is a photographer by profession."
+      },
+      {
+        "de": "Du bist wirklich ein guter Fotograf.",
+        "en": "You're really a good photographer."
+      },
+      {
+        "de": "Tom ist einer der teuersten Fotografen der Welt.",
+        "en": "Tom is one of the most expensive photographers in the world."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Fotograf.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Fotograf.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Fotograf.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fotograf.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Fotograf.htm",
+    "rank": 1054,
+    "first_seen": "2026-10-13T02:11:19+00:00",
+    "updated_at": "2026-10-13T03:18:14+00:00",
+    "hash": "c4be56a8040e71a3"
   },
   {
     "id": "Frage",
@@ -5224,6 +6018,76 @@
     "hash": "c2e752082b651a32"
   },
   {
+    "id": "Information",
+    "type": "noun",
+    "lemma": "Information",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Informationen",
+    "genitive": "Information",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "information",
+      "information desk",
+      "briefing",
+      "clarification",
+      "information center",
+      "information point",
+      "informing",
+      "message",
+      "notification"
+    ],
+    "definitions_de": [
+      "kurze informierende Mitteilung, Kunde, Nachricht, Hinweis, Auskunft, Botschaft",
+      "die Beseitigung von Unbestimmtheit, das Informieren, Bekanntmachen, Bilden, Inkenntnissetzen, Mitteilen, Unterrichten",
+      "über alles Wichtige in Kenntnis setzende Auskunft, Auskunft, Daten, Datensammlung, Datenerhebung",
+      "Stelle, an der Auskünfte ausgegeben, vermittelt oder eingeholt werden können, Auskunftsstand, Auskunftsstelle, Infostand"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich brauche Informationen.",
+        "en": "I need information."
+      },
+      {
+        "de": "Ich brauche mehr Informationen.",
+        "en": "I need more information."
+      },
+      {
+        "de": "Das ist eine interessante Information.",
+        "en": "It's an interesting piece of news."
+      },
+      {
+        "de": "Wer übernimmt die Information der Eltern?",
+        "en": "Who takes over the information of the parents?"
+      },
+      {
+        "de": "Es gibt noch keine neuen Informationen.",
+        "en": "There's no new information yet."
+      },
+      {
+        "de": "Darüber gibt es keine Informationen.",
+        "en": "There is no information about this."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Information.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Information.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Information.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Information.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Information.htm",
+    "rank": 1028,
+    "first_seen": "2026-10-13T02:00:07+00:00",
+    "updated_at": "2026-10-13T03:01:38+00:00",
+    "hash": "72b8d2136aca8641"
+  },
+  {
     "id": "Jacke",
     "type": "noun",
     "lemma": "Jacke",
@@ -5999,6 +6863,80 @@
     "first_seen": "2026-10-12T14:10:48+00:00",
     "updated_at": "2026-10-12T15:21:10+00:00",
     "hash": "8b579f6d8ab4799c"
+  },
+  {
+    "id": "Kontrolle",
+    "type": "noun",
+    "lemma": "Kontrolle",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Kontrollen",
+    "genitive": "Kontrolle",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "control",
+      "check",
+      "inspection",
+      "supervision",
+      "checking",
+      "checkpoint",
+      "monitoring",
+      "test",
+      "checkup",
+      "conservatorship",
+      "examination",
+      "governance",
+      "surveillance",
+      "verification",
+      "visit"
+    ],
+    "definitions_de": [
+      "Handlung, die jemand prüft, Aufsicht, der etwas untersteht, Aufsicht, Beaufsichtigung, Beobachtung, Kontrollierung",
+      "Handlung, mit der man etwas prüft, Begutachtung, Besichtigung, Check, Durchsicht, Inaugenscheinnahme"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Alles ist unter Kontrolle.",
+        "en": "Everything's under control."
+      },
+      {
+        "de": "Aber was ist soziale Kontrolle überhaupt?",
+        "en": "But what is social control anyway?"
+      },
+      {
+        "de": "Tom war außer Kontrolle.",
+        "en": "Tom was out of control."
+      },
+      {
+        "de": "Du bist unter ständiger Kontrolle.",
+        "en": "You are under constant control."
+      },
+      {
+        "de": "Tom hat die Kontrolle über die Klasse verloren.",
+        "en": "Tom has lost control of the class."
+      },
+      {
+        "de": "Wegen der Kontrollen gibt es lange Staus an den Grenzen.",
+        "en": "Due to the controls, there are long traffic jams at the borders."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Kontrolle.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Kontrolle.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kontrolle.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kontrolle.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Kontrolle.htm",
+    "rank": 1084,
+    "first_seen": "2026-10-13T02:23:57+00:00",
+    "updated_at": "2026-10-13T03:26:33+00:00",
+    "hash": "f257c71bd96a6f92"
   },
   {
     "id": "Kopf",
@@ -9126,6 +10064,139 @@
     "hash": "b129642e1eaacdbd"
   },
   {
+    "id": "Partner",
+    "type": "noun",
+    "lemma": "Partner",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Partner",
+    "genitive": "Partners",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "associate",
+      "partner",
+      "affiliate",
+      "ally",
+      "associate partner",
+      "collaborator",
+      "copartner"
+    ],
+    "definitions_de": [
+      "[Personen] Personen oder Institutionen, die gemeinsam ein Ziel verfolgen, Kamerad, Kollege",
+      "[Personen] einer von zwei Menschen, die eine feste Beziehung führen, Ehepartner, Ehepartnerin, Gatte, Lebensgefährte, Lebenspartner"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wir sind Partner.",
+        "en": "We're partners."
+      },
+      {
+        "de": "Tom war ein guter Partner.",
+        "en": "Tom was a good partner."
+      },
+      {
+        "de": "Saudi-Arabien ist ein wichtiger Partner für die USA.",
+        "en": "Saudi Arabia is an important partner for the USA."
+      },
+      {
+        "de": "Wir sind jetzt Partner.",
+        "en": "We're partners now."
+      },
+      {
+        "de": "Er hatte schon mehrere Partner.",
+        "en": "He had already had several partners."
+      },
+      {
+        "de": "Ein möglicher Partner ist die SPD.",
+        "en": "A possible partner is the SPD."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Partner.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Partner.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Partner.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Partner.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Partner.htm",
+    "rank": 1006,
+    "first_seen": "2026-10-13T01:50:16+00:00",
+    "updated_at": "2026-10-13T02:56:29+00:00",
+    "hash": "3c07804333500a28"
+  },
+  {
+    "id": "Partnerin",
+    "type": "noun",
+    "lemma": "Partnerin",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Partnerinnen",
+    "genitive": "Partnerin",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "female partner",
+      "ally",
+      "associate",
+      "copartner",
+      "female associate",
+      "girlfriend",
+      "partner",
+      "mate"
+    ],
+    "definitions_de": [
+      "[Personen] weibliche Person, die gemeinsam mit anderen Personen ein Ziel verfolgt, Kollegin, Kameradin",
+      "[Personen] weibliche Person, die in einer festen Beziehung ist, Ehepartnerin, Gattin, Lebensgefährtin, Lebenspartnerin, Lebensabschnittspartnerin"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du bist meine Partnerin.",
+        "en": "You're my woman."
+      },
+      {
+        "de": "Wie viele Partnerinnen hat Tom?",
+        "en": "How many partners does Tom have?"
+      },
+      {
+        "de": "Tom war sich manchmal nicht sicher, ob Mary für ihn nicht mehr Mutter als Partnerin war.",
+        "en": "Tom sometimes wasn't sure if Mary was more of a mother to him than a partner."
+      },
+      {
+        "de": "Er ist kürzlich in die Wohnung seiner neuen Partnerin umgezogen.",
+        "en": "He recently moved into his new partner's apartment."
+      },
+      {
+        "de": "Durch seine Computersucht verlor er allmählich die Fähigkeit zur Interaktion und wurde so zum Stockfisch, der nie eine Partnerin fand.",
+        "en": "Due to his computer addiction, he gradually lost the ability to interact and thus became a cod that never found a partner."
+      },
+      {
+        "de": "Nut war die Partnerin des Erdgottes Geb.",
+        "en": "But was the partner of the earth god Geb."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Partnerin.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Partnerin.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Partnerin.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Partnerin.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Partnerin.htm",
+    "rank": 1006,
+    "first_seen": "2026-10-13T01:50:16+00:00",
+    "updated_at": "2026-10-13T02:56:50+00:00",
+    "hash": "75b4e5692a9d21a9"
+  },
+  {
     "id": "Party",
     "type": "noun",
     "lemma": "Party",
@@ -9820,6 +10891,342 @@
     "hash": "7b3b8f977e3b18d7"
   },
   {
+    "id": "Raum",
+    "type": "noun",
+    "lemma": "Raum",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Räume",
+    "genitive": "Raum(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "space",
+      "room",
+      "area",
+      "region",
+      "scope",
+      "cave chamber",
+      "cave room",
+      "chamber",
+      "compartment",
+      "range",
+      "universe",
+      "volume",
+      "zone",
+      "district"
+    ],
+    "definitions_de": [
+      "[Wissenschaft] sich in drei Dimensionen erstreckende geometrische Größe",
+      "[Räume] zum Aufenthalt oder für unterschiedliche Nutzung bestimmter, von allen Seiten umschlossener Bereich, Zimmer",
+      "[Räume] Bereich, der genutzt werden kann, Platz",
+      "[Umwelt] Gebiet ohne exakte Abgrenzung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Raum ist kalt.",
+        "en": "The room is cold."
+      },
+      {
+        "de": "Tom lebt auf kleinem Raum.",
+        "en": "Tom lives in a small space."
+      },
+      {
+        "de": "Es gibt keinen Tisch im Raum.",
+        "en": "There isn't a table in the room."
+      },
+      {
+        "de": "Lasst uns etwas Raum.",
+        "en": "Give us some space."
+      },
+      {
+        "de": "Wer abnimmt, gewinnt Raum.",
+        "en": "Whoever loses weight gains space."
+      },
+      {
+        "de": "Betrete den Raum nicht ohne Erlaubnis.",
+        "en": "Don't enter the room without leave."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Raum.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Raum.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Raum.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Raum.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Raum.htm",
+    "rank": 1052,
+    "first_seen": "2026-10-13T02:10:37+00:00",
+    "updated_at": "2026-10-13T03:11:41+00:00",
+    "hash": "c36f63912490121e"
+  },
+  {
+    "id": "Regel",
+    "type": "noun",
+    "lemma": "Regel",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Regeln",
+    "genitive": "Regel",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "rule",
+      "period",
+      "standard",
+      "norm",
+      "guideline",
+      "habit",
+      "menstruation",
+      "monthlies",
+      "regulation",
+      "canon",
+      "custom",
+      "precept"
+    ],
+    "definitions_de": [
+      "Verhaltensvorschrift, Verhaltensvorschrift, Vorschrift",
+      "gewöhnliches, normales oder typisches Verhalten",
+      "die Monatsblutung, Periode der Frau, Menstruation, Monatsblutung, Periode, Regelblutung, Regelzyklus"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Es gibt Regeln.",
+        "en": "There are rules."
+      },
+      {
+        "de": "Das sind blöde Regeln.",
+        "en": "These are stupid rules."
+      },
+      {
+        "de": "Das ist eine blöde Regel.",
+        "en": "It's a stupid rule."
+      },
+      {
+        "de": "Jede Regel hat Ausnahmen.",
+        "en": "Every rule has exceptions."
+      },
+      {
+        "de": "Die Ausnahme bestätigt die Regel.",
+        "en": "The exception proves the rule."
+      },
+      {
+        "de": "Es gibt keine Regel ohne Ausnahme.",
+        "en": "There is no rule but has some exceptions."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Regel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Regel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Regel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Regel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Regel.htm",
+    "rank": 969,
+    "first_seen": "2026-10-13T01:33:08+00:00",
+    "updated_at": "2026-10-13T02:47:51+00:00",
+    "hash": "35012a5d24abea43"
+  },
+  {
+    "id": "Reis",
+    "type": "noun",
+    "lemma": "Reis",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Reiser",
+    "genitive": "Reises",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "branch",
+      "shoot",
+      "sprout",
+      "twig"
+    ],
+    "definitions_de": [
+      "junger, leicht beweglicher Zweig eines Baumes oder Strauchs, Reisig"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er isst Reis.",
+        "en": "He is eating rice."
+      },
+      {
+        "de": "Er hat Reis gekocht.",
+        "en": "He made rice."
+      },
+      {
+        "de": "Tom isst fast täglich Reis.",
+        "en": "Tom eats rice almost every day."
+      },
+      {
+        "de": "Isst man Reis in deinem Heimatland?",
+        "en": "Do people eat rice in your homeland?"
+      },
+      {
+        "de": "Zum Reisen braucht es eine Menge Geld.",
+        "en": "A lot of funds are necessary to travel."
+      },
+      {
+        "de": "Haben Sie Reis?",
+        "en": "Do you have rice?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Reis_neut.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Reis_neut.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Reis_neut.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Reis_neut.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Reis.htm",
+    "rank": 1039,
+    "first_seen": "2026-10-13T03:05:08+00:00",
+    "updated_at": "2026-10-13T03:05:29+00:00",
+    "hash": "69dfd9fc262f188e"
+  },
+  {
+    "id": "Reise",
+    "type": "noun",
+    "lemma": "Reise",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Reisen",
+    "genitive": "Reise",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "journey",
+      "travel",
+      "trip",
+      "tour",
+      "voyage"
+    ],
+    "definitions_de": [
+      "[Reisen] Fortbewegung von einem Ausgangspunkt zu einem entfernten Ort mit dortigem Aufenthalt und wieder zurück, Ausflug, Fahrt, Tour, Pad"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich liebe Reisen.",
+        "en": "I love trips."
+      },
+      {
+        "de": "Reisen bildet junge Menschen.",
+        "en": "Travel educates young people."
+      },
+      {
+        "de": "Es lohnt eine Reise.",
+        "en": "It's worth a trip."
+      },
+      {
+        "de": "Tom geht selten auf Reisen.",
+        "en": "Tom seldom travels."
+      },
+      {
+        "de": "Per Fahrrad ist die Reise günstiger.",
+        "en": "By bicycle, the journey is cheaper."
+      },
+      {
+        "de": "Mit dem Fahrrad ist die Reise günstiger.",
+        "en": "The journey is cheaper by bike."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Reise.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Reise.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Reise.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Reise.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Reise.htm",
+    "rank": 1039,
+    "first_seen": "2026-10-13T02:03:59+00:00",
+    "updated_at": "2026-10-13T03:03:46+00:00",
+    "hash": "10b726b48abd930e"
+  },
+  {
+    "id": "Reisebu3ro",
+    "type": "noun",
+    "lemma": "Reisebüro",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Reisebüros",
+    "genitive": "Reisebüros",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "travel agency",
+      "tourist agency",
+      "tourist office",
+      "travel agent",
+      "travel agent's",
+      "travel bureau"
+    ],
+    "definitions_de": [
+      "[Geschäft] Geschäft, das Reisen vermittelt oder organisiert"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich suche ein Reisebüro.",
+        "en": "I'm looking for a travel agency."
+      },
+      {
+        "de": "Ich arbeite in einem Reisebüro.",
+        "en": "I work for a travel agency."
+      },
+      {
+        "de": "Das Reisebüro hat für mich reserviert.",
+        "en": "The travel agency has reserved for me."
+      },
+      {
+        "de": "Das Reisebüro hat die Reservierung für mich erledigt.",
+        "en": "The travel agency has taken care of the reservation for me."
+      },
+      {
+        "de": "Wo befindet sich das nächste Reisebüro?",
+        "en": "Where is the nearest travel agency?"
+      },
+      {
+        "de": "Sie haben die Reise im Reisebüro gebucht.",
+        "en": "They booked the trip at a travel agency."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Reisebu3ro.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Reisebu3ro.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Reisebu3ro.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Reisebu3ro.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Reisebu3ro.htm",
+    "rank": 1039,
+    "first_seen": "2026-10-13T02:03:59+00:00",
+    "updated_at": "2026-10-13T03:06:54+00:00",
+    "hash": "16ee065ce520c3d6"
+  },
+  {
     "id": "Restaurant",
     "type": "noun",
     "lemma": "Restaurant",
@@ -9878,6 +11285,80 @@
     "first_seen": "2026-10-07T15:39:30+00:00",
     "updated_at": "2026-10-12T04:28:10+00:00",
     "hash": "c56ff9305ae0be1a"
+  },
+  {
+    "id": "Richtung",
+    "type": "noun",
+    "lemma": "Richtung",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Richtungen",
+    "genitive": "Richtung",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "direction",
+      "orientation",
+      "aim",
+      "airt",
+      "bearing",
+      "channel",
+      "course",
+      "movement",
+      "position",
+      "route",
+      "sense",
+      "tack",
+      "tendency",
+      "trend",
+      "way"
+    ],
+    "definitions_de": [
+      "Position, Wirkungs- oder Bewegungsziel eines Gegenstandes",
+      "Ausrichtung eines Bereichs des Denkens, Handelns oder der Kultur"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Mein Zimmer zeigt Richtung Straße.",
+        "en": "My room faces the street."
+      },
+      {
+        "de": "Ich wohne in Richtung des Bergs.",
+        "en": "I live in the direction of the mountain."
+      },
+      {
+        "de": "Die Richtung stimmt.",
+        "en": "The direction is correct."
+      },
+      {
+        "de": "Es ändert die Richtung.",
+        "en": "It changes direction."
+      },
+      {
+        "de": "Ich bin Richtung Park gelaufen.",
+        "en": "I walked towards the park."
+      },
+      {
+        "de": "In welcher Richtung liegt der Strand?",
+        "en": "Which way is the beach?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Richtung.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Richtung.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Richtung.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Richtung.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Richtung.htm",
+    "rank": 1107,
+    "first_seen": "2026-10-13T02:34:07+00:00",
+    "updated_at": "2026-10-13T03:31:41+00:00",
+    "hash": "957042e66918b4f0"
   },
   {
     "id": "Sache",
@@ -11589,6 +13070,72 @@
     "hash": "441b61f8aba772c4"
   },
   {
+    "id": "Su3s5igkeit",
+    "type": "noun",
+    "lemma": "Süßigkeit",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Süßigkeiten",
+    "genitive": "Süßigkeit",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "sweetness",
+      "candy",
+      "delight",
+      "sweet",
+      "sweetie",
+      "sweets",
+      "treats"
+    ],
+    "definitions_de": [
+      "[Lebensmittel] Lebensmittel, die süß sind und als Naschzeug verwendet werden, Leckerei, Naschzeug, Nascherei, Süßkram, Süßware",
+      "der Zustand, süß zu sein, eine angenehme Empfindung hervorrufend, Süße"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Süßigkeiten sind süß.",
+        "en": "Sweets are sweet."
+      },
+      {
+        "de": "Ich mag auch Süßigkeiten.",
+        "en": "I like candy, too."
+      },
+      {
+        "de": "Tom ist verrückt nach Süßigkeiten.",
+        "en": "Tom's crazy about sweets."
+      },
+      {
+        "de": "Das ist eine klassische ungarische Süßigkeit.",
+        "en": "This is a classic Hungarian sweet."
+      },
+      {
+        "de": "Ich esse gern Süßigkeiten.",
+        "en": "I like to eat sweets."
+      },
+      {
+        "de": "Bei Süßigkeiten wird er schwach.",
+        "en": "He can't resist sweets."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Su3s5igkeit.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Su3s5igkeit.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Su3s5igkeit.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Su3s5igkeit.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Su3s5igkeit.htm",
+    "rank": 1010,
+    "first_seen": "2026-10-13T01:51:41+00:00",
+    "updated_at": "2026-10-13T02:57:32+00:00",
+    "hash": "e2a0acc839f7e0db"
+  },
+  {
     "id": "Tag",
     "type": "noun",
     "lemma": "Tag",
@@ -11717,6 +13264,137 @@
     "first_seen": "2026-10-07T10:43:15+00:00",
     "updated_at": "2026-10-12T04:28:12+00:00",
     "hash": "af34ef8a88704b2e"
+  },
+  {
+    "id": "Tante",
+    "type": "noun",
+    "lemma": "Tante",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Tanten",
+    "genitive": "Tante",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "aunt",
+      "auntie",
+      "female acquaintance",
+      "great-aunt",
+      "lady",
+      "old dear"
+    ],
+    "definitions_de": [
+      "[Familie] Schwester eines Elternteiles eines Kindes",
+      "[Familie] Frau des Bruders eines Elternteils eines Kindes",
+      "[Familie] Erzieherin , Bekannte oder auch nur Frau, der man freundlich begegnen soll",
+      "[Familie] Tochter der Großtante oder des Großonkels irgendeinen Grades"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich übernachte bei meiner Tante.",
+        "en": "I'm staying at my aunt's."
+      },
+      {
+        "de": "Meine Tante lebt in New York.",
+        "en": "My aunt lives in New York."
+      },
+      {
+        "de": "Spielt sie die Tante?",
+        "en": "Is she playing the aunt?"
+      },
+      {
+        "de": "Wo sind eure Tanten?",
+        "en": "Where are your aunts?"
+      },
+      {
+        "de": "Außer Chinesisch spricht meine Tante auch Englisch.",
+        "en": "Besides Chinese, my aunt also speaks English."
+      },
+      {
+        "de": "Die ältere Tochter ist die Tante der Kleinen.",
+        "en": "The older daughter is the aunt of the little one."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Tante.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Tante.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Tante.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tante.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Tante.htm",
+    "rank": 1086,
+    "first_seen": "2026-10-13T02:25:41+00:00",
+    "updated_at": "2026-10-13T03:27:16+00:00",
+    "hash": "07d1a0ca8b76197f"
+  },
+  {
+    "id": "Tanz",
+    "type": "noun",
+    "lemma": "Tanz",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Tänze",
+    "genitive": "Tanzes",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "dance",
+      "dancing piece",
+      "song and dance",
+      "ball",
+      "hop"
+    ],
+    "definitions_de": [
+      "[Kunst] Bewegungsablauf, der zu Musik oder rhythmischen Geräuschen ausgeführt wird",
+      "Musikstück, das sich zum Tanzen eignet"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich höre Musik und tanze.",
+        "en": "I listen to music and dance."
+      },
+      {
+        "de": "Es gibt einen besonderen Tanz dazu.",
+        "en": "There is a special dance for that."
+      },
+      {
+        "de": "Er ist ein ganz alter und typischer Tanz aus dem Land Argentinien.",
+        "en": "It is a very old and typical dance from the country Argentina."
+      },
+      {
+        "de": "Dort ist Tanz.",
+        "en": "There is dance."
+      },
+      {
+        "de": "Wie war der Tanz?",
+        "en": "How was the dance?"
+      },
+      {
+        "de": "Der Tango ist ein sehr beliebter Tanz aus Argentinien.",
+        "en": "Tango is a very popular dance from Argentina."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Tanz.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Tanz.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Tanz.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tanz.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Tanz.htm",
+    "rank": 1033,
+    "first_seen": "2026-10-13T02:01:52+00:00",
+    "updated_at": "2026-10-13T03:03:25+00:00",
+    "hash": "741d3e9045fa6f65"
   },
   {
     "id": "Team",
@@ -12723,6 +14401,75 @@
     "hash": "07c5e340b0e7a276"
   },
   {
+    "id": "Unfall",
+    "type": "noun",
+    "lemma": "Unfall",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Unfälle",
+    "genitive": "Unfall(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "accident",
+      "breakdown",
+      "casualty",
+      "crash",
+      "disaster",
+      "incident",
+      "misadventure",
+      "mischance",
+      "mishap",
+      "nuclear accident",
+      "primary accident"
+    ],
+    "definitions_de": [
+      "ein ohne Absicht herbeigeführter Vorfall, bei dem Sachen oder Menschen zu Schaden kommen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das war kein Unfall.",
+        "en": "It wasn't an accident."
+      },
+      {
+        "de": "Ich hatte einen schweren Unfall.",
+        "en": "I had a serious accident."
+      },
+      {
+        "de": "Tom hatte einen Unfall bei der Arbeit.",
+        "en": "Tom had an accident at work."
+      },
+      {
+        "de": "Unfälle kommen ständig vor.",
+        "en": "Accidents happen all the time."
+      },
+      {
+        "de": "Unfälle kommen immer wieder vor.",
+        "en": "Accidents happen all the time."
+      },
+      {
+        "de": "Ein Unfall ist schnell passiert.",
+        "en": "An accident happens quickly."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Unfall.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Unfall.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Unfall.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Unfall.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Unfall.htm",
+    "rank": 1082,
+    "first_seen": "2026-10-13T02:23:15+00:00",
+    "updated_at": "2026-10-13T03:26:12+00:00",
+    "hash": "e9faa09a4e4312b8"
+  },
+  {
     "id": "Vater",
     "type": "noun",
     "lemma": "Vater",
@@ -12861,6 +14608,79 @@
     "first_seen": "2026-10-07T13:09:10+00:00",
     "updated_at": "2026-10-12T04:28:14+00:00",
     "hash": "9f537c9c03dcaa8d"
+  },
+  {
+    "id": "Vorsicht",
+    "type": "noun",
+    "lemma": "Vorsicht",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "-",
+    "genitive": "Vorsicht",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "caution",
+      "carefulness",
+      "attention",
+      "caginess",
+      "care",
+      "cautiousness",
+      "chariness",
+      "circumspection",
+      "circumspectness",
+      "danger",
+      "precaution",
+      "prudence",
+      "vigilance",
+      "wariness",
+      "warning"
+    ],
+    "definitions_de": [
+      "Verhalten, bei dem man versucht, durch Wachsamkeit oder Zurückhaltung negative Folgen oder Schäden zu vermeiden, Achtung, Obacht",
+      "Hinweis auf eine Gefahr, meist als Ausrufesatz oder auf Schildern"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich rate zur Vorsicht.",
+        "en": "I recommend caution."
+      },
+      {
+        "de": "Vorsicht, da vorn läuft eine Oma über die Straße.",
+        "en": "Caution, there ahead an old lady is crossing the street."
+      },
+      {
+        "de": "Vorsicht schadet nicht.",
+        "en": "Caution does not harm."
+      },
+      {
+        "de": "Er riet zur Vorsicht.",
+        "en": "He advised caution."
+      },
+      {
+        "de": "Es ist höchste Vorsicht geboten.",
+        "en": "The utmost caution is required."
+      },
+      {
+        "de": "Bei Nässe ist hier Vorsicht geboten.",
+        "en": "Caution is advised here in wet conditions."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Vorsicht.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Vorsicht.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Vorsicht.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Vorsicht.htm",
+    "rank": 1097,
+    "first_seen": "2026-10-13T02:30:34+00:00",
+    "updated_at": "2026-10-13T03:27:58+00:00",
+    "hash": "7dbc5594a608423a"
   },
   {
     "id": "Wasser",
@@ -13539,6 +15359,143 @@
     "hash": "31529a9ccc7071d9"
   },
   {
+    "id": "Wo3rterbuch",
+    "type": "noun",
+    "lemma": "Wörterbuch",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Wörterbücher",
+    "genitive": "Wörterbuch(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "dictionary",
+      "wordbook",
+      "lexicon"
+    ],
+    "definitions_de": [
+      "[Sprache] Nachschlagewerk für die Schreibweise, Aussprache, Bedeutung, Grammatik, Geschichte oder Übersetzung von Wörtern"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das ist mein Wörterbuch.",
+        "en": "That's my dictionary."
+      },
+      {
+        "de": "Ich brauche ein gutes Wörterbuch.",
+        "en": "I need a good dictionary."
+      },
+      {
+        "de": "Er hat über fünf Wörterbücher.",
+        "en": "He has more than five dictionaries."
+      },
+      {
+        "de": "Das Wörterbuch auf dem Tisch gehört mir.",
+        "en": "The dictionary on the desk is mine."
+      },
+      {
+        "de": "Das Wiktionary ist ein freies Wörterbuch in Wiki-Form.",
+        "en": "Wiktionary is a free dictionary in wiki form."
+      },
+      {
+        "de": "Ich habe das gleiche Wörterbuch wie dein Bruder.",
+        "en": "I have the same dictionary as your brother has."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Wo3rterbuch.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Wo3rterbuch.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wo3rterbuch.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wo3rterbuch.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Wo3rterbuch.htm",
+    "rank": 988,
+    "first_seen": "2026-10-13T01:42:52+00:00",
+    "updated_at": "2026-10-13T02:53:00+00:00",
+    "hash": "278c36b539ce4252"
+  },
+  {
+    "id": "Zahl",
+    "type": "noun",
+    "lemma": "Zahl",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Zahlen",
+    "genitive": "Zahl",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "number",
+      "figure",
+      "count",
+      "digit",
+      "cipher",
+      "face",
+      "figures",
+      "numbers",
+      "numerary",
+      "numerical data",
+      "quantity",
+      "rate",
+      "side",
+      "tails",
+      "tally"
+    ],
+    "definitions_de": [
+      "[Wissenschaft] nummerischer Wert, Quantität",
+      "[Zahlen] kurz für Anzahl",
+      "[Zahlen] Ziffer",
+      "[Sprache] Numerus, Numerus"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Deutschland hat gute Zahlen.",
+        "en": "Germany has good numbers."
+      },
+      {
+        "de": "Es ist eine runde Zahl.",
+        "en": "It's a round number."
+      },
+      {
+        "de": "Sie sammelt alle Zahlen zu Deutschland.",
+        "en": "She collects all the numbers about Germany."
+      },
+      {
+        "de": "Sie hat eine große Zahl an Büchern.",
+        "en": "She has a great number of books."
+      },
+      {
+        "de": "Ist dreizehn eine gerade Zahl?",
+        "en": "Is thirteen an even number?"
+      },
+      {
+        "de": "Wer die Zahl errät, gewinnt.",
+        "en": "Whoever guesses the number wins."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Zahl.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Zahl.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Zahl.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zahl.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Zahl.htm",
+    "rank": 991,
+    "first_seen": "2026-10-13T01:43:55+00:00",
+    "updated_at": "2026-10-13T02:54:03+00:00",
+    "hash": "6fdfaab05a80191c"
+  },
+  {
     "id": "Zeit",
     "type": "noun",
     "lemma": "Zeit",
@@ -13613,6 +15570,83 @@
     "first_seen": "2026-10-07T10:32:17+00:00",
     "updated_at": "2026-10-12T04:28:15+00:00",
     "hash": "e014e17b69eb98ad"
+  },
+  {
+    "id": "Ziel",
+    "type": "noun",
+    "lemma": "Ziel",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Ziele",
+    "genitive": "Ziel(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A1",
+    "english": [
+      "aim",
+      "goal",
+      "objective",
+      "purpose",
+      "target",
+      "ambition",
+      "credit period",
+      "destination",
+      "end",
+      "finish",
+      "finishing line",
+      "intent",
+      "intention",
+      "mark",
+      "object",
+      "period allowed for payment",
+      "production target",
+      "prompt"
+    ],
+    "definitions_de": [
+      "Ausrichtung oder Endpunkt einer Bestrebung, Absicht, Destination, Intention, Vorhaben",
+      "Objekt, das von einem Geschoss getroffen werden soll"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Jeder braucht ein Ziel.",
+        "en": "Everyone needs a goal."
+      },
+      {
+        "de": "Er hat kein bestimmtes Ziel.",
+        "en": "He has no specific aim."
+      },
+      {
+        "de": "Der Weg ist immer mehr als das Ziel.",
+        "en": "The way is always more than the goal."
+      },
+      {
+        "de": "Korrigiert eure Ziele.",
+        "en": "Adjust your sights."
+      },
+      {
+        "de": "Ich setze mir realistische Ziele.",
+        "en": "I set myself realistic goals."
+      },
+      {
+        "de": "Hast du ein Ziel im Leben?",
+        "en": "Do you have a goal in life?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ziel.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ziel.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ziel.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ziel.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ziel.htm",
+    "rank": 983,
+    "first_seen": "2026-10-13T01:41:05+00:00",
+    "updated_at": "2026-10-13T02:51:34+00:00",
+    "hash": "962408438e31c7ea"
   },
   {
     "id": "Zimmer",

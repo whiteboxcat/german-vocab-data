@@ -1,5 +1,68 @@
 [
   {
+    "id": "Agent",
+    "type": "noun",
+    "lemma": "Agent",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Agenten",
+    "genitive": "Agenten",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "agent",
+      "representative",
+      "commercial agent",
+      "spy"
+    ],
+    "definitions_de": [
+      "[Wirtschaft] Person, die Vermittlungsdienstleistungen für ihre Kunden erbringt, insbesondere für Künstler, Schriftsteller, Sportler, allgemein Vermittler, Handelsvertreter, Berater, Handelsvertreter, Vermittler",
+      "Person, die im Staatsauftrag oder im Auftrag einer Organisation im Geheimen tätig ist, Spion, Spitzel"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Agenten operieren hinter den feindlichen Linien.",
+        "en": "The agents operate behind enemy lines."
+      },
+      {
+        "de": "Im Notfall nehmen Sie Kontakt mit meinem Agenten auf.",
+        "en": "In case of an emergency, get in touch with my agent."
+      },
+      {
+        "de": "Deutsche Agenten machen die Spionage.",
+        "en": "German agents conduct espionage."
+      },
+      {
+        "de": "Der Spion wurde von den Agenten beschattet.",
+        "en": "The spy was shadowed by the agents."
+      },
+      {
+        "de": "Wie jeder Agent kann ich natürlich meine Quellen nicht preisgeben.",
+        "en": "Like every agent, I naturally cannot reveal my sources."
+      },
+      {
+        "de": "Die Psychologie des Agenten, zumal des Doppelagenten, wäre das wichtigste Kapitel der heutigen politischen Psychologie.",
+        "en": "The psychology of the agent, especially the double agent, would be the most important chapter of today's political psychology."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Agent.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Agent.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Agent.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Agent.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Agent.htm",
+    "rank": 965,
+    "first_seen": "2026-10-12T15:18:02+00:00",
+    "updated_at": "2026-10-12T23:10:56+00:00",
+    "hash": "f431c5b7b024f2ec"
+  },
+  {
     "id": "Amateurfus5baller",
     "type": "noun",
     "lemma": "Amateurfußballer",
@@ -42,6 +105,83 @@
     "first_seen": "2026-10-08T11:00:05+00:00",
     "updated_at": "2026-10-09T01:00:25+00:00",
     "hash": "8c0cb807e0f948c5"
+  },
+  {
+    "id": "Aufsatz",
+    "type": "noun",
+    "lemma": "Aufsatz",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Aufsätze",
+    "genitive": "Aufsatzes",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "essay",
+      "composition",
+      "paper",
+      "article",
+      "attachment",
+      "top",
+      "upper part",
+      "bit on top",
+      "cap",
+      "extension",
+      "fixture",
+      "neck base",
+      "support",
+      "top part",
+      "top piece",
+      "treatise"
+    ],
+    "definitions_de": [
+      "kurze schriftliche Abhandlung, Pressemeldung",
+      "[Schule] vom Schüler angefertigte schriftliche Arbeit, Vokabelarbeit",
+      "[Wissenschaft] wissenschaftliche Veröffentlichung zu einem Thema, Diplomarbeit, Doktorarbeit, Semesterarbeit",
+      "[Technik] Aufbau, aufgesetzter Teil, Dachgaube, Wetterhahn"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Student schreibt einen Aufsatz.",
+        "en": "The student is writing an essay."
+      },
+      {
+        "de": "Wann müssen wir die Aufsätze abgeben?",
+        "en": "When have we got to hand in our essays?"
+      },
+      {
+        "de": "Dein Aufsatz ist bis jetzt der beste.",
+        "en": "Your composition is the best yet."
+      },
+      {
+        "de": "Schreib den Aufsatz und lass dich nicht ablenken.",
+        "en": "Write the essay and don't get distracted."
+      },
+      {
+        "de": "Das Thema des Aufsatzes darf frei gewählt werden.",
+        "en": "You're free to choose the topic of the essay."
+      },
+      {
+        "de": "Welchem Aufsatz hast Du das neue Verfahren entnommen?",
+        "en": "From which essay did you take the new method?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Aufsatz.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Aufsatz.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Aufsatz.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Aufsatz.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Aufsatz.htm",
+    "rank": 878,
+    "first_seen": "2026-10-12T14:40:13+00:00",
+    "updated_at": "2026-10-12T23:02:53+00:00",
+    "hash": "0459b2bae10c4a66"
   },
   {
     "id": "Beihilfe",
@@ -207,6 +347,61 @@
     "first_seen": "2026-10-08T11:22:53+00:00",
     "updated_at": "2026-10-09T01:14:12+00:00",
     "hash": "0b0d900552234d8e"
+  },
+  {
+    "id": "Bildband",
+    "type": "noun",
+    "lemma": "Bildband",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Bildbände",
+    "genitive": "Bildband(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "illustrated book",
+      "book of pictures",
+      "coffee-table book",
+      "picture book",
+      "slide film"
+    ],
+    "definitions_de": [
+      "Buch, das hauptsächlich Abbildungen enthält"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Bildband wurde der Renner des Jahres, wenn nicht des Jahrzehnts.",
+        "en": "The picture book became the hit of the year, if not the decade."
+      },
+      {
+        "de": "Der Bildband zeigt Skylines unterschiedlicher Städte.",
+        "en": "The picture book shows skylines of different cities."
+      },
+      {
+        "de": "Dieser Bildband ist eine einzige Liebeserklärung an die Fränkische Schweiz.",
+        "en": "This picture book is a single declaration of love for the Franconian Switzerland."
+      },
+      {
+        "de": "In der größten Buchhandlung der Färöer kann man in einem reichhaltigen Sortiment an Büchern stöbern und bekommt Reiseführer sowie Bildbände in anderen Sprachen.",
+        "en": "In the largest bookstore in the Faroe Islands, one can browse a rich selection of books and get travel guides as well as picture books in other languages."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Bildband.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Bildband.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Bildband.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bildband.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Bildband.htm",
+    "rank": 947,
+    "first_seen": "2026-10-12T15:10:40+00:00",
+    "updated_at": "2026-10-12T23:09:52+00:00",
+    "hash": "36770d179c2c0958"
   },
   {
     "id": "Bindegewebe",
@@ -385,6 +580,68 @@
     "first_seen": "2026-10-08T14:38:23+00:00",
     "updated_at": "2026-10-12T04:40:35+00:00",
     "hash": "8904e6e55dd2f8ab"
+  },
+  {
+    "id": "Denkfehler",
+    "type": "noun",
+    "lemma": "Denkfehler",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Denkfehler",
+    "genitive": "Denkfehlers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "error in reasoning",
+      "thinking error",
+      "cognitive bias",
+      "error in the logic",
+      "fallacy",
+      "flaw in the reasoning",
+      "misconception",
+      "mistake in reasoning"
+    ],
+    "definitions_de": [
+      "zuerst Annahme oder Lösung eines Sachverhalts, die sich im Nachhinein als Fehler herausstellt, falsche Annahme"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Bei manchen unnötigen Änderungen traten zuvor Denkfehler auf.",
+        "en": "In some unnecessary changes, thinking errors occurred beforehand."
+      },
+      {
+        "de": "Mein Denkfehler war es, dir zu trauen.",
+        "en": "My mistake was to trust you."
+      },
+      {
+        "de": "Ein Denkfehler in seiner Planung wurde ihm zum Verhängnis.",
+        "en": "A thinking error in his planning became his downfall."
+      },
+      {
+        "de": "Bernstein führte konzentriert die Denkfehler der Kriegspartei vor.",
+        "en": "Bernstein focused on presenting the fallacies of the war party."
+      },
+      {
+        "de": "Wenn Denkfehler ihren Ausgehanzug tragen, nennen sie sich Theorien.",
+        "en": "When thinking errors wear their going-out suit, they call themselves theories."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Denkfehler.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Denkfehler.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Denkfehler.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Denkfehler.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Denkfehler.htm",
+    "rank": 887,
+    "first_seen": "2026-10-12T14:43:24+00:00",
+    "updated_at": "2026-10-12T23:03:35+00:00",
+    "hash": "99bcb325c4a1d40b"
   },
   {
     "id": "Drang",
@@ -664,6 +921,98 @@
     "first_seen": "2026-10-08T13:21:03+00:00",
     "updated_at": "2026-10-09T10:46:51+00:00",
     "hash": "25cde79c7ebf7722"
+  },
+  {
+    "id": "Entscheidungsfreiheit",
+    "type": "noun",
+    "lemma": "Entscheidungsfreiheit",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Entscheidungsfreiheiten",
+    "genitive": "Entscheidungsfreiheit",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "freedom of choice",
+      "autonomy of decision",
+      "decision-making authority",
+      "decision-making freedom",
+      "discretion",
+      "freedom of decision",
+      "freedom of decision-making",
+      "option"
+    ],
+    "definitions_de": [
+      "Freiheit, eigene Entscheidungen zu treffen"
+    ],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Entscheidungsfreiheit.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Entscheidungsfreiheit.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Entscheidungsfreiheit.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Entscheidungsfreiheit.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Entscheidungsfreiheit.htm",
+    "rank": 967,
+    "first_seen": "2026-10-12T15:18:44+00:00",
+    "updated_at": "2026-10-12T23:11:38+00:00",
+    "hash": "0d819865a4f42e2b"
+  },
+  {
+    "id": "Entscheidungstra3ger",
+    "type": "noun",
+    "lemma": "Entscheidungsträger",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Entscheidungsträger",
+    "genitive": "Entscheidungsträgers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "decision-maker",
+      "decider",
+      "decision authority",
+      "decision-making unit",
+      "policymaker"
+    ],
+    "definitions_de": [
+      "Person, die aufgrund ihrer beruflichen oder gesellschaftlichen Stellung besonders wichtige Entscheidungen zu treffen hat, Entscheider"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der größte Fehler in unserem System ist, dass die Entscheidungen der Entscheidungsträger nie Auswirkungen auf sie selbst haben.",
+        "en": "The biggest mistake in our system is that the decisions of decision-makers never have consequences for themselves."
+      },
+      {
+        "de": "Vernünftigerweise sollte jede Beurteilung und Bewertung von Ingenieurleistungen durch Entscheidungsträger kommissionell durchgeführt werden.",
+        "en": "Reasonably, every assessment and evaluation of engineering services should be conducted commissionally by decision-makers."
+      },
+      {
+        "de": "Die Verfügbarkeit eines Entscheidungsträgers bei der betriebswirtschaftlichen Planung sollte vor dem Beginn der Planungsphase sichergestellt werden.",
+        "en": "The availability of a decision-maker in business planning should be ensured before the planning phase begins."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Entscheidungstra3ger.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Entscheidungstra3ger.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Entscheidungstra3ger.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Entscheidungstra3ger.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Entscheidungstra3ger.htm",
+    "rank": 967,
+    "first_seen": "2026-10-12T15:18:44+00:00",
+    "updated_at": "2026-10-12T23:11:59+00:00",
+    "hash": "102da561b1bb89f8"
   },
   {
     "id": "Ernsthaftigkeit",
@@ -1254,6 +1603,164 @@
     "first_seen": "2026-10-08T11:19:00+00:00",
     "updated_at": "2026-10-09T01:09:41+00:00",
     "hash": "ece754322a857d91"
+  },
+  {
+    "id": "Gela3chter",
+    "type": "noun",
+    "lemma": "Gelächter",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Gelächter",
+    "genitive": "Gelächters",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "laughter",
+      "guffaw",
+      "peals",
+      "sounds of levity"
+    ],
+    "definitions_de": [
+      "beständiges Lachen, das über eine relativ lange Zeit andauert, Gejohle, Gejubel, Gekicher"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich höre Gelächter.",
+        "en": "I hear laughing."
+      },
+      {
+        "de": "Gelächter erfüllte den Raum.",
+        "en": "Laughter filled the room."
+      },
+      {
+        "de": "Tom brach in Gelächter aus.",
+        "en": "Tom burst out laughing."
+      },
+      {
+        "de": "Die Schüler sind in Gelächter ausgebrochen.",
+        "en": "The pupils burst out laughing."
+      },
+      {
+        "de": "Die Bitte löste ein lautstarkes Gelächter aus.",
+        "en": "The request sparked uproarious laughter."
+      },
+      {
+        "de": "Ein Gelächter hört man weiter als ein Weinen.",
+        "en": "Laughter can be heard further than crying."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Gela3chter.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Gela3chter.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gela3chter.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gela3chter.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Gela3chter.htm",
+    "rank": 834,
+    "first_seen": "2026-10-12T14:21:40+00:00",
+    "updated_at": "2026-10-12T22:46:01+00:00",
+    "hash": "f02999bfa25c0483"
+  },
+  {
+    "id": "Gescha3ftsbereich",
+    "type": "noun",
+    "lemma": "Geschäftsbereich",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Geschäftsbereiche",
+    "genitive": "Geschäftsbereich(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "business area",
+      "department",
+      "division",
+      "Operational Division",
+      "area of operations",
+      "business division",
+      "business domain",
+      "business line",
+      "business sector",
+      "business unit",
+      "field of activity",
+      "operation",
+      "portfolio",
+      "sphere of business"
+    ],
+    "definitions_de": [
+      "[Wirtschaft] innerhalb einer Organisation ein abgegrenztes Aufgabengebiet, Geschäftsfeld, Sparte",
+      "[Politik] ein abgegrenztes Aufgabengebiet, Amtsbereich, Ressort"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Viele Unternehmen haben personalintensive Geschäftsbereiche in Niedriglohnländer ausgelagert.",
+        "en": "Many companies have outsourced labor-intensive business areas to low-wage countries."
+      },
+      {
+        "de": "Zum Geschäftsbereich des Bundesministeriums der Finanzen gehören neben der Bundesfinanzverwaltung und der Zollverwaltung etliche Bundesoberbehörden, Anstalten, Ämter und Dienststellen.",
+        "en": "The business area of the Federal Ministry of Finance includes, in addition to the Federal Financial Administration and the Customs Administration, several federal higher authorities, institutions, offices, and agencies."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Gescha3ftsbereich.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Gescha3ftsbereich.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gescha3ftsbereich.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gescha3ftsbereich.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Gescha3ftsbereich.htm",
+    "rank": 870,
+    "first_seen": "2026-10-12T14:36:24+00:00",
+    "updated_at": "2026-10-12T23:01:49+00:00",
+    "hash": "dad555d41f1d9faf"
+  },
+  {
+    "id": "Gescha3ftsbericht",
+    "type": "noun",
+    "lemma": "Geschäftsbericht",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Geschäftsberichte",
+    "genitive": "Geschäftsbericht(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "annual report",
+      "business report",
+      "company report",
+      "financial statement",
+      "financial statements",
+      "market report"
+    ],
+    "definitions_de": [
+      "[Handel] detaillierter Jahresbericht eines Unternehmens"
+    ],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Gescha3ftsbericht.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Gescha3ftsbericht.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Gescha3ftsbericht.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gescha3ftsbericht.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Gescha3ftsbericht.htm",
+    "rank": 870,
+    "first_seen": "2026-10-12T14:36:24+00:00",
+    "updated_at": "2026-10-12T23:02:11+00:00",
+    "hash": "95de6c5d0a9abb65"
   },
   {
     "id": "Gesichtsausdruck",
@@ -1961,6 +2468,71 @@
     "first_seen": "2026-10-08T13:14:03+00:00",
     "updated_at": "2026-10-12T04:38:16+00:00",
     "hash": "c79c7125c3f193ca"
+  },
+  {
+    "id": "Hass",
+    "type": "noun",
+    "lemma": "Hass",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "-",
+    "genitive": "Hasses",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "hate",
+      "hatred",
+      "animosity",
+      "animus",
+      "loathing",
+      "odium",
+      "rancor",
+      "rancour"
+    ],
+    "definitions_de": [
+      "sehr starke Abneigung gegen jemanden oder etwas, welche meist Aggression induziert, Abscheu, Animosität, Groll, Ressentiment, Übelwollen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hass macht hässlich.",
+        "en": "Hatred makes ugly."
+      },
+      {
+        "de": "Hass ist ein Gift.",
+        "en": "Hatred is a poison."
+      },
+      {
+        "de": "Andreas empfindet Hass gegenüber Angela.",
+        "en": "Andreas feels hatred towards Angela."
+      },
+      {
+        "de": "Das hätte Hass gegen Flüchtlinge erzeugt.",
+        "en": "That would have generated hatred against refugees."
+      },
+      {
+        "de": "Das hat er aus Hass getan.",
+        "en": "He did it out of hatred."
+      },
+      {
+        "de": "Jetzt fühlte ich nur noch Hass.",
+        "en": "Now I only felt hate."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Hass.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Hass.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Hass.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Hass.htm",
+    "rank": 856,
+    "first_seen": "2026-10-12T14:31:27+00:00",
+    "updated_at": "2026-10-12T22:56:19+00:00",
+    "hash": "69ae00314022e104"
   },
   {
     "id": "Hektik",
@@ -2767,6 +3339,43 @@
     "hash": "f645ff1f602b8df7"
   },
   {
+    "id": "Ladenpreis",
+    "type": "noun",
+    "lemma": "Ladenpreis",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Ladenpreise",
+    "genitive": "Ladenpreises",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "retail price",
+      "publication price",
+      "selling price",
+      "shop price"
+    ],
+    "definitions_de": [
+      "im Einzelhandel ausgewiesener Verkaufspreis"
+    ],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ladenpreis.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ladenpreis.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ladenpreis.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ladenpreis.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ladenpreis.htm",
+    "rank": 860,
+    "first_seen": "2026-10-12T14:32:52+00:00",
+    "updated_at": "2026-10-12T22:56:41+00:00",
+    "hash": "887995339126c161"
+  },
+  {
     "id": "Laut",
     "type": "noun",
     "lemma": "Laut",
@@ -3361,6 +3970,66 @@
     "hash": "d97eab45f14adc8c"
   },
   {
+    "id": "Neuauflage",
+    "type": "noun",
+    "lemma": "Neuauflage",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Neuauflagen",
+    "genitive": "Neuauflage",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "new edition",
+      "reissue",
+      "reprint",
+      "new issue",
+      "remake",
+      "rollover"
+    ],
+    "definitions_de": [
+      "[Kultur] nochmalige Auflage eines bereits hergestellten Druckwerkes"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Aufgrund der großen Nachfrage erfolgt die Neuauflage des Buches.",
+        "en": "Due to the high demand, the new edition of the book will be released."
+      },
+      {
+        "de": "Bei der nächsten Bundestagswahl scheint eine Neuauflage der großen Koalition keine realistische Variante zu sein.",
+        "en": "In the next federal election, a new edition of the grand coalition does not seem to be a realistic option."
+      },
+      {
+        "de": "Diese Neuauflage des Rechtschreibdudens leistet dazu einen wichtigen Beitrag.",
+        "en": "This new edition of the spelling dictionary makes an important contribution to this."
+      },
+      {
+        "de": "Sexuelle Erfüllung beider Beteiligter ist eine gute Voraussetzung für eine Neuauflage der Veranstaltung.",
+        "en": "Sexual fulfillment of both parties is a good prerequisite for a new edition of the event."
+      },
+      {
+        "de": "Im Rahmen dieser Neuauflage wurde außerdem eine Online-Umfrage zur Akzeptanz von Aussprachevarianten durchgeführt, aus der ausgewählte relevante Ergebnisse im Wörterbuchteil publiziert werden.",
+        "en": "As part of this new edition, an online survey on the acceptance of pronunciation variants was also conducted, from which selected relevant results will be published in the dictionary section."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Neuauflage.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Neuauflage.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Neuauflage.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Neuauflage.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Neuauflage.htm",
+    "rank": 949,
+    "first_seen": "2026-10-12T15:11:22+00:00",
+    "updated_at": "2026-10-12T23:10:13+00:00",
+    "hash": "0dc981f0481d5058"
+  },
+  {
     "id": "Neuerscheinung",
     "type": "noun",
     "lemma": "Neuerscheinung",
@@ -3405,6 +4074,70 @@
     "hash": "3f5b2a5e35db3a9c"
   },
   {
+    "id": "Ochse",
+    "type": "noun",
+    "lemma": "Ochse",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Ochsen",
+    "genitive": "Ochsen",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "ox",
+      "fool",
+      "bullock",
+      "idiot",
+      "simpleton"
+    ],
+    "definitions_de": [
+      "kastriertes männliches Hausrind",
+      "dummer, einfältiger Mann"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wohin geht der Ochse?",
+        "en": "Where is the ox going?"
+      },
+      {
+        "de": "Nur ein Ochse trinkt alleine.",
+        "en": "Only one ox drinks alone."
+      },
+      {
+        "de": "Tom ist stark wie ein Ochse.",
+        "en": "Tom is strong as an ox."
+      },
+      {
+        "de": "Ein Frosch versuchte dicker zu werden als ein Ochse.",
+        "en": "A frog tried to become thicker than an ox."
+      },
+      {
+        "de": "Der Ochse zieht den Pflug.",
+        "en": "The ox pulls the plow."
+      },
+      {
+        "de": "Vom größeren Ochsen lernt der kleinere pflügen.",
+        "en": "From the old ox, the young one learns to plow."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Ochse.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Ochse.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Ochse.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ochse.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Ochse.htm",
+    "rank": 871,
+    "first_seen": "2026-10-12T14:36:45+00:00",
+    "updated_at": "2026-10-12T23:02:32+00:00",
+    "hash": "ec2339ad365722be"
+  },
+  {
     "id": "Ordensfrau",
     "type": "noun",
     "lemma": "Ordensfrau",
@@ -3443,6 +4176,57 @@
     "first_seen": "2026-10-08T11:02:09+00:00",
     "updated_at": "2026-10-12T04:33:04+00:00",
     "hash": "f2458915e18c763a"
+  },
+  {
+    "id": "Perfektionismus",
+    "type": "noun",
+    "lemma": "Perfektionismus",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "-",
+    "genitive": "Perfektionismus",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "perfectionism"
+    ],
+    "definitions_de": [
+      "übertriebenes Streben nach Vollkommenheit",
+      "[Wissenschaft] ethische Lehre mit dem Glauben an die Vervollkommnung der Menschheit als Ziel der Evolution"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Perfektionismus kann schnell zum Verhängnis werden.",
+        "en": "Perfectionism can quickly become a downfall."
+      },
+      {
+        "de": "Perfektionismus lähmt dich, wenn du versuchst, Dinge zu beenden, die kein Ende haben.",
+        "en": "Perfectionism paralyzes you when you try to finish things that have no end."
+      },
+      {
+        "de": "Genauigkeit ist gut, man hüte sich aber vor Perfektionismus.",
+        "en": "Accuracy is good, but one should beware of perfectionism."
+      },
+      {
+        "de": "Die Beziehung zu ihr scheiterte, weil er mit ihrem Hang zum Perfektionismus nicht klarkam.",
+        "en": "The relationship with her failed because he couldn't cope with her tendency towards perfectionism."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Perfektionismus.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Perfektionismus.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Perfektionismus.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Perfektionismus.htm",
+    "rank": 889,
+    "first_seen": "2026-10-12T14:45:07+00:00",
+    "updated_at": "2026-10-12T23:04:57+00:00",
+    "hash": "4193a3a1b09dd337"
   },
   {
     "id": "Pflegekind",
@@ -3868,6 +4652,71 @@
     "hash": "bdccb9c0fa1c64b7"
   },
   {
+    "id": "Schlussfolgerung",
+    "type": "noun",
+    "lemma": "Schlussfolgerung",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Schlussfolgerungen",
+    "genitive": "Schlussfolgerung",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "conclusion",
+      "deduction",
+      "inference",
+      "argumentation",
+      "corollary",
+      "reasoning",
+      "the bottom line"
+    ],
+    "definitions_de": [
+      "Ableitung eines Ergebnisses aus gegebenen Voraussetzungen und Ergebnis dieser Ableitung, Konklusion"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Was sind deine Schlussfolgerungen?",
+        "en": "What are your conclusions?"
+      },
+      {
+        "de": "Deine Schlussfolgerung ist äußerst strittig.",
+        "en": "Your conclusion is extremely controversial."
+      },
+      {
+        "de": "Es ist die einzig mögliche Schlussfolgerung.",
+        "en": "It's the only possible conclusion."
+      },
+      {
+        "de": "Das ist deine Schlussfolgerung, nicht meine.",
+        "en": "That's your conclusion, not mine."
+      },
+      {
+        "de": "Ich möchte den Inhalt der Präsentation zusammenfassen und eine Schlussfolgerung ziehen.",
+        "en": "I want to summarize the content of the presentation and draw a conclusion."
+      },
+      {
+        "de": "Diese Schlussfolgerung ist fragwürdig.",
+        "en": "This conclusion is questionable."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Schlussfolgerung.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Schlussfolgerung.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Schlussfolgerung.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schlussfolgerung.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Schlussfolgerung.htm",
+    "rank": 881,
+    "first_seen": "2026-10-12T14:41:16+00:00",
+    "updated_at": "2026-10-12T23:03:14+00:00",
+    "hash": "4aec31d3cf7981c6"
+  },
+  {
     "id": "Scha3ferhund",
     "type": "noun",
     "lemma": "Schäferhund",
@@ -4103,6 +4952,141 @@
     "hash": "b2202d878d805122"
   },
   {
+    "id": "Sinnbild",
+    "type": "noun",
+    "lemma": "Sinnbild",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Sinnbilder",
+    "genitive": "Sinnbild(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "symbol",
+      "allegory",
+      "emblem",
+      "ensign",
+      "representation"
+    ],
+    "definitions_de": [
+      "konventionalisierte bildliche Darstellung eines abstrakten Sachverhalts, Bildsymbol, Bildzeichen, Emblem, Symbol, Allegorie"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Schwarz ist Sinnbild von Trauer.",
+        "en": "Black is a symbol of mourning."
+      },
+      {
+        "de": "Weiß ist ein Sinnbild für Reinheit.",
+        "en": "White is a symbol of purity."
+      },
+      {
+        "de": "Die schwarze Farbe ist das Sinnbild der Trauer.",
+        "en": "The black color is the symbol of mourning."
+      },
+      {
+        "de": "Der Sensenmann ist ein Sinnbild des Todes.",
+        "en": "The Grim Reaper is a symbol of death."
+      },
+      {
+        "de": "Don Juan und Casanova sind Sinnbilder des Schürzenjägers.",
+        "en": "Don Juan and Casanova are symbols of the seducer."
+      },
+      {
+        "de": "Exlibris bestehen oft aus Wappen, Ornamenten, Allegorien, Sinnbildern, Porträts, Ansichten, Stillleben oder Landschaften.",
+        "en": "Exlibris often consist of coats of arms, ornaments, allegories, symbols, portraits, views, still lifes, or landscapes."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Sinnbild.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Sinnbild.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Sinnbild.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sinnbild.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Sinnbild.htm",
+    "rank": 812,
+    "first_seen": "2026-10-12T14:11:51+00:00",
+    "updated_at": "2026-10-12T22:45:11+00:00",
+    "hash": "273e7fd3d8c27364"
+  },
+  {
+    "id": "Sinnengenuss",
+    "type": "noun",
+    "lemma": "Sinnengenuss",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Sinnengenüsse",
+    "genitive": "Sinnengenusses",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "intense enjoyment",
+      "sensual pleasure"
+    ],
+    "definitions_de": [
+      "intensive sinnliche Freude und Erfüllung"
+    ],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Sinnengenuss.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Sinnengenuss.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Sinnengenuss.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sinnengenuss.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Sinnengenuss.htm",
+    "rank": 812,
+    "first_seen": "2026-10-12T14:11:51+00:00",
+    "updated_at": "2026-10-12T22:45:19+00:00",
+    "hash": "f680125442655410"
+  },
+  {
+    "id": "Sinneseindruck",
+    "type": "noun",
+    "lemma": "Sinneseindruck",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Sinneseindrücke",
+    "genitive": "Sinneseindruck(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "sensory impression",
+      "impression on the senses",
+      "perception",
+      "sensation"
+    ],
+    "definitions_de": [
+      "Aufnahme eines Faktums der Außenwelt in das eigene Bewusstsein, Wahrnehmung"
+    ],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Sinneseindruck.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Sinneseindruck.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Sinneseindruck.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sinneseindruck.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Sinneseindruck.htm",
+    "rank": 812,
+    "first_seen": "2026-10-12T14:11:51+00:00",
+    "updated_at": "2026-10-12T22:45:28+00:00",
+    "hash": "36cf0c79599b0823"
+  },
+  {
     "id": "Sorgenkind",
     "type": "noun",
     "lemma": "Sorgenkind",
@@ -4197,6 +5181,181 @@
     "first_seen": "2026-10-08T14:04:45+00:00",
     "updated_at": "2026-10-09T10:48:56+00:00",
     "hash": "71222ac526ada964"
+  },
+  {
+    "id": "Standard",
+    "type": "noun",
+    "lemma": "Standard",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Standards",
+    "genitive": "Standards",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "norm",
+      "standard",
+      "criterion",
+      "guideline",
+      "standard situation"
+    ],
+    "definitions_de": [
+      "etwas Geläufiges, Etabliertes, weithin Verbreitetes, Bemessungsgrundlage, Maßstab, Richtmaß",
+      "[Wirtschaft] eine verbindliche Richtlinie, die sicherstellen soll, dass Produkte verschiedener Hersteller miteinander kompatibel beziehungsweise interoperabel sind, Güte, Norm, Maßstab, Richtmaß, Bemessungsgrundlage",
+      "[Sport] kurz für Standardsituation, Standardsituation"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Seine Leistung entspricht nicht dem Standard.",
+        "en": "His work is not up to standard."
+      },
+      {
+        "de": "An westlichen Standards gemessen ist unser Haus zu klein.",
+        "en": "Measured by western standards, our house is too small."
+      },
+      {
+        "de": "Farbfilme sind der heutige Standard.",
+        "en": "Color films are today's standard."
+      },
+      {
+        "de": "Die Qualität der Hochschulbildung muss die internationalen Standards erfüllen.",
+        "en": "The quality of higher education must meet international standards."
+      },
+      {
+        "de": "Ich tanze lieber Latein als Standard.",
+        "en": "I prefer to dance Latin rather than Standard."
+      },
+      {
+        "de": "Die Braille-Schrift gilt heute als weltweiter Standard.",
+        "en": "Braille writing is considered a global standard today."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Standard_mask.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Standard_mask.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Standard_mask.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Standard_mask.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Standard.htm",
+    "rank": 835,
+    "first_seen": "2026-10-12T22:53:09+00:00",
+    "updated_at": "2026-10-12T22:53:30+00:00",
+    "hash": "1bdba1ad7a323794"
+  },
+  {
+    "id": "Standardsprache",
+    "type": "noun",
+    "lemma": "Standardsprache",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Standardsprachen",
+    "genitive": "Standardsprache",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "standard language",
+      "literary language"
+    ],
+    "definitions_de": [
+      "[Sprache] verbindliche, überregionale Form der geschriebenen und gesprochenen Sprache, die auch als Maßstab für den Schulunterricht gilt"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "In Grammatik und Wortschatz unterscheiden sich einige Dialekte erheblich von der Standardsprache.",
+        "en": "In grammar and vocabulary, some dialects differ significantly from the standard language."
+      },
+      {
+        "de": "Die Sprachnorm der Standardsprache wird stark dadurch bestimmt, dass festgelegt ist, welche Form im Schulunterricht gelehrt werden soll.",
+        "en": "The language norm of the standard language is strongly determined by the fact that it is established which form should be taught in school education."
+      },
+      {
+        "de": "Diese Wörter gehören nicht zur Standardsprache, sind aber weit verbreitet und akzeptiert.",
+        "en": "These words do not belong to the standard language, but are widely used and accepted."
+      },
+      {
+        "de": "Die Standardsprache wird an den Schulen gelehrt und gilt als verbindlich im Verkehr mit Behörden, Gerichten, Ämtern, Arbeitgebern.",
+        "en": "The standard language is taught in schools and is considered mandatory in communication with authorities, courts, offices, and employers."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Standardsprache.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Standardsprache.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Standardsprache.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Standardsprache.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Standardsprache.htm",
+    "rank": 835,
+    "first_seen": "2026-10-12T14:22:00+00:00",
+    "updated_at": "2026-10-12T22:54:34+00:00",
+    "hash": "c53dbe0fb3ed9b1c"
+  },
+  {
+    "id": "Standbein",
+    "type": "noun",
+    "lemma": "Standbein",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Standbeine(r)",
+    "genitive": "Standbein(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "supporting leg",
+      "base leg",
+      "core business",
+      "main leg",
+      "main pillar",
+      "mainstay"
+    ],
+    "definitions_de": [
+      "[Sport] das Bein, auf dem ein Sportler steht",
+      "[Kunst] dasjenige Bein bei Skulpturen, das die Hauptlast des Körpers trägt",
+      "[Wirtschaft] dasjenige Geschäftsfeld eines Unternehmens, das eine fundamentale Einnahmequelle darstellt"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Herstellung von Nahrungsmitteln ist ein Standbein der Wirtschaft des Landes.",
+        "en": "Food production is a mainstay of the country's economy."
+      },
+      {
+        "de": "Er wechselte ständig nervös von Spielbein zu Standbein und zurück.",
+        "en": "He constantly switched nervously from playing leg to standing leg and back."
+      },
+      {
+        "de": "Welches ist dein Standbein, das rechte oder das linke?",
+        "en": "Which is your standing leg – the right or the left?"
+      },
+      {
+        "de": "Er hatte das linke Bein vorgestreckt und benutzte das rechte als Standbein.",
+        "en": "He had stretched out his left leg and used his right as a standing leg."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Standbein.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Standbein.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Standbein.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Standbein.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Standbein.htm",
+    "rank": 835,
+    "first_seen": "2026-10-12T14:22:00+00:00",
+    "updated_at": "2026-10-12T22:54:55+00:00",
+    "hash": "38a3b3c5b1de634a"
   },
   {
     "id": "Stellenangebot",
@@ -4400,6 +5559,96 @@
     "first_seen": "2026-10-08T12:00:38+00:00",
     "updated_at": "2026-10-12T04:35:17+00:00",
     "hash": "6bd1ebc184ee53a9"
+  },
+  {
+    "id": "Sta3rke",
+    "type": "noun",
+    "lemma": "Stärke",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Stärken",
+    "genitive": "Stärke",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "strength",
+      "power",
+      "excellence",
+      "intensity",
+      "magnitude",
+      "potency",
+      "size",
+      "starch",
+      "thickness",
+      "vigorousness",
+      "ability",
+      "amylum",
+      "asset",
+      "bulkiness",
+      "capacity",
+      "circumference",
+      "corpulence",
+      "corpulency",
+      "extent",
+      "force",
+      "forte",
+      "fortitude",
+      "performance",
+      "powerfulness",
+      "quantity",
+      "resilience",
+      "sinews",
+      "skill",
+      "strong point"
+    ],
+    "definitions_de": [
+      "Kraft, Macht, Potenz, Vermögen, Kraft",
+      "Fähigkeit oder Fertigkeit, Trefflichkeit",
+      "Intensität einer Größe, Intensität",
+      "[Grundlagen] zahlenmäßige Größe, Umfang einer Gruppe, Größe"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wissen ist Stärke.",
+        "en": "Knowledge is power."
+      },
+      {
+        "de": "Mathematik ist meine Stärke.",
+        "en": "I'm very good at math."
+      },
+      {
+        "de": "Angeln ist nicht meine Stärke.",
+        "en": "Fishing is not my strength."
+      },
+      {
+        "de": "Deine Schwächen sind auch Stärken.",
+        "en": "Your weaknesses are also strengths."
+      },
+      {
+        "de": "Wie wird Reis ohne Stärke gekocht?",
+        "en": "How is rice cooked without starch?"
+      },
+      {
+        "de": "Mathematik war schon immer meine Stärke.",
+        "en": "Mathematics has always been my strength."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Sta3rke.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Sta3rke.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Sta3rke.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sta3rke.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Sta3rke.htm",
+    "rank": 822,
+    "first_seen": "2026-10-12T14:16:23+00:00",
+    "updated_at": "2026-10-12T22:45:44+00:00",
+    "hash": "527a8cc5800e4545"
   },
   {
     "id": "Stu3ckzahl",
@@ -4806,6 +6055,97 @@
     "hash": "5e48afc22498dd42"
   },
   {
+    "id": "Tomografie",
+    "type": "noun",
+    "lemma": "Tomografie",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Tomografien",
+    "genitive": "Tomografie",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "tomography"
+    ],
+    "definitions_de": [
+      "bildgebendes Verfahren, welches die räumliche Struktur eines Objektes durch ein Schichtaufnahmeverfahren ermittelt und als dreidimensionale Information darstellt"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Arzt hatte einen Verdacht und verlangte eine Tomografie.",
+        "en": "The doctor had a suspicion and demanded a tomography."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Tomografie.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Tomografie.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Tomografie.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tomografie.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Tomografie.htm",
+    "rank": 954,
+    "first_seen": "2026-10-12T15:13:08+00:00",
+    "updated_at": "2026-10-12T23:10:35+00:00",
+    "hash": "1e41a13d04c0c063"
+  },
+  {
+    "id": "Traumbild",
+    "type": "noun",
+    "lemma": "Traumbild",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Traumbilder",
+    "genitive": "Traumbild(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "dream image",
+      "vision",
+      "dream picture",
+      "fantasy image"
+    ],
+    "definitions_de": [
+      "ein im Traum erscheinendes Bild",
+      "ein Wunschbild, ein Phantasiebild",
+      "die künstlerische Darstellung einer inneren Vorstellung oder eines Traumes in einem Bildwerk"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Damals war ich sehr jung, und mein Kopf war voller Traumbilder ferner Länder.",
+        "en": "Back then I was very young, and my head was full of dream images of distant lands."
+      },
+      {
+        "de": "Ist dies ein Traumbild oder ein Trugbild?",
+        "en": "Is this a dream image or a delusion?"
+      },
+      {
+        "de": "Ihr Traumbild sollte sich als wertvoller erweisen, als ich vermutete.",
+        "en": "Your dream image should prove to be more valuable than I suspected."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Traumbild.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Traumbild.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Traumbild.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Traumbild.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Traumbild.htm",
+    "rank": 966,
+    "first_seen": "2026-10-12T15:18:22+00:00",
+    "updated_at": "2026-10-12T23:11:17+00:00",
+    "hash": "be11fb675f362ece"
+  },
+  {
     "id": "Tube",
     "type": "noun",
     "lemma": "Tube",
@@ -4910,6 +6250,47 @@
     "first_seen": "2026-10-08T10:59:59+00:00",
     "updated_at": "2026-10-09T01:00:04+00:00",
     "hash": "8c8bfb6a4719e343"
+  },
+  {
+    "id": "Tu3ftler",
+    "type": "noun",
+    "lemma": "Tüftler",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Tüftler",
+    "genitive": "Tüftlers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "tinkerer",
+      "experimenter",
+      "handyman"
+    ],
+    "definitions_de": [
+      "[Berufe] Bastler, jemand, der gerne Schwieriges herauszufinden versucht durch Herumbasteln, Ausprobieren und Nachdenken"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der flugfähige Modellhubschrauber aus Leichtmetall, maßstabgerecht gebastelt von einem Tüftler, der plötzlich in Kalamitäten geraten ist, zählt zu den ungewöhnlichsten Pfändern.",
+        "en": "The flyable model helicopter made of lightweight metal, built to scale by an inventor who has suddenly fallen into difficulties, is one of the most unusual pledges."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Tu3ftler.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Tu3ftler.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Tu3ftler.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tu3ftler.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Tu3ftler.htm",
+    "rank": 891,
+    "first_seen": "2026-10-12T14:45:48+00:00",
+    "updated_at": "2026-10-12T23:05:18+00:00",
+    "hash": "7878938e7699c4cc"
   },
   {
     "id": "Vollbart",
@@ -5237,6 +6618,71 @@
     "first_seen": "2026-10-08T10:59:48+00:00",
     "updated_at": "2026-10-09T00:59:00+00:00",
     "hash": "404179596acd9483"
+  },
+  {
+    "id": "Weh",
+    "type": "noun",
+    "lemma": "Weh",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Wehe",
+    "genitive": "Weh(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "pain",
+      "ache",
+      "balefulness",
+      "grief",
+      "sorrow",
+      "suffering",
+      "woe"
+    ],
+    "definitions_de": [
+      "seelisches, seltener auch körperliches Leid, Leid, Leiden, Kummer, Schmerz, Pein"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hat Tom dir weh getan?",
+        "en": "Did Tom hurt you?"
+      },
+      {
+        "de": "Meine Tochter liegt in den Wehen.",
+        "en": "My daughter is in labor."
+      },
+      {
+        "de": "Sich da zu entschuldigen, wenn man dem anderen weh getan hat, ist doch eine gute Sache.",
+        "en": "Apologizing when you have hurt someone is a good thing."
+      },
+      {
+        "de": "Mein Nacken tut ein bisschen weh.",
+        "en": "My neck hurts a little."
+      },
+      {
+        "de": "Sein Wohl und Weh hing am seidenen Faden.",
+        "en": "His well-being and woe hung by a silk thread."
+      },
+      {
+        "de": "Aber Ulrich pflichtete, zu seiner Schwester anfangs größer werdendem Weh, bereitwillig bei.",
+        "en": "But Ulrich willingly agreed with his sister's increasingly growing sorrow."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Weh.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Weh.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Weh.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Weh.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Weh.htm",
+    "rank": 803,
+    "first_seen": "2026-10-12T14:07:39+00:00",
+    "updated_at": "2026-10-12T22:43:52+00:00",
+    "hash": "01e70d02fc87b79b"
   },
   {
     "id": "Weltall",
@@ -5624,6 +7070,70 @@
     "first_seen": "2026-10-08T11:15:52+00:00",
     "updated_at": "2026-10-12T04:33:38+00:00",
     "hash": "21ae60d399a754a1"
+  },
+  {
+    "id": "Zeugenaussage",
+    "type": "noun",
+    "lemma": "Zeugenaussage",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Zeugenaussagen",
+    "genitive": "Zeugenaussage",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "C1",
+    "english": [
+      "testimony",
+      "witness statement",
+      "deposition",
+      "evidence",
+      "witness account",
+      "witness report"
+    ],
+    "definitions_de": [
+      "von einem Zeugen abgegebene Schilderung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Zeugenaussage war nicht glaubhaft.",
+        "en": "The witness statement was not credible."
+      },
+      {
+        "de": "Die Zeugenaussagen sprachen eine deutliche Sprache.",
+        "en": "The witness statements spoke a clear language."
+      },
+      {
+        "de": "Bei seiner Zeugenaussage war er den Tränen nahe.",
+        "en": "During his testimony, he was close to tears."
+      },
+      {
+        "de": "Der Brite hatte dem Gericht mitgeteilt, dass er wegen Terminen nicht nach München zu einer Zeugenaussage kommen könne.",
+        "en": "The Brit informed the court that he could not come to Munich to testify due to appointments."
+      },
+      {
+        "de": "Seine Zeugenaussage kommt der Wahrheit nahe.",
+        "en": "His testimony comes close to the truth."
+      },
+      {
+        "de": "Nach Zeugenaussagen rekonstruieren die Kriminalbeamten den Hergang eines Einbruches.",
+        "en": "According to witness statements, the criminal investigators reconstruct the course of a burglary."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Zeugenaussage.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Zeugenaussage.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Zeugenaussage.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeugenaussage.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Zeugenaussage.htm",
+    "rank": 852,
+    "first_seen": "2026-10-12T14:29:01+00:00",
+    "updated_at": "2026-10-12T22:55:58+00:00",
+    "hash": "c4028475b385b419"
   },
   {
     "id": "Zwischenfrage",

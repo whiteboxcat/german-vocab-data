@@ -1147,6 +1147,130 @@
     "hash": "7e85a0be7c891927"
   },
   {
+    "id": "anfallen",
+    "type": "verb",
+    "infinitive": "anfallen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "sein"
+    ],
+    "auxiliary_raw": "sein",
+    "present_3sg": "fällt an",
+    "praeteritum_3sg": "fiel an",
+    "perfekt_3sg": "ist angefallen",
+    "partizip2": "angefallen",
+    "separable_prefix": "an",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "falle an",
+        "du": "fällst an",
+        "er": "fällt an",
+        "wir": "fallen an",
+        "ihr": "fallt an",
+        "sie": "fallen an"
+      },
+      "Präteritum": {
+        "ich": "fiel an",
+        "du": "fielst an",
+        "er": "fiel an",
+        "wir": "fielen an",
+        "ihr": "fielt an",
+        "sie": "fielen an"
+      },
+      "Perfekt": {
+        "ich": "bin angefallen",
+        "du": "bist angefallen",
+        "er": "ist angefallen",
+        "wir": "sind angefallen",
+        "ihr": "seid angefallen",
+        "sie": "sind angefallen"
+      },
+      "Plusquamperfekt": {
+        "ich": "war angefallen",
+        "du": "warst angefallen",
+        "er": "war angefallen",
+        "wir": "waren angefallen",
+        "ihr": "wart angefallen",
+        "sie": "waren angefallen"
+      },
+      "Futur I": {
+        "ich": "werde anfallen",
+        "du": "wirst anfallen",
+        "er": "wird anfallen",
+        "wir": "werden anfallen",
+        "ihr": "werdet anfallen",
+        "sie": "werden anfallen"
+      },
+      "Futur II": {
+        "ich": "werde angefallen sein",
+        "du": "wirst angefallen sein",
+        "er": "wird angefallen sein",
+        "wir": "werden angefallen sein",
+        "ihr": "werdet angefallen sein",
+        "sie": "werden angefallen sein"
+      }
+    },
+    "imperative": [
+      "ich falle an",
+      "du fällst an",
+      "er fällt an",
+      "wir fallen an",
+      "ihr fallt an",
+      "sie fallen an"
+    ],
+    "english": [
+      "accrue",
+      "accumulate",
+      "arise",
+      "incur",
+      "occur"
+    ],
+    "definitions_de": [
+      "auftreten, bei einem Prozess entstehen, anliegen, auftreten, entstehen, erwachsen"
+    ],
+    "ipa": [],
+    "examples": [],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/anfallen_ist.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/anfallen_ist.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/anfallen_ist.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/anfallen_ist.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/anfallen_ist.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/anfallen_ist.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/anfallen_ist.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/anfallen_ist.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/anfallen_ist.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/anfallen_ist.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/anfallen_ist.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/anfallen_ist.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/anfallen_ist.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/anfallen_ist.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/anfallen_ist.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/anfallen_ist.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/anfallen_ist.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/anfallen_ist.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/anfallen_ist.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/anfallen_ist.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/anfallen_ist.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/anfallen_ist.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/anfallen_ist.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/anfallen.htm",
+    "rank": 897,
+    "first_seen": "2026-10-12T23:05:39+00:00",
+    "updated_at": "2026-10-12T23:06:01+00:00",
+    "hash": "60c989fe5ebdca08"
+  },
+  {
     "id": "angeho3ren",
     "type": "verb",
     "infinitive": "angehören",
@@ -1297,6 +1421,145 @@
     "first_seen": "2026-10-08T11:39:21+00:00",
     "updated_at": "2026-10-12T04:34:22+00:00",
     "hash": "a27c366a52cc9d5a"
+  },
+  {
+    "id": "anheimfallen",
+    "type": "verb",
+    "infinitive": "anheimfallen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "sein"
+    ],
+    "auxiliary_raw": "sein",
+    "present_3sg": "fällt anheim",
+    "praeteritum_3sg": "fiel anheim",
+    "perfekt_3sg": "ist anheimgefallen",
+    "partizip2": "anheimgefallen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "falle anheim",
+        "du": "fällst anheim",
+        "er": "fällt anheim",
+        "wir": "fallen anheim",
+        "ihr": "fallt anheim",
+        "sie": "fallen anheim"
+      },
+      "Präteritum": {
+        "ich": "fiel anheim",
+        "du": "fielst anheim",
+        "er": "fiel anheim",
+        "wir": "fielen anheim",
+        "ihr": "fielt anheim",
+        "sie": "fielen anheim"
+      },
+      "Perfekt": {
+        "ich": "bin anheimgefallen",
+        "du": "bist anheimgefallen",
+        "er": "ist anheimgefallen",
+        "wir": "sind anheimgefallen",
+        "ihr": "seid anheimgefallen",
+        "sie": "sind anheimgefallen"
+      },
+      "Plusquamperfekt": {
+        "ich": "war anheimgefallen",
+        "du": "warst anheimgefallen",
+        "er": "war anheimgefallen",
+        "wir": "waren anheimgefallen",
+        "ihr": "wart anheimgefallen",
+        "sie": "waren anheimgefallen"
+      },
+      "Futur I": {
+        "ich": "werde anheimfallen",
+        "du": "wirst anheimfallen",
+        "er": "wird anheimfallen",
+        "wir": "werden anheimfallen",
+        "ihr": "werdet anheimfallen",
+        "sie": "werden anheimfallen"
+      },
+      "Futur II": {
+        "ich": "werde anheimgefallen sein",
+        "du": "wirst anheimgefallen sein",
+        "er": "wird anheimgefallen sein",
+        "wir": "werden anheimgefallen sein",
+        "ihr": "werdet anheimgefallen sein",
+        "sie": "werden anheimgefallen sein"
+      }
+    },
+    "imperative": [
+      "ich falle anheim",
+      "du fällst anheim",
+      "er fällt anheim",
+      "wir fallen anheim",
+      "ihr fallt anheim",
+      "sie fallen anheim"
+    ],
+    "english": [
+      "become subject (to)",
+      "fall prey (to)",
+      "fall victim (to)",
+      "cede",
+      "fall victim",
+      "pass",
+      "succumb",
+      "transfer"
+    ],
+    "definitions_de": [
+      "als (Sach-)Besitz, als Eigentum an jemanden übergehen, zufallen, zukommen, zuteilwerden",
+      "etwas, jemandem zum Opfer fallen, erliegen",
+      "zuteilwerden, zufallen, zukommen, zufließen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Das ganze Gebäude fiel dem Feuer anheim.",
+        "en": "The fire consumed the whole building."
+      },
+      {
+        "de": "Tom erkannte schnell, dass die Wissenschaftler der Akademie allesamt dem Wahnsinn anheimgefallen waren und ihm keine Hilfe sein konnten.",
+        "en": "Tom quickly realized that the scientists of the academy had all succumbed to madness and could not help him."
+      },
+      {
+        "de": "Tausende und Abertausende sind der Pest anheimgefallen.",
+        "en": "Thousands and countless others have fallen victim to the plague."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/anheimfallen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/anheimfallen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/anheimfallen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/anheimfallen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/anheimfallen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/anheimfallen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/anheimfallen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/anheimfallen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/anheimfallen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/anheimfallen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/anheimfallen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/anheimfallen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/anheimfallen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/anheimfallen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/anheimfallen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/anheimfallen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/anheimfallen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/anheimfallen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/anheimfallen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/anheimfallen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/anheimfallen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/anheimfallen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/anheimfallen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/anheimfallen.htm",
+    "rank": 897,
+    "first_seen": "2026-10-12T14:47:56+00:00",
+    "updated_at": "2026-10-12T23:07:05+00:00",
+    "hash": "de5bace29d7ad753"
   },
   {
     "id": "anspielen",
@@ -2919,6 +3182,170 @@
     "hash": "e548391081a8eaf6"
   },
   {
+    "id": "auslesen",
+    "type": "verb",
+    "infinitive": "auslesen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "liest aus",
+    "praeteritum_3sg": "las aus",
+    "perfekt_3sg": "hat ausgelesen",
+    "partizip2": "ausgelesen",
+    "separable_prefix": "aus",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "lese aus",
+        "du": "liest aus",
+        "er": "liest aus",
+        "wir": "lesen aus",
+        "ihr": "lest aus",
+        "sie": "lesen aus"
+      },
+      "Präteritum": {
+        "ich": "las aus",
+        "du": "las(es)t aus",
+        "er": "las aus",
+        "wir": "lasen aus",
+        "ihr": "las(e)t aus",
+        "sie": "lasen aus"
+      },
+      "Perfekt": {
+        "ich": "habe ausgelesen",
+        "du": "hast ausgelesen",
+        "er": "hat ausgelesen",
+        "wir": "haben ausgelesen",
+        "ihr": "habt ausgelesen",
+        "sie": "haben ausgelesen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte ausgelesen",
+        "du": "hattest ausgelesen",
+        "er": "hatte ausgelesen",
+        "wir": "hatten ausgelesen",
+        "ihr": "hattet ausgelesen",
+        "sie": "hatten ausgelesen"
+      },
+      "Futur I": {
+        "ich": "werde auslesen",
+        "du": "wirst auslesen",
+        "er": "wird auslesen",
+        "wir": "werden auslesen",
+        "ihr": "werdet auslesen",
+        "sie": "werden auslesen"
+      },
+      "Futur II": {
+        "ich": "werde ausgelesen haben",
+        "du": "wirst ausgelesen haben",
+        "er": "wird ausgelesen haben",
+        "wir": "werden ausgelesen haben",
+        "ihr": "werdet ausgelesen haben",
+        "sie": "werden ausgelesen haben"
+      }
+    },
+    "imperative": [
+      "ich lese aus",
+      "du liest aus",
+      "er liest aus",
+      "wir lesen aus",
+      "ihr lest aus",
+      "sie lesen aus"
+    ],
+    "english": [
+      "finish reading",
+      "select",
+      "choose",
+      "pick",
+      "pick out",
+      "read out",
+      "buck",
+      "cob",
+      "cull",
+      "handle",
+      "read",
+      "read through",
+      "retrieve",
+      "search",
+      "separate",
+      "sort",
+      "stop reading",
+      "upload"
+    ],
+    "definitions_de": [
+      "etwas aus einer Menge desselben heraussuchen und entfernen",
+      "jemanden oder etwas unter mehreren auswählen",
+      "[Computer] Daten, Informationen von einem Speichermedium abrufen",
+      "zu Ende lesen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich habe das Buch ausgelesen.",
+        "en": "I've finished reading the book."
+      },
+      {
+        "de": "Hat sie das Buch schon ausgelesen?",
+        "en": "Has she finished the book yet?"
+      },
+      {
+        "de": "Ich kann das dicke Buch nicht in einer Woche auslesen.",
+        "en": "I can't finish the thick book in a week."
+      },
+      {
+        "de": "Hast du diesen Roman ausgelesen?",
+        "en": "Have you finished reading this novel?"
+      },
+      {
+        "de": "Ich habe dieses Buch nicht ausgelesen.",
+        "en": "I have not finished reading this book."
+      },
+      {
+        "de": "Ich werde diesen Roman bald ausgelesen haben.",
+        "en": "I'll finish reading this novel soon."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/auslesen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/auslesen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/auslesen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/auslesen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/auslesen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/auslesen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/auslesen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/auslesen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/auslesen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/auslesen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/auslesen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/auslesen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/auslesen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/auslesen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/auslesen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/auslesen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/auslesen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/auslesen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/auslesen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/auslesen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/auslesen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/auslesen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/auslesen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/auslesen.htm",
+    "rank": 865,
+    "first_seen": "2026-10-12T14:34:37+00:00",
+    "updated_at": "2026-10-12T22:58:27+00:00",
+    "hash": "72e5fa13b22ee715"
+  },
+  {
     "id": "ausreden",
     "type": "verb",
     "infinitive": "ausreden",
@@ -3927,6 +4354,160 @@
     "first_seen": "2026-10-09T10:44:24+00:00",
     "updated_at": "2026-10-12T04:36:52+00:00",
     "hash": "2949ce3447b55bf6"
+  },
+  {
+    "id": "beka3mpfen",
+    "type": "verb",
+    "infinitive": "bekämpfen",
+    "level": "C1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "bekämpft",
+    "praeteritum_3sg": "bekämpfte",
+    "perfekt_3sg": "hat bekämpft",
+    "partizip2": "bekämpft",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "bekämpfe",
+        "du": "bekämpfst",
+        "er": "bekämpft",
+        "wir": "bekämpfen",
+        "ihr": "bekämpft",
+        "sie": "bekämpfen"
+      },
+      "Präteritum": {
+        "ich": "bekämpfte",
+        "du": "bekämpftest",
+        "er": "bekämpfte",
+        "wir": "bekämpften",
+        "ihr": "bekämpftet",
+        "sie": "bekämpften"
+      },
+      "Perfekt": {
+        "ich": "habe bekämpft",
+        "du": "hast bekämpft",
+        "er": "hat bekämpft",
+        "wir": "haben bekämpft",
+        "ihr": "habt bekämpft",
+        "sie": "haben bekämpft"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte bekämpft",
+        "du": "hattest bekämpft",
+        "er": "hatte bekämpft",
+        "wir": "hatten bekämpft",
+        "ihr": "hattet bekämpft",
+        "sie": "hatten bekämpft"
+      },
+      "Futur I": {
+        "ich": "werde bekämpfen",
+        "du": "wirst bekämpfen",
+        "er": "wird bekämpfen",
+        "wir": "werden bekämpfen",
+        "ihr": "werdet bekämpfen",
+        "sie": "werden bekämpfen"
+      },
+      "Futur II": {
+        "ich": "werde bekämpft haben",
+        "du": "wirst bekämpft haben",
+        "er": "wird bekämpft haben",
+        "wir": "werden bekämpft haben",
+        "ihr": "werdet bekämpft haben",
+        "sie": "werden bekämpft haben"
+      }
+    },
+    "imperative": [
+      "ich bekämpfe",
+      "du bekämpfst",
+      "er bekämpft",
+      "wir bekämpfen",
+      "ihr bekämpft",
+      "sie bekämpfen"
+    ],
+    "english": [
+      "combat",
+      "antagonise",
+      "antagonize",
+      "battle",
+      "fight",
+      "fight against",
+      "battle against",
+      "oppose",
+      "tackle"
+    ],
+    "definitions_de": [
+      "gegen etwas ankämpfen",
+      "gegeneinander kämpfen",
+      "torpedieren, (etwas) eindämmen, angehen gegen, vorgehen (gegen), angehen (gegen), Maßnahmen ergreifen (gegen)"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie bekämpften das Feuer.",
+        "en": "They fought the fire."
+      },
+      {
+        "de": "Ich bekämpfe sie nicht.",
+        "en": "I do not fight them."
+      },
+      {
+        "de": "Man bekämpft dich wegen deiner Herkunft.",
+        "en": "They fight you because of your origin."
+      },
+      {
+        "de": "Die Armut bekämpfen in einem solidarischen Europa.",
+        "en": "Fighting poverty in a solidarity-based Europe."
+      },
+      {
+        "de": "Und ich will die Korruption im Land bekämpfen.",
+        "en": "And I want to fight corruption in the country."
+      },
+      {
+        "de": "Wie bekämpft man Desinformation?",
+        "en": "How does one combat disinformation?"
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/beka3mpfen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/beka3mpfen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/beka3mpfen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/beka3mpfen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/beka3mpfen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/beka3mpfen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/beka3mpfen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/beka3mpfen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/beka3mpfen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/beka3mpfen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/beka3mpfen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/beka3mpfen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/beka3mpfen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/beka3mpfen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/beka3mpfen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/beka3mpfen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/beka3mpfen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/beka3mpfen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/beka3mpfen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/beka3mpfen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/beka3mpfen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/beka3mpfen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/beka3mpfen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/beka3mpfen.htm",
+    "rank": 848,
+    "first_seen": "2026-10-12T14:27:36+00:00",
+    "updated_at": "2026-10-12T22:55:16+00:00",
+    "hash": "0aabdbd03e50562c"
   },
   {
     "id": "berufen",
@@ -5391,6 +5972,158 @@
     "hash": "f0c104f6bfc631cd"
   },
   {
+    "id": "durchschauen",
+    "type": "verb",
+    "infinitive": "durchschauen",
+    "level": "C1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "durchschaut",
+    "praeteritum_3sg": "durchschaute",
+    "perfekt_3sg": "hat durchschaut",
+    "partizip2": "durchschaut",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "durchschaue",
+        "du": "durchschaust",
+        "er": "durchschaut",
+        "wir": "durchschauen",
+        "ihr": "durchschaut",
+        "sie": "durchschauen"
+      },
+      "Präteritum": {
+        "ich": "durchschaute",
+        "du": "durchschautest",
+        "er": "durchschaute",
+        "wir": "durchschauten",
+        "ihr": "durchschautet",
+        "sie": "durchschauten"
+      },
+      "Perfekt": {
+        "ich": "habe durchschaut",
+        "du": "hast durchschaut",
+        "er": "hat durchschaut",
+        "wir": "haben durchschaut",
+        "ihr": "habt durchschaut",
+        "sie": "haben durchschaut"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte durchschaut",
+        "du": "hattest durchschaut",
+        "er": "hatte durchschaut",
+        "wir": "hatten durchschaut",
+        "ihr": "hattet durchschaut",
+        "sie": "hatten durchschaut"
+      },
+      "Futur I": {
+        "ich": "werde durchschau(e)n",
+        "du": "wirst durchschau(e)n",
+        "er": "wird durchschau(e)n",
+        "wir": "werden durchschau(e)n",
+        "ihr": "werdet durchschau(e)n",
+        "sie": "werden durchschau(e)n"
+      },
+      "Futur II": {
+        "ich": "werde durchschaut haben",
+        "du": "wirst durchschaut haben",
+        "er": "wird durchschaut haben",
+        "wir": "werden durchschaut haben",
+        "ihr": "werdet durchschaut haben",
+        "sie": "werden durchschaut haben"
+      }
+    },
+    "imperative": [
+      "ich durchschaue",
+      "du durchschaust",
+      "er durchschaut",
+      "wir durchschauen",
+      "ihr durchschaut",
+      "sie durchschauen"
+    ],
+    "english": [
+      "see through",
+      "perceive",
+      "understand",
+      "penetrate",
+      "read face",
+      "rumble",
+      "see (through)",
+      "see clearly"
+    ],
+    "definitions_de": [
+      "den wahren Kern einer Sache, einer Person erkennen, die verborgenen Ziele einer Person erfassen, begreifen, erkennen",
+      "etwas verstehen, geistig durchdringen, begreifen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du hast mich durchschaut.",
+        "en": "You have seen through me."
+      },
+      {
+        "de": "Ich habe sie sofort durchschaut.",
+        "en": "I saw through her immediately."
+      },
+      {
+        "de": "Ich habe dich schon lange durchschaut.",
+        "en": "I have seen through you for a long time."
+      },
+      {
+        "de": "Den inneren Aufbau der Pyramide haben wir nicht sofort durchschaut.",
+        "en": "We did not immediately understand the internal structure of the pyramid."
+      },
+      {
+        "de": "Die Regeln, nach denen hier vorgegangen wird, sind nicht leicht zu durchschauen.",
+        "en": "The rules according to which actions are taken here are not easy to understand."
+      },
+      {
+        "de": "Wer meint alles zu durchschauen, philosophiert nicht mehr.",
+        "en": "Whoever thinks they understand everything no longer philosophizes."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/durch=schauen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/durch=schauen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/durch=schauen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/durch=schauen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/durch=schauen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/durch=schauen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/durch=schauen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/durch=schauen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/durch=schauen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/durch=schauen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/durch=schauen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/durch=schauen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/durch=schauen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/durch=schauen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/durch=schauen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/durch=schauen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/durch=schauen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/durch=schauen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/durch=schauen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/durch=schauen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/durch=schauen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/durch=schauen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/durch=schauen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/durchschauen.htm",
+    "rank": 863,
+    "first_seen": "2026-10-12T22:57:02+00:00",
+    "updated_at": "2026-10-12T22:57:24+00:00",
+    "hash": "aad69d6db050ffab"
+  },
+  {
     "id": "durchspielen",
     "type": "verb",
     "infinitive": "durchspielen",
@@ -5850,6 +6583,318 @@
     "first_seen": "2026-10-08T12:53:27+00:00",
     "updated_at": "2026-10-12T04:37:14+00:00",
     "hash": "1bf5937ede1b070c"
+  },
+  {
+    "id": "entmachten",
+    "type": "verb",
+    "infinitive": "entmachten",
+    "level": "C1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "entmachtet",
+    "praeteritum_3sg": "entmachtete",
+    "perfekt_3sg": "hat entmachtet",
+    "partizip2": "entmachtet",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "entmachte",
+        "du": "entmachtest",
+        "er": "entmachtet",
+        "wir": "entmachten",
+        "ihr": "entmachtet",
+        "sie": "entmachten"
+      },
+      "Präteritum": {
+        "ich": "entmachtete",
+        "du": "entmachtetest",
+        "er": "entmachtete",
+        "wir": "entmachteten",
+        "ihr": "entmachtetet",
+        "sie": "entmachteten"
+      },
+      "Perfekt": {
+        "ich": "habe entmachtet",
+        "du": "hast entmachtet",
+        "er": "hat entmachtet",
+        "wir": "haben entmachtet",
+        "ihr": "habt entmachtet",
+        "sie": "haben entmachtet"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte entmachtet",
+        "du": "hattest entmachtet",
+        "er": "hatte entmachtet",
+        "wir": "hatten entmachtet",
+        "ihr": "hattet entmachtet",
+        "sie": "hatten entmachtet"
+      },
+      "Futur I": {
+        "ich": "werde entmachten",
+        "du": "wirst entmachten",
+        "er": "wird entmachten",
+        "wir": "werden entmachten",
+        "ihr": "werdet entmachten",
+        "sie": "werden entmachten"
+      },
+      "Futur II": {
+        "ich": "werde entmachtet haben",
+        "du": "wirst entmachtet haben",
+        "er": "wird entmachtet haben",
+        "wir": "werden entmachtet haben",
+        "ihr": "werdet entmachtet haben",
+        "sie": "werden entmachtet haben"
+      }
+    },
+    "imperative": [
+      "ich entmachte",
+      "du entmachtest",
+      "er entmachtet",
+      "wir entmachten",
+      "ihr entmachtet",
+      "sie entmachten"
+    ],
+    "english": [
+      "deprive of power",
+      "disempower",
+      "depower",
+      "deprive of his power",
+      "humble"
+    ],
+    "definitions_de": [
+      "jemandem seine Macht nehmen, absetzen, entlassen, abberufen, ablösen, seines Amtes entheben"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der König wurde entmachtet.",
+        "en": "The king was stripped of his power."
+      },
+      {
+        "de": "Dann hat das Militär den Präsidenten entmachtet.",
+        "en": "Then the military deposed the president."
+      },
+      {
+        "de": "Trotzdem finden es viele nicht richtig, dass das Militär einen gewählten Präsidenten entmachtet.",
+        "en": "Nevertheless, many do not find it right that the military deposes an elected president."
+      },
+      {
+        "de": "Deshalb hat sie die Regional-Regierung entmachtet.",
+        "en": "Therefore, she has ousted the regional government."
+      },
+      {
+        "de": "Er wurde aber entmachtet und sollte ins Gefängnis.",
+        "en": "He was, however, deposed and was to go to prison."
+      },
+      {
+        "de": "Der König wurde von den Revolutionären entmachtet und die Republik wurde ausgerufen.",
+        "en": "The king was deposed by the revolutionaries and the republic was proclaimed."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/entmachten.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/entmachten.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/entmachten.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/entmachten.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/entmachten.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/entmachten.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/entmachten.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/entmachten.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/entmachten.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/entmachten.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/entmachten.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/entmachten.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/entmachten.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/entmachten.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/entmachten.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/entmachten.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/entmachten.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/entmachten.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/entmachten.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/entmachten.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/entmachten.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/entmachten.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/entmachten.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/entmachten.htm",
+    "rank": 925,
+    "first_seen": "2026-10-12T15:00:52+00:00",
+    "updated_at": "2026-10-12T23:08:30+00:00",
+    "hash": "57c17c54329941d0"
+  },
+  {
+    "id": "erfahren",
+    "type": "verb",
+    "infinitive": "erfahren",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "erfährt",
+    "praeteritum_3sg": "erfuhr",
+    "perfekt_3sg": "hat erfahren",
+    "partizip2": "erfahren",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "über+A",
+      "durch+A",
+      "von+D"
+    ],
+    "usage_pattern_raw": "Akk., über+A, durch+A, von+D, als",
+    "indicative": {
+      "Präsens": {
+        "ich": "erfahre",
+        "du": "erfährst",
+        "er": "erfährt",
+        "wir": "erfahren",
+        "ihr": "erfahrt",
+        "sie": "erfahren"
+      },
+      "Präteritum": {
+        "ich": "erfuhr",
+        "du": "erfuhrst",
+        "er": "erfuhr",
+        "wir": "erfuhren",
+        "ihr": "erfuhrt",
+        "sie": "erfuhren"
+      },
+      "Perfekt": {
+        "ich": "habe erfahren",
+        "du": "hast erfahren",
+        "er": "hat erfahren",
+        "wir": "haben erfahren",
+        "ihr": "habt erfahren",
+        "sie": "haben erfahren"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte erfahren",
+        "du": "hattest erfahren",
+        "er": "hatte erfahren",
+        "wir": "hatten erfahren",
+        "ihr": "hattet erfahren",
+        "sie": "hatten erfahren"
+      },
+      "Futur I": {
+        "ich": "werde erfahren",
+        "du": "wirst erfahren",
+        "er": "wird erfahren",
+        "wir": "werden erfahren",
+        "ihr": "werdet erfahren",
+        "sie": "werden erfahren"
+      },
+      "Futur II": {
+        "ich": "werde erfahren haben",
+        "du": "wirst erfahren haben",
+        "er": "wird erfahren haben",
+        "wir": "werden erfahren haben",
+        "ihr": "werdet erfahren haben",
+        "sie": "werden erfahren haben"
+      }
+    },
+    "imperative": [
+      "ich erfahre",
+      "du erfährst",
+      "er erfährt",
+      "wir erfahren",
+      "ihr erfahrt",
+      "sie erfahren"
+    ],
+    "english": [
+      "learn",
+      "experience",
+      "find out",
+      "hear about",
+      "be informed",
+      "be told",
+      "come to know",
+      "find out about",
+      "gain knowledge (of)",
+      "get to hear (of)",
+      "get to know",
+      "get wind (of)",
+      "learn (about) (from)",
+      "learn (of)",
+      "suffer"
+    ],
+    "definitions_de": [
+      "durch eigenes Erleben kennen lernen, durchleben, erdulden, erleben, erleiden, kennenlernen",
+      "zur Kenntnis bekommen, von etwas Kenntnis erhalten, etwas mitgeteilt bekommen, aufschnappen, herausbekommen, hören, vernehmen",
+      "Kenntnis erhalten, informiert werden, sachkundig, kundig, mitmachen, (etwas) kennenlernen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wir sind erfahren.",
+        "en": "We're experienced."
+      },
+      {
+        "de": "Tom sollte davon erfahren.",
+        "en": "Tom should hear about this."
+      },
+      {
+        "de": "Tom erfuhr es erst später.",
+        "en": "Tom didn't find out until later."
+      },
+      {
+        "de": "Mehr darüber erfahrt ihr hier.",
+        "en": "You will learn more about this here."
+      },
+      {
+        "de": "Früher oder später erfährt er es.",
+        "en": "He's going to find out sooner or later."
+      },
+      {
+        "de": "Ich erfuhr davon aus vertrauenswürdiger Quelle.",
+        "en": "I learned about it from a reliable source."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/erfahren.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/erfahren.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/erfahren.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/erfahren.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/erfahren.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/erfahren.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/erfahren.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/erfahren.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/erfahren.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/erfahren.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/erfahren.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/erfahren.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/erfahren.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/erfahren.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/erfahren.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/erfahren.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/erfahren.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/erfahren.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/erfahren.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/erfahren.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/erfahren.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/erfahren.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/erfahren.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/erfahren.htm",
+    "rank": 816,
+    "first_seen": "2026-10-12T14:13:16+00:00",
+    "updated_at": "2026-10-12T22:45:36+00:00",
+    "hash": "d8737dc9786610de"
   },
   {
     "id": "ergies5en",
@@ -7677,6 +8722,315 @@
     "hash": "74f212c606100c05"
   },
   {
+    "id": "gutheis5en",
+    "type": "verb",
+    "infinitive": "gutheißen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "heißt gut",
+    "praeteritum_3sg": "hieß gut",
+    "perfekt_3sg": "hat gutgeheißen",
+    "partizip2": "gutgeheißen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "heiße gut",
+        "du": "heißt gut",
+        "er": "heißt gut",
+        "wir": "heißen gut",
+        "ihr": "heißt gut",
+        "sie": "heißen gut"
+      },
+      "Präteritum": {
+        "ich": "hieß gut",
+        "du": "hieß(es)t gut",
+        "er": "hieß gut",
+        "wir": "hießen gut",
+        "ihr": "hieß(e)t gut",
+        "sie": "hießen gut"
+      },
+      "Perfekt": {
+        "ich": "habe gutgeheißen",
+        "du": "hast gutgeheißen",
+        "er": "hat gutgeheißen",
+        "wir": "haben gutgeheißen",
+        "ihr": "habt gutgeheißen",
+        "sie": "haben gutgeheißen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gutgeheißen",
+        "du": "hattest gutgeheißen",
+        "er": "hatte gutgeheißen",
+        "wir": "hatten gutgeheißen",
+        "ihr": "hattet gutgeheißen",
+        "sie": "hatten gutgeheißen"
+      },
+      "Futur I": {
+        "ich": "werde gutheißen",
+        "du": "wirst gutheißen",
+        "er": "wird gutheißen",
+        "wir": "werden gutheißen",
+        "ihr": "werdet gutheißen",
+        "sie": "werden gutheißen"
+      },
+      "Futur II": {
+        "ich": "werde gutgeheißen haben",
+        "du": "wirst gutgeheißen haben",
+        "er": "wird gutgeheißen haben",
+        "wir": "werden gutgeheißen haben",
+        "ihr": "werdet gutgeheißen haben",
+        "sie": "werden gutgeheißen haben"
+      }
+    },
+    "imperative": [
+      "ich heiße gut",
+      "du heißt gut",
+      "er heißt gut",
+      "wir heißen gut",
+      "ihr heißt gut",
+      "sie heißen gut"
+    ],
+    "english": [
+      "approve",
+      "endorse",
+      "accept",
+      "approve of",
+      "authorise",
+      "authorize",
+      "countenance",
+      "indorse",
+      "ratify",
+      "sanction"
+    ],
+    "definitions_de": [
+      "etwas für richtig halten, etwas als angebracht befinden, billigen, befürworten, akzeptieren, loben, bejubeln"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Haben sie dein Projekt gutgeheißen?",
+        "en": "Did they approve your project?"
+      },
+      {
+        "de": "Ich kann den Plan nicht gutheißen.",
+        "en": "I can't approve the plan."
+      },
+      {
+        "de": "Toms Vater kann es nicht gutheißen, dass sein Sohn lange Haare hat und einen Bart trägt.",
+        "en": "Tom's father doesn't approve of him having long hair and a beard."
+      },
+      {
+        "de": "Ich kann diese Theorie nicht gutheißen.",
+        "en": "I cannot approve of this theory."
+      },
+      {
+        "de": "Haben sie Ihr Projekt gutgeheißen?",
+        "en": "Did they approve your project?"
+      },
+      {
+        "de": "Ich kann Ihren Plan nicht gutheißen.",
+        "en": "I cannot approve your plan."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/gutheis5en.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/gutheis5en.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/gutheis5en.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/gutheis5en.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/gutheis5en.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/gutheis5en.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/gutheis5en.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/gutheis5en.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/gutheis5en.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/gutheis5en.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/gutheis5en.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/gutheis5en.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/gutheis5en.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/gutheis5en.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/gutheis5en.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/gutheis5en.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/gutheis5en.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/gutheis5en.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/gutheis5en.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/gutheis5en.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/gutheis5en.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/gutheis5en.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/gutheis5en.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/gutheis5en.htm",
+    "rank": 804,
+    "first_seen": "2026-10-12T14:08:00+00:00",
+    "updated_at": "2026-10-12T22:43:58+00:00",
+    "hash": "d0fdf4226963f64e"
+  },
+  {
+    "id": "herausbekommen",
+    "type": "verb",
+    "infinitive": "herausbekommen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "bekommt/bekömmt heraus",
+    "praeteritum_3sg": "bekam heraus",
+    "perfekt_3sg": "hat herausbekommen",
+    "partizip2": "herausbekommen",
+    "separable_prefix": "heraus",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "aus+D",
+      "von+D"
+    ],
+    "usage_pattern_raw": "Dat., Akk., aus+D, von+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "bekomme heraus",
+        "du": "bekommst/bekömmst heraus",
+        "er": "bekommt/bekömmt heraus",
+        "wir": "bekommen heraus",
+        "ihr": "bekommt heraus",
+        "sie": "bekommen heraus"
+      },
+      "Präteritum": {
+        "ich": "bekam heraus",
+        "du": "bekamst heraus",
+        "er": "bekam heraus",
+        "wir": "bekamen heraus",
+        "ihr": "bekamt heraus",
+        "sie": "bekamen heraus"
+      },
+      "Perfekt": {
+        "ich": "habe herausbekommen",
+        "du": "hast herausbekommen",
+        "er": "hat herausbekommen",
+        "wir": "haben herausbekommen",
+        "ihr": "habt herausbekommen",
+        "sie": "haben herausbekommen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte herausbekommen",
+        "du": "hattest herausbekommen",
+        "er": "hatte herausbekommen",
+        "wir": "hatten herausbekommen",
+        "ihr": "hattet herausbekommen",
+        "sie": "hatten herausbekommen"
+      },
+      "Futur I": {
+        "ich": "werde herausbekommen",
+        "du": "wirst herausbekommen",
+        "er": "wird herausbekommen",
+        "wir": "werden herausbekommen",
+        "ihr": "werdet herausbekommen",
+        "sie": "werden herausbekommen"
+      },
+      "Futur II": {
+        "ich": "werde herausbekommen haben",
+        "du": "wirst herausbekommen haben",
+        "er": "wird herausbekommen haben",
+        "wir": "werden herausbekommen haben",
+        "ihr": "werdet herausbekommen haben",
+        "sie": "werden herausbekommen haben"
+      }
+    },
+    "imperative": [
+      "ich bekomme heraus",
+      "du bekommst/bekömmst heraus",
+      "er bekommt/bekömmt heraus",
+      "wir bekommen heraus",
+      "ihr bekommt heraus",
+      "sie bekommen heraus"
+    ],
+    "english": [
+      "find out",
+      "discover",
+      "figure out",
+      "get out",
+      "glean",
+      "obtain",
+      "prise out of",
+      "prize out of",
+      "pry out of",
+      "sound out"
+    ],
+    "definitions_de": [
+      "etwas herausfinden oder erlangen",
+      "erfahren, in Erfahrung bringen, auf etwas kommen, abspenstig machen, (jemandem) entlocken, informiert werden"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie werden es herausbekommen.",
+        "en": "You'll find out."
+      },
+      {
+        "de": "Wir werden es bald herausbekommen.",
+        "en": "We'll soon find out."
+      },
+      {
+        "de": "Ich habe es rein zufällig herausbekommen.",
+        "en": "I found out about it by chance."
+      },
+      {
+        "de": "Ich muss herausbekommen, wer hier lügt.",
+        "en": "I need to figure out who's lying."
+      },
+      {
+        "de": "Wir können nicht herausbekommen, was sie möchte.",
+        "en": "We cannot find out what she wants."
+      },
+      {
+        "de": "Du wirst Ärger kriegen, wenn deine Freundin die Wahrheit herausbekommt.",
+        "en": "You'll get into trouble if your girlfriend finds out the truth."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/herausbekommen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/herausbekommen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/herausbekommen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/herausbekommen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/herausbekommen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/herausbekommen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/herausbekommen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/herausbekommen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/herausbekommen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/herausbekommen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/herausbekommen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/herausbekommen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/herausbekommen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/herausbekommen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/herausbekommen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/herausbekommen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/herausbekommen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/herausbekommen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/herausbekommen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/herausbekommen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/herausbekommen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/herausbekommen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/herausbekommen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/herausbekommen.htm",
+    "rank": 901,
+    "first_seen": "2026-10-12T14:50:22+00:00",
+    "updated_at": "2026-10-12T23:07:47+00:00",
+    "hash": "3b59d123fb0f8199"
+  },
+  {
     "id": "hinauswollen",
     "type": "verb",
     "infinitive": "hinauswollen",
@@ -8998,6 +10352,152 @@
     "hash": "9f04d10405a91eee"
   },
   {
+    "id": "morden",
+    "type": "verb",
+    "infinitive": "morden",
+    "level": "C1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "mordet",
+    "praeteritum_3sg": "mordete",
+    "perfekt_3sg": "hat gemordet",
+    "partizip2": "gemordet",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "morde",
+        "du": "mordest",
+        "er": "mordet",
+        "wir": "morden",
+        "ihr": "mordet",
+        "sie": "morden"
+      },
+      "Präteritum": {
+        "ich": "mordete",
+        "du": "mordetest",
+        "er": "mordete",
+        "wir": "mordeten",
+        "ihr": "mordetet",
+        "sie": "mordeten"
+      },
+      "Perfekt": {
+        "ich": "habe gemordet",
+        "du": "hast gemordet",
+        "er": "hat gemordet",
+        "wir": "haben gemordet",
+        "ihr": "habt gemordet",
+        "sie": "haben gemordet"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte gemordet",
+        "du": "hattest gemordet",
+        "er": "hatte gemordet",
+        "wir": "hatten gemordet",
+        "ihr": "hattet gemordet",
+        "sie": "hatten gemordet"
+      },
+      "Futur I": {
+        "ich": "werde morden",
+        "du": "wirst morden",
+        "er": "wird morden",
+        "wir": "werden morden",
+        "ihr": "werdet morden",
+        "sie": "werden morden"
+      },
+      "Futur II": {
+        "ich": "werde gemordet haben",
+        "du": "wirst gemordet haben",
+        "er": "wird gemordet haben",
+        "wir": "werden gemordet haben",
+        "ihr": "werdet gemordet haben",
+        "sie": "werden gemordet haben"
+      }
+    },
+    "imperative": [
+      "ich morde",
+      "du mordest",
+      "er mordet",
+      "wir morden",
+      "ihr mordet",
+      "sie morden"
+    ],
+    "english": [
+      "murder",
+      "kill"
+    ],
+    "definitions_de": [
+      "jemanden vorsätzlich töten, einen Mord verüben, ermorden, killen",
+      "ermorden"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du sollst nicht morden.",
+        "en": "You shall not kill."
+      },
+      {
+        "de": "Viele in der Gruppe haben gemordet, weil Manson es ihnen befohlen hat.",
+        "en": "Many in the group have killed because Manson ordered them to."
+      },
+      {
+        "de": "Ottos Mops mordet mit Mühe Marthas muntere Meerschweinchen.",
+        "en": "Otto's pug murders Martha's lively guinea pigs with difficulty."
+      },
+      {
+        "de": "Wir können ihn nicht freilassen, die Gefahr, dass er wieder mordet, ist zu hoch.",
+        "en": "We cannot release him, the danger that he will kill again is too high."
+      },
+      {
+        "de": "Hassen heißt unablässig morden.",
+        "en": "To hate means to kill incessantly."
+      },
+      {
+        "de": "Wie ein Gewitter fielen die Barbaren in das Nachbarland eine und raubten, mordeten und schlachteten die Hugenotten ab.",
+        "en": "Like a thunderstorm, the barbarians fell into the neighboring country and plundered, murdered, and slaughtered the Huguenots."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/morden.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/morden.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/morden.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/morden.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/morden.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/morden.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/morden.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/morden.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/morden.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/morden.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/morden.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/morden.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/morden.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/morden.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/morden.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/morden.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/morden.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/morden.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/morden.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/morden.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/morden.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/morden.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/morden.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/morden.htm",
+    "rank": 900,
+    "first_seen": "2026-10-12T14:49:00+00:00",
+    "updated_at": "2026-10-12T23:07:26+00:00",
+    "hash": "4e5c947c80300a77"
+  },
+  {
     "id": "nachstehen",
     "type": "verb",
     "infinitive": "nachstehen",
@@ -9122,6 +10622,157 @@
     "first_seen": "2026-10-09T10:50:03+00:00",
     "updated_at": "2026-10-09T10:50:09+00:00",
     "hash": "df874cb0b6cadf16"
+  },
+  {
+    "id": "na3herkommen",
+    "type": "verb",
+    "infinitive": "näherkommen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "sein"
+    ],
+    "auxiliary_raw": "sein",
+    "present_3sg": "kommt/kömmt näher",
+    "praeteritum_3sg": "kam näher",
+    "perfekt_3sg": "ist nähergekommen",
+    "partizip2": "nähergekommen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Dat.",
+    "indicative": {
+      "Präsens": {
+        "ich": "komme näher",
+        "du": "kommst/kömmst näher",
+        "er": "kommt/kömmt näher",
+        "wir": "kommen näher",
+        "ihr": "kommt näher",
+        "sie": "kommen näher"
+      },
+      "Präteritum": {
+        "ich": "kam näher",
+        "du": "kamst näher",
+        "er": "kam näher",
+        "wir": "kamen näher",
+        "ihr": "kamt näher",
+        "sie": "kamen näher"
+      },
+      "Perfekt": {
+        "ich": "bin nähergekommen",
+        "du": "bist nähergekommen",
+        "er": "ist nähergekommen",
+        "wir": "sind nähergekommen",
+        "ihr": "seid nähergekommen",
+        "sie": "sind nähergekommen"
+      },
+      "Plusquamperfekt": {
+        "ich": "war nähergekommen",
+        "du": "warst nähergekommen",
+        "er": "war nähergekommen",
+        "wir": "waren nähergekommen",
+        "ihr": "wart nähergekommen",
+        "sie": "waren nähergekommen"
+      },
+      "Futur I": {
+        "ich": "werde näherkommen",
+        "du": "wirst näherkommen",
+        "er": "wird näherkommen",
+        "wir": "werden näherkommen",
+        "ihr": "werdet näherkommen",
+        "sie": "werden näherkommen"
+      },
+      "Futur II": {
+        "ich": "werde nähergekommen sein",
+        "du": "wirst nähergekommen sein",
+        "er": "wird nähergekommen sein",
+        "wir": "werden nähergekommen sein",
+        "ihr": "werdet nähergekommen sein",
+        "sie": "werden nähergekommen sein"
+      }
+    },
+    "imperative": [
+      "ich komme näher",
+      "du kommst/kömmst näher",
+      "er kommt/kömmt näher",
+      "wir kommen näher",
+      "ihr kommt näher",
+      "sie kommen näher"
+    ],
+    "english": [
+      "approach",
+      "come closer",
+      "become closer",
+      "come nearer",
+      "get closer",
+      "near"
+    ],
+    "definitions_de": [
+      "zu jemandem eine enge persönliche Beziehung aufbauen, mit jemandem vertrauter werden, anfreunden, annähern",
+      "sich etwas stärker nähern, etwas mehr entsprechen",
+      "zugehen auf, nahen, vertraut miteinander werden, (sich) nähern, näherrücken, vertrauter miteinander werden"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wir sind nähergekommen.",
+        "en": "We have come closer."
+      },
+      {
+        "de": "Ich hörte Schritte näherkommen.",
+        "en": "I heard footsteps approaching."
+      },
+      {
+        "de": "Wir sind der Lösung nähergekommen.",
+        "en": "We're closer to the solution."
+      },
+      {
+        "de": "Dave wünscht sich so sehr, dass Igor und er sich endlich näherkommen.",
+        "en": "Dave wishes so much that Igor and he finally get closer."
+      },
+      {
+        "de": "Ich habe das Gefühl, dass wir mit unseren Ermittlungen der Wahrheit überhaupt nicht näherkommen.",
+        "en": "I have the feeling that we are not getting any closer to the truth with our investigations."
+      },
+      {
+        "de": "Wenn man ihr näherkommt, kann man sehen, dass sie nicht mehr so jung ist.",
+        "en": "When you get closer to her, you can see that she is no longer so young."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/na3herkommen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/na3herkommen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/na3herkommen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/na3herkommen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/na3herkommen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/na3herkommen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/na3herkommen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/na3herkommen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/na3herkommen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/na3herkommen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/na3herkommen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/na3herkommen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/na3herkommen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/na3herkommen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/na3herkommen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/na3herkommen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/na3herkommen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/na3herkommen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/na3herkommen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/na3herkommen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/na3herkommen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/na3herkommen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/na3herkommen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/na3herkommen.htm",
+    "rank": 910,
+    "first_seen": "2026-10-12T14:53:33+00:00",
+    "updated_at": "2026-10-12T23:08:08+00:00",
+    "hash": "a3ff7edd42cc678b"
   },
   {
     "id": "platzen",
@@ -10004,6 +11655,153 @@
     "hash": "801317c17b82450e"
   },
   {
+    "id": "totlachen",
+    "type": "verb",
+    "infinitive": "totlachen",
+    "level": "C1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "lacht tot",
+    "praeteritum_3sg": "lachte tot",
+    "perfekt_3sg": "hat totgelacht",
+    "partizip2": "totgelacht",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "lache tot",
+        "du": "lachst tot",
+        "er": "lacht tot",
+        "wir": "lachen tot",
+        "ihr": "lacht tot",
+        "sie": "lachen tot"
+      },
+      "Präteritum": {
+        "ich": "lachte tot",
+        "du": "lachtest tot",
+        "er": "lachte tot",
+        "wir": "lachten tot",
+        "ihr": "lachtet tot",
+        "sie": "lachten tot"
+      },
+      "Perfekt": {
+        "ich": "habe totgelacht",
+        "du": "hast totgelacht",
+        "er": "hat totgelacht",
+        "wir": "haben totgelacht",
+        "ihr": "habt totgelacht",
+        "sie": "haben totgelacht"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte totgelacht",
+        "du": "hattest totgelacht",
+        "er": "hatte totgelacht",
+        "wir": "hatten totgelacht",
+        "ihr": "hattet totgelacht",
+        "sie": "hatten totgelacht"
+      },
+      "Futur I": {
+        "ich": "werde totlachen",
+        "du": "wirst totlachen",
+        "er": "wird totlachen",
+        "wir": "werden totlachen",
+        "ihr": "werdet totlachen",
+        "sie": "werden totlachen"
+      },
+      "Futur II": {
+        "ich": "werde totgelacht haben",
+        "du": "wirst totgelacht haben",
+        "er": "wird totgelacht haben",
+        "wir": "werden totgelacht haben",
+        "ihr": "werdet totgelacht haben",
+        "sie": "werden totgelacht haben"
+      }
+    },
+    "imperative": [
+      "ich lache tot",
+      "du lachst tot",
+      "er lacht tot",
+      "wir lachen tot",
+      "ihr lacht tot",
+      "sie lachen tot"
+    ],
+    "english": [
+      "be in hysterics",
+      "die laughing",
+      "die of laughter",
+      "split sides laughing",
+      "laugh heartily",
+      "laugh uproariously"
+    ],
+    "definitions_de": [
+      "heftig, kräftig Freude zeigen (lachen), amüsieren, losprusten, beeumeln, wiehernd lachen, bekringeln"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er hat sich totgelacht.",
+        "en": "He died laughing."
+      },
+      {
+        "de": "Ich hätte mich fast totgelacht.",
+        "en": "I almost died laughing."
+      },
+      {
+        "de": "Kann man sich zweimal halb totlachen?",
+        "en": "Can you laugh yourself half dead twice?"
+      },
+      {
+        "de": "Ich habe mich totgelacht über das, was er erzählte.",
+        "en": "I laughed myself to death over what he told."
+      },
+      {
+        "de": "Wir haben uns totgelacht, als wir von dem Missgeschick hörten.",
+        "en": "We laughed ourselves to death when we heard about the mishap."
+      },
+      {
+        "de": "Maria war tief verletzt, weil Tom sich fast totgelacht hat.",
+        "en": "Maria was deeply hurt because Tom almost laughed himself to death."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/totlachen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/totlachen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/totlachen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/totlachen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/totlachen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/totlachen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/totlachen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/totlachen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/totlachen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/totlachen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/totlachen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/totlachen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/totlachen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/totlachen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/totlachen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/totlachen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/totlachen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/totlachen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/totlachen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/totlachen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/totlachen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/totlachen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/totlachen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/totlachen.htm",
+    "rank": 850,
+    "first_seen": "2026-10-12T14:28:18+00:00",
+    "updated_at": "2026-10-12T22:55:37+00:00",
+    "hash": "ef08f683d9da50dd"
+  },
+  {
     "id": "umbauen",
     "type": "verb",
     "infinitive": "umbauen",
@@ -10871,6 +12669,154 @@
     "first_seen": "2026-10-08T11:47:02+00:00",
     "updated_at": "2026-10-12T04:34:39+00:00",
     "hash": "2a65544f7581dff7"
+  },
+  {
+    "id": "verheis5en",
+    "type": "verb",
+    "infinitive": "verheißen",
+    "level": "C1",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "verheißt",
+    "praeteritum_3sg": "verhieß",
+    "perfekt_3sg": "hat verheißen",
+    "partizip2": "verheißen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Dat., Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "verheiße",
+        "du": "verheißt",
+        "er": "verheißt",
+        "wir": "verheißen",
+        "ihr": "verheißt",
+        "sie": "verheißen"
+      },
+      "Präteritum": {
+        "ich": "verhieß",
+        "du": "verhieß(es)t",
+        "er": "verhieß",
+        "wir": "verhießen",
+        "ihr": "verhieß(e)t",
+        "sie": "verhießen"
+      },
+      "Perfekt": {
+        "ich": "habe verheißen",
+        "du": "hast verheißen",
+        "er": "hat verheißen",
+        "wir": "haben verheißen",
+        "ihr": "habt verheißen",
+        "sie": "haben verheißen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte verheißen",
+        "du": "hattest verheißen",
+        "er": "hatte verheißen",
+        "wir": "hatten verheißen",
+        "ihr": "hattet verheißen",
+        "sie": "hatten verheißen"
+      },
+      "Futur I": {
+        "ich": "werde verheißen",
+        "du": "wirst verheißen",
+        "er": "wird verheißen",
+        "wir": "werden verheißen",
+        "ihr": "werdet verheißen",
+        "sie": "werden verheißen"
+      },
+      "Futur II": {
+        "ich": "werde verheißen haben",
+        "du": "wirst verheißen haben",
+        "er": "wird verheißen haben",
+        "wir": "werden verheißen haben",
+        "ihr": "werdet verheißen haben",
+        "sie": "werden verheißen haben"
+      }
+    },
+    "imperative": [
+      "ich verheiße",
+      "du verheißt",
+      "er verheißt",
+      "wir verheißen",
+      "ihr verheißt",
+      "sie verheißen"
+    ],
+    "english": [
+      "promise",
+      "augur",
+      "foretell",
+      "predict"
+    ],
+    "definitions_de": [
+      "etwas jemandem prophezeien, versprechen, voraussagen, in Aussicht stellen, ankündigen, vorhersagen, versprechen, (jemandem etwas) versprechen, prophezeien"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er verhieß ihm Ruhm und Ehre.",
+        "en": "He promised him fame and honor."
+      },
+      {
+        "de": "Das verheißt nichts Gutes.",
+        "en": "It doesn't bode well."
+      },
+      {
+        "de": "Abendrot verheißt oft schönes Wetter.",
+        "en": "An evening glow often promises good weather."
+      },
+      {
+        "de": "Das verheißt nichts Gutes für morgen.",
+        "en": "It doesn't bode well for tomorrow."
+      },
+      {
+        "de": "Der blutrote Sonnenuntergang verhieß einen kühlen Morgen.",
+        "en": "The blood-red sunset promised a cool morning."
+      },
+      {
+        "de": "Das verheißt nichts Gutes für unseren weiteren Dialog.",
+        "en": "That does not augur well for the rest of our dialogue."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/verheis5en.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/verheis5en.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/verheis5en.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/verheis5en.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/verheis5en.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/verheis5en.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/verheis5en.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/verheis5en.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/verheis5en.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/verheis5en.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/verheis5en.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/verheis5en.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/verheis5en.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/verheis5en.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/verheis5en.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/verheis5en.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/verheis5en.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/verheis5en.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/verheis5en.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/verheis5en.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/verheis5en.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/verheis5en.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/verheis5en.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/verheis5en.htm",
+    "rank": 804,
+    "first_seen": "2026-10-12T14:08:00+00:00",
+    "updated_at": "2026-10-12T22:45:04+00:00",
+    "hash": "41b658c4a9f28039"
   },
   {
     "id": "verhelfen",
@@ -12235,5 +14181,152 @@
     "first_seen": "2026-10-08T14:29:41+00:00",
     "updated_at": "2026-10-12T04:40:29+00:00",
     "hash": "cb09be51d2a0ccfb"
+  },
+  {
+    "id": "u3berscha3tzen",
+    "type": "verb",
+    "infinitive": "überschätzen",
+    "level": "C1",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "überschätzt",
+    "praeteritum_3sg": "überschätzte",
+    "perfekt_3sg": "hat überschätzt",
+    "partizip2": "überschätzt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "überschätze",
+        "du": "überschätzt",
+        "er": "überschätzt",
+        "wir": "überschätzen",
+        "ihr": "überschätzt",
+        "sie": "überschätzen"
+      },
+      "Präteritum": {
+        "ich": "überschätzte",
+        "du": "überschätztest",
+        "er": "überschätzte",
+        "wir": "überschätzten",
+        "ihr": "überschätztet",
+        "sie": "überschätzten"
+      },
+      "Perfekt": {
+        "ich": "habe überschätzt",
+        "du": "hast überschätzt",
+        "er": "hat überschätzt",
+        "wir": "haben überschätzt",
+        "ihr": "habt überschätzt",
+        "sie": "haben überschätzt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte überschätzt",
+        "du": "hattest überschätzt",
+        "er": "hatte überschätzt",
+        "wir": "hatten überschätzt",
+        "ihr": "hattet überschätzt",
+        "sie": "hatten überschätzt"
+      },
+      "Futur I": {
+        "ich": "werde überschätzen",
+        "du": "wirst überschätzen",
+        "er": "wird überschätzen",
+        "wir": "werden überschätzen",
+        "ihr": "werdet überschätzen",
+        "sie": "werden überschätzen"
+      },
+      "Futur II": {
+        "ich": "werde überschätzt haben",
+        "du": "wirst überschätzt haben",
+        "er": "wird überschätzt haben",
+        "wir": "werden überschätzt haben",
+        "ihr": "werdet überschätzt haben",
+        "sie": "werden überschätzt haben"
+      }
+    },
+    "imperative": [
+      "ich überschätze",
+      "du überschätzt",
+      "er überschätzt",
+      "wir überschätzen",
+      "ihr überschätzt",
+      "sie überschätzen"
+    ],
+    "english": [
+      "overestimate",
+      "overrate",
+      "overpredict",
+      "overvalue"
+    ],
+    "definitions_de": [
+      "etwas in seinem Ausmaße größer, wichtiger oder gefährlicher einschätzen als es tatsächlich ist, Ggs unterschätzen, überbewerten, zu hoch bewerten"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Du überschätzt ihn.",
+        "en": "You overestimate him."
+      },
+      {
+        "de": "Sie überschätzen die Menschen.",
+        "en": "You overrate people."
+      },
+      {
+        "de": "Goethe wird ja allgemein überschätzt.",
+        "en": "Goethe is generally overrated."
+      },
+      {
+        "de": "Die Kapazität der Schüler wurde überschätzt.",
+        "en": "The capacity of the students was overestimated."
+      },
+      {
+        "de": "Der potenzielle Einfluss davon kann nicht überschätzt werden.",
+        "en": "Its potential influence cannot be overestimated."
+      },
+      {
+        "de": "Tom überschätzt definitiv sein eigenes Können.",
+        "en": "Tom definitely overestimates his own ability."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/u3berscha3tzen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/u3berscha3tzen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/u3berscha3tzen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/u3berscha3tzen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/u3berscha3tzen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/u3berscha3tzen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/u3berscha3tzen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/u3berscha3tzen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/u3berscha3tzen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/u3berscha3tzen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/u3berscha3tzen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/u3berscha3tzen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/u3berscha3tzen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/u3berscha3tzen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/u3berscha3tzen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/u3berscha3tzen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/u3berscha3tzen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/u3berscha3tzen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/u3berscha3tzen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/u3berscha3tzen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/u3berscha3tzen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/u3berscha3tzen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/u3berscha3tzen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/u3berscha3tzen.htm",
+    "rank": 830,
+    "first_seen": "2026-10-12T14:19:14+00:00",
+    "updated_at": "2026-10-12T22:45:52+00:00",
+    "hash": "e55d7901b8898302"
   }
 ]
