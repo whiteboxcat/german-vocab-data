@@ -95,10 +95,13 @@ def parse_verb(html: str, url: str) -> dict:
         indicative = _conjugation_block(text)
 
     imperative = []
-    imp = section_text(text, "Imperativ von", ("Welche infiniten", "\n###"))
+    # "Der Imperativ von …" is the FAQ answer; plain "Imperativ von" also matches a link near the top.
+    imp = section_text(text, "Der Imperativ von", ("Welche infiniten", "\n###"))
     m = re.search(r"Präsens:\s*\n(.+)", imp)
     if m:
         imperative = [x.strip() for x in m.group(1).split(",") if x.strip()]
+        if any(x.split(" ", 1)[0] in ("ich", "du", "er", "sie", "es") for x in imperative):
+            imperative = []   # that's a present-tense line, not the imperative
 
     return {
         "type": "verb",

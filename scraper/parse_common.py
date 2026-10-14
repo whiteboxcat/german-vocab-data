@@ -14,7 +14,7 @@ from .textutil import (
 BASE = "https://www.verbformen.de/"
 
 # Bump this whenever a parser fix should be applied to words already saved (see scraper/reparse.py).
-PARSER_VERSION = 3   # 2: whole example sentences · 3: synonyms
+PARSER_VERSION = 4   # 2: whole example sentences · 3: synonyms · 4: imperative
 
 
 def parse_level(text: str) -> str | None:

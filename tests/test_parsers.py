@@ -96,3 +96,10 @@ def test_examples_keep_the_whole_sentence():
     des = [e["de"] for e in v["examples"]]
     assert "Er wäscht sich." in des, des
     assert all(len(d.split()) >= 2 and d[-1] in ".!?" for d in des), des
+
+
+def test_imperative_on_real_page():
+    """The page links to "Bildung Imperativ von waschen" near the top; the real forms are further down."""
+    v = parse_verb(load("verb_waschen_live.html"), "https://www.verbformen.de/konjugation/waschen.htm")
+    assert v["imperative"] == ["wasche (du)", "waschen wir", "wascht (ihr)", "waschen Sie"], v["imperative"]
+    assert v["indicative"]["Präsens"]["du"] == "wäschst"
