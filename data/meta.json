@@ -1,6 +1,6 @@
 {
-  "data_version": 17,
-  "last_run": "2026-10-13T15:48:41+00:00",
+  "data_version": 18,
+  "last_run": "2026-10-14T01:43:26+00:00",
   "last_run_result": "paused: time budget used; the next run continues",
   "target_levels": [
     "A1",
@@ -11,50 +11,49 @@
     "C2"
   ],
   "counts": {
-    "nouns": 3163,
-    "verbs": 883
+    "nouns": 3495,
+    "verbs": 917
   },
   "source": "Netzverb (https://www.verbformen.de/), CC BY-SA 4.0",
-  "changed_at": "2026-10-13T15:48:42+00:00",
+  "changed_at": "2026-10-14T01:43:26+00:00",
   "last_run_stats": {
     "results": {
-      "added": 322,
-      "unchanged": 18,
-      "parse_error": 16,
-      "updated": 20
+      "added": 366,
+      "unchanged": 8,
+      "parse_error": 4
     },
-    "requests": 672,
-    "rate_limited": 76,
-    "errors": 3,
-    "minutes": 299.7,
-    "waited_minutes": 109.5,
-    "seconds_per_request": 26.8,
+    "requests": 656,
+    "rate_limited": 87,
+    "errors": 4,
+    "minutes": 299.8,
+    "waited_minutes": 123.0,
+    "seconds_per_request": 27.4,
     "final_delay": 20.0
   },
   "counts_by_level": {
     "A1": {
-      "nouns": 285,
-      "verbs": 166
+      "nouns": 341,
+      "verbs": 173
     },
     "A2": {
-      "nouns": 121,
-      "verbs": 84
+      "nouns": 144,
+      "verbs": 88
     },
     "B1": {
-      "nouns": 149,
-      "verbs": 102
+      "nouns": 168,
+      "verbs": 105
     },
     "B2": {
-      "nouns": 157,
-      "verbs": 105
+      "nouns": 177,
+      "verbs": 112
     },
     "C1": {
-      "nouns": 163,
-      "verbs": 105
+      "nouns": 191,
+      "verbs": 108
     },
     "C2": {
-      "nouns": 2288,
-      "verbs": 321
+      "nouns": 2474,
+      "verbs": 331
     }
   },
   "parser_version": 3
