@@ -76,12 +76,10 @@
       }
     },
     "imperative": [
-      "ich finde ab",
-      "du findest ab",
-      "er findet ab",
-      "wir finden ab",
-      "ihr findet ab",
-      "sie finden ab"
+      "finde (du) ab",
+      "finden wir ab",
+      "findet (ihr) ab",
+      "finden Sie ab"
     ],
     "english": [
       "compensate",
@@ -156,11 +154,192 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abfinden.htm",
-    "rank": 1477,
+    "rank": 1605,
     "zipf": 3.38,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "052b7672f9b2d6c0"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "7487d0e8651f4ac9"
+  },
+  {
+    "id": "abgrenzen",
+    "type": "verb",
+    "infinitive": "abgrenzen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "grenzt ab",
+    "praeteritum_3sg": "grenzte ab",
+    "perfekt_3sg": "hat abgegrenzt",
+    "partizip2": "abgegrenzt",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "von+D"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., von+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "grenze ab",
+        "du": "grenzt ab",
+        "er": "grenzt ab",
+        "wir": "grenzen ab",
+        "ihr": "grenzt ab",
+        "sie": "grenzen ab"
+      },
+      "Präteritum": {
+        "ich": "grenzte ab",
+        "du": "grenztest ab",
+        "er": "grenzte ab",
+        "wir": "grenzten ab",
+        "ihr": "grenztet ab",
+        "sie": "grenzten ab"
+      },
+      "Perfekt": {
+        "ich": "habe abgegrenzt",
+        "du": "hast abgegrenzt",
+        "er": "hat abgegrenzt",
+        "wir": "haben abgegrenzt",
+        "ihr": "habt abgegrenzt",
+        "sie": "haben abgegrenzt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte abgegrenzt",
+        "du": "hattest abgegrenzt",
+        "er": "hatte abgegrenzt",
+        "wir": "hatten abgegrenzt",
+        "ihr": "hattet abgegrenzt",
+        "sie": "hatten abgegrenzt"
+      },
+      "Futur I": {
+        "ich": "werde abgrenzen",
+        "du": "wirst abgrenzen",
+        "er": "wird abgrenzen",
+        "wir": "werden abgrenzen",
+        "ihr": "werdet abgrenzen",
+        "sie": "werden abgrenzen"
+      },
+      "Futur II": {
+        "ich": "werde abgegrenzt haben",
+        "du": "wirst abgegrenzt haben",
+        "er": "wird abgegrenzt haben",
+        "wir": "werden abgegrenzt haben",
+        "ihr": "werdet abgegrenzt haben",
+        "sie": "werden abgegrenzt haben"
+      }
+    },
+    "imperative": [
+      "grenze (du) ab",
+      "grenzen wir ab",
+      "grenzt (ihr) ab",
+      "grenzen Sie ab"
+    ],
+    "english": [
+      "distinguish",
+      "delineate",
+      "define",
+      "delimit",
+      "demarcate",
+      "differentiate",
+      "mark out",
+      "separate",
+      "border",
+      "circumscribe",
+      "circumvent",
+      "confine",
+      "delimitate",
+      "dissociate oneself",
+      "distance oneself",
+      "divide",
+      "eight-bound",
+      "fence off",
+      "isolate",
+      "limit",
+      "mark down",
+      "mark off",
+      "mark-off",
+      "rope in"
+    ],
+    "definitions_de": [
+      "einen Teil von einem anderen Teil abtrennen (auch übertragen), abstecken, abzäunen, beschränken, einfassen, eingrenzen",
+      "die Unterschiede von Dingen herausarbeiten, bestimmen, definieren, determinieren, differenzieren, festsetzen",
+      "sich von anderen Personen unterscheiden, sich von anderen Personen und Dingen distanzieren, absondern, distanzieren, unterscheiden, zurückziehen, Abstand nehmen",
+      "eingrenzen, festlegen, abrücken (von), eine Trennungslinie ziehen, festsetzen, (sich) distanzieren"
+    ],
+    "synonyms": [
+      "abstecken",
+      "abzäunen",
+      "beschränken",
+      "einfassen",
+      "eingrenzen",
+      "bestimmen",
+      "definieren",
+      "determinieren"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Diese Dinge lassen sich also auf diese Weise voneinander abgrenzen.",
+        "en": "These things can therefore be distinguished from each other in this way."
+      },
+      {
+        "de": "Jede Frau sollte sich überlegen, ob sie sich davon bewusst abgrenzen wolle, wenn sie sich verschleiere oder ein Kopftuch trage.",
+        "en": "Every woman should consider whether she wants to consciously distance herself from it when she veils herself or wears a headscarf."
+      },
+      {
+        "de": "Die meisten österreichischen Autobahnen sind mit Leitschienen abgegrenzt.",
+        "en": "Most Austrian highways are bordered with guardrails."
+      },
+      {
+        "de": "Friedfertigkeit ist vom Pazifismus abzugrenzen, der eine bedingungslose Grundhaltung zur Gewaltlosigkeit zum Ausdruck bringt.",
+        "en": "Peacefulness must be distinguished from pacifism, which expresses an unconditional attitude towards non-violence."
+      },
+      {
+        "de": "Der Schneeballstrauch liebt viel Feuchtigkeit, er wächst daher besonders an solchen Waldrändern, die feuchte Wiesen oder Gewässer abgrenzen.",
+        "en": "The snowball bush loves a lot of moisture, so it grows particularly at forest edges that delimit wet meadows or bodies of water."
+      },
+      {
+        "de": "Indessen waren wir ihnen bedeutend näher gerückt und sahen nun bald auch zu unserer Rechten den grünen Boden vom gelben Sand sich scharf abgrenzen und dichte Wälder von Palmen erscheinen.",
+        "en": "Meanwhile, we had moved significantly closer to them and soon saw to our right the green ground sharply delineating from the yellow sand and dense forests of palms appearing."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/abgrenzen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/abgrenzen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/abgrenzen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/abgrenzen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/abgrenzen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/abgrenzen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/abgrenzen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/abgrenzen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/abgrenzen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/abgrenzen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/abgrenzen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/abgrenzen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/abgrenzen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/abgrenzen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/abgrenzen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/abgrenzen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/abgrenzen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/abgrenzen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/abgrenzen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/abgrenzen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/abgrenzen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/abgrenzen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/abgrenzen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/abgrenzen.htm",
+    "rank": 1856,
+    "zipf": 3.18,
+    "first_seen": "2026-10-14T12:11:41+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "912c35202c0b5a55"
   },
   {
     "id": "ablaufen",
@@ -238,12 +417,10 @@
       }
     },
     "imperative": [
-      "ich laufe ab",
-      "du läufst ab",
-      "er läuft ab",
-      "wir laufen ab",
-      "ihr lauft ab",
-      "sie laufen ab"
+      "laufe (du) ab",
+      "laufen wir ab",
+      "lauft (ihr) ab",
+      "laufen Sie ab"
     ],
     "english": [
       "expire",
@@ -338,11 +515,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablaufen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ablaufen.htm",
-    "rank": 1208,
+    "rank": 1319,
     "zipf": 3.65,
     "first_seen": "2026-10-09T00:31:30+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "1d0e6bcdaeee15dc"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8df1ac5ab9e036ca"
   },
   {
     "id": "ablegen",
@@ -417,12 +594,10 @@
       }
     },
     "imperative": [
-      "ich lege ab",
-      "du legst ab",
-      "er legt ab",
-      "wir legen ab",
-      "ihr legt ab",
-      "sie legen ab"
+      "lege (du) ab",
+      "legen wir ab",
+      "legt (ihr) ab",
+      "legen Sie ab"
     ],
     "english": [
       "lay down",
@@ -518,11 +693,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ablegen.htm",
-    "rank": 1065,
+    "rank": 1168,
     "zipf": 3.84,
     "first_seen": "2026-10-13T01:45:39+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "50ab82751e65cdd9"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "d12847dabcc06653"
   },
   {
     "id": "abnutzen",
@@ -597,12 +772,10 @@
       }
     },
     "imperative": [
-      "ich nutze ab",
-      "du nutzt ab",
-      "er nutzt ab",
-      "wir nutzen ab",
-      "ihr nutzt ab",
-      "sie nutzen ab"
+      "nutze (du) ab",
+      "nutzen wir ab",
+      "nutzt (ihr) ab",
+      "nutzen Sie ab"
     ],
     "english": [
       "wear out",
@@ -687,11 +860,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abnutzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abnutzen.htm",
-    "rank": 3161,
+    "rank": 3378,
     "zipf": 2.23,
     "first_seen": "2026-10-13T15:02:42+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "09ee94766b5f80a3"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b2d96dcd7ceb69d3"
   },
   {
     "id": "absterben",
@@ -764,12 +937,10 @@
       }
     },
     "imperative": [
-      "ich sterbe ab",
-      "du stirbst ab",
-      "er stirbt ab",
-      "wir sterben ab",
-      "ihr sterbt ab",
-      "sie sterben ab"
+      "stirb (du) ab",
+      "sterben wir ab",
+      "sterbt (ihr) ab",
+      "sterben Sie ab"
     ],
     "english": [
       "die off",
@@ -844,11 +1015,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/absterben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/absterben.htm",
-    "rank": 1889,
+    "rank": 2044,
     "zipf": 3.04,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "3d1a6100b3fce344"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "878534161edb9f25"
   },
   {
     "id": "anbringen",
@@ -927,12 +1098,10 @@
       }
     },
     "imperative": [
-      "ich bringe an",
-      "du bringst an",
-      "er bringt an",
-      "wir bringen an",
-      "ihr bringt an",
-      "sie bringen an"
+      "bringe (du) an",
+      "bringen wir an",
+      "bringt (ihr) an",
+      "bringen Sie an"
     ],
     "english": [
       "affix",
@@ -1028,11 +1197,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anbringen.htm",
-    "rank": 1228,
+    "rank": 1341,
     "zipf": 3.63,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "ea0b26aef54be816"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "be505457a7c4208e"
   },
   {
     "id": "anfreunden",
@@ -1105,12 +1274,10 @@
       }
     },
     "imperative": [
-      "ich freunde an",
-      "du freundest an",
-      "er freundet an",
-      "wir freunden an",
-      "ihr freundet an",
-      "sie freunden an"
+      "freunde (du) an",
+      "freunden wir an",
+      "freundet (ihr) an",
+      "freunden Sie an"
     ],
     "english": [
       "make friends",
@@ -1184,11 +1351,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anfreunden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anfreunden.htm",
-    "rank": 1585,
+    "rank": 1716,
     "zipf": 3.29,
     "first_seen": "2026-10-08T12:39:28+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "024d48028cb0dafb"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "2bf61e04c8754dfb"
   },
   {
     "id": "anfu3hren",
@@ -1265,12 +1432,10 @@
       }
     },
     "imperative": [
-      "ich führe an",
-      "du führst an",
-      "er führt an",
-      "wir führen an",
-      "ihr führt an",
-      "sie führen an"
+      "führe (du) an",
+      "führen wir an",
+      "führt (ihr) an",
+      "führen Sie an"
     ],
     "english": [
       "cite",
@@ -1367,11 +1532,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anfu3hren.htm",
-    "rank": 1391,
+    "rank": 1515,
     "zipf": 3.45,
     "first_seen": "2026-10-08T13:59:31+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "88cea4ff0fae0811"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "fadec388e1f4fae9"
   },
   {
     "id": "ankaufen",
@@ -1448,12 +1613,10 @@
       }
     },
     "imperative": [
-      "ich kaufe an",
-      "du kaufst an",
-      "er kauft an",
-      "wir kaufen an",
-      "ihr kauft an",
-      "sie kaufen an"
+      "kaufe (du) an",
+      "kaufen wir an",
+      "kauft (ihr) an",
+      "kaufen Sie an"
     ],
     "english": [
       "purchase",
@@ -1510,11 +1673,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ankaufen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ankaufen.htm",
-    "rank": 3149,
+    "rank": 3366,
     "zipf": 2.24,
     "first_seen": "2026-10-12T08:22:32+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "ff9f51ce8cf64e82"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9a3fa40b51f15630"
   },
   {
     "id": "anlegen",
@@ -1596,12 +1759,10 @@
       }
     },
     "imperative": [
-      "ich lege an",
-      "du legst an",
-      "er legt an",
-      "wir legen an",
-      "ihr legt an",
-      "sie legen an"
+      "lege (du) an",
+      "legen wir an",
+      "legt (ihr) an",
+      "legen Sie an"
     ],
     "english": [
       "create",
@@ -1710,11 +1871,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anlegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anlegen.htm",
-    "rank": 866,
+    "rank": 960,
     "zipf": 4.13,
     "first_seen": "2026-10-13T01:45:39+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "e31ffa4d3da06856"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "f9ffffbccace2900"
   },
   {
     "id": "anlernen",
@@ -1789,12 +1950,10 @@
       }
     },
     "imperative": [
-      "ich lerne an",
-      "du lernst an",
-      "er lernt an",
-      "wir lernen an",
-      "ihr lernt an",
-      "sie lernen an"
+      "lerne (du) an",
+      "lernen wir an",
+      "lernt (ihr) an",
+      "lernen Sie an"
     ],
     "english": [
       "teach",
@@ -1846,11 +2005,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anlernen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anlernen.htm",
-    "rank": 3179,
+    "rank": 3398,
     "zipf": 2.22,
     "first_seen": "2026-10-08T14:50:35+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "3efee07a94de472b"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "fd2af29871f632dc"
   },
   {
     "id": "aufkommen",
@@ -1927,12 +2086,10 @@
       }
     },
     "imperative": [
-      "ich komme auf",
-      "du kommst/kömmst auf",
-      "er kommt/kömmt auf",
-      "wir kommen auf",
-      "ihr kommt auf",
-      "sie kommen auf"
+      "komme (du) auf",
+      "kommen wir auf",
+      "kommt (ihr) auf",
+      "kommen Sie auf"
     ],
     "english": [
       "arise",
@@ -2033,11 +2190,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufkommen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufkommen.htm",
-    "rank": 932,
+    "rank": 1031,
     "zipf": 4.03,
     "first_seen": "2026-10-08T11:00:50+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "7c3d3d8e12e67a3e"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9f6260c0942fb7e7"
   },
   {
     "id": "aufliegen",
@@ -2116,12 +2273,10 @@
       }
     },
     "imperative": [
-      "ich liege auf",
-      "du liegst auf",
-      "er liegt auf",
-      "wir liegen auf",
-      "ihr liegt auf",
-      "sie liegen auf"
+      "liege (du) auf",
+      "liegen wir auf",
+      "liegt (ihr) auf",
+      "liegen Sie auf"
     ],
     "english": [
       "be astonished",
@@ -2165,11 +2320,183 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufliegen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufliegen.htm",
-    "rank": 2708,
+    "rank": 2906,
     "zipf": 2.52,
     "first_seen": "2026-10-12T22:43:07+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "838cf17df6a8ecf7"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "052308205dfe8653"
+  },
+  {
+    "id": "ausbauen",
+    "type": "verb",
+    "infinitive": "ausbauen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "baut aus",
+    "praeteritum_3sg": "baute aus",
+    "perfekt_3sg": "hat ausgebaut",
+    "partizip2": "ausgebaut",
+    "separable_prefix": "aus",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "zu+D"
+    ],
+    "usage_pattern_raw": "Akk., zu+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "baue aus",
+        "du": "baust aus",
+        "er": "baut aus",
+        "wir": "bauen aus",
+        "ihr": "baut aus",
+        "sie": "bauen aus"
+      },
+      "Präteritum": {
+        "ich": "baute aus",
+        "du": "bautest aus",
+        "er": "baute aus",
+        "wir": "bauten aus",
+        "ihr": "bautet aus",
+        "sie": "bauten aus"
+      },
+      "Perfekt": {
+        "ich": "habe ausgebaut",
+        "du": "hast ausgebaut",
+        "er": "hat ausgebaut",
+        "wir": "haben ausgebaut",
+        "ihr": "habt ausgebaut",
+        "sie": "haben ausgebaut"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte ausgebaut",
+        "du": "hattest ausgebaut",
+        "er": "hatte ausgebaut",
+        "wir": "hatten ausgebaut",
+        "ihr": "hattet ausgebaut",
+        "sie": "hatten ausgebaut"
+      },
+      "Futur I": {
+        "ich": "werde ausbau(e)n",
+        "du": "wirst ausbau(e)n",
+        "er": "wird ausbau(e)n",
+        "wir": "werden ausbau(e)n",
+        "ihr": "werdet ausbau(e)n",
+        "sie": "werden ausbau(e)n"
+      },
+      "Futur II": {
+        "ich": "werde ausgebaut haben",
+        "du": "wirst ausgebaut haben",
+        "er": "wird ausgebaut haben",
+        "wir": "werden ausgebaut haben",
+        "ihr": "werdet ausgebaut haben",
+        "sie": "werden ausgebaut haben"
+      }
+    },
+    "imperative": [
+      "baue (du) aus",
+      "bauen wir aus",
+      "baut (ihr) aus",
+      "bauen Sie aus"
+    ],
+    "english": [
+      "expand",
+      "extend",
+      "remove",
+      "enlarge",
+      "improve",
+      "upgrade",
+      "complete",
+      "convert",
+      "develop",
+      "dismount",
+      "equip",
+      "finish",
+      "foster",
+      "parlay",
+      "reconstruct",
+      "restore",
+      "strengthen"
+    ],
+    "definitions_de": [
+      "[Technik] ein Teil aus einer Maschine, einer technischen Anlage herausnehmen, ausmontieren",
+      "[Gebäude] etwas planmäßig vergrößern, erweitern",
+      "etwas vergrößern oder verbessern",
+      "[Lebensmittel, Fachsprache] weiterentwickeln, vorspringend bauen, erweitern, vergrößern, zerlegen, nachrüsten"
+    ],
+    "synonyms": [
+      "ausmontieren",
+      "erweitern",
+      "weiterentwickeln",
+      "vergrößern",
+      "zerlegen",
+      "nachrüsten"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Vielleicht sollte ich den Speicher ausbauen.",
+        "en": "Maybe I ought to expand the memory."
+      },
+      {
+        "de": "Entlang des Flusses wurden die Dämme ausgebaut.",
+        "en": "Along the river, the dams were expanded."
+      },
+      {
+        "de": "Wir sollten versuchen, die Beziehung zu unseren Nachbarn auszubauen.",
+        "en": "We should try to expand the relationship with our neighbors."
+      },
+      {
+        "de": "Die Auszeit der Isolation ist eine gute Gelegenheit, unsere Stärken zu reflektieren und auszubauen.",
+        "en": "The downtime of isolation is a good chance to reflect on our strengths and build upon them."
+      },
+      {
+        "de": "Mein Dachgeschoss wird ausgebaut.",
+        "en": "My attic will be expanded."
+      },
+      {
+        "de": "Ich muss die Nabe ausbauen.",
+        "en": "I need to remove the hub."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ausbauen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ausbauen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ausbauen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ausbauen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ausbauen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ausbauen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ausbauen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ausbauen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ausbauen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ausbauen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ausbauen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ausbauen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ausbauen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ausbauen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ausbauen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ausbauen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ausbauen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ausbauen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ausbauen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ausbauen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ausbauen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ausbauen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausbauen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ausbauen.htm",
+    "rank": 1173,
+    "zipf": 3.83,
+    "first_seen": "2026-10-14T12:51:01+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a017b42b50f0a6f4"
   },
   {
     "id": "ausbrechen",
@@ -2248,12 +2575,10 @@
       }
     },
     "imperative": [
-      "ich breche aus",
-      "du brichst aus",
-      "er bricht aus",
-      "wir brechen aus",
-      "ihr brecht aus",
-      "sie brechen aus"
+      "brich (du) aus",
+      "brechen wir aus",
+      "brecht (ihr) aus",
+      "brechen Sie aus"
     ],
     "english": [
       "break out",
@@ -2335,11 +2660,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausbrechen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausbrechen.htm",
-    "rank": 1417,
+    "rank": 1543,
     "zipf": 3.43,
     "first_seen": "2026-10-08T23:23:36+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "3ed80bc189e35739"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "08bfc396d29a8846"
   },
   {
     "id": "aushelfen",
@@ -2417,12 +2742,10 @@
       }
     },
     "imperative": [
-      "ich helfe aus",
-      "du hilfst aus",
-      "er hilft aus",
-      "wir helfen aus",
-      "ihr helft aus",
-      "sie helfen aus"
+      "hilf (du) aus",
+      "helfen wir aus",
+      "helft (ihr) aus",
+      "helfen Sie aus"
     ],
     "english": [
       "help out",
@@ -2494,11 +2817,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aushelfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aushelfen.htm",
-    "rank": 1671,
+    "rank": 1810,
     "zipf": 3.22,
     "first_seen": "2026-10-08T11:28:51+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "9513ae91851432fb"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "05921d2d4c6bcb33"
   },
   {
     "id": "auslachen",
@@ -2573,12 +2896,10 @@
       }
     },
     "imperative": [
-      "ich lache aus",
-      "du lachst aus",
-      "er lacht aus",
-      "wir lachen aus",
-      "ihr lacht aus",
-      "sie lachen aus"
+      "lache (du) aus",
+      "lachen wir aus",
+      "lacht (ihr) aus",
+      "lachen Sie aus"
     ],
     "english": [
       "laugh at",
@@ -2655,11 +2976,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/auslachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/auslachen.htm",
-    "rank": 1788,
+    "rank": 1932,
     "zipf": 3.12,
     "first_seen": "2026-10-12T14:28:18+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "47955bb6ceaae4fe"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "31fed44ab6af5348"
   },
   {
     "id": "ausnutzen",
@@ -2736,12 +3057,10 @@
       }
     },
     "imperative": [
-      "ich nutze aus",
-      "du nutzt aus",
-      "er nutzt aus",
-      "wir nutzen aus",
-      "ihr nutzt aus",
-      "sie nutzen aus"
+      "nutze (du) aus",
+      "nutzen wir aus",
+      "nutzt (ihr) aus",
+      "nutzen Sie aus"
     ],
     "english": [
       "exploit",
@@ -2836,11 +3155,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausnutzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausnutzen.htm",
-    "rank": 1190,
+    "rank": 1300,
     "zipf": 3.67,
     "first_seen": "2026-10-13T15:02:42+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "9384640271e2af0b"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "18394e1f334a8620"
   },
   {
     "id": "beauftragen",
@@ -2918,12 +3237,10 @@
       }
     },
     "imperative": [
-      "ich beauftrage",
-      "du beauftragst",
-      "er beauftragt",
-      "wir beauftragen",
-      "ihr beauftragt",
-      "sie beauftragen"
+      "beauftrage (du)",
+      "beauftragen wir",
+      "beauftragt (ihr)",
+      "beauftragen Sie"
     ],
     "english": [
       "commission",
@@ -3009,11 +3326,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beauftragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beauftragen.htm",
-    "rank": 1418,
+    "rank": 1544,
     "zipf": 3.43,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "80c837e3663fef61"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "ed30ea36dc122b9e"
   },
   {
     "id": "bedu3rfen",
@@ -3090,12 +3407,10 @@
       }
     },
     "imperative": [
-      "ich bedarf",
-      "du bedarfst",
-      "er bedarf",
-      "wir bedürfen",
-      "ihr bedürft",
-      "sie bedürfen"
+      "-",
+      "-",
+      "-",
+      "-"
     ],
     "english": [
       "need",
@@ -3169,11 +3484,185 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bedu3rfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bedu3rfen.htm",
-    "rank": 1290,
+    "rank": 1407,
     "zipf": 3.56,
     "first_seen": "2026-10-08T14:24:49+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "dca3da93c59347fa"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "c3397baf0ba11fe6"
+  },
+  {
+    "id": "begreifen",
+    "type": "verb",
+    "infinitive": "begreifen",
+    "level": "B2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "begreift",
+    "praeteritum_3sg": "begriff",
+    "perfekt_3sg": "hat begriffen",
+    "partizip2": "begriffen",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk., als",
+    "indicative": {
+      "Präsens": {
+        "ich": "begreife",
+        "du": "begreifst",
+        "er": "begreift",
+        "wir": "begreifen",
+        "ihr": "begreift",
+        "sie": "begreifen"
+      },
+      "Präteritum": {
+        "ich": "begriff",
+        "du": "begriffst",
+        "er": "begriff",
+        "wir": "begriffen",
+        "ihr": "begrifft",
+        "sie": "begriffen"
+      },
+      "Perfekt": {
+        "ich": "habe begriffen",
+        "du": "hast begriffen",
+        "er": "hat begriffen",
+        "wir": "haben begriffen",
+        "ihr": "habt begriffen",
+        "sie": "haben begriffen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte begriffen",
+        "du": "hattest begriffen",
+        "er": "hatte begriffen",
+        "wir": "hatten begriffen",
+        "ihr": "hattet begriffen",
+        "sie": "hatten begriffen"
+      },
+      "Futur I": {
+        "ich": "werde begreifen",
+        "du": "wirst begreifen",
+        "er": "wird begreifen",
+        "wir": "werden begreifen",
+        "ihr": "werdet begreifen",
+        "sie": "werden begreifen"
+      },
+      "Futur II": {
+        "ich": "werde begriffen haben",
+        "du": "wirst begriffen haben",
+        "er": "wird begriffen haben",
+        "wir": "werden begriffen haben",
+        "ihr": "werdet begriffen haben",
+        "sie": "werden begriffen haben"
+      }
+    },
+    "imperative": [
+      "begreife (du)",
+      "begreifen wir",
+      "begreift (ihr)",
+      "begreifen Sie"
+    ],
+    "english": [
+      "understand",
+      "comprehend",
+      "grasp",
+      "realise",
+      "realize",
+      "recognize",
+      "apprehend",
+      "catch on",
+      "comprise",
+      "conceive",
+      "encompass",
+      "fathom",
+      "follow",
+      "grok",
+      "include",
+      "recognise",
+      "savvy",
+      "seize",
+      "take in",
+      "touch"
+    ],
+    "definitions_de": [
+      "etwas, jemanden mit dem Verstand erfassen, durchdacht haben, durchdringen, erfassen, kapieren, nachvollziehen",
+      "etwas umfassen, beinhalten, in sich ~, aufweisen, beinhalten, einbegreifen, enthalten",
+      "rätselhaft, erfassen, auffassen, schnallen, verstehen, durchsteigen"
+    ],
+    "synonyms": [
+      "durchdacht haben",
+      "durchdringen",
+      "erfassen",
+      "kapieren",
+      "nachvollziehen",
+      "beinhalten",
+      "aufweisen",
+      "einbegreifen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Begreifst du jetzt?",
+        "en": "Now do you see?"
+      },
+      {
+        "de": "Niemand begreift es.",
+        "en": "Nobody understands it."
+      },
+      {
+        "de": "Der Junge begreift schnell.",
+        "en": "The boy understands quickly."
+      },
+      {
+        "de": "Langsam begreife ich es.",
+        "en": "I'm beginning to understand."
+      },
+      {
+        "de": "Was genau begreifst du nicht?",
+        "en": "What exactly don't you get?"
+      },
+      {
+        "de": "Alles ist in Veränderung begriffen.",
+        "en": "Everything is in a state of change."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/begreifen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/begreifen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/begreifen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/begreifen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/begreifen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/begreifen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/begreifen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/begreifen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/begreifen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/begreifen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/begreifen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/begreifen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/begreifen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/begreifen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/begreifen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/begreifen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/begreifen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/begreifen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/begreifen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/begreifen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/begreifen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/begreifen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/begreifen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/begreifen.htm",
+    "rank": 1004,
+    "zipf": 4.07,
+    "first_seen": "2026-10-14T11:57:17+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "082d74148f9cf95f"
   },
   {
     "id": "beibringen",
@@ -3249,12 +3738,10 @@
       }
     },
     "imperative": [
-      "ich bringe bei",
-      "du bringst bei",
-      "er bringt bei",
-      "wir bringen bei",
-      "ihr bringt bei",
-      "sie bringen bei"
+      "bringe (du) bei",
+      "bringen wir bei",
+      "bringt (ihr) bei",
+      "bringen Sie bei"
     ],
     "english": [
       "teach",
@@ -3347,11 +3834,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beibringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beibringen.htm",
-    "rank": 1131,
+    "rank": 1237,
     "zipf": 3.75,
     "first_seen": "2026-10-08T10:55:39+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "5709766b84e489df"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "41b8b490d901cb4c"
   },
   {
     "id": "beilegen",
@@ -3427,12 +3914,10 @@
       }
     },
     "imperative": [
-      "ich lege bei",
-      "du legst bei",
-      "er legt bei",
-      "wir legen bei",
-      "ihr legt bei",
-      "sie legen bei"
+      "lege (du) bei",
+      "legen wir bei",
+      "legt (ihr) bei",
+      "legen Sie bei"
     ],
     "english": [
       "attach",
@@ -3519,11 +4004,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beilegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beilegen.htm",
-    "rank": 2120,
+    "rank": 2292,
     "zipf": 2.89,
     "first_seen": "2026-10-13T01:45:39+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "9b50f19e9899746c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e7c5c5de1f959ec8"
   },
   {
     "id": "beitragen",
@@ -3600,12 +4085,10 @@
       }
     },
     "imperative": [
-      "ich trage bei",
-      "du trägst bei",
-      "er trägt bei",
-      "wir tragen bei",
-      "ihr tragt bei",
-      "sie tragen bei"
+      "trage (du) bei",
+      "tragen wir bei",
+      "tragt (ihr) bei",
+      "tragen Sie bei"
     ],
     "english": [
       "contribute",
@@ -3692,11 +4175,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beitragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beitragen.htm",
-    "rank": 816,
+    "rank": 906,
     "zipf": 4.2,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "d8d5b9195a9589da"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "20aec9e3fe7b41b6"
   },
   {
     "id": "belegen",
@@ -3774,12 +4257,10 @@
       }
     },
     "imperative": [
-      "ich belege",
-      "du belegst",
-      "er belegt",
-      "wir belegen",
-      "ihr belegt",
-      "sie belegen"
+      "belege (du)",
+      "belegen wir",
+      "belegt (ihr)",
+      "belegen Sie"
     ],
     "english": [
       "occupy",
@@ -3879,11 +4360,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/belegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/belegen.htm",
-    "rank": 772,
+    "rank": 859,
     "zipf": 4.28,
     "first_seen": "2026-10-13T01:45:39+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "2f75a88dce486cc6"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "23f8c6af627c6066"
   },
   {
     "id": "benachrichtigen",
@@ -3961,12 +4442,10 @@
       }
     },
     "imperative": [
-      "ich benachrichtige",
-      "du benachrichtigst",
-      "er benachrichtigt",
-      "wir benachrichtigen",
-      "ihr benachrichtigt",
-      "sie benachrichtigen"
+      "benachrichtige (du)",
+      "benachrichtigen wir",
+      "benachrichtigt (ihr)",
+      "benachrichtigen Sie"
     ],
     "english": [
       "notify",
@@ -4047,11 +4526,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/benachrichtigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/benachrichtigen.htm",
-    "rank": 1574,
+    "rank": 1705,
     "zipf": 3.3,
     "first_seen": "2026-10-13T02:42:53+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "f0e8e1607f34d09c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8ad2611fa69acee2"
   },
   {
     "id": "benachteiligen",
@@ -4127,12 +4606,10 @@
       }
     },
     "imperative": [
-      "ich benachteilige",
-      "du benachteiligst",
-      "er benachteiligt",
-      "wir benachteiligen",
-      "ihr benachteiligt",
-      "sie benachteiligen"
+      "benachteilige (du)",
+      "benachteiligen wir",
+      "benachteiligt (ihr)",
+      "benachteiligen Sie"
     ],
     "english": [
       "discriminate against",
@@ -4210,11 +4687,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/benachteiligen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/benachteiligen.htm",
-    "rank": 2302,
+    "rank": 2480,
     "zipf": 2.77,
     "first_seen": "2026-10-13T02:42:53+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "ec28ce62e49db9ff"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "79a7feda23ca0f6f"
   },
   {
     "id": "benennen",
@@ -4291,12 +4768,10 @@
       }
     },
     "imperative": [
-      "ich benenne",
-      "du benennst",
-      "er benennt",
-      "wir benennen",
-      "ihr benennt",
-      "sie benennen"
+      "benenne (du)",
+      "benennen wir",
+      "benennt (ihr)",
+      "benennen Sie"
     ],
     "english": [
       "name",
@@ -4395,11 +4870,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/benennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/benennen.htm",
-    "rank": 1078,
+    "rank": 1182,
     "zipf": 3.82,
     "first_seen": "2026-10-08T14:51:38+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "26eee5d43e69eb53"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "895136c85556f21a"
   },
   {
     "id": "bereichern",
@@ -4478,12 +4953,10 @@
       }
     },
     "imperative": [
-      "ich bereichere",
-      "du bereicherst",
-      "er bereichert",
-      "wir bereichern",
-      "ihr bereichert",
-      "sie bereichern"
+      "bereichere (du)",
+      "bereichern wir",
+      "bereichert (ihr)",
+      "bereichern Sie"
     ],
     "english": [
       "enrich",
@@ -4558,11 +5031,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bereichern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bereichern.htm",
-    "rank": 1237,
+    "rank": 1350,
     "zipf": 3.62,
     "first_seen": "2026-10-13T14:16:34+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "33d41cc4e74a9f8c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9c3ee57e5d62bfa9"
   },
   {
     "id": "bereithalten",
@@ -4639,12 +5112,10 @@
       }
     },
     "imperative": [
-      "ich halte bereit",
-      "du hältst bereit",
-      "er hält bereit",
-      "wir halten bereit",
-      "ihr haltet bereit",
-      "sie halten bereit"
+      "halte (du) bereit",
+      "halten wir bereit",
+      "haltet (ihr) bereit",
+      "halten Sie bereit"
     ],
     "english": [
       "keep ready",
@@ -4720,11 +5191,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bereithalten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bereithalten.htm",
-    "rank": 1890,
+    "rank": 2045,
     "zipf": 3.04,
     "first_seen": "2026-10-08T12:17:47+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "69b6599a609bd22b"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "eae4d7f301bad66f"
   },
   {
     "id": "bereitstellen",
@@ -4802,12 +5273,10 @@
       }
     },
     "imperative": [
-      "ich stelle bereit",
-      "du stellst bereit",
-      "er stellt bereit",
-      "wir stellen bereit",
-      "ihr stellt bereit",
-      "sie stellen bereit"
+      "stelle (du) bereit",
+      "stellen wir bereit",
+      "stellt (ihr) bereit",
+      "stellen Sie bereit"
     ],
     "english": [
       "make available",
@@ -4885,11 +5354,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bereitstellen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bereitstellen.htm",
-    "rank": 1337,
+    "rank": 1456,
     "zipf": 3.51,
     "first_seen": "2026-10-08T12:44:45+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "2e2adef482436d8e"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "0f2e28fe369783d2"
   },
   {
     "id": "besagen",
@@ -4964,12 +5433,10 @@
       }
     },
     "imperative": [
-      "ich besage",
-      "du besagst",
-      "er besagt",
-      "wir besagen",
-      "ihr besagt",
-      "sie besagen"
+      "besage (du)",
+      "besagen wir",
+      "besagt (ihr)",
+      "besagen Sie"
     ],
     "english": [
       "mean",
@@ -5045,11 +5512,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besagen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besagen.htm",
-    "rank": 1723,
+    "rank": 1866,
     "zipf": 3.17,
     "first_seen": "2026-10-08T10:56:40+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "7679f572c4e37c23"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "759754d531f02085"
   },
   {
     "id": "beschaffen",
@@ -5125,12 +5592,10 @@
       }
     },
     "imperative": [
-      "ich beschaffe",
-      "du beschaffst",
-      "er beschafft",
-      "wir beschaffen",
-      "ihr beschafft",
-      "sie beschaffen"
+      "beschaffe (du)",
+      "beschaffen wir",
+      "beschafft (ihr)",
+      "beschaffen Sie"
     ],
     "english": [
       "acquire",
@@ -5212,11 +5677,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beschaffen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beschaffen.htm",
-    "rank": 1132,
+    "rank": 1238,
     "zipf": 3.75,
     "first_seen": "2026-10-08T14:40:07+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "2eaaffe133ac9414"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "f9c8f2750a3c2fdb"
   },
   {
     "id": "besehen",
@@ -5293,12 +5758,10 @@
       }
     },
     "imperative": [
-      "ich besehe",
-      "du besiehst",
-      "er besieht",
-      "wir besehen",
-      "ihr beseht",
-      "sie besehen"
+      "besieh (du)",
+      "besehen wir",
+      "beseht (ihr)",
+      "besehen Sie"
     ],
     "english": [
       "examine",
@@ -5369,11 +5832,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besehen.htm",
-    "rank": 2938,
+    "rank": 3140,
     "zipf": 2.39,
     "first_seen": "2026-10-08T10:57:40+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "c3b13b17bd8d5db2"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "76aadc74a9b58d68"
   },
   {
     "id": "besteigen",
@@ -5448,12 +5911,10 @@
       }
     },
     "imperative": [
-      "ich besteige",
-      "du besteigst",
-      "er besteigt",
-      "wir besteigen",
-      "ihr besteigt",
-      "sie besteigen"
+      "besteige (du)",
+      "besteigen wir",
+      "besteigt (ihr)",
+      "besteigen Sie"
     ],
     "english": [
       "mount",
@@ -5534,11 +5995,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besteigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besteigen.htm",
-    "rank": 1540,
+    "rank": 1670,
     "zipf": 3.33,
     "first_seen": "2026-10-08T13:39:36+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "48ad4e8678225615"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "ed8afcc8759651fb"
   },
   {
     "id": "betreffen",
@@ -5613,12 +6074,10 @@
       }
     },
     "imperative": [
-      "ich betreffe",
-      "du betriffst",
-      "er betrifft",
-      "wir betreffen",
-      "ihr betrefft",
-      "sie betreffen"
+      "betriff (du)",
+      "betreffen wir",
+      "betrefft (ihr)",
+      "betreffen Sie"
     ],
     "english": [
       "concern",
@@ -5706,11 +6165,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/betreffen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/betreffen.htm",
-    "rank": 966,
+    "rank": 1065,
     "zipf": 3.98,
     "first_seen": "2026-10-08T12:53:27+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "65e9f60ac11f5afa"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "2fa125e98cdf32f8"
   },
   {
     "id": "bevorzugen",
@@ -5787,12 +6246,10 @@
       }
     },
     "imperative": [
-      "ich bevorzuge",
-      "du bevorzugst",
-      "er bevorzugt",
-      "wir bevorzugen",
-      "ihr bevorzugt",
-      "sie bevorzugen"
+      "bevorzuge (du)",
+      "bevorzugen wir",
+      "bevorzugt (ihr)",
+      "bevorzugen Sie"
     ],
     "english": [
       "prefer",
@@ -5872,11 +6329,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bevorzugen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bevorzugen.htm",
-    "rank": 1096,
+    "rank": 1201,
     "zipf": 3.8,
     "first_seen": "2026-10-08T12:07:16+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "80d0e156829707ba"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "73fbc38d9a4fc6a2"
   },
   {
     "id": "bezeichnen",
@@ -5949,12 +6406,10 @@
       }
     },
     "imperative": [
-      "ich bezeichne",
-      "du bezeichnest",
-      "er bezeichnet",
-      "wir bezeichnen",
-      "ihr bezeichnet",
-      "sie bezeichnen"
+      "bezeichne (du)",
+      "bezeichnen wir",
+      "bezeichnet (ihr)",
+      "bezeichnen Sie"
     ],
     "english": [
       "designate",
@@ -6044,11 +6499,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bezeichnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bezeichnen.htm",
-    "rank": 657,
+    "rank": 732,
     "zipf": 4.46,
     "first_seen": "2026-10-14T00:37:39+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "fc8064c2b0fe8742"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9505eaaea19c0888"
   },
   {
     "id": "daherkommen",
@@ -6123,12 +6578,10 @@
       }
     },
     "imperative": [
-      "ich komme daher",
-      "du kommst/kömmst daher",
-      "er kommt/kömmt daher",
-      "wir kommen daher",
-      "ihr kommt daher",
-      "sie kommen daher"
+      "komme (du) daher",
+      "kommen wir daher",
+      "kommt (ihr) daher",
+      "kommen Sie daher"
     ],
     "english": [
       "come along",
@@ -6197,11 +6650,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/daherkommen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/daherkommen.htm",
-    "rank": 2287,
+    "rank": 2464,
     "zipf": 2.78,
     "first_seen": "2026-10-13T13:58:56+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "09048ea0cdfb99fc"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "ab7377dd1d2791c3"
   },
   {
     "id": "dastehen",
@@ -6274,12 +6727,10 @@
       }
     },
     "imperative": [
-      "ich stehe da",
-      "du stehst da",
-      "er steht da",
-      "wir stehen da",
-      "ihr steht da",
-      "sie stehen da"
+      "stehe (du) da",
+      "stehen wir da",
+      "steht (ihr) da",
+      "stehen Sie da"
     ],
     "english": [
       "stand",
@@ -6327,11 +6778,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/dastehen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/dastehen.htm",
-    "rank": 1358,
+    "rank": 1477,
     "zipf": 3.49,
     "first_seen": "2026-10-08T22:29:38+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "b3374840b1c231a2"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a4820c913b77ce2c"
   },
   {
     "id": "durcharbeiten",
@@ -6408,12 +6859,10 @@
       }
     },
     "imperative": [
-      "ich arbeite durch",
-      "du arbeitest durch",
-      "er arbeitet durch",
-      "wir arbeiten durch",
-      "ihr arbeitet durch",
-      "sie arbeiten durch"
+      "arbeite (du) durch",
+      "arbeiten wir durch",
+      "arbeitet (ihr) durch",
+      "arbeiten Sie durch"
     ],
     "english": [
       "work through",
@@ -6484,11 +6933,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/durcharbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/durcharbeiten.htm",
-    "rank": 2121,
+    "rank": 2293,
     "zipf": 2.89,
     "first_seen": "2026-10-08T11:19:21+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "3191c1ba0250c138"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "edff681f61e9285d"
   },
   {
     "id": "einarbeiten",
@@ -6566,12 +7015,10 @@
       }
     },
     "imperative": [
-      "ich arbeite ein",
-      "du arbeitest ein",
-      "er arbeitet ein",
-      "wir arbeiten ein",
-      "ihr arbeitet ein",
-      "sie arbeiten ein"
+      "arbeite (du) ein",
+      "arbeiten wir ein",
+      "arbeitet (ihr) ein",
+      "arbeiten Sie ein"
     ],
     "english": [
       "incorporate",
@@ -6659,11 +7106,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einarbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einarbeiten.htm",
-    "rank": 1870,
+    "rank": 2022,
     "zipf": 3.06,
     "first_seen": "2026-10-08T10:47:35+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "eddbaffbdad41cab"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9906e4e002a329cb"
   },
   {
     "id": "einfu3hren",
@@ -6742,12 +7189,10 @@
       }
     },
     "imperative": [
-      "ich führe ein",
-      "du führst ein",
-      "er führt ein",
-      "wir führen ein",
-      "ihr führt ein",
-      "sie führen ein"
+      "führe (du) ein",
+      "führen wir ein",
+      "führt (ihr) ein",
+      "führen Sie ein"
     ],
     "english": [
       "introduce",
@@ -6841,11 +7286,173 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einfu3hren.htm",
-    "rank": 1028,
+    "rank": 1128,
     "zipf": 3.89,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "ee3e7c0caef37d59"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "7e625225e86122da"
+  },
+  {
+    "id": "eingrenzen",
+    "type": "verb",
+    "infinitive": "eingrenzen",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "grenzt ein",
+    "praeteritum_3sg": "grenzte ein",
+    "perfekt_3sg": "hat eingegrenzt",
+    "partizip2": "eingegrenzt",
+    "separable_prefix": "ein",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "grenze ein",
+        "du": "grenzt ein",
+        "er": "grenzt ein",
+        "wir": "grenzen ein",
+        "ihr": "grenzt ein",
+        "sie": "grenzen ein"
+      },
+      "Präteritum": {
+        "ich": "grenzte ein",
+        "du": "grenztest ein",
+        "er": "grenzte ein",
+        "wir": "grenzten ein",
+        "ihr": "grenztet ein",
+        "sie": "grenzten ein"
+      },
+      "Perfekt": {
+        "ich": "habe eingegrenzt",
+        "du": "hast eingegrenzt",
+        "er": "hat eingegrenzt",
+        "wir": "haben eingegrenzt",
+        "ihr": "habt eingegrenzt",
+        "sie": "haben eingegrenzt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte eingegrenzt",
+        "du": "hattest eingegrenzt",
+        "er": "hatte eingegrenzt",
+        "wir": "hatten eingegrenzt",
+        "ihr": "hattet eingegrenzt",
+        "sie": "hatten eingegrenzt"
+      },
+      "Futur I": {
+        "ich": "werde eingrenzen",
+        "du": "wirst eingrenzen",
+        "er": "wird eingrenzen",
+        "wir": "werden eingrenzen",
+        "ihr": "werdet eingrenzen",
+        "sie": "werden eingrenzen"
+      },
+      "Futur II": {
+        "ich": "werde eingegrenzt haben",
+        "du": "wirst eingegrenzt haben",
+        "er": "wird eingegrenzt haben",
+        "wir": "werden eingegrenzt haben",
+        "ihr": "werdet eingegrenzt haben",
+        "sie": "werden eingegrenzt haben"
+      }
+    },
+    "imperative": [
+      "grenze (du) ein",
+      "grenzen wir ein",
+      "grenzt (ihr) ein",
+      "grenzen Sie ein"
+    ],
+    "english": [
+      "contain",
+      "curtail",
+      "define",
+      "enclose",
+      "isolate",
+      "limit",
+      "localise",
+      "localize",
+      "locate",
+      "narrow down",
+      "restrict",
+      "set limits"
+    ],
+    "definitions_de": [
+      "einer Sache eine Grenze geben beziehungsweise innerhalb der Grenze beschränken, beschränken, umgrenzen",
+      "eine Trennungslinie ziehen, Obergrenze festlegen, demarkieren, (etwas) deckeln, aufteilen, klein halten"
+    ],
+    "synonyms": [
+      "beschränken",
+      "umgrenzen",
+      "demarkieren",
+      "aufteilen",
+      "klein halten"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Die Feuerwehrleute grenzten das Feuer ein.",
+        "en": "The firemen localized the fire."
+      },
+      {
+        "de": "Mit einer Mauer kann man ein Grundstück eingrenzen.",
+        "en": "With a wall, one can delimit a property."
+      },
+      {
+        "de": "Eine Analyse hilft dabei, das Problem weiter einzugrenzen.",
+        "en": "An analysis helps to further narrow down the problem."
+      },
+      {
+        "de": "Möchten Sie sich zunächst über einen neuen Themenbereich informieren, helfen Nachschlagewerke und Lexika, um den Bereich einzugrenzen.",
+        "en": "If you would like to first learn about a new topic area, reference works and encyclopedias help to narrow down the area."
+      },
+      {
+        "de": "Lass uns die Suche eingrenzen.",
+        "en": "Let's narrow down the search."
+      },
+      {
+        "de": "Dieses Beispiel zeigt zugleich die Schwierigkeit auch in der Gegenwart, eine Gruppe als Ethnie einzugrenzen.",
+        "en": "This example simultaneously shows the difficulty of defining a group as an ethnicity even in the present."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/eingrenzen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/eingrenzen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/eingrenzen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/eingrenzen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/eingrenzen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/eingrenzen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/eingrenzen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/eingrenzen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/eingrenzen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/eingrenzen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/eingrenzen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/eingrenzen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/eingrenzen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/eingrenzen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/eingrenzen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/eingrenzen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/eingrenzen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/eingrenzen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/eingrenzen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/eingrenzen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/eingrenzen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/eingrenzen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/eingrenzen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/eingrenzen.htm",
+    "rank": 2064,
+    "zipf": 3.03,
+    "first_seen": "2026-10-14T12:11:41+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a52fca7ce208203c"
   },
   {
     "id": "einholen",
@@ -6923,12 +7530,10 @@
       }
     },
     "imperative": [
-      "ich hole ein",
-      "du holst ein",
-      "er holt ein",
-      "wir holen ein",
-      "ihr holt ein",
-      "sie holen ein"
+      "hole (du) ein",
+      "holen wir ein",
+      "holt (ihr) ein",
+      "holen Sie ein"
     ],
     "english": [
       "catch up",
@@ -7027,11 +7632,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einholen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einholen.htm",
-    "rank": 1229,
+    "rank": 1342,
     "zipf": 3.63,
     "first_seen": "2026-10-08T13:28:23+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "3aeda9dab7ed7aea"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "2182ccb562e6cb07"
   },
   {
     "id": "einlassen",
@@ -7110,12 +7715,10 @@
       }
     },
     "imperative": [
-      "ich lasse ein",
-      "du lässt ein",
-      "er lässt ein",
-      "wir lassen ein",
-      "ihr lasst ein",
-      "sie lassen ein"
+      "lasse (du) ein",
+      "lassen wir ein",
+      "lasst (ihr) ein",
+      "lassen Sie ein"
     ],
     "english": [
       "insert",
@@ -7217,11 +7820,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einlassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einlassen.htm",
-    "rank": 1181,
+    "rank": 1290,
     "zipf": 3.69,
     "first_seen": "2026-10-08T11:04:10+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "218f03048007ed78"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "fc331a8502fef25d"
   },
   {
     "id": "einleben",
@@ -7294,12 +7897,10 @@
       }
     },
     "imperative": [
-      "ich lebe ein",
-      "du lebst ein",
-      "er lebt ein",
-      "wir leben ein",
-      "ihr lebt ein",
-      "sie leben ein"
+      "lebe (du) ein",
+      "leben wir ein",
+      "lebt (ihr) ein",
+      "leben Sie ein"
     ],
     "english": [
       "settle in",
@@ -7376,11 +7977,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einleben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einleben.htm",
-    "rank": 2586,
+    "rank": 2778,
     "zipf": 2.6,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "c97138cb4a39d47d"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "20c50ee7bc946713"
   },
   {
     "id": "einsehen",
@@ -7455,12 +8056,10 @@
       }
     },
     "imperative": [
-      "ich sehe ein",
-      "du siehst ein",
-      "er sieht ein",
-      "wir sehen ein",
-      "ihr seht ein",
-      "sie sehen ein"
+      "sieh (du) ein",
+      "sehen wir ein",
+      "seht (ihr) ein",
+      "sehen Sie ein"
     ],
     "english": [
       "realize",
@@ -7545,11 +8144,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einsehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einsehen.htm",
-    "rank": 1046,
+    "rank": 1147,
     "zipf": 3.86,
     "first_seen": "2026-10-08T10:57:40+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "2929631621064115"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "569b8873e88a9009"
   },
   {
     "id": "eintauchen",
@@ -7626,12 +8225,10 @@
       }
     },
     "imperative": [
-      "ich tauche ein",
-      "du tauchst ein",
-      "er taucht ein",
-      "wir tauchen ein",
-      "ihr taucht ein",
-      "sie tauchen ein"
+      "tauche (du) ein",
+      "tauchen wir ein",
+      "taucht (ihr) ein",
+      "tauchen Sie ein"
     ],
     "english": [
       "dive",
@@ -7684,11 +8281,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/eintauchen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/eintauchen.htm",
-    "rank": 1530,
+    "rank": 1659,
     "zipf": 3.34,
     "first_seen": "2026-10-08T22:54:43+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "c621e6c3f7fb0896"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "c74a9d9ebff323fc"
   },
   {
     "id": "einteilen",
@@ -7767,12 +8364,10 @@
       }
     },
     "imperative": [
-      "ich teile ein",
-      "du teilst ein",
-      "er teilt ein",
-      "wir teilen ein",
-      "ihr teilt ein",
-      "sie teilen ein"
+      "teile (du) ein",
+      "teilen wir ein",
+      "teilt (ihr) ein",
+      "teilen Sie ein"
     ],
     "english": [
       "divide",
@@ -7871,11 +8466,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einteilen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einteilen.htm",
-    "rank": 1615,
+    "rank": 1748,
     "zipf": 3.27,
     "first_seen": "2026-10-14T00:36:15+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "f48b0fcac134809f"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "358f79d7364ffca9"
   },
   {
     "id": "empfinden",
@@ -7952,12 +8547,10 @@
       }
     },
     "imperative": [
-      "ich empfinde",
-      "du empfindest",
-      "er empfindet",
-      "wir empfinden",
-      "ihr empfindet",
-      "sie empfinden"
+      "empfinde (du)",
+      "empfinden wir",
+      "empfindet (ihr)",
+      "empfinden Sie"
     ],
     "english": [
       "feel",
@@ -8032,11 +8625,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/empfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/empfinden.htm",
-    "rank": 880,
+    "rank": 974,
     "zipf": 4.11,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "acacafdf5df546ea"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "4f80899d8970fa25"
   },
   {
     "id": "entfernen",
@@ -8114,12 +8707,10 @@
       }
     },
     "imperative": [
-      "ich entferne",
-      "du entfernst",
-      "er entfernt",
-      "wir entfernen",
-      "ihr entfernt",
-      "sie entfernen"
+      "entferne (du)",
+      "entfernen wir",
+      "entfernt (ihr)",
+      "entfernen Sie"
     ],
     "english": [
       "detach",
@@ -8220,11 +8811,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entfernen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entfernen.htm",
-    "rank": 735,
+    "rank": 817,
     "zipf": 4.36,
     "first_seen": "2026-10-14T00:17:01+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "719adcc359e7372b"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "6b4b05d54a110352"
   },
   {
     "id": "entfu3hren",
@@ -8299,12 +8890,10 @@
       }
     },
     "imperative": [
-      "ich entführe",
-      "du entführst",
-      "er entführt",
-      "wir entführen",
-      "ihr entführt",
-      "sie entführen"
+      "entführe (du)",
+      "entführen wir",
+      "entführt (ihr)",
+      "entführen Sie"
     ],
     "english": [
       "kidnap",
@@ -8378,11 +8967,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entfu3hren.htm",
-    "rank": 1376,
+    "rank": 1498,
     "zipf": 3.47,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "cb78b1fb4618208c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b9dd36cf6343051f"
   },
   {
     "id": "entgegenbringen",
@@ -8455,12 +9044,10 @@
       }
     },
     "imperative": [
-      "ich bringe entgegen",
-      "du bringst entgegen",
-      "er bringt entgegen",
-      "wir bringen entgegen",
-      "ihr bringt entgegen",
-      "sie bringen entgegen"
+      "bringe (du) entgegen",
+      "bringen wir entgegen",
+      "bringt (ihr) entgegen",
+      "bringen Sie entgegen"
     ],
     "english": [
       "show",
@@ -8533,11 +9120,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entgegenbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entgegenbringen.htm",
-    "rank": 2305,
+    "rank": 2483,
     "zipf": 2.77,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "26ca6aaa79a1db0b"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a333596627d00753"
   },
   {
     "id": "entgegensehen",
@@ -8612,12 +9199,10 @@
       }
     },
     "imperative": [
-      "ich sehe entgegen",
-      "du siehst entgegen",
-      "er sieht entgegen",
-      "wir sehen entgegen",
-      "ihr seht entgegen",
-      "sie sehen entgegen"
+      "sieh (du) entgegen",
+      "sehen wir entgegen",
+      "seht (ihr) entgegen",
+      "sehen Sie entgegen"
     ],
     "english": [
       "anticipate",
@@ -8694,11 +9279,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entgegensehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entgegensehen.htm",
-    "rank": 2845,
+    "rank": 3047,
     "zipf": 2.44,
     "first_seen": "2026-10-08T10:57:40+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "728d489cc16e87da"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "0668807c3db81a07"
   },
   {
     "id": "erachten",
@@ -8775,12 +9360,10 @@
       }
     },
     "imperative": [
-      "ich erachte",
-      "du erachtest",
-      "er erachtet",
-      "wir erachten",
-      "ihr erachtet",
-      "sie erachten"
+      "erachte (du)",
+      "erachten wir",
+      "erachtet (ihr)",
+      "erachten Sie"
     ],
     "english": [
       "consider",
@@ -8847,11 +9430,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erachten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erachten.htm",
-    "rank": 1768,
+    "rank": 1911,
     "zipf": 3.14,
     "first_seen": "2026-10-08T10:47:27+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "85a0821a4be6d842"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "d01f8d4bdf1585c6"
   },
   {
     "id": "erahnen",
@@ -8924,12 +9507,10 @@
       }
     },
     "imperative": [
-      "ich erahne",
-      "du erahnst",
-      "er erahnt",
-      "wir erahnen",
-      "ihr erahnt",
-      "sie erahnen"
+      "erahne (du)",
+      "erahnen wir",
+      "erahnt (ihr)",
+      "erahnen Sie"
     ],
     "english": [
       "conjecture",
@@ -9002,11 +9583,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erahnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erahnen.htm",
-    "rank": 1348,
+    "rank": 1467,
     "zipf": 3.5,
     "first_seen": "2026-10-08T10:47:27+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "578edc95fdf4b861"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "3b066e457cde5eb2"
   },
   {
     "id": "erbringen",
@@ -9081,12 +9662,10 @@
       }
     },
     "imperative": [
-      "ich erbringe",
-      "du erbringst",
-      "er erbringt",
-      "wir erbringen",
-      "ihr erbringt",
-      "sie erbringen"
+      "erbringe (du)",
+      "erbringen wir",
+      "erbringt (ihr)",
+      "erbringen Sie"
     ],
     "english": [
       "yield",
@@ -9174,11 +9753,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erbringen.htm",
-    "rank": 1186,
+    "rank": 1296,
     "zipf": 3.68,
     "first_seen": "2026-10-08T11:58:33+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "a2e96539f960d9f2"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "2c690a22bf33ef25"
   },
   {
     "id": "erfolgen",
@@ -9256,12 +9835,10 @@
       }
     },
     "imperative": [
-      "ich erfolge",
-      "du erfolgst",
-      "er erfolgt",
-      "wir erfolgen",
-      "ihr erfolgt",
-      "sie erfolgen"
+      "erfolge (du)",
+      "erfolgen wir",
+      "erfolgt (ihr)",
+      "erfolgen Sie"
     ],
     "english": [
       "happen",
@@ -9335,11 +9912,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erfolgen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erfolgen.htm",
-    "rank": 645,
+    "rank": 718,
     "zipf": 4.5,
     "first_seen": "2026-10-12T14:52:29+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "e32f8aad51747086"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8ea4f7bdea963be8"
   },
   {
     "id": "ergeben",
@@ -9418,12 +9995,10 @@
       }
     },
     "imperative": [
-      "ich ergebe",
-      "du ergibst",
-      "er ergibt",
-      "wir ergeben",
-      "ihr ergebt",
-      "sie ergeben"
+      "ergib (du)",
+      "ergeben wir",
+      "ergebt (ihr)",
+      "ergeben Sie"
     ],
     "english": [
       "result",
@@ -9519,11 +10094,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ergeben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ergeben.htm",
-    "rank": 617,
+    "rank": 688,
     "zipf": 4.57,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "470b107a8efb1f77"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "7bdc58ab255c742d"
   },
   {
     "id": "erhoffen",
@@ -9600,12 +10175,10 @@
       }
     },
     "imperative": [
-      "ich erhoffe",
-      "du erhoffst",
-      "er erhofft",
-      "wir erhoffen",
-      "ihr erhofft",
-      "sie erhoffen"
+      "erhoffe (du)",
+      "erhoffen wir",
+      "erhofft (ihr)",
+      "erhoffen Sie"
     ],
     "english": [
       "hope",
@@ -9676,11 +10249,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erhoffen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erhoffen.htm",
-    "rank": 1532,
+    "rank": 1661,
     "zipf": 3.34,
     "first_seen": "2026-10-08T13:17:14+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "e5c325a7ffb84b9e"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "f2c57a6ad93fae46"
   },
   {
     "id": "ernennen",
@@ -9757,12 +10330,10 @@
       }
     },
     "imperative": [
-      "ich ernenne",
-      "du ernennst",
-      "er ernennt",
-      "wir ernennen",
-      "ihr ernennt",
-      "sie ernennen"
+      "ernenne (du)",
+      "ernennen wir",
+      "ernennt (ihr)",
+      "ernennen Sie"
     ],
     "english": [
       "appoint",
@@ -9838,11 +10409,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ernennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ernennen.htm",
-    "rank": 1618,
+    "rank": 1751,
     "zipf": 3.27,
     "first_seen": "2026-10-08T14:51:38+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "2cb3200d7717b8aa"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b69c1b2859407db7"
   },
   {
     "id": "erstarren",
@@ -9918,12 +10489,10 @@
       }
     },
     "imperative": [
-      "ich erstarre",
-      "du erstarrst",
-      "er erstarrt",
-      "wir erstarren",
-      "ihr erstarrt",
-      "sie erstarren"
+      "erstarre (du)",
+      "erstarren wir",
+      "erstarrt (ihr)",
+      "erstarren Sie"
     ],
     "english": [
       "congeal",
@@ -10000,11 +10569,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erstarren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erstarren.htm",
-    "rank": 2182,
+    "rank": 2356,
     "zipf": 2.85,
     "first_seen": "2026-10-08T11:55:03+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "a5dffb0c972a9770"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e16d88fe8b7b5919"
   },
   {
     "id": "erstatten",
@@ -10082,12 +10651,10 @@
       }
     },
     "imperative": [
-      "ich erstatte",
-      "du erstattest",
-      "er erstattet",
-      "wir erstatten",
-      "ihr erstattet",
-      "sie erstatten"
+      "erstatte (du)",
+      "erstatten wir",
+      "erstattet (ihr)",
+      "erstatten Sie"
     ],
     "english": [
       "reimburse",
@@ -10170,11 +10737,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erstatten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erstatten.htm",
-    "rank": 1170,
+    "rank": 1278,
     "zipf": 3.7,
     "first_seen": "2026-10-08T11:55:03+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "0c84c82b929126db"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "ecb58087d79cdf02"
   },
   {
     "id": "ersteigern",
@@ -10249,12 +10816,10 @@
       }
     },
     "imperative": [
-      "ich ersteigere",
-      "du ersteigerst",
-      "er ersteigert",
-      "wir ersteigern",
-      "ihr ersteigert",
-      "sie ersteigern"
+      "ersteigere (du)",
+      "ersteigern wir",
+      "ersteigert (ihr)",
+      "ersteigern Sie"
     ],
     "english": [
       "auction",
@@ -10306,11 +10871,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ersteigern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ersteigern.htm",
-    "rank": 2288,
+    "rank": 2465,
     "zipf": 2.78,
     "first_seen": "2026-10-08T13:25:36+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "9ee5398e006f8835"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "0f11aa7aec2e8ea6"
   },
   {
     "id": "ertragen",
@@ -10385,12 +10950,10 @@
       }
     },
     "imperative": [
-      "ich ertrage",
-      "du erträgst",
-      "er erträgt",
-      "wir ertragen",
-      "ihr ertragt",
-      "sie ertragen"
+      "ertrage (du)",
+      "ertragen wir",
+      "ertragt (ihr)",
+      "ertragen Sie"
     ],
     "english": [
       "bear",
@@ -10468,11 +11031,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ertragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ertragen.htm",
-    "rank": 824,
+    "rank": 914,
     "zipf": 4.19,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "9799bfeac7d203d6"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9e81210c2dffe76f"
   },
   {
     "id": "fasten",
@@ -10545,12 +11108,10 @@
       }
     },
     "imperative": [
-      "ich faste",
-      "du fastest",
-      "er fastet",
-      "wir fasten",
-      "ihr fastet",
-      "sie fasten"
+      "faste (du)",
+      "fasten wir",
+      "fastet (ihr)",
+      "fasten Sie"
     ],
     "english": [
       "fast",
@@ -10617,11 +11178,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fasten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fasten.htm",
-    "rank": 1286,
+    "rank": 1402,
     "zipf": 3.57,
     "first_seen": "2026-10-08T12:51:23+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "557b03b0ce24dcc6"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "be513d08ec072897"
   },
   {
     "id": "fertigen",
@@ -10696,12 +11257,10 @@
       }
     },
     "imperative": [
-      "ich fertige",
-      "du fertigst",
-      "er fertigt",
-      "wir fertigen",
-      "ihr fertigt",
-      "sie fertigen"
+      "fertige (du)",
+      "fertigen wir",
+      "fertigt (ihr)",
+      "fertigen Sie"
     ],
     "english": [
       "manufacture",
@@ -10774,11 +11333,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fertigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fertigen.htm",
-    "rank": 1107,
+    "rank": 1213,
     "zipf": 3.79,
     "first_seen": "2026-10-08T12:10:45+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "ae963c79ae9162b2"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "4b1b66220aa5b968"
   },
   {
     "id": "fortfu3hren",
@@ -10853,12 +11412,10 @@
       }
     },
     "imperative": [
-      "ich führe fort",
-      "du führst fort",
-      "er führt fort",
-      "wir führen fort",
-      "ihr führt fort",
-      "sie führen fort"
+      "führe (du) fort",
+      "führen wir fort",
+      "führt (ihr) fort",
+      "führen Sie fort"
     ],
     "english": [
       "continue",
@@ -10934,11 +11491,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fortfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fortfu3hren.htm",
-    "rank": 1629,
+    "rank": 1762,
     "zipf": 3.26,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "a9d97ba7abc85a8e"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "df830049e9d00278"
   },
   {
     "id": "fa3llen",
@@ -11013,12 +11570,10 @@
       }
     },
     "imperative": [
-      "ich fälle",
-      "du fällst",
-      "er fällt",
-      "wir fällen",
-      "ihr fällt",
-      "sie fällen"
+      "fälle (du)",
+      "fällen wir",
+      "fällt (ihr)",
+      "fällen Sie"
     ],
     "english": [
       "fell",
@@ -11105,11 +11660,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fa3llen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fa3llen.htm",
-    "rank": 469,
+    "rank": 490,
     "zipf": 4.82,
     "first_seen": "2026-10-08T12:25:08+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "f2c760fa9fff0df8"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9da8cf4a35d897c4"
   },
   {
     "id": "generalisieren",
@@ -11184,12 +11739,10 @@
       }
     },
     "imperative": [
-      "ich generalisiere",
-      "du generalisierst",
-      "er generalisiert",
-      "wir generalisieren",
-      "ihr generalisiert",
-      "sie generalisieren"
+      "generalisiere (du)",
+      "generalisieren wir",
+      "generalisiert (ihr)",
+      "generalisieren Sie"
     ],
     "english": [
       "generalize",
@@ -11232,11 +11785,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/generalisieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/generalisieren.htm",
-    "rank": 3240,
+    "rank": 3467,
     "zipf": 2.18,
     "first_seen": "2026-10-12T14:38:30+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "50cc93cc9ab1a197"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b3e287a02b404e0c"
   },
   {
     "id": "heranfu3hren",
@@ -11313,12 +11866,10 @@
       }
     },
     "imperative": [
-      "ich führe heran",
-      "du führst heran",
-      "er führt heran",
-      "wir führen heran",
-      "ihr führt heran",
-      "sie führen heran"
+      "führe (du) heran",
+      "führen wir heran",
+      "führt (ihr) heran",
+      "führen Sie heran"
     ],
     "english": [
       "lead to",
@@ -11375,11 +11926,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/heranfu3hren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/heranfu3hren.htm",
-    "rank": 2612,
+    "rank": 2805,
     "zipf": 2.59,
     "first_seen": "2026-10-12T14:33:13+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "d1da6b521bf6861f"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8b6544a57faeeea1"
   },
   {
     "id": "hocharbeiten",
@@ -11452,12 +12003,10 @@
       }
     },
     "imperative": [
-      "ich arbeite hoch",
-      "du arbeitest hoch",
-      "er arbeitet hoch",
-      "wir arbeiten hoch",
-      "ihr arbeitet hoch",
-      "sie arbeiten hoch"
+      "arbeite (du) hoch",
+      "arbeiten wir hoch",
+      "arbeitet (ihr) hoch",
+      "arbeiten Sie hoch"
     ],
     "english": [
       "advance",
@@ -11505,11 +12054,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/hocharbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/hocharbeiten.htm",
-    "rank": 3112,
+    "rank": 3324,
     "zipf": 2.27,
     "first_seen": "2026-10-08T13:31:34+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "b12e0110d3f3be20"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a701ab622b986d1f"
   },
   {
     "id": "horten",
@@ -11584,12 +12133,10 @@
       }
     },
     "imperative": [
-      "ich horte",
-      "du hortest",
-      "er hortet",
-      "wir horten",
-      "ihr hortet",
-      "sie horten"
+      "horte (du)",
+      "horten wir",
+      "hortet (ihr)",
+      "horten Sie"
     ],
     "english": [
       "hoard",
@@ -11656,11 +12203,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/horten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/horten.htm",
-    "rank": 1819,
+    "rank": 1966,
     "zipf": 3.1,
     "first_seen": "2026-10-08T13:10:13+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "cd24bcfba08b8930"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9603d43e790a7087"
   },
   {
     "id": "klarmachen",
@@ -11736,12 +12283,10 @@
       }
     },
     "imperative": [
-      "ich mache klar",
-      "du machst klar",
-      "er macht klar",
-      "wir machen klar",
-      "ihr macht klar",
-      "sie machen klar"
+      "mache (du) klar",
+      "machen wir klar",
+      "macht (ihr) klar",
+      "machen Sie klar"
     ],
     "english": [
       "make clear",
@@ -11833,11 +12378,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/klarmachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/klarmachen.htm",
-    "rank": 1674,
+    "rank": 1813,
     "zipf": 3.22,
     "first_seen": "2026-10-08T11:09:27+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "a1bbbbfc4651dd27"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "fc265f818db1a4cc"
   },
   {
     "id": "kreisen",
@@ -11914,12 +12459,10 @@
       }
     },
     "imperative": [
-      "ich kreise",
-      "du kreist",
-      "er kreist",
-      "wir kreisen",
-      "ihr kreist",
-      "sie kreisen"
+      "kreise (du)",
+      "kreisen wir",
+      "kreist (ihr)",
+      "kreisen Sie"
     ],
     "english": [
       "circle",
@@ -11964,11 +12507,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/kreisen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/kreisen.htm",
-    "rank": 847,
+    "rank": 939,
     "zipf": 4.16,
     "first_seen": "2026-10-14T09:02:03+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "704425fe6eb3b380"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "195a4dab7564bbed"
   },
   {
     "id": "leichtfallen",
@@ -12043,12 +12586,10 @@
       }
     },
     "imperative": [
-      "ich falle leicht",
-      "du fällst leicht",
-      "er fällt leicht",
-      "wir fallen leicht",
-      "ihr fallt leicht",
-      "sie fallen leicht"
+      "falle (du) leicht",
+      "fallen wir leicht",
+      "fallt (ihr) leicht",
+      "fallen Sie leicht"
     ],
     "english": [
       "be easy",
@@ -12116,11 +12657,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/leichtfallen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/leichtfallen.htm",
-    "rank": 3830,
+    "rank": 4101,
     "zipf": 1.73,
     "first_seen": "2026-10-12T08:21:07+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "e3d7f556d9533657"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "529c028c1f42507c"
   },
   {
     "id": "la3uten",
@@ -12197,12 +12738,10 @@
       }
     },
     "imperative": [
-      "ich läute",
-      "du läutest",
-      "er läutet",
-      "wir läuten",
-      "ihr läutet",
-      "sie läuten"
+      "läute (du)",
+      "läuten wir",
+      "läutet (ihr)",
+      "läuten Sie"
     ],
     "english": [
       "ring",
@@ -12282,11 +12821,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/la3uten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/la3uten.htm",
-    "rank": 1500,
+    "rank": 1629,
     "zipf": 3.37,
     "first_seen": "2026-10-12T08:32:58+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "77110dc1441f5255"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b2221672aeb05dd2"
   },
   {
     "id": "missbilligen",
@@ -12361,12 +12900,10 @@
       }
     },
     "imperative": [
-      "ich missbillige",
-      "du missbilligst",
-      "er missbilligt",
-      "wir missbilligen",
-      "ihr missbilligt",
-      "sie missbilligen"
+      "missbillige (du)",
+      "missbilligen wir",
+      "missbilligt (ihr)",
+      "missbilligen Sie"
     ],
     "english": [
       "disapprove",
@@ -12450,11 +12987,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/missbilligen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/missbilligen.htm",
-    "rank": 3047,
+    "rank": 3257,
     "zipf": 2.32,
     "first_seen": "2026-10-08T13:23:50+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "165c4ea830282c11"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e4048a80d04057f0"
   },
   {
     "id": "mu3nden",
@@ -12531,12 +13068,10 @@
       }
     },
     "imperative": [
-      "ich münde",
-      "du mündest",
-      "er mündet",
-      "wir münden",
-      "ihr mündet",
-      "sie münden"
+      "münde (du)",
+      "münden wir",
+      "mündet (ihr)",
+      "münden Sie"
     ],
     "english": [
       "flow",
@@ -12585,11 +13120,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/mu3nden_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/mu3nden.htm",
-    "rank": 1308,
+    "rank": 1425,
     "zipf": 3.55,
     "first_seen": "2026-10-12T22:40:13+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "17621dd93a29e946"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "c3eb309e0720b49f"
   },
   {
     "id": "nachahmen",
@@ -12664,12 +13199,10 @@
       }
     },
     "imperative": [
-      "ich ahme nach",
-      "du ahmst nach",
-      "er ahmt nach",
-      "wir ahmen nach",
-      "ihr ahmt nach",
-      "sie ahmen nach"
+      "ahme (du) nach",
+      "ahmen wir nach",
+      "ahmt (ihr) nach",
+      "ahmen Sie nach"
     ],
     "english": [
       "imitate",
@@ -12755,11 +13288,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nachahmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nachahmen.htm",
-    "rank": 2080,
+    "rank": 2248,
     "zipf": 2.92,
     "first_seen": "2026-10-08T10:54:20+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "61c3dd1a4b037095"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "d596413fe3f3bfe0"
   },
   {
     "id": "nachfolgen",
@@ -12835,12 +13368,10 @@
       }
     },
     "imperative": [
-      "ich folge nach",
-      "du folgst nach",
-      "er folgt nach",
-      "wir folgen nach",
-      "ihr folgt nach",
-      "sie folgen nach"
+      "folge (du) nach",
+      "folgen wir nach",
+      "folgt (ihr) nach",
+      "folgen Sie nach"
     ],
     "english": [
       "follow",
@@ -12920,11 +13451,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nachfolgen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nachfolgen.htm",
-    "rank": 2338,
+    "rank": 2517,
     "zipf": 2.75,
     "first_seen": "2026-10-12T14:52:29+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "2ad75155af2e9f93"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "c3ae1d8ecc6b85a1"
   },
   {
     "id": "nachhelfen",
@@ -13001,12 +13532,10 @@
       }
     },
     "imperative": [
-      "ich helfe nach",
-      "du hilfst nach",
-      "er hilft nach",
-      "wir helfen nach",
-      "ihr helft nach",
-      "sie helfen nach"
+      "hilf (du) nach",
+      "helfen wir nach",
+      "helft (ihr) nach",
+      "helfen Sie nach"
     ],
     "english": [
       "assist",
@@ -13064,11 +13593,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nachhelfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nachhelfen.htm",
-    "rank": 2149,
+    "rank": 2322,
     "zipf": 2.88,
     "first_seen": "2026-10-08T11:28:51+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "cc1b01d31df10765"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a6941ac27c543357"
   },
   {
     "id": "nahelegen",
@@ -13141,12 +13670,10 @@
       }
     },
     "imperative": [
-      "ich lege nahe",
-      "du legst nahe",
-      "er legt nahe",
-      "wir legen nahe",
-      "ihr legt nahe",
-      "sie legen nahe"
+      "lege (du) nahe",
+      "legen wir nahe",
+      "legt (ihr) nahe",
+      "legen Sie nahe"
     ],
     "english": [
       "suggest",
@@ -13223,11 +13750,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nahelegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nahelegen.htm",
-    "rank": 2063,
+    "rank": 2230,
     "zipf": 2.93,
     "first_seen": "2026-10-14T00:47:48+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "c070013e87804c02"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "f939115500815c07"
   },
   {
     "id": "offenbaren",
@@ -13303,12 +13830,10 @@
       }
     },
     "imperative": [
-      "ich offenbare",
-      "du offenbarst",
-      "er offenbart",
-      "wir offenbaren",
-      "ihr offenbart",
-      "sie offenbaren"
+      "offenbare (du)",
+      "offenbaren wir",
+      "offenbart (ihr)",
+      "offenbaren Sie"
     ],
     "english": [
       "reveal",
@@ -13386,11 +13911,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/offenbaren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/offenbaren.htm",
-    "rank": 1379,
+    "rank": 1501,
     "zipf": 3.47,
     "first_seen": "2026-10-13T01:47:47+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "aa64b0f4508861e9"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "d75f481647413b1d"
   },
   {
     "id": "perfektionieren",
@@ -13465,12 +13990,10 @@
       }
     },
     "imperative": [
-      "ich perfektioniere",
-      "du perfektionierst",
-      "er perfektioniert",
-      "wir perfektionieren",
-      "ihr perfektioniert",
-      "sie perfektionieren"
+      "perfektioniere (du)",
+      "perfektionieren wir",
+      "perfektioniert (ihr)",
+      "perfektionieren Sie"
     ],
     "english": [
       "perfect",
@@ -13539,11 +14062,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/perfektionieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/perfektionieren.htm",
-    "rank": 2420,
+    "rank": 2602,
     "zipf": 2.7,
     "first_seen": "2026-10-12T14:45:07+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "be75ca10eb7e4f30"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "6de4928a9ee2b330"
   },
   {
     "id": "preisen",
@@ -13621,12 +14144,10 @@
       }
     },
     "imperative": [
-      "ich preise",
-      "du preist",
-      "er preist",
-      "wir preisen",
-      "ihr preist",
-      "sie preisen"
+      "preise (du)",
+      "preisen wir",
+      "preist (ihr)",
+      "preisen Sie"
     ],
     "english": [
       "praise",
@@ -13706,11 +14227,185 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/preisen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/preisen.htm",
-    "rank": 829,
+    "rank": 920,
     "zipf": 4.19,
     "first_seen": "2026-10-13T02:44:40+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "37969016a4c4777f"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "6af2b5d2904b831a"
+  },
+  {
+    "id": "pru3geln",
+    "type": "verb",
+    "infinitive": "prügeln",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "prügelt",
+    "praeteritum_3sg": "prügelte",
+    "perfekt_3sg": "hat geprügelt",
+    "partizip2": "geprügelt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "mit+D"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., mit+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "prüg(e)le",
+        "du": "prügelst",
+        "er": "prügelt",
+        "wir": "prügeln",
+        "ihr": "prügelt",
+        "sie": "prügeln"
+      },
+      "Präteritum": {
+        "ich": "prügelte",
+        "du": "prügeltest",
+        "er": "prügelte",
+        "wir": "prügelten",
+        "ihr": "prügeltet",
+        "sie": "prügelten"
+      },
+      "Perfekt": {
+        "ich": "habe geprügelt",
+        "du": "hast geprügelt",
+        "er": "hat geprügelt",
+        "wir": "haben geprügelt",
+        "ihr": "habt geprügelt",
+        "sie": "haben geprügelt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte geprügelt",
+        "du": "hattest geprügelt",
+        "er": "hatte geprügelt",
+        "wir": "hatten geprügelt",
+        "ihr": "hattet geprügelt",
+        "sie": "hatten geprügelt"
+      },
+      "Futur I": {
+        "ich": "werde prügeln",
+        "du": "wirst prügeln",
+        "er": "wird prügeln",
+        "wir": "werden prügeln",
+        "ihr": "werdet prügeln",
+        "sie": "werden prügeln"
+      },
+      "Futur II": {
+        "ich": "werde geprügelt haben",
+        "du": "wirst geprügelt haben",
+        "er": "wird geprügelt haben",
+        "wir": "werden geprügelt haben",
+        "ihr": "werdet geprügelt haben",
+        "sie": "werden geprügelt haben"
+      }
+    },
+    "imperative": [
+      "prüg(e)le (du)",
+      "prügeln wir",
+      "prügelt (ihr)",
+      "prügeln Sie"
+    ],
+    "english": [
+      "beat",
+      "thrash",
+      "club",
+      "welt",
+      "baste",
+      "beat up",
+      "beat with a cudgel",
+      "brawl",
+      "come to blows",
+      "cudgel",
+      "drub",
+      "fight",
+      "flog",
+      "fustigate",
+      "grapple",
+      "pummel",
+      "scuffle",
+      "use corporal punishment"
+    ],
+    "definitions_de": [
+      "auf jemanden, etwas mit oder ohne Hilfsmittel wiederholt einschlagen, schlagen, verprügeln, hauen, keilen, dreschen",
+      "mit Händen und Füßen gegeneinander kämpfen, raufen, balgen, ringen, streiten, tätlich werden",
+      "hauen, (sich) schlagen, boxen, (sich) kloppen, dreschen, (sich) (gegenseitig) verhauen"
+    ],
+    "synonyms": [
+      "schlagen",
+      "verprügeln",
+      "hauen",
+      "keilen",
+      "dreschen",
+      "raufen",
+      "balgen",
+      "ringen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Sie prügeln sich.",
+        "en": "They are fighting."
+      },
+      {
+        "de": "Du hast dich geprügelt.",
+        "en": "You have fought."
+      },
+      {
+        "de": "Sie prügelten ihn halb tot.",
+        "en": "They beat him half to death."
+      },
+      {
+        "de": "Tom wurde zu Tode geprügelt.",
+        "en": "Tom was clubbed to death."
+      },
+      {
+        "de": "Hast du dich mit Ken geprügelt?",
+        "en": "Did Ken beat you up?"
+      },
+      {
+        "de": "Nach dem Fußballspiel prügelten sich die Fans.",
+        "en": "Supporters fought with each other after the football match."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/pru3geln.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/pru3geln.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/pru3geln.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/pru3geln.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/pru3geln.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/pru3geln.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/pru3geln.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/pru3geln.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/pru3geln.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/pru3geln.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/pru3geln.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/pru3geln.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/pru3geln.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/pru3geln.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/pru3geln.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/pru3geln.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/pru3geln.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/pru3geln.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/pru3geln.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/pru3geln.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/pru3geln.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/pru3geln.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/pru3geln.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/pru3geln.htm",
+    "rank": 1426,
+    "zipf": 3.55,
+    "first_seen": "2026-10-14T12:41:12+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e3b584a8a2aec9bc"
   },
   {
     "id": "qua3len",
@@ -13788,12 +14483,10 @@
       }
     },
     "imperative": [
-      "ich quäle",
-      "du quälst",
-      "er quält",
-      "wir quälen",
-      "ihr quält",
-      "sie quälen"
+      "quäle (du)",
+      "quälen wir",
+      "quält (ihr)",
+      "quälen Sie"
     ],
     "english": [
       "torture",
@@ -13903,11 +14596,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/qua3len.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/qua3len.htm",
-    "rank": 1283,
+    "rank": 1398,
     "zipf": 3.58,
     "first_seen": "2026-10-13T02:21:08+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "ec3a7bb82df1b72f"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e9dac349fabb1e83"
   },
   {
     "id": "restaurieren",
@@ -13982,12 +14675,10 @@
       }
     },
     "imperative": [
-      "ich restauriere",
-      "du restaurierst",
-      "er restauriert",
-      "wir restaurieren",
-      "ihr restauriert",
-      "sie restaurieren"
+      "restauriere (du)",
+      "restaurieren wir",
+      "restauriert (ihr)",
+      "restaurieren Sie"
     ],
     "english": [
       "restore",
@@ -14060,11 +14751,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/restaurieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/restaurieren.htm",
-    "rank": 2000,
+    "rank": 2162,
     "zipf": 2.97,
     "first_seen": "2026-10-12T08:36:46+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "2ec27d1749bbf319"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8da328d8d2707c08"
   },
   {
     "id": "ruhen",
@@ -14142,12 +14833,10 @@
       }
     },
     "imperative": [
-      "ich ruhe",
-      "du ruhst",
-      "er ruht",
-      "wir ruhen",
-      "ihr ruht",
-      "sie ruhen"
+      "ruhe (du)",
+      "ruhen wir",
+      "ruht (ihr)",
+      "ruhen Sie"
     ],
     "english": [
       "rest",
@@ -14240,11 +14929,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ruhen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ruhen.htm",
-    "rank": 1012,
+    "rank": 1111,
     "zipf": 3.92,
     "first_seen": "2026-10-08T13:15:49+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "4cff43f133365654"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "6dd723dd8e40ae3f"
   },
   {
     "id": "runterfallen",
@@ -14319,12 +15008,10 @@
       }
     },
     "imperative": [
-      "ich falle runter",
-      "du fällst runter",
-      "er fällt runter",
-      "wir fallen runter",
-      "ihr fallt runter",
-      "sie fallen runter"
+      "falle (du) runter",
+      "fallen wir runter",
+      "fallt (ihr) runter",
+      "fallen Sie runter"
     ],
     "english": [
       "fall down",
@@ -14383,11 +15070,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/runterfallen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/runterfallen.htm",
-    "rank": 2436,
+    "rank": 2618,
     "zipf": 2.69,
     "first_seen": "2026-10-08T12:51:44+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "0d44f3b3b20d5e90"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8fe4cee131294d48"
   },
   {
     "id": "schulen",
@@ -14465,12 +15152,10 @@
       }
     },
     "imperative": [
-      "ich schule",
-      "du schulst",
-      "er schult",
-      "wir schulen",
-      "ihr schult",
-      "sie schulen"
+      "schule (du)",
+      "schulen wir",
+      "schult (ihr)",
+      "schulen Sie"
     ],
     "english": [
       "train",
@@ -14552,11 +15237,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/schulen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/schulen.htm",
-    "rank": 493,
+    "rank": 526,
     "zipf": 4.8,
     "first_seen": "2026-10-08T13:54:39+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "7d29bdb8ea4065d2"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "811e3d42a51594c8"
   },
   {
     "id": "sicherstellen",
@@ -14631,12 +15316,10 @@
       }
     },
     "imperative": [
-      "ich stelle sicher",
-      "du stellst sicher",
-      "er stellt sicher",
-      "wir stellen sicher",
-      "ihr stellt sicher",
-      "sie stellen sicher"
+      "stelle (du) sicher",
+      "stellen wir sicher",
+      "stellt (ihr) sicher",
+      "stellen Sie sicher"
     ],
     "english": [
       "seize",
@@ -14722,11 +15405,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/sicherstellen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/sicherstellen.htm",
-    "rank": 1118,
+    "rank": 1224,
     "zipf": 3.78,
     "first_seen": "2026-10-14T00:13:31+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "c2332f95c85e7ac2"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b96d9bdb87a821d0"
   },
   {
     "id": "stattgeben",
@@ -14799,12 +15482,10 @@
       }
     },
     "imperative": [
-      "ich gebe statt",
-      "du gibst statt",
-      "er gibt statt",
-      "wir geben statt",
-      "ihr gebt statt",
-      "sie geben statt"
+      "gib (du) statt",
+      "geben wir statt",
+      "gebt (ihr) statt",
+      "geben Sie statt"
     ],
     "english": [
       "approve",
@@ -14877,11 +15558,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/stattgeben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/stattgeben.htm",
-    "rank": 3424,
+    "rank": 3663,
     "zipf": 2.05,
     "first_seen": "2026-10-13T13:56:07+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "c8775e5dc5678831"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "65f0853a064b7fc3"
   },
   {
     "id": "stilllegen",
@@ -14956,12 +15637,10 @@
       }
     },
     "imperative": [
-      "ich lege still",
-      "du legst still",
-      "er legt still",
-      "wir legen still",
-      "ihr legt still",
-      "sie legen still"
+      "lege (du) still",
+      "legen wir still",
+      "legt (ihr) still",
+      "legen Sie still"
     ],
     "english": [
       "shut down",
@@ -15041,11 +15720,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/stilllegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/stilllegen.htm",
-    "rank": 2617,
+    "rank": 2810,
     "zipf": 2.59,
     "first_seen": "2026-10-12T14:25:50+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "0394471ee4fc3b14"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "7c0b70cd507c85c1"
   },
   {
     "id": "taufen",
@@ -15120,12 +15799,10 @@
       }
     },
     "imperative": [
-      "ich taufe",
-      "du taufst",
-      "er tauft",
-      "wir taufen",
-      "ihr tauft",
-      "sie taufen"
+      "taufe (du)",
+      "taufen wir",
+      "tauft (ihr)",
+      "taufen Sie"
     ],
     "english": [
       "baptize",
@@ -15195,11 +15872,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/taufen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/taufen.htm",
-    "rank": 1510,
+    "rank": 1639,
     "zipf": 3.36,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "f0d7a8140437f78f"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "7f19797ba8d3805e"
   },
   {
     "id": "thematisieren",
@@ -15272,12 +15949,10 @@
       }
     },
     "imperative": [
-      "ich thematisiere",
-      "du thematisierst",
-      "er thematisiert",
-      "wir thematisieren",
-      "ihr thematisiert",
-      "sie thematisieren"
+      "thematisiere (du)",
+      "thematisieren wir",
+      "thematisiert (ihr)",
+      "thematisieren Sie"
     ],
     "english": [
       "discuss",
@@ -15350,11 +16025,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/thematisieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/thematisieren.htm",
-    "rank": 1511,
+    "rank": 1640,
     "zipf": 3.36,
     "first_seen": "2026-10-13T14:00:17+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "260f6e723ac91a2d"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "0ef1dd63a18bb8ee"
   },
   {
     "id": "umbringen",
@@ -15429,12 +16104,10 @@
       }
     },
     "imperative": [
-      "ich bringe um",
-      "du bringst um",
-      "er bringt um",
-      "wir bringen um",
-      "ihr bringt um",
-      "sie bringen um"
+      "bringe (du) um",
+      "bringen wir um",
+      "bringt (ihr) um",
+      "bringen Sie um"
     ],
     "english": [
       "kill",
@@ -15534,11 +16207,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/umbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/umbringen.htm",
-    "rank": 1025,
+    "rank": 1125,
     "zipf": 3.9,
     "first_seen": "2026-10-12T14:30:44+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "4a34103928a45c85"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "0343bb607a762149"
   },
   {
     "id": "unterscha3tzen",
@@ -15613,12 +16286,10 @@
       }
     },
     "imperative": [
-      "ich unterschätze",
-      "du unterschätzt",
-      "er unterschätzt",
-      "wir unterschätzen",
-      "ihr unterschätzt",
-      "sie unterschätzen"
+      "unterschätze (du)",
+      "unterschätzen wir",
+      "unterschätzt (ihr)",
+      "unterschätzen Sie"
     ],
     "english": [
       "underestimate",
@@ -15688,11 +16359,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/unterscha3tzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/unterscha3tzen.htm",
-    "rank": 1144,
+    "rank": 1250,
     "zipf": 3.75,
     "first_seen": "2026-10-12T14:19:14+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "d91f4631d2853653"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "1d8001b1097599aa"
   },
   {
     "id": "verallgemeinern",
@@ -15767,12 +16438,10 @@
       }
     },
     "imperative": [
-      "ich verallgemeinere",
-      "du verallgemeinerst",
-      "er verallgemeinert",
-      "wir verallgemeinern",
-      "ihr verallgemeinert",
-      "sie verallgemeinern"
+      "verallgemeinere (du)",
+      "verallgemeinern wir",
+      "verallgemeinert (ihr)",
+      "verallgemeinern Sie"
     ],
     "english": [
       "generalize",
@@ -15840,11 +16509,171 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verallgemeinern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verallgemeinern.htm",
-    "rank": 2039,
+    "rank": 2203,
     "zipf": 2.95,
     "first_seen": "2026-10-08T10:53:06+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "591c5ef4057f051f"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "390f871e64e3da59"
+  },
+  {
+    "id": "verantworten",
+    "type": "verb",
+    "infinitive": "verantworten",
+    "level": "B2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "verantwortet",
+    "praeteritum_3sg": "verantwortete",
+    "perfekt_3sg": "hat verantwortet",
+    "partizip2": "verantwortet",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "für+A",
+      "vor+D"
+    ],
+    "usage_pattern_raw": "sich+A, Akk., für+A, vor+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "verantworte",
+        "du": "verantwortest",
+        "er": "verantwortet",
+        "wir": "verantworten",
+        "ihr": "verantwortet",
+        "sie": "verantworten"
+      },
+      "Präteritum": {
+        "ich": "verantwortete",
+        "du": "verantwortetest",
+        "er": "verantwortete",
+        "wir": "verantworteten",
+        "ihr": "verantwortetet",
+        "sie": "verantworteten"
+      },
+      "Perfekt": {
+        "ich": "habe verantwortet",
+        "du": "hast verantwortet",
+        "er": "hat verantwortet",
+        "wir": "haben verantwortet",
+        "ihr": "habt verantwortet",
+        "sie": "haben verantwortet"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte verantwortet",
+        "du": "hattest verantwortet",
+        "er": "hatte verantwortet",
+        "wir": "hatten verantwortet",
+        "ihr": "hattet verantwortet",
+        "sie": "hatten verantwortet"
+      },
+      "Futur I": {
+        "ich": "werde verantworten",
+        "du": "wirst verantworten",
+        "er": "wird verantworten",
+        "wir": "werden verantworten",
+        "ihr": "werdet verantworten",
+        "sie": "werden verantworten"
+      },
+      "Futur II": {
+        "ich": "werde verantwortet haben",
+        "du": "wirst verantwortet haben",
+        "er": "wird verantwortet haben",
+        "wir": "werden verantwortet haben",
+        "ihr": "werdet verantwortet haben",
+        "sie": "werden verantwortet haben"
+      }
+    },
+    "imperative": [
+      "verantworte (du)",
+      "verantworten wir",
+      "verantwortet (ihr)",
+      "verantworten Sie"
+    ],
+    "english": [
+      "account for",
+      "accountable",
+      "justify",
+      "answer for",
+      "be responsible for",
+      "explain",
+      "represent",
+      "stand in for",
+      "take responsibility"
+    ],
+    "definitions_de": [
+      "die Konsequenzen tragen (Verantwortung übernehmen), rechtfertigen, einstehen, den Hut aufhaben, geradestehen, (die) Verantwortung tragen",
+      "erklärend rechtfertigen, wieso es zu etwas gekommen ist, und die Folgen der Tat tragen, rechtfertigen, (sich) rechtfertigen, Rechenschaft ablegen, (sich) erklären"
+    ],
+    "synonyms": [
+      "rechtfertigen",
+      "einstehen",
+      "geradestehen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich werde den Unfall verantworten.",
+        "en": "I will take responsibility for the accident."
+      },
+      {
+        "de": "Nun muss sie sich bald vor Gericht verantworten.",
+        "en": "Now she must soon answer in court."
+      },
+      {
+        "de": "Für deine Taten wirst du dich verantworten müssen.",
+        "en": "For your actions, you will have to take responsibility."
+      },
+      {
+        "de": "Diesen Unfall hat Tom zu verantworten.",
+        "en": "Tom is responsible for this accident."
+      },
+      {
+        "de": "Schweigen ist oft besser als sich verantworten.",
+        "en": "Silence is often better than taking responsibility."
+      },
+      {
+        "de": "Der Wartungstechniker hat die Verursachung dieser Katastrophe zu verantworten.",
+        "en": "The maintenance technician is responsible for the cause of this catastrophe."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/verantworten.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/verantworten.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/verantworten.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/verantworten.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/verantworten.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/verantworten.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/verantworten.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/verantworten.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/verantworten.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/verantworten.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/verantworten.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/verantworten.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/verantworten.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/verantworten.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/verantworten.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/verantworten.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/verantworten.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/verantworten.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/verantworten.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/verantworten.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/verantworten.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/verantworten.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/verantworten.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/verantworten.htm",
+    "rank": 1205,
+    "zipf": 3.8,
+    "first_seen": "2026-10-14T12:49:19+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "73768d86c17c1972"
   },
   {
     "id": "verdeutlichen",
@@ -15920,12 +16749,10 @@
       }
     },
     "imperative": [
-      "ich verdeutliche",
-      "du verdeutlichst",
-      "er verdeutlicht",
-      "wir verdeutlichen",
-      "ihr verdeutlicht",
-      "sie verdeutlichen"
+      "verdeutliche (du)",
+      "verdeutlichen wir",
+      "verdeutlicht (ihr)",
+      "verdeutlichen Sie"
     ],
     "english": [
       "clarify",
@@ -15993,11 +16820,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verdeutlichen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verdeutlichen.htm",
-    "rank": 1265,
+    "rank": 1379,
     "zipf": 3.6,
     "first_seen": "2026-10-13T14:03:26+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "39ed2ee59fac56af"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "6845145ce381b4d0"
   },
   {
     "id": "verdu3nnen",
@@ -16074,12 +16901,10 @@
       }
     },
     "imperative": [
-      "ich verdünne",
-      "du verdünnst",
-      "er verdünnt",
-      "wir verdünnen",
-      "ihr verdünnt",
-      "sie verdünnen"
+      "verdünne (du)",
+      "verdünnen wir",
+      "verdünnt (ihr)",
+      "verdünnen Sie"
     ],
     "english": [
       "dilute",
@@ -16154,11 +16979,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verdu3nnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verdu3nnen.htm",
-    "rank": 2283,
+    "rank": 2459,
     "zipf": 2.79,
     "first_seen": "2026-10-12T15:16:37+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "e6948bd7d3124d3c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "c7b402b810afcc3a"
   },
   {
     "id": "vereinen",
@@ -16238,12 +17063,10 @@
       }
     },
     "imperative": [
-      "ich vereine",
-      "du vereinst",
-      "er vereint",
-      "wir vereinen",
-      "ihr vereint",
-      "sie vereinen"
+      "vereine (du)",
+      "vereinen wir",
+      "vereint (ihr)",
+      "vereinen Sie"
     ],
     "english": [
       "unite",
@@ -16323,11 +17146,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vereinen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vereinen.htm",
-    "rank": 838,
+    "rank": 929,
     "zipf": 4.18,
     "first_seen": "2026-10-08T10:51:31+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "1f80751f5763d945"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "881be56dd20d5ff2"
   },
   {
     "id": "verfolgen",
@@ -16402,12 +17225,10 @@
       }
     },
     "imperative": [
-      "ich verfolge",
-      "du verfolgst",
-      "er verfolgt",
-      "wir verfolgen",
-      "ihr verfolgt",
-      "sie verfolgen"
+      "verfolge (du)",
+      "verfolgen wir",
+      "verfolgt (ihr)",
+      "verfolgen Sie"
     ],
     "english": [
       "pursue",
@@ -16506,11 +17327,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verfolgen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verfolgen.htm",
-    "rank": 655,
+    "rank": 730,
     "zipf": 4.47,
     "first_seen": "2026-10-12T14:52:29+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "d460be50ed14379b"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "71b34676846e1c19"
   },
   {
     "id": "vermessen",
@@ -16585,12 +17406,10 @@
       }
     },
     "imperative": [
-      "ich vermesse",
-      "du vermisst",
-      "er vermisst",
-      "wir vermessen",
-      "ihr vermesst",
-      "sie vermessen"
+      "vermiss (du)",
+      "vermessen wir",
+      "vermesst (ihr)",
+      "vermessen Sie"
     ],
     "english": [
       "measure",
@@ -16672,11 +17491,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vermessen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vermessen.htm",
-    "rank": 1400,
+    "rank": 1524,
     "zipf": 3.45,
     "first_seen": "2026-10-13T02:32:21+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "ffc942648e8fc451"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "c43b11a3236ea3ad"
   },
   {
     "id": "verschonen",
@@ -16755,12 +17574,10 @@
       }
     },
     "imperative": [
-      "ich verschone",
-      "du verschonst",
-      "er verschont",
-      "wir verschonen",
-      "ihr verschont",
-      "sie verschonen"
+      "verschone (du)",
+      "verschonen wir",
+      "verschont (ihr)",
+      "verschonen Sie"
     ],
     "english": [
       "spare",
@@ -16832,11 +17649,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verschonen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verschonen.htm",
-    "rank": 2150,
+    "rank": 2323,
     "zipf": 2.88,
     "first_seen": "2026-10-12T14:18:10+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "c48fc18e675bf4d1"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e4e97862d50d319a"
   },
   {
     "id": "versinken",
@@ -16914,12 +17731,10 @@
       }
     },
     "imperative": [
-      "ich versinke",
-      "du versinkst",
-      "er versinkt",
-      "wir versinken",
-      "ihr versinkt",
-      "sie versinken"
+      "versinke (du)",
+      "versinken wir",
+      "versinkt (ihr)",
+      "versinken Sie"
     ],
     "english": [
       "sink",
@@ -16995,11 +17810,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/versinken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/versinken.htm",
-    "rank": 1513,
+    "rank": 1642,
     "zipf": 3.36,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "3b2ff0983481342e"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "ca018c933c40c744"
   },
   {
     "id": "versterben",
@@ -17075,12 +17890,10 @@
       }
     },
     "imperative": [
-      "ich versterbe",
-      "du verstirbst",
-      "er verstirbt",
-      "wir versterben",
-      "ihr versterbt",
-      "sie versterben"
+      "verstirb (du)",
+      "versterben wir",
+      "versterbt (ihr)",
+      "versterben Sie"
     ],
     "english": [
       "pass away",
@@ -17152,11 +17965,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/versterben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/versterben.htm",
-    "rank": 2689,
+    "rank": 2886,
     "zipf": 2.54,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "5d553407f0d091e3"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "a4ef892f34bbded6"
   },
   {
     "id": "vertiefen",
@@ -17234,12 +18047,10 @@
       }
     },
     "imperative": [
-      "ich vertiefe",
-      "du vertiefst",
-      "er vertieft",
-      "wir vertiefen",
-      "ihr vertieft",
-      "sie vertiefen"
+      "vertiefe (du)",
+      "vertiefen wir",
+      "vertieft (ihr)",
+      "vertiefen Sie"
     ],
     "english": [
       "deepen",
@@ -17331,11 +18142,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vertiefen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vertiefen.htm",
-    "rank": 1388,
+    "rank": 1512,
     "zipf": 3.46,
     "first_seen": "2026-10-08T10:55:58+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "7611a416ed135ea3"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "d30b0bfd4b60e79c"
   },
   {
     "id": "verweilen",
@@ -17412,12 +18223,10 @@
       }
     },
     "imperative": [
-      "ich verweile",
-      "du verweilst",
-      "er verweilt",
-      "wir verweilen",
-      "ihr verweilt",
-      "sie verweilen"
+      "verweile (du)",
+      "verweilen wir",
+      "verweilt (ihr)",
+      "verweilen Sie"
     ],
     "english": [
       "linger",
@@ -17495,11 +18304,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verweilen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verweilen.htm",
-    "rank": 1259,
+    "rank": 1373,
     "zipf": 3.61,
     "first_seen": "2026-10-13T02:12:44+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "f957b3c7bb7c8956"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "05efe0b5bcc02f45"
   },
   {
     "id": "verwirklichen",
@@ -17574,12 +18383,10 @@
       }
     },
     "imperative": [
-      "ich verwirkliche",
-      "du verwirklichst",
-      "er verwirklicht",
-      "wir verwirklichen",
-      "ihr verwirklicht",
-      "sie verwirklichen"
+      "verwirkliche (du)",
+      "verwirklichen wir",
+      "verwirklicht (ihr)",
+      "verwirklichen Sie"
     ],
     "english": [
       "realize",
@@ -17673,11 +18480,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verwirklichen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verwirklichen.htm",
-    "rank": 1076,
+    "rank": 1180,
     "zipf": 3.83,
     "first_seen": "2026-10-08T10:59:26+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "ae6300af25797d42"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "fbdb1f68468be110"
   },
   {
     "id": "verwa3hlen",
@@ -17750,12 +18557,10 @@
       }
     },
     "imperative": [
-      "ich verwähle",
-      "du verwählst",
-      "er verwählt",
-      "wir verwählen",
-      "ihr verwählt",
-      "sie verwählen"
+      "verwähle (du)",
+      "verwählen wir",
+      "verwählt (ihr)",
+      "verwählen Sie"
     ],
     "english": [
       "misdial",
@@ -17818,11 +18623,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verwa3hlen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verwa3hlen.htm",
-    "rank": 4745,
+    "rank": 5111,
     "zipf": 0.0,
     "first_seen": "2026-10-14T00:26:28+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "3f2c6ec9a5cd2df1"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "9ee22e3bca70d943"
   },
   {
     "id": "vera3rgern",
@@ -17899,12 +18704,10 @@
       }
     },
     "imperative": [
-      "ich verärgere",
-      "du verärgerst",
-      "er verärgert",
-      "wir verärgern",
-      "ihr verärgert",
-      "sie verärgern"
+      "verärgere (du)",
+      "verärgern wir",
+      "verärgert (ihr)",
+      "verärgern Sie"
     ],
     "english": [
       "annoy",
@@ -17993,11 +18796,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vera3rgern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vera3rgern.htm",
-    "rank": 2040,
+    "rank": 2204,
     "zipf": 2.95,
     "first_seen": "2026-10-12T15:09:19+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "6f85b0aa9e2cc61c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "eeb065e42b56c14f"
   },
   {
     "id": "vero3ffentlichen",
@@ -18070,12 +18873,10 @@
       }
     },
     "imperative": [
-      "ich veröffentliche",
-      "du veröffentlichst",
-      "er veröffentlicht",
-      "wir veröffentlichen",
-      "ihr veröffentlicht",
-      "sie veröffentlichen"
+      "veröffentliche (du)",
+      "veröffentlichen wir",
+      "veröffentlicht (ihr)",
+      "veröffentlichen Sie"
     ],
     "english": [
       "publish",
@@ -18160,11 +18961,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vero3ffentlichen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vero3ffentlichen.htm",
-    "rank": 842,
+    "rank": 933,
     "zipf": 4.17,
     "first_seen": "2026-10-14T00:31:00+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "eab0e719289042d0"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e896ffe1723edc13"
   },
   {
     "id": "wegbleiben",
@@ -18241,12 +19042,10 @@
       }
     },
     "imperative": [
-      "ich bleibe weg",
-      "du bleibst weg",
-      "er bleibt weg",
-      "wir bleiben weg",
-      "ihr bleibt weg",
-      "sie bleiben weg"
+      "bleibe (du) weg",
+      "bleiben wir weg",
+      "bleibt (ihr) weg",
+      "bleiben Sie weg"
     ],
     "english": [
       "stay away",
@@ -18325,11 +19124,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wegbleiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wegbleiben.htm",
-    "rank": 2232,
+    "rank": 2406,
     "zipf": 2.83,
     "first_seen": "2026-10-08T10:59:48+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "12f3acecd3d20424"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8515a55b6a0e2caa"
   },
   {
     "id": "weisen",
@@ -18409,12 +19208,10 @@
       }
     },
     "imperative": [
-      "ich weise",
-      "du weist",
-      "er weist",
-      "wir weisen",
-      "ihr weist",
-      "sie weisen"
+      "weise (du)",
+      "weisen wir",
+      "weist (ihr)",
+      "weisen Sie"
     ],
     "english": [
       "indicate",
@@ -18493,11 +19290,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/weisen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/weisen.htm",
-    "rank": 677,
+    "rank": 752,
     "zipf": 4.45,
     "first_seen": "2026-10-13T02:27:27+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "54345a927dbf7dcf"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "5837231047eb5bd2"
   },
   {
     "id": "wiedererkennen",
@@ -18574,12 +19371,10 @@
       }
     },
     "imperative": [
-      "ich erkenne wieder",
-      "du erkennst wieder",
-      "er erkennt wieder",
-      "wir erkennen wieder",
-      "ihr erkennt wieder",
-      "sie erkennen wieder"
+      "erkenne (du) wieder",
+      "erkennen wir wieder",
+      "erkennt (ihr) wieder",
+      "erkennen Sie wieder"
     ],
     "english": [
       "recognize",
@@ -18647,11 +19442,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wiedererkennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wiedererkennen.htm",
-    "rank": 1763,
+    "rank": 1906,
     "zipf": 3.15,
     "first_seen": "2026-10-08T12:26:32+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "0bb49b1bb1c2e493"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "b60aa5c265ee972e"
   },
   {
     "id": "wiedersehen",
@@ -18726,12 +19521,10 @@
       }
     },
     "imperative": [
-      "ich sehe wieder",
-      "du siehst wieder",
-      "er sieht wieder",
-      "wir sehen wieder",
-      "ihr seht wieder",
-      "sie sehen wieder"
+      "sieh (du) wieder",
+      "sehen wir wieder",
+      "seht (ihr) wieder",
+      "sehen Sie wieder"
     ],
     "english": [
       "meet again",
@@ -18798,11 +19591,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wiedersehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wiedersehen.htm",
-    "rank": 889,
+    "rank": 984,
     "zipf": 4.11,
     "first_seen": "2026-10-08T14:13:31+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "4bea362e1f044d6c"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "602ca3cb18842b71"
   },
   {
     "id": "zumauern",
@@ -18877,12 +19670,10 @@
       }
     },
     "imperative": [
-      "ich mau(e)re zu",
-      "du mauerst zu",
-      "er mauert zu",
-      "wir mauern zu",
-      "ihr mauert zu",
-      "sie mauern zu"
+      "mau(e)re (du) zu",
+      "mauern wir zu",
+      "mauert (ihr) zu",
+      "mauern Sie zu"
     ],
     "english": [
       "brick up",
@@ -18929,11 +19720,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zumauern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zumauern.htm",
-    "rank": 3804,
+    "rank": 4073,
     "zipf": 1.76,
     "first_seen": "2026-10-08T10:57:35+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "78dad92769a716e3"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "2b7be1280aa21368"
   },
   {
     "id": "zurechtfinden",
@@ -19006,12 +19797,10 @@
       }
     },
     "imperative": [
-      "ich finde zurecht",
-      "du findest zurecht",
-      "er findet zurecht",
-      "wir finden zurecht",
-      "ihr findet zurecht",
-      "sie finden zurecht"
+      "finde (du) zurecht",
+      "finden wir zurecht",
+      "findet (ihr) zurecht",
+      "finden Sie zurecht"
     ],
     "english": [
       "get along",
@@ -19082,11 +19871,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zurechtfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zurechtfinden.htm",
-    "rank": 2152,
+    "rank": 2325,
     "zipf": 2.88,
     "first_seen": "2026-10-08T11:08:55+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "ce1a38e0e8247035"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "dfd9ae7523a0d214"
   },
   {
     "id": "zusammenbinden",
@@ -19161,12 +19950,10 @@
       }
     },
     "imperative": [
-      "ich binde zusammen",
-      "du bindest zusammen",
-      "er bindet zusammen",
-      "wir binden zusammen",
-      "ihr bindet zusammen",
-      "sie binden zusammen"
+      "binde (du) zusammen",
+      "binden wir zusammen",
+      "bindet (ihr) zusammen",
+      "binden Sie zusammen"
     ],
     "english": [
       "tie together",
@@ -19244,11 +20031,195 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zusammenbinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zusammenbinden.htm",
-    "rank": 3277,
+    "rank": 3505,
     "zipf": 2.16,
     "first_seen": "2026-10-08T11:50:52+00:00",
-    "updated_at": "2026-10-14T13:50:39+00:00",
-    "hash": "85c8d3216083f5b1"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "e33b715177592d06"
+  },
+  {
+    "id": "zusammenha3ngen",
+    "type": "verb",
+    "infinitive": "zusammenhängen",
+    "level": "B2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "hängt zusammen",
+    "praeteritum_3sg": "hing zusammen",
+    "perfekt_3sg": "hat zusammengehangen",
+    "partizip2": "zusammengehangen",
+    "separable_prefix": "zusammen",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "mit+D"
+    ],
+    "usage_pattern_raw": "Akk., mit+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "hänge zusammen",
+        "du": "hängst zusammen",
+        "er": "hängt zusammen",
+        "wir": "hängen zusammen",
+        "ihr": "hängt zusammen",
+        "sie": "hängen zusammen"
+      },
+      "Präteritum": {
+        "ich": "hing zusammen",
+        "du": "hingst zusammen",
+        "er": "hing zusammen",
+        "wir": "hingen zusammen",
+        "ihr": "hingt zusammen",
+        "sie": "hingen zusammen"
+      },
+      "Perfekt": {
+        "ich": "habe zusammengehangen",
+        "du": "hast zusammengehangen",
+        "er": "hat zusammengehangen",
+        "wir": "haben zusammengehangen",
+        "ihr": "habt zusammengehangen",
+        "sie": "haben zusammengehangen"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte zusammengehangen",
+        "du": "hattest zusammengehangen",
+        "er": "hatte zusammengehangen",
+        "wir": "hatten zusammengehangen",
+        "ihr": "hattet zusammengehangen",
+        "sie": "hatten zusammengehangen"
+      },
+      "Futur I": {
+        "ich": "werde zusammenhängen",
+        "du": "wirst zusammenhängen",
+        "er": "wird zusammenhängen",
+        "wir": "werden zusammenhängen",
+        "ihr": "werdet zusammenhängen",
+        "sie": "werden zusammenhängen"
+      },
+      "Futur II": {
+        "ich": "werde zusammengehangen haben",
+        "du": "wirst zusammengehangen haben",
+        "er": "wird zusammengehangen haben",
+        "wir": "werden zusammengehangen haben",
+        "ihr": "werdet zusammengehangen haben",
+        "sie": "werden zusammengehangen haben"
+      }
+    },
+    "imperative": [
+      "hänge (du) zusammen",
+      "hängen wir zusammen",
+      "hängt (ihr) zusammen",
+      "hängen Sie zusammen"
+    ],
+    "english": [
+      "be related",
+      "hang together",
+      "associate",
+      "be associated",
+      "be associated (with)",
+      "be coherent",
+      "be connected",
+      "be connected (with)",
+      "be connected with",
+      "be interrelated",
+      "be joined together",
+      "be related (to)",
+      "connect",
+      "correlate",
+      "dependent",
+      "have to do (with)",
+      "intercommunicate",
+      "interconnected",
+      "interrelate",
+      "link",
+      "relate",
+      "related",
+      "stick together",
+      "be adhesive",
+      "be linked up",
+      "cohere",
+      "stick close",
+      "stick fast"
+    ],
+    "definitions_de": [
+      "seinen Grund in etwas haben, in einer Beziehung zu etwas anderem stehen",
+      "so miteinander verbunden sein, dass eine wechselseitige Abhängigkeit vorhanden ist, interagieren",
+      "Dinge räumlich, körperlich anordnen und aneinanderkoppeln, aneinanderhängen, koppeln, zusammenkoppeln",
+      "einhergehen mit, dazugehören, in Zusammenhang stehen, korrelieren, kovariieren"
+    ],
+    "synonyms": [
+      "interagieren",
+      "aneinanderhängen",
+      "koppeln",
+      "zusammenkoppeln",
+      "dazugehören",
+      "korrelieren",
+      "kovariieren"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Alles hängt zusammen.",
+        "en": "Everything is connected."
+      },
+      {
+        "de": "Hängt das miteinander zusammen?",
+        "en": "Does that relate to each other?"
+      },
+      {
+        "de": "Glück ist, zu begreifen, wie alles zusammenhängt.",
+        "en": "Happiness is understanding how everything is connected."
+      },
+      {
+        "de": "Ja, wir hängen gerne zusammen, eigentlich jeden Tag nach der Schule.",
+        "en": "Yes, we like to hang out together, actually every day after school."
+      },
+      {
+        "de": "Hängt beides miteinander zusammen?",
+        "en": "Does both relate to each other?"
+      },
+      {
+        "de": "Wie hängen diese Ereignisse zusammen?",
+        "en": "How are these events connected?"
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/zusammenha3ngen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/zusammenha3ngen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/zusammenha3ngen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/zusammenha3ngen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/zusammenha3ngen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/zusammenha3ngen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/zusammenha3ngen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/zusammenha3ngen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/zusammenha3ngen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/zusammenha3ngen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/zusammenha3ngen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/zusammenha3ngen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/zusammenha3ngen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/zusammenha3ngen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/zusammenha3ngen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/zusammenha3ngen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/zusammenha3ngen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/zusammenha3ngen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/zusammenha3ngen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/zusammenha3ngen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/zusammenha3ngen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/zusammenha3ngen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/zusammenha3ngen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/zusammenha3ngen.htm",
+    "rank": 1327,
+    "zipf": 3.65,
+    "first_seen": "2026-10-14T12:08:33+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "34c6b83e6ec1d579"
   },
   {
     "id": "a3hneln",
@@ -19326,12 +20297,10 @@
       }
     },
     "imperative": [
-      "ich ähn(e)le",
-      "du ähnelst",
-      "er ähnelt",
-      "wir ähneln",
-      "ihr ähnelt",
-      "sie ähneln"
+      "ähn(e)le (du)",
+      "ähneln wir",
+      "ähnelt (ihr)",
+      "ähneln Sie"
     ],
     "english": [
       "resemble",
@@ -19409,11 +20378,178 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/a3hneln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/a3hneln.htm",
-    "rank": 1312,
+    "rank": 1430,
     "zipf": 3.55,
     "first_seen": "2026-10-08T13:58:28+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "fb413a647dd52010"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "778a59a63416afba"
+  },
+  {
+    "id": "u3berbieten",
+    "type": "verb",
+    "infinitive": "überbieten",
+    "level": "B2",
+    "conjugation_class": "unregelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "überbietet",
+    "praeteritum_3sg": "überbot",
+    "perfekt_3sg": "hat überboten",
+    "partizip2": "überboten",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "überbiete",
+        "du": "überbietest",
+        "er": "überbietet",
+        "wir": "überbieten",
+        "ihr": "überbietet",
+        "sie": "überbieten"
+      },
+      "Präteritum": {
+        "ich": "überbot",
+        "du": "überbot(e)st",
+        "er": "überbot",
+        "wir": "überboten",
+        "ihr": "überbotet",
+        "sie": "überboten"
+      },
+      "Perfekt": {
+        "ich": "habe überboten",
+        "du": "hast überboten",
+        "er": "hat überboten",
+        "wir": "haben überboten",
+        "ihr": "habt überboten",
+        "sie": "haben überboten"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte überboten",
+        "du": "hattest überboten",
+        "er": "hatte überboten",
+        "wir": "hatten überboten",
+        "ihr": "hattet überboten",
+        "sie": "hatten überboten"
+      },
+      "Futur I": {
+        "ich": "werde überbieten",
+        "du": "wirst überbieten",
+        "er": "wird überbieten",
+        "wir": "werden überbieten",
+        "ihr": "werdet überbieten",
+        "sie": "werden überbieten"
+      },
+      "Futur II": {
+        "ich": "werde überboten haben",
+        "du": "wirst überboten haben",
+        "er": "wird überboten haben",
+        "wir": "werden überboten haben",
+        "ihr": "werdet überboten haben",
+        "sie": "werden überboten haben"
+      }
+    },
+    "imperative": [
+      "überbiete (du)",
+      "überbieten wir",
+      "überbietet (ihr)",
+      "überbieten Sie"
+    ],
+    "english": [
+      "outbid",
+      "surpass",
+      "exceed",
+      "bid (over)",
+      "bid more than else",
+      "cry up",
+      "excel",
+      "one-up",
+      "outdo",
+      "outgo",
+      "outgun",
+      "outpace",
+      "outperform",
+      "outquote",
+      "outvie",
+      "overbid",
+      "overcall",
+      "take out"
+    ],
+    "definitions_de": [
+      "einen Wert, eine Zahl/Größe übertreffen, ein höheres Ergebnis erzielen, übertreffen, übertrumpfen",
+      "ein preisliches Angebot übertreffen, besser bieten",
+      "Ggs unterbieten, toppen, noch weitergehen, (Rekord) brechen, noch eins draufsetzen, (Rekord) schlagen"
+    ],
+    "synonyms": [
+      "übertreffen",
+      "übertrumpfen",
+      "toppen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom ist schwer zu überbieten.",
+        "en": "Tom is a hard act to follow."
+      },
+      {
+        "de": "Bernd überbietet sich wieder selbst.",
+        "en": "Bernd is outbidding himself again."
+      },
+      {
+        "de": "Er hat es nicht geschafft, seinen persönlichen Rekord zu überbieten.",
+        "en": "He hasn't managed to break his personal record."
+      },
+      {
+        "de": "Die Dämlichkeit des Trolls ist nicht leicht zu überbieten.",
+        "en": "The stupidity of the troll is not easy to surpass."
+      },
+      {
+        "de": "Die Dame kann mit einem König oder einem Ass überboten werden.",
+        "en": "The lady can be beaten by a king or an ace."
+      },
+      {
+        "de": "Nichts kann das überbieten.",
+        "en": "Nothing can be better than that."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/u3berbieten.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/u3berbieten.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/u3berbieten.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/u3berbieten.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/u3berbieten.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/u3berbieten.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/u3berbieten.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/u3berbieten.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/u3berbieten.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/u3berbieten.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/u3berbieten.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/u3berbieten.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/u3berbieten.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/u3berbieten.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/u3berbieten.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/u3berbieten.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/u3berbieten.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/u3berbieten.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/u3berbieten.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/u3berbieten.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/u3berbieten.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/u3berbieten.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/u3berbieten.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/u3berbieten.htm",
+    "rank": 1584,
+    "zipf": 3.41,
+    "first_seen": "2026-10-14T12:51:43+00:00",
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "cabb01a67dd5d425"
   },
   {
     "id": "u3bergeben",
@@ -19486,12 +20622,10 @@
       }
     },
     "imperative": [
-      "ich gebe über",
-      "du gibst über",
-      "er gibt über",
-      "wir geben über",
-      "ihr gebt über",
-      "sie geben über"
+      "gib (du) über",
+      "geben wir über",
+      "gebt (ihr) über",
+      "geben Sie über"
     ],
     "english": [
       "pass on"
@@ -19526,10 +20660,10 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/u3ber-geben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/u3bergeben.htm",
-    "rank": 722,
+    "rank": 804,
     "zipf": 4.38,
     "first_seen": "2026-10-08T23:24:18+00:00",
-    "updated_at": "2026-10-14T13:50:38+00:00",
-    "hash": "1fc6bd203837b128"
+    "updated_at": "2026-10-15T00:31:26+00:00",
+    "hash": "8dafb19748f560d2"
   }
 ]
