@@ -152,11 +152,188 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abha3ngen_regelm.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abha3ngen.htm",
-    "rank": 2001,
+    "rank": 2068,
     "zipf": 3.81,
     "first_seen": "2026-10-16T18:51:22+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "fd0cc34a99a22540"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ebfa7e2c1309839c"
+  },
+  {
+    "id": "ablehnen",
+    "type": "verb",
+    "infinitive": "ablehnen",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "lehnt ab",
+    "praeteritum_3sg": "lehnte ab",
+    "perfekt_3sg": "hat abgelehnt",
+    "partizip2": "abgelehnt",
+    "separable_prefix": "ab",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "lehne ab",
+        "du": "lehnst ab",
+        "er": "lehnt ab",
+        "wir": "lehnen ab",
+        "ihr": "lehnt ab",
+        "sie": "lehnen ab"
+      },
+      "Präteritum": {
+        "ich": "lehnte ab",
+        "du": "lehntest ab",
+        "er": "lehnte ab",
+        "wir": "lehnten ab",
+        "ihr": "lehntet ab",
+        "sie": "lehnten ab"
+      },
+      "Perfekt": {
+        "ich": "habe abgelehnt",
+        "du": "hast abgelehnt",
+        "er": "hat abgelehnt",
+        "wir": "haben abgelehnt",
+        "ihr": "habt abgelehnt",
+        "sie": "haben abgelehnt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte abgelehnt",
+        "du": "hattest abgelehnt",
+        "er": "hatte abgelehnt",
+        "wir": "hatten abgelehnt",
+        "ihr": "hattet abgelehnt",
+        "sie": "hatten abgelehnt"
+      },
+      "Futur I": {
+        "ich": "werde ablehnen",
+        "du": "wirst ablehnen",
+        "er": "wird ablehnen",
+        "wir": "werden ablehnen",
+        "ihr": "werdet ablehnen",
+        "sie": "werden ablehnen"
+      },
+      "Futur II": {
+        "ich": "werde abgelehnt haben",
+        "du": "wirst abgelehnt haben",
+        "er": "wird abgelehnt haben",
+        "wir": "werden abgelehnt haben",
+        "ihr": "werdet abgelehnt haben",
+        "sie": "werden abgelehnt haben"
+      }
+    },
+    "imperative": [
+      "lehne (du) ab",
+      "lehnen wir ab",
+      "lehnt (ihr) ab",
+      "lehnen Sie ab"
+    ],
+    "english": [
+      "decline",
+      "refuse",
+      "dismiss",
+      "reject",
+      "answer in the negative",
+      "blackball",
+      "deny",
+      "deprecate",
+      "disaffirm",
+      "disapprove of",
+      "disclaim",
+      "disown",
+      "diss",
+      "mislike",
+      "not approve",
+      "object to",
+      "overrule",
+      "quash",
+      "repudiate",
+      "say no",
+      "snub",
+      "spurn",
+      "turn down",
+      "vote down",
+      "dislike",
+      "negative",
+      "oppose"
+    ],
+    "definitions_de": [
+      "zu etwas nein sagen, etwas zurückweisen oder missbilligen, ausschlagen, verschmähen, verweigern, absagen",
+      "missbilligen, verweigern, Anstoß nehmen (an), abblitzen lassen, abschmettern, vermindernd"
+    ],
+    "synonyms": [
+      "ausschlagen",
+      "verschmähen",
+      "verweigern",
+      "absagen",
+      "missbilligen",
+      "abblitzen lassen",
+      "abschmettern"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom hat abgelehnt.",
+        "en": "Tom refused."
+      },
+      {
+        "de": "Ich habe erst abgelehnt.",
+        "en": "I refused at first."
+      },
+      {
+        "de": "Sie hat mein Angebot abgelehnt.",
+        "en": "She turned down my offer."
+      },
+      {
+        "de": "Die Mikrowelle lehnt mein Freund ab.",
+        "en": "My boyfriend refuses to use the microwave."
+      },
+      {
+        "de": "Ich muss ablehnen.",
+        "en": "I must decline."
+      },
+      {
+        "de": "Es wäre dumm abzulehnen.",
+        "en": "It would be stupid to say no."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ablehnen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ablehnen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ablehnen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ablehnen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ablehnen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ablehnen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ablehnen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ablehnen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ablehnen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ablehnen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ablehnen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ablehnen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ablehnen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ablehnen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ablehnen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ablehnen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ablehnen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ablehnen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ablehnen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ablehnen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ablehnen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ablehnen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablehnen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ablehnen.htm",
+    "rank": 1901,
+    "zipf": 3.94,
+    "first_seen": "2026-10-20T00:14:49+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8bdadfb637be7ea5"
   },
   {
     "id": "ablesen",
@@ -320,11 +497,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ablesen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ablesen.htm",
-    "rank": 2305,
+    "rank": 2384,
     "zipf": 3.61,
     "first_seen": "2026-10-12T14:34:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "1b6025d5bf884d54"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "95f5e20a86184915"
   },
   {
     "id": "abmelden",
@@ -476,11 +653,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abmelden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abmelden.htm",
-    "rank": 3375,
+    "rank": 3507,
     "zipf": 3.04,
     "first_seen": "2026-10-15T22:27:31+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "65928b6e6d5b8eeb"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "04dc7ee60ef8b778"
   },
   {
     "id": "abschicken",
@@ -636,11 +813,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abschicken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abschicken.htm",
-    "rank": 3314,
+    "rank": 3441,
     "zipf": 3.07,
     "first_seen": "2026-10-12T14:18:32+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3f5d053af2004c72"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e3756c33aa4b9ad4"
   },
   {
     "id": "abschlies5en",
@@ -818,11 +995,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abschlies5en.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abschlies5en.htm",
-    "rank": 1831,
+    "rank": 1891,
     "zipf": 3.95,
     "first_seen": "2026-10-15T11:35:12+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "59c824a0e71a7583"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "427516da865472be"
   },
   {
     "id": "abschreiben",
@@ -993,11 +1170,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abschreiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abschreiben.htm",
-    "rank": 2782,
+    "rank": 2882,
     "zipf": 3.32,
     "first_seen": "2026-10-12T08:41:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2a45e61febef9a8a"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "de1c8b866acf9b9b"
   },
   {
     "id": "abwechseln",
@@ -1145,11 +1322,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abwechseln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abwechseln.htm",
-    "rank": 3513,
+    "rank": 3651,
     "zipf": 2.99,
     "first_seen": "2026-10-17T12:05:18+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "c88bb449c6e795e8"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ccf8814b7848f70b"
   },
   {
     "id": "achten",
@@ -1330,11 +1507,175 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/achten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/achten.htm",
-    "rank": 960,
+    "rank": 963,
     "zipf": 4.54,
     "first_seen": "2026-10-12T14:47:13+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ba856536d73a8e57"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8b5d356b17ae6bc0"
+  },
+  {
+    "id": "akzeptieren",
+    "type": "verb",
+    "infinitive": "akzeptieren",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "akzeptiert",
+    "praeteritum_3sg": "akzeptierte",
+    "perfekt_3sg": "hat akzeptiert",
+    "partizip2": "akzeptiert",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": true,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "sich+A, Akk., als",
+    "indicative": {
+      "Präsens": {
+        "ich": "akzeptiere",
+        "du": "akzeptierst",
+        "er": "akzeptiert",
+        "wir": "akzeptieren",
+        "ihr": "akzeptiert",
+        "sie": "akzeptieren"
+      },
+      "Präteritum": {
+        "ich": "akzeptierte",
+        "du": "akzeptiertest",
+        "er": "akzeptierte",
+        "wir": "akzeptierten",
+        "ihr": "akzeptiertet",
+        "sie": "akzeptierten"
+      },
+      "Perfekt": {
+        "ich": "habe akzeptiert",
+        "du": "hast akzeptiert",
+        "er": "hat akzeptiert",
+        "wir": "haben akzeptiert",
+        "ihr": "habt akzeptiert",
+        "sie": "haben akzeptiert"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte akzeptiert",
+        "du": "hattest akzeptiert",
+        "er": "hatte akzeptiert",
+        "wir": "hatten akzeptiert",
+        "ihr": "hattet akzeptiert",
+        "sie": "hatten akzeptiert"
+      },
+      "Futur I": {
+        "ich": "werde akzeptieren",
+        "du": "wirst akzeptieren",
+        "er": "wird akzeptieren",
+        "wir": "werden akzeptieren",
+        "ihr": "werdet akzeptieren",
+        "sie": "werden akzeptieren"
+      },
+      "Futur II": {
+        "ich": "werde akzeptiert haben",
+        "du": "wirst akzeptiert haben",
+        "er": "wird akzeptiert haben",
+        "wir": "werden akzeptiert haben",
+        "ihr": "werdet akzeptiert haben",
+        "sie": "werden akzeptiert haben"
+      }
+    },
+    "imperative": [
+      "akzeptiere (du)",
+      "akzeptieren wir",
+      "akzeptiert (ihr)",
+      "akzeptieren Sie"
+    ],
+    "english": [
+      "accept",
+      "agree to",
+      "honor",
+      "accept as",
+      "acknowledge",
+      "agree",
+      "approve",
+      "approve of",
+      "buy",
+      "honour"
+    ],
+    "definitions_de": [
+      "sich mit etwas einverstanden erklären, anerkennen, annehmen, befürworten, billigen",
+      "etwas hinnehmen, hinnehmen",
+      "anerkennen, hinnehmen, einhalten, gutheißen, zustimmen, zurechtkommen (mit)"
+    ],
+    "synonyms": [
+      "anerkennen",
+      "annehmen",
+      "befürworten",
+      "billigen",
+      "hinnehmen",
+      "einhalten",
+      "gutheißen",
+      "zustimmen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich akzeptiere das.",
+        "en": "I accept that."
+      },
+      {
+        "de": "Akzeptierst du meinen Vorschlag?",
+        "en": "Do you accept my proposal?"
+      },
+      {
+        "de": "Hat Tom dein Angebot akzeptiert?",
+        "en": "Did Tom accept our offer?"
+      },
+      {
+        "de": "Akzeptieren Sie Kreditkarten?",
+        "en": "Do you accept credit cards?"
+      },
+      {
+        "de": "Die Schüler akzeptieren ihn.",
+        "en": "The students accept him."
+      },
+      {
+        "de": "Er akzeptierte den Vorschlag.",
+        "en": "He accepted the suggestion."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/akzeptieren.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/akzeptieren.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/akzeptieren.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/akzeptieren.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/akzeptieren.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/akzeptieren.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/akzeptieren.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/akzeptieren.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/akzeptieren.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/akzeptieren.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/akzeptieren.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/akzeptieren.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/akzeptieren.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/akzeptieren.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/akzeptieren.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/akzeptieren.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/akzeptieren.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/akzeptieren.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/akzeptieren.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/akzeptieren.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/akzeptieren.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/akzeptieren.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/akzeptieren.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/akzeptieren.htm",
+    "rank": 1337,
+    "zipf": 4.38,
+    "first_seen": "2026-10-20T00:15:10+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "14787cb45b4e349c"
   },
   {
     "id": "anhaben",
@@ -1484,11 +1825,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anhaben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anhaben.htm",
-    "rank": 2833,
+    "rank": 2936,
     "zipf": 3.29,
     "first_seen": "2026-10-08T10:44:55+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "4bb4793bed49dd3b"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e107751dc0d03be5"
   },
   {
     "id": "anlassen",
@@ -1659,11 +2000,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anlassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anlassen.htm",
-    "rank": 3767,
+    "rank": 3919,
     "zipf": 2.89,
     "first_seen": "2026-10-08T11:04:10+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "e6efca4d742b462f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ebb418c4bf43138b"
   },
   {
     "id": "annehmen",
@@ -1831,11 +2172,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/annehmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/annehmen.htm",
-    "rank": 1304,
+    "rank": 1321,
     "zipf": 4.39,
     "first_seen": "2026-10-08T11:56:07+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "911dd24d03389f80"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "078fa0ae7e5fe85b"
   },
   {
     "id": "aufbessern",
@@ -1971,11 +2312,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufbessern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufbessern.htm",
-    "rank": 3980,
+    "rank": 4138,
     "zipf": 2.81,
     "first_seen": "2026-10-08T11:22:53+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "e74748796ca83218"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3644e23113ed6448"
   },
   {
     "id": "aufbewahren",
@@ -2134,11 +2475,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufbewahren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufbewahren.htm",
-    "rank": 2637,
+    "rank": 2730,
     "zipf": 3.4,
     "first_seen": "2026-10-16T22:39:31+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "fbff1128017b96fd"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e33132a2d61aec8d"
   },
   {
     "id": "aufbleiben",
@@ -2289,11 +2630,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufbleiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufbleiben.htm",
-    "rank": 4645,
+    "rank": 4836,
     "zipf": 2.57,
     "first_seen": "2026-10-08T11:50:30+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9b1e634a7b723c19"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "70a31f66528106ce"
   },
   {
     "id": "auffallen",
@@ -2460,11 +2801,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/auffallen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/auffallen.htm",
-    "rank": 2186,
+    "rank": 2260,
     "zipf": 3.68,
     "first_seen": "2026-10-12T14:47:56+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "8fad70baba120695"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "030889c8e067d907"
   },
   {
     "id": "aufhaben",
@@ -2619,11 +2960,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufhaben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufhaben.htm",
-    "rank": 5416,
+    "rank": 5649,
     "zipf": 2.28,
     "first_seen": "2026-10-08T10:44:55+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9dadd3b418881dde"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "7f812227ff6036e8"
   },
   {
     "id": "aufpassen",
@@ -2795,11 +3136,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufpassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufpassen.htm",
-    "rank": 1585,
+    "rank": 1628,
     "zipf": 4.15,
     "first_seen": "2026-10-15T23:08:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "06ba5013c9a4b427"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4d303379c0620409"
   },
   {
     "id": "aufsagen",
@@ -2953,11 +3294,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufsagen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufsagen.htm",
-    "rank": 4028,
+    "rank": 4187,
     "zipf": 2.79,
     "first_seen": "2026-10-08T10:56:40+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "22fd72333fa836f6"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0c4553664a7ad24c"
   },
   {
     "id": "aufstellen",
@@ -3142,11 +3483,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufstellen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufstellen.htm",
-    "rank": 1682,
+    "rank": 1734,
     "zipf": 4.07,
     "first_seen": "2026-10-18T11:47:29+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "bb714cbf0393987c"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "598f77b92b0fd769"
   },
   {
     "id": "aufziehen",
@@ -3274,11 +3615,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufziehen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufziehen.htm",
-    "rank": 2574,
+    "rank": 2664,
     "zipf": 3.43,
     "first_seen": "2026-10-12T08:45:47+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ebbaa07e66521397"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "f5539c4fe96c6d85"
   },
   {
     "id": "ausdenken",
@@ -3438,11 +3779,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausdenken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausdenken.htm",
-    "rank": 2145,
+    "rank": 2219,
     "zipf": 3.71,
     "first_seen": "2026-10-08T11:45:17+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "0a8c5daa1d113074"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "67693c838997e2f2"
   },
   {
     "id": "ausgeben",
@@ -3625,11 +3966,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausgeben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausgeben.htm",
-    "rank": 1683,
+    "rank": 1735,
     "zipf": 4.07,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "5e3d61e1777d140e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e48e50b92344edb7"
   },
   {
     "id": "auskennen",
@@ -3776,11 +4117,365 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/auskennen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/auskennen.htm",
-    "rank": 2854,
+    "rank": 2957,
     "zipf": 3.28,
     "first_seen": "2026-10-08T12:26:32+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "196a54386c391e54"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ff9570bcb4b944ba"
+  },
+  {
+    "id": "ausrichten",
+    "type": "verb",
+    "infinitive": "ausrichten",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "richtet aus",
+    "praeteritum_3sg": "richtete aus",
+    "perfekt_3sg": "hat ausgerichtet",
+    "partizip2": "ausgerichtet",
+    "separable_prefix": "aus",
+    "separable": true,
+    "reflexive_use": true,
+    "objects": [
+      "Akk",
+      "Dat"
+    ],
+    "prepositions": [
+      "von+D",
+      "auf+A",
+      "an+D",
+      "bei+D",
+      "nach+D"
+    ],
+    "usage_pattern_raw": "sich+A, Dat., Akk., von+D, auf+A, an+D, bei+D, nach+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "richte aus",
+        "du": "richtest aus",
+        "er": "richtet aus",
+        "wir": "richten aus",
+        "ihr": "richtet aus",
+        "sie": "richten aus"
+      },
+      "Präteritum": {
+        "ich": "richtete aus",
+        "du": "richtetest aus",
+        "er": "richtete aus",
+        "wir": "richteten aus",
+        "ihr": "richtetet aus",
+        "sie": "richteten aus"
+      },
+      "Perfekt": {
+        "ich": "habe ausgerichtet",
+        "du": "hast ausgerichtet",
+        "er": "hat ausgerichtet",
+        "wir": "haben ausgerichtet",
+        "ihr": "habt ausgerichtet",
+        "sie": "haben ausgerichtet"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte ausgerichtet",
+        "du": "hattest ausgerichtet",
+        "er": "hatte ausgerichtet",
+        "wir": "hatten ausgerichtet",
+        "ihr": "hattet ausgerichtet",
+        "sie": "hatten ausgerichtet"
+      },
+      "Futur I": {
+        "ich": "werde ausrichten",
+        "du": "wirst ausrichten",
+        "er": "wird ausrichten",
+        "wir": "werden ausrichten",
+        "ihr": "werdet ausrichten",
+        "sie": "werden ausrichten"
+      },
+      "Futur II": {
+        "ich": "werde ausgerichtet haben",
+        "du": "wirst ausgerichtet haben",
+        "er": "wird ausgerichtet haben",
+        "wir": "werden ausgerichtet haben",
+        "ihr": "werdet ausgerichtet haben",
+        "sie": "werden ausgerichtet haben"
+      }
+    },
+    "imperative": [
+      "richte (du) aus",
+      "richten wir aus",
+      "richtet (ihr) aus",
+      "richten Sie aus"
+    ],
+    "english": [
+      "align",
+      "adjust",
+      "arrange",
+      "organize",
+      "achieve",
+      "aim at",
+      "align with",
+      "angle",
+      "bring into line",
+      "cater",
+      "convey",
+      "deliver",
+      "direct to",
+      "dress ranks",
+      "effect",
+      "gear to",
+      "home in (on)",
+      "justify",
+      "organise",
+      "orient",
+      "orient oneself (to)",
+      "orientate",
+      "pay",
+      "position",
+      "settle",
+      "speak ill (of)",
+      "straighten"
+    ],
+    "definitions_de": [
+      "eine Richtung geben, justieren, aufspüren, justieren, konfigurieren, zurechtrücken, zielen",
+      "organisieren, austragen (Wettkampf), veranstalten, abhalten, durchführen, aufführen",
+      "eine Nachricht überbringen, weitergeben, mitteilen, (jemandem etwas) bestellen, (jemandem etwas) übermitteln",
+      "mit einer Handlung etwas bewirken, erreichen, bestehen (gegen), erwirken, (sich) behaupten (gegen), erzielen"
+    ],
+    "synonyms": [
+      "justieren",
+      "aufspüren",
+      "konfigurieren",
+      "zurechtrücken",
+      "zielen",
+      "organisieren",
+      "veranstalten",
+      "abhalten"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Drei der Zimmer sind zur Straße ausgerichtet.",
+        "en": "Three of the rooms face the street."
+      },
+      {
+        "de": "Kann ich etwas ausrichten?",
+        "en": "Can I take a message?"
+      },
+      {
+        "de": "Soll ich ihm etwas ausrichten?",
+        "en": "Should I pass him something?"
+      },
+      {
+        "de": "Die Partei Zentrum war katholisch ausgerichtet.",
+        "en": "The Center party was oriented towards Catholicism."
+      },
+      {
+        "de": "Ich soll Ihnen etwas von ihr ausrichten.",
+        "en": "I have a message for you from her."
+      },
+      {
+        "de": "Tante Frieda lässt einen schönen Gruß ausrichten.",
+        "en": "Aunt Frieda sends her regards."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ausrichten.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ausrichten.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ausrichten.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ausrichten.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ausrichten.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ausrichten.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ausrichten.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ausrichten.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ausrichten.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ausrichten.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ausrichten.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ausrichten.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ausrichten.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ausrichten.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ausrichten.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ausrichten.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ausrichten.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ausrichten.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ausrichten.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ausrichten.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ausrichten.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ausrichten.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausrichten.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ausrichten.htm",
+    "rank": 1996,
+    "zipf": 3.86,
+    "first_seen": "2026-10-19T23:44:14+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "53a85981a0df6e66"
+  },
+  {
+    "id": "ausra3umen",
+    "type": "verb",
+    "infinitive": "ausräumen",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "räumt aus",
+    "praeteritum_3sg": "räumte aus",
+    "perfekt_3sg": "hat ausgeräumt",
+    "partizip2": "ausgeräumt",
+    "separable_prefix": "aus",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [
+      "aus+D"
+    ],
+    "usage_pattern_raw": "Akk., aus+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "räume aus",
+        "du": "räumst aus",
+        "er": "räumt aus",
+        "wir": "räumen aus",
+        "ihr": "räumt aus",
+        "sie": "räumen aus"
+      },
+      "Präteritum": {
+        "ich": "räumte aus",
+        "du": "räumtest aus",
+        "er": "räumte aus",
+        "wir": "räumten aus",
+        "ihr": "räumtet aus",
+        "sie": "räumten aus"
+      },
+      "Perfekt": {
+        "ich": "habe ausgeräumt",
+        "du": "hast ausgeräumt",
+        "er": "hat ausgeräumt",
+        "wir": "haben ausgeräumt",
+        "ihr": "habt ausgeräumt",
+        "sie": "haben ausgeräumt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte ausgeräumt",
+        "du": "hattest ausgeräumt",
+        "er": "hatte ausgeräumt",
+        "wir": "hatten ausgeräumt",
+        "ihr": "hattet ausgeräumt",
+        "sie": "hatten ausgeräumt"
+      },
+      "Futur I": {
+        "ich": "werde ausräumen",
+        "du": "wirst ausräumen",
+        "er": "wird ausräumen",
+        "wir": "werden ausräumen",
+        "ihr": "werdet ausräumen",
+        "sie": "werden ausräumen"
+      },
+      "Futur II": {
+        "ich": "werde ausgeräumt haben",
+        "du": "wirst ausgeräumt haben",
+        "er": "wird ausgeräumt haben",
+        "wir": "werden ausgeräumt haben",
+        "ihr": "werdet ausgeräumt haben",
+        "sie": "werden ausgeräumt haben"
+      }
+    },
+    "imperative": [
+      "räume (du) aus",
+      "räumen wir aus",
+      "räumt (ihr) aus",
+      "räumen Sie aus"
+    ],
+    "english": [
+      "clear out",
+      "clear",
+      "clear up",
+      "countersink",
+      "dismantle",
+      "dispel",
+      "empty",
+      "empty out",
+      "evacuate",
+      "smooth out",
+      "smooth over",
+      "strip",
+      "wash away"
+    ],
+    "definitions_de": [
+      "Inhalt aus einem Raum oder Behältnis entfernen",
+      "[Medizin] beseitigen, ausrauben, migrieren, fortschaffen, leerräumen, leer saugen"
+    ],
+    "synonyms": [
+      "beseitigen",
+      "ausrauben",
+      "migrieren",
+      "fortschaffen",
+      "leerräumen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Hast du die Spülmaschine ausgeräumt?",
+        "en": "Did you empty the dishwasher?"
+      },
+      {
+        "de": "Er räumte seinen Schreibtisch aus.",
+        "en": "He cleared his desk."
+      },
+      {
+        "de": "Tom hat angefangen, seine Sachen auszuräumen.",
+        "en": "Tom has started to clear his things out."
+      },
+      {
+        "de": "Es geht Tom vor allem darum, Klischees auszuräumen.",
+        "en": "Tom is primarily concerned with debunking clichés."
+      },
+      {
+        "de": "Tom nervt es, dass Mary nie die Spülmaschine ausräumt.",
+        "en": "Tom is annoyed that Mary never empties the dishwasher."
+      },
+      {
+        "de": "Können Zweifel nicht hundertprozentig durch den Makler oder Verkäufer ausgeräumt werden, sollte man über Alternativen nachdenken.",
+        "en": "If doubts cannot be completely resolved by the broker or seller, one should consider alternatives."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/ausra3umen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/ausra3umen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/ausra3umen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/ausra3umen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/ausra3umen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/ausra3umen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/ausra3umen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/ausra3umen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/ausra3umen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/ausra3umen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/ausra3umen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/ausra3umen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/ausra3umen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/ausra3umen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/ausra3umen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/ausra3umen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/ausra3umen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/ausra3umen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/ausra3umen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/ausra3umen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/ausra3umen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/ausra3umen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausra3umen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/ausra3umen.htm",
+    "rank": 3415,
+    "zipf": 3.08,
+    "first_seen": "2026-10-19T23:44:35+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "49904b7ee0c50a75"
   },
   {
     "id": "ausschalten",
@@ -3952,11 +4647,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausschalten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausschalten.htm",
-    "rank": 2067,
+    "rank": 2137,
     "zipf": 3.77,
     "first_seen": "2026-10-17T21:23:04+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "eb70dce238997440"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "a877765383503ed3"
   },
   {
     "id": "ausschlafen",
@@ -4104,11 +4799,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausschlafen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausschlafen.htm",
-    "rank": 3026,
+    "rank": 3140,
     "zipf": 3.19,
     "first_seen": "2026-10-08T13:57:06+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "47f6a95d253be1da"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "9215575a532a521e"
   },
   {
     "id": "aussprechen",
@@ -4283,11 +4978,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aussprechen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aussprechen.htm",
-    "rank": 1792,
+    "rank": 1849,
     "zipf": 3.98,
     "first_seen": "2026-10-08T12:12:11+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ab5bc7c1bda7df88"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "835c978c6a74bcb8"
   },
   {
     "id": "austeilen",
@@ -4457,11 +5152,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/austeilen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/austeilen.htm",
-    "rank": 3434,
+    "rank": 3568,
     "zipf": 3.02,
     "first_seen": "2026-10-14T00:36:15+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "144b06a4f4a0e39e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "76eccd1991d1f3f6"
   },
   {
     "id": "austragen",
@@ -4635,11 +5330,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/austragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/austragen.htm",
-    "rank": 2671,
+    "rank": 2765,
     "zipf": 3.38,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "b59db03adae90dfd"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "5ac65be9ee5fa92d"
   },
   {
     "id": "ausweisen",
@@ -4819,11 +5514,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausweisen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausweisen.htm",
-    "rank": 2451,
+    "rank": 2534,
     "zipf": 3.51,
     "first_seen": "2026-10-18T21:28:03+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "90bfebb813ccaa53"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "311b0fc6c7686b20"
   },
   {
     "id": "bauen",
@@ -4993,11 +5688,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bauen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bauen.htm",
-    "rank": 514,
+    "rank": 515,
     "zipf": 4.81,
     "first_seen": "2026-10-14T12:14:11+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9a3305c0d2709cb3"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "a23a68f2ddee20c1"
   },
   {
     "id": "bedanken",
@@ -5144,11 +5839,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bedanken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bedanken.htm",
-    "rank": 1696,
+    "rank": 1748,
     "zipf": 4.06,
     "first_seen": "2026-10-08T10:56:52+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "641e04f50f428b00"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "81e1707f79b16dff"
   },
   {
     "id": "beeindrucken",
@@ -5293,11 +5988,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beeindrucken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beeindrucken.htm",
-    "rank": 2090,
+    "rank": 2161,
     "zipf": 3.75,
     "first_seen": "2026-10-08T14:51:17+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "6660a9a6df497c44"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "dcfb15768e60be6d"
   },
   {
     "id": "begleiten",
@@ -5471,11 +6166,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/begleiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/begleiten.htm",
-    "rank": 1422,
+    "rank": 1458,
     "zipf": 4.29,
     "first_seen": "2026-10-17T21:34:41+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "770d7627d65e0fa7"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "d800f328b1f33065"
   },
   {
     "id": "begru3nden",
@@ -5639,11 +6334,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/begru3nden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/begru3nden.htm",
-    "rank": 1842,
+    "rank": 1904,
     "zipf": 3.94,
     "first_seen": "2026-10-14T00:52:42+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "0a30cf080cc14d9f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "03a93177ac621da4"
   },
   {
     "id": "behalten",
@@ -5801,11 +6496,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/behalten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/behalten.htm",
-    "rank": 833,
+    "rank": 836,
     "zipf": 4.62,
     "first_seen": "2026-10-08T12:17:47+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "b2213ac8db194323"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "f71c40015ff51b2c"
   },
   {
     "id": "benehmen",
@@ -5962,11 +6657,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/benehmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/benehmen.htm",
-    "rank": 1794,
+    "rank": 1851,
     "zipf": 3.98,
     "first_seen": "2026-10-08T11:56:07+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "33cf764bc17c5718"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "844a9ce864613ed7"
   },
   {
     "id": "beobachten",
@@ -6133,11 +6828,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beobachten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beobachten.htm",
-    "rank": 1038,
+    "rank": 1041,
     "zipf": 4.5,
     "first_seen": "2026-10-17T12:09:32+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "369149ad5e92ae2d"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0a6f1add66f04996"
   },
   {
     "id": "bereitlegen",
@@ -6272,11 +6967,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bereitlegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bereitlegen.htm",
-    "rank": 6379,
+    "rank": 6661,
     "zipf": 1.9,
     "first_seen": "2026-10-08T12:44:45+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "60d8e6640c1ae581"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "6db7d557ded40dc0"
   },
   {
     "id": "beschlies5en",
@@ -6439,11 +7134,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beschlies5en.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beschlies5en.htm",
-    "rank": 2038,
+    "rank": 2108,
     "zipf": 3.79,
     "first_seen": "2026-10-15T11:35:12+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "44db5a3af280a90d"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8441f2e7d0c080d0"
   },
   {
     "id": "bescha3ftigen",
@@ -6615,11 +7310,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bescha3ftigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bescha3ftigen.htm",
-    "rank": 1288,
+    "rank": 1300,
     "zipf": 4.4,
     "first_seen": "2026-10-14T13:00:34+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3e5f8455502cb68d"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8f6d46877ba3fc63"
   },
   {
     "id": "besitzen",
@@ -6776,11 +7471,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besitzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besitzen.htm",
-    "rank": 979,
+    "rank": 982,
     "zipf": 4.53,
     "first_seen": "2026-10-12T08:34:01+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ca081ff265ba44fe"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4bb7393be9443217"
   },
   {
     "id": "besta3tigen",
@@ -6951,11 +7646,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/besta3tigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/besta3tigen.htm",
-    "rank": 1155,
+    "rank": 1158,
     "zipf": 4.45,
     "first_seen": "2026-10-14T23:28:41+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "709598d3375215ec"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "6d39c3c3e53bba81"
   },
   {
     "id": "betonen",
@@ -7125,11 +7820,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/betonen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/betonen.htm",
-    "rank": 1795,
+    "rank": 1852,
     "zipf": 3.98,
     "first_seen": "2026-10-17T21:57:14+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ed78d24102e3a655"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e6e285d1c276b156"
   },
   {
     "id": "betreten",
@@ -7284,11 +7979,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/betreten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/betreten.htm",
-    "rank": 1516,
+    "rank": 1556,
     "zipf": 4.2,
     "first_seen": "2026-10-15T12:13:55+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "d585e057e3e18b33"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "d35d15952cacbd36"
   },
   {
     "id": "blicken",
@@ -7453,11 +8148,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/blicken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/blicken.htm",
-    "rank": 1557,
+    "rank": 1598,
     "zipf": 4.17,
     "first_seen": "2026-10-13T14:30:48+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "0ab1786a51ba4af2"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "181c8f052ddb25f3"
   },
   {
     "id": "bloggen",
@@ -7583,11 +8278,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bloggen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bloggen.htm",
-    "rank": 3009,
+    "rank": 3123,
     "zipf": 3.2,
     "first_seen": "2026-10-17T21:37:29+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "dde160c2a022f053"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "37da917a7343da7f"
   },
   {
     "id": "bluten",
@@ -7746,11 +8441,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/bluten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/bluten.htm",
-    "rank": 2693,
+    "rank": 2788,
     "zipf": 3.37,
     "first_seen": "2026-10-08T14:08:58+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "937d2ae49ee1555a"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "33b413d868395065"
   },
   {
     "id": "buchen",
@@ -7906,11 +8601,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/buchen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/buchen.htm",
-    "rank": 1685,
+    "rank": 1737,
     "zipf": 4.07,
     "first_seen": "2026-10-12T08:08:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "0a7e6316e390329b"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0c45909cc7b590f3"
   },
   {
     "id": "dortbleiben",
@@ -8030,11 +8725,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/dortbleiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/dortbleiben.htm",
-    "rank": 7630,
+    "rank": 7969,
     "zipf": 1.2,
     "first_seen": "2026-10-08T11:34:29+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ca30c8e55814a7da"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "f299f182e19a5a91"
   },
   {
     "id": "drehen",
@@ -8211,11 +8906,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/drehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/drehen.htm",
-    "rank": 985,
+    "rank": 988,
     "zipf": 4.53,
     "first_seen": "2026-10-17T11:33:18+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "fef6ba7ab0a8b429"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0c0cb97c14630f24"
   },
   {
     "id": "durchatmen",
@@ -8359,11 +9054,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/durchatmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/durchatmen.htm",
-    "rank": 2577,
+    "rank": 2667,
     "zipf": 3.43,
     "first_seen": "2026-10-08T11:19:21+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "f9700b85848b391e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "bb44354e2ea3157e"
   },
   {
     "id": "einbauen",
@@ -8536,11 +9231,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einbauen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einbauen.htm",
-    "rank": 2162,
+    "rank": 2236,
     "zipf": 3.7,
     "first_seen": "2026-10-14T12:51:01+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "72ec054fd603d941"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "c70a9b2b9c95d7ce"
   },
   {
     "id": "einfallen",
@@ -8726,11 +9421,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einfallen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einfallen.htm",
-    "rank": 1697,
+    "rank": 1749,
     "zipf": 4.06,
     "first_seen": "2026-10-12T14:47:56+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3051b16a09ba5e33"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "98b294cf320a6706"
   },
   {
     "id": "eingeben",
@@ -8916,11 +9611,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/eingeben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/eingeben.htm",
-    "rank": 2290,
+    "rank": 2369,
     "zipf": 3.62,
     "first_seen": "2026-10-08T11:35:11+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "5abd3b724e1f56bb"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "5b28990cb9989bde"
   },
   {
     "id": "einkochen",
@@ -9066,11 +9761,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einkochen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einkochen.htm",
-    "rank": 4620,
+    "rank": 4811,
     "zipf": 2.58,
     "first_seen": "2026-10-17T11:58:59+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "5fc2e6fee6474ac1"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "07374b764be75ce0"
   },
   {
     "id": "einschalten",
@@ -9247,11 +9942,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einschalten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einschalten.htm",
-    "rank": 1976,
+    "rank": 2043,
     "zipf": 3.83,
     "first_seen": "2026-10-17T21:23:04+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9344b0a1322f695a"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "9bb879e53d919f04"
   },
   {
     "id": "eintragen",
@@ -9424,11 +10119,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/eintragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/eintragen.htm",
-    "rank": 2096,
+    "rank": 2167,
     "zipf": 3.75,
     "first_seen": "2026-10-12T14:13:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "df1889caf4d5bcd0"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "5b96ee47fd7ab24f"
   },
   {
     "id": "einziehen",
@@ -9581,11 +10276,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einziehen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einziehen.htm",
-    "rank": 1946,
+    "rank": 2013,
     "zipf": 3.85,
     "first_seen": "2026-10-12T08:47:10+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "7c0a1c9fc031fed7"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ff5e8a8f4232ed97"
   },
   {
     "id": "engagieren",
@@ -9748,11 +10443,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/engagieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/engagieren.htm",
-    "rank": 1837,
+    "rank": 1897,
     "zipf": 3.95,
     "first_seen": "2026-10-16T22:25:42+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "5bbab119e9fd15b9"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "5bf0302f03e90a0f"
   },
   {
     "id": "entdecken",
@@ -9910,11 +10605,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entdecken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entdecken.htm",
-    "rank": 1389,
+    "rank": 1423,
     "zipf": 4.32,
     "first_seen": "2026-10-14T23:17:05+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "e8e1b2ba4fadfab3"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "95512feabbe3239f"
   },
   {
     "id": "entlanggehen",
@@ -10063,11 +10758,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entlanggehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entlanggehen.htm",
-    "rank": 6457,
+    "rank": 6743,
     "zipf": 1.86,
     "first_seen": "2026-10-15T23:03:22+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "d06e96fb7dd06952"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "25198e4ac582f8e8"
   },
   {
     "id": "entscheiden",
@@ -10418,11 +11113,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entstehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entstehen.htm",
-    "rank": 588,
+    "rank": 589,
     "zipf": 4.76,
     "first_seen": "2026-10-14T23:04:50+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "a0ecef5a60ff85a0"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "dcb5dd7456779b75"
   },
   {
     "id": "entwerfen",
@@ -10600,11 +11295,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/entwerfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/entwerfen.htm",
-    "rank": 2276,
+    "rank": 2355,
     "zipf": 3.63,
     "first_seen": "2026-10-13T02:13:27+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "fa8d8120f5c5950a"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ec36eb90dbf23f0e"
   },
   {
     "id": "erfinden",
@@ -10763,11 +11458,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erfinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erfinden.htm",
-    "rank": 1962,
+    "rank": 2029,
     "zipf": 3.84,
     "first_seen": "2026-10-08T11:29:34+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "d6ac9b8ac175f1d7"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "39e4a006022658b2"
   },
   {
     "id": "erfragen",
@@ -10888,11 +11583,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erfragen_regelm.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erfragen.htm",
-    "rank": 3294,
+    "rank": 3421,
     "zipf": 3.08,
     "first_seen": "2026-10-08T15:38:33+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "59fd1b394debda03"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4664ebeffbb4ae7c"
   },
   {
     "id": "erfu3llen",
@@ -11076,11 +11771,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erfu3llen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erfu3llen.htm",
-    "rank": 1088,
+    "rank": 1091,
     "zipf": 4.48,
     "first_seen": "2026-10-16T11:50:59+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ce5df57d6d34a866"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "93f9de95d1fe6dbc"
   },
   {
     "id": "erholen",
@@ -11239,11 +11934,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erholen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erholen.htm",
-    "rank": 2042,
+    "rank": 2112,
     "zipf": 3.79,
     "first_seen": "2026-10-08T13:28:23+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "69d8e4c83466a1eb"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ad34137716315865"
   },
   {
     "id": "erinnern",
@@ -11399,11 +12094,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erinnern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erinnern.htm",
-    "rank": 607,
+    "rank": 608,
     "zipf": 4.75,
     "first_seen": "2026-10-08T14:54:25+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3f6d6d983089a580"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "b2204775632d2801"
   },
   {
     "id": "erkennen",
@@ -11740,11 +12435,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erleben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erleben.htm",
-    "rank": 768,
+    "rank": 771,
     "zipf": 4.65,
     "first_seen": "2026-10-15T22:47:35+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "b31ff1af527aa042"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "a7a86a8a8ebcb78f"
   },
   {
     "id": "erledigen",
@@ -11920,11 +12615,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erledigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erledigen.htm",
-    "rank": 1558,
+    "rank": 1601,
     "zipf": 4.17,
     "first_seen": "2026-10-13T02:00:28+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "4293f51b8a0564b9"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4d9f8a20ea2bce22"
   },
   {
     "id": "erreichen",
@@ -12278,11 +12973,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erscheinen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erscheinen.htm",
-    "rank": 879,
+    "rank": 882,
     "zipf": 4.59,
     "first_seen": "2026-10-14T23:30:49+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "8bf1590a06b5efcf"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "78725e7bd67c5aa2"
   },
   {
     "id": "erschlies5en",
@@ -12451,11 +13146,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/erschlies5en.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/erschlies5en.htm",
-    "rank": 2149,
+    "rank": 2223,
     "zipf": 3.71,
     "first_seen": "2026-10-15T11:35:12+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3772fb4712ec3e03"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "57ffebe5b2bba409"
   },
   {
     "id": "erwarten",
@@ -12778,11 +13473,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/existieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/existieren.htm",
-    "rank": 1361,
+    "rank": 1394,
     "zipf": 4.35,
     "first_seen": "2026-10-18T11:54:30+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "accea074cdbc3381"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "f31bee0d14022a3b"
   },
   {
     "id": "fallen",
@@ -13129,11 +13824,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fangen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fangen.htm",
-    "rank": 1449,
+    "rank": 1486,
     "zipf": 4.26,
     "first_seen": "2026-10-13T01:36:52+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2ced83a3eb11d860"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "9b5b4a8257146eba"
   },
   {
     "id": "feststellen",
@@ -13303,11 +13998,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/feststellen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/feststellen.htm",
-    "rank": 1378,
+    "rank": 1411,
     "zipf": 4.33,
     "first_seen": "2026-10-17T21:18:27+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2063232996c9c4b4"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "526554109f162148"
   },
   {
     "id": "folgen",
@@ -13631,11 +14326,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fa3rben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fa3rben.htm",
-    "rank": 2352,
+    "rank": 2432,
     "zipf": 3.58,
     "first_seen": "2026-10-14T23:47:36+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "39bd97e45cc8c479"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "7e38d1977a30eb61"
   },
   {
     "id": "fu3rchten",
@@ -13801,11 +14496,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fu3rchten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fu3rchten.htm",
-    "rank": 1573,
+    "rank": 1616,
     "zipf": 4.16,
     "first_seen": "2026-10-08T10:49:35+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "383b7f6c75ad0b88"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "c3f9a66a760fdfb4"
   },
   {
     "id": "gru3nden",
@@ -14182,11 +14877,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/handeln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/handeln.htm",
-    "rank": 626,
+    "rank": 627,
     "zipf": 4.74,
     "first_seen": "2026-10-08T14:34:12+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "d2a9e043d87fec05"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e0ed1c787ebb300d"
   },
   {
     "id": "herstellen",
@@ -14350,11 +15045,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/herstellen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/herstellen.htm",
-    "rank": 1688,
+    "rank": 1740,
     "zipf": 4.07,
     "first_seen": "2026-10-17T11:57:55+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2dace0b3975c4fce"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3c27589ef0e03251"
   },
   {
     "id": "ha3ngen",
@@ -14502,11 +15197,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ha3ngen_regelm_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ha3ngen.htm",
-    "rank": 869,
+    "rank": 872,
     "zipf": 4.6,
     "first_seen": "2026-10-15T08:28:08+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "34bed7996455f949"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "906f3b674f09d291"
   },
   {
     "id": "interviewen",
@@ -14647,11 +15342,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/interviewen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/interviewen.htm",
-    "rank": 3501,
+    "rank": 3639,
     "zipf": 3.0,
     "first_seen": "2026-10-14T23:07:57+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "c0e3439eb0beaa66"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "13eff1152d10f8ae"
   },
   {
     "id": "kaputtgehen",
@@ -14819,11 +15514,166 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/kaputtgehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/kaputtgehen.htm",
-    "rank": 4560,
+    "rank": 4749,
     "zipf": 2.6,
     "first_seen": "2026-10-16T22:29:12+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "68ba9c900cb00204"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4dd5e7bd528ee3e0"
+  },
+  {
+    "id": "klicken",
+    "type": "verb",
+    "infinitive": "klicken",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "klickt",
+    "praeteritum_3sg": "klickte",
+    "perfekt_3sg": "hat geklickt",
+    "partizip2": "geklickt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [
+      "auf+A",
+      "mit+D"
+    ],
+    "usage_pattern_raw": "auf+A, mit+D",
+    "indicative": {
+      "Präsens": {
+        "ich": "klicke",
+        "du": "klickst",
+        "er": "klickt",
+        "wir": "klicken",
+        "ihr": "klickt",
+        "sie": "klicken"
+      },
+      "Präteritum": {
+        "ich": "klickte",
+        "du": "klicktest",
+        "er": "klickte",
+        "wir": "klickten",
+        "ihr": "klicktet",
+        "sie": "klickten"
+      },
+      "Perfekt": {
+        "ich": "habe geklickt",
+        "du": "hast geklickt",
+        "er": "hat geklickt",
+        "wir": "haben geklickt",
+        "ihr": "habt geklickt",
+        "sie": "haben geklickt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte geklickt",
+        "du": "hattest geklickt",
+        "er": "hatte geklickt",
+        "wir": "hatten geklickt",
+        "ihr": "hattet geklickt",
+        "sie": "hatten geklickt"
+      },
+      "Futur I": {
+        "ich": "werde klicken",
+        "du": "wirst klicken",
+        "er": "wird klicken",
+        "wir": "werden klicken",
+        "ihr": "werdet klicken",
+        "sie": "werden klicken"
+      },
+      "Futur II": {
+        "ich": "werde geklickt haben",
+        "du": "wirst geklickt haben",
+        "er": "wird geklickt haben",
+        "wir": "werden geklickt haben",
+        "ihr": "werdet geklickt haben",
+        "sie": "werden geklickt haben"
+      }
+    },
+    "imperative": [
+      "klicke (du)",
+      "klicken wir",
+      "klickt (ihr)",
+      "klicken Sie"
+    ],
+    "english": [
+      "click",
+      "clack",
+      "click (on)",
+      "snap"
+    ],
+    "definitions_de": [
+      "ein kurzes, helles, metallisches Geräusch von sich geben",
+      "eine Taste (meist an der Computermaus) oder einen Knopf betätigen",
+      "[Computer] ticken, tickern, klickern, tickeln"
+    ],
+    "synonyms": [
+      "ticken",
+      "tickern",
+      "klickern",
+      "tickeln"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Bitte klicken Sie hier.",
+        "en": "Please click here."
+      },
+      {
+        "de": "Für Einzelheiten zum Produkt klicken Sie hier.",
+        "en": "For details about the product, click here."
+      },
+      {
+        "de": "Wenn du auf den Button klickst, kannst du den Text ausblenden.",
+        "en": "If you click the button, you can hide the text."
+      },
+      {
+        "de": "Lange brauchte er nicht zu warten, bis das Schloss klickte und die Tür sich öffnete.",
+        "en": "He didn't have to wait long before the lock clicked and the door opened."
+      },
+      {
+        "de": "Sollten Sie nicht automatisch weitergeleitet werden, klicken Sie bitte hier.",
+        "en": "If you are not redirected automatically, please click here."
+      },
+      {
+        "de": "Tom klickte auf das Kästchen und setzte ein Häkchen.",
+        "en": "Tom clicked the checkbox."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/klicken.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/klicken.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/klicken.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/klicken.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/klicken.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/klicken.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/klicken.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/klicken.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/klicken.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/klicken.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/klicken.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/klicken.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/klicken.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/klicken.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/klicken.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/klicken.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/klicken.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/klicken.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/klicken.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/klicken.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/klicken.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/klicken.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/klicken.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/klicken.htm",
+    "rank": 1330,
+    "zipf": 4.39,
+    "first_seen": "2026-10-20T00:06:32+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "c0aa2d8fa3b97830"
   },
   {
     "id": "kla3ren",
@@ -14993,11 +15843,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/kla3ren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/kla3ren.htm",
-    "rank": 1407,
+    "rank": 1442,
     "zipf": 4.31,
     "first_seen": "2026-10-08T11:09:27+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3ddeb89822821822"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "c9eaead5585b8c69"
   },
   {
     "id": "kommentieren",
@@ -15153,11 +16003,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/kommentieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/kommentieren.htm",
-    "rank": 1865,
+    "rank": 1928,
     "zipf": 3.92,
     "first_seen": "2026-10-08T11:00:50+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "452719855342158f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "579e99df3f558a3c"
   },
   {
     "id": "landen",
@@ -15313,11 +16163,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/landen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/landen.htm",
-    "rank": 1380,
+    "rank": 1414,
     "zipf": 4.33,
     "first_seen": "2026-10-08T20:46:46+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2edaff0c89a2aee3"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "c99b1e48ff6783ee"
   },
   {
     "id": "lassen",
@@ -15661,11 +16511,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/leeren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/leeren.htm",
-    "rank": 1578,
+    "rank": 1621,
     "zipf": 4.16,
     "first_seen": "2026-10-16T12:15:52+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "655a88c849a7cc11"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "517d1351a27eff92"
   },
   {
     "id": "liefern",
@@ -15834,11 +16684,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/liefern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/liefern.htm",
-    "rank": 990,
+    "rank": 993,
     "zipf": 4.53,
     "first_seen": "2026-10-15T12:20:41+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "8ed3f6a8f007439d"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e602513994c5131a"
   },
   {
     "id": "lohnen",
@@ -15999,11 +16849,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/lohnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/lohnen.htm",
-    "rank": 2047,
+    "rank": 2117,
     "zipf": 3.79,
     "first_seen": "2026-10-16T22:12:27+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "f356ebf40fb14b3f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4499476e25be3a37"
   },
   {
     "id": "la3cheln",
@@ -16158,11 +17008,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/la3cheln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/la3cheln.htm",
-    "rank": 1101,
+    "rank": 1104,
     "zipf": 4.48,
     "first_seen": "2026-10-18T11:18:50+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "766a9b3c929ba889"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "2edd0166184c5041"
   },
   {
     "id": "lu3gen",
@@ -16315,11 +17165,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/lu3gen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/lu3gen.htm",
-    "rank": 1167,
+    "rank": 1170,
     "zipf": 4.45,
     "first_seen": "2026-10-13T02:42:10+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "e7150454bfc12b75"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "d061fc6b5cd337ef"
   },
   {
     "id": "mitspielen",
@@ -16476,11 +17326,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/mitspielen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/mitspielen.htm",
-    "rank": 2013,
+    "rank": 2082,
     "zipf": 3.81,
     "first_seen": "2026-10-19T12:56:00+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "bf124efd534912a2"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0f5868ef8f397b11"
   },
   {
     "id": "nerven",
@@ -16645,11 +17495,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nerven.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nerven.htm",
-    "rank": 1047,
+    "rank": 1050,
     "zipf": 4.5,
     "first_seen": "2026-10-17T21:22:21+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "7fdef1b1d89d6795"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "fd47b5377b312927"
   },
   {
     "id": "nutzen",
@@ -16968,11 +17818,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/parken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/parken.htm",
-    "rank": 1818,
+    "rank": 1878,
     "zipf": 3.97,
     "first_seen": "2026-10-15T11:45:46+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "a54ee3e63f2dd22e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ee2e31444fe9a8aa"
   },
   {
     "id": "posten",
@@ -17116,11 +17966,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/posten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/posten.htm",
-    "rank": 890,
+    "rank": 893,
     "zipf": 4.59,
     "first_seen": "2026-10-14T11:52:50+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3d0be9a367b4e356"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "252fa09ccaa5464e"
   },
   {
     "id": "pru3fen",
@@ -17295,11 +18145,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/pru3fen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/pru3fen.htm",
-    "rank": 1112,
+    "rank": 1115,
     "zipf": 4.47,
     "first_seen": "2026-10-18T11:38:04+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "b5885b4f39d9a5e9"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "715b73a66f2c35c6"
   },
   {
     "id": "rechnen",
@@ -17484,11 +18334,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/rechnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/rechnen.htm",
-    "rank": 913,
+    "rank": 916,
     "zipf": 4.57,
     "first_seen": "2026-10-16T22:33:24+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "89bd6195b01085f9"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "578e9261b1e1741a"
   },
   {
     "id": "retten",
@@ -17649,11 +18499,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/retten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/retten.htm",
-    "rank": 872,
+    "rank": 875,
     "zipf": 4.6,
     "first_seen": "2026-10-08T14:28:58+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9f68ce66530cd81d"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "cd28dd60ea1cad0e"
   },
   {
     "id": "schauen",
@@ -18001,11 +18851,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/schies5en_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/schies5en.htm",
-    "rank": 1349,
+    "rank": 1382,
     "zipf": 4.36,
     "first_seen": "2026-10-13T10:52:26+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "42ba9ff313cace45"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3ccac8df039d6caf"
   },
   {
     "id": "schweigen",
@@ -18164,11 +19014,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/schweigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/schweigen.htm",
-    "rank": 1238,
+    "rank": 1241,
     "zipf": 4.43,
     "first_seen": "2026-10-18T22:26:09+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9ece0edbe2a200e9"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4c828f7c43a165f7"
   },
   {
     "id": "scho3nmachen",
@@ -18297,11 +19147,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/scho3nmachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/scho3nmachen.htm",
-    "rank": 7837,
+    "rank": 8182,
     "zipf": 1.02,
     "first_seen": "2026-10-08T11:10:33+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2908835e6d5f844c"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8d8173cfe430a0d5"
   },
   {
     "id": "schu3tzen",
@@ -18475,11 +19325,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/schu3tzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/schu3tzen.htm",
-    "rank": 613,
+    "rank": 614,
     "zipf": 4.75,
     "first_seen": "2026-10-14T12:27:54+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "636a9ecafdf06b02"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3a2fe829682d405f"
   },
   {
     "id": "sondern",
@@ -18764,11 +19614,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/sonnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/sonnen.htm",
-    "rank": 2463,
+    "rank": 2546,
     "zipf": 3.51,
     "first_seen": "2026-10-14T12:18:47+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "dc5bc976c5f52609"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "44d64585177481e7"
   },
   {
     "id": "sorgen",
@@ -19112,11 +19962,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/sortieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/sortieren.htm",
-    "rank": 2328,
+    "rank": 2408,
     "zipf": 3.6,
     "first_seen": "2026-10-15T23:24:06+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "3b17e618a8091af2"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "982b8273d636ce19"
   },
   {
     "id": "sparen",
@@ -19293,11 +20143,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/sparen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/sparen.htm",
-    "rank": 777,
+    "rank": 780,
     "zipf": 4.65,
     "first_seen": "2026-10-15T22:57:25+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "020ca86c198c9f47"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3a665a38a3359a39"
   },
   {
     "id": "sperren",
@@ -19488,11 +20338,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/sperren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/sperren.htm",
-    "rank": 1820,
+    "rank": 1880,
     "zipf": 3.97,
     "first_seen": "2026-10-18T22:13:32+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "57080039408c5be4"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "5bee2832b90c3cc6"
   },
   {
     "id": "spiegeln",
@@ -19648,11 +20498,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/spiegeln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/spiegeln.htm",
-    "rank": 2192,
+    "rank": 2266,
     "zipf": 3.68,
     "first_seen": "2026-10-14T23:38:11+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "409dd8127eea2de8"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "2b0d3c66987bfe62"
   },
   {
     "id": "stecken",
@@ -19802,11 +20652,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/stecken_regelm_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/stecken.htm",
-    "rank": 955,
+    "rank": 958,
     "zipf": 4.55,
     "first_seen": "2026-10-13T10:51:34+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "536e3e724c9dea6f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e245e3c3636f8f92"
   },
   {
     "id": "stehenbleiben",
@@ -19933,11 +20783,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/stehenbleiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/stehenbleiben.htm",
-    "rank": 3461,
+    "rank": 3596,
     "zipf": 3.02,
     "first_seen": "2026-10-08T12:49:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "1bd6a7340b9c3a65"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "81b8a5a269031793"
   },
   {
     "id": "stehlen",
@@ -20093,11 +20943,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/stehlen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/stehlen.htm",
-    "rank": 1981,
+    "rank": 2048,
     "zipf": 3.83,
     "first_seen": "2026-10-13T02:41:06+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ba5b900a59efcc35"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "482b0939866d4894"
   },
   {
     "id": "steigen",
@@ -20269,11 +21119,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/steigen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/steigen.htm",
-    "rank": 873,
+    "rank": 876,
     "zipf": 4.6,
     "first_seen": "2026-10-15T22:57:46+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "b31e5d04ffdfe468"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "875e77580acc8ba9"
   },
   {
     "id": "sterben",
@@ -20437,11 +21287,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/sterben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/sterben.htm",
-    "rank": 524,
+    "rank": 525,
     "zipf": 4.81,
     "first_seen": "2026-10-08T12:49:58+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "9ad772b931eb95f6"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "40e94d7a02d18774"
   },
   {
     "id": "tauchen",
@@ -20598,11 +21448,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/tauchen_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/tauchen.htm",
-    "rank": 1804,
+    "rank": 1863,
     "zipf": 3.98,
     "first_seen": "2026-10-08T15:10:05+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "27e7ecfaf3d3bb8f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "495e18dd9d96e4c8"
   },
   {
     "id": "teilen",
@@ -20933,11 +21783,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/teilnehmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/teilnehmen.htm",
-    "rank": 1396,
+    "rank": 1430,
     "zipf": 4.32,
     "first_seen": "2026-10-17T11:23:09+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "16db4ac4a7b05959"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "32b3eb405e114ca1"
   },
   {
     "id": "tippen",
@@ -21101,11 +21951,145 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/tippen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/tippen.htm",
-    "rank": 2088,
+    "rank": 2158,
     "zipf": 3.76,
     "first_seen": "2026-10-16T12:21:48+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "0f8f810b9634e3d9"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "17f9b4004b30bf11"
+  },
+  {
+    "id": "umra3umen",
+    "type": "verb",
+    "infinitive": "umräumen",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "räumt um",
+    "praeteritum_3sg": "räumte um",
+    "perfekt_3sg": "hat umgeräumt",
+    "partizip2": "umgeräumt",
+    "separable_prefix": "um",
+    "separable": true,
+    "reflexive_use": false,
+    "objects": [
+      "Akk"
+    ],
+    "prepositions": [],
+    "usage_pattern_raw": "Akk.",
+    "indicative": {
+      "Präsens": {
+        "ich": "räume um",
+        "du": "räumst um",
+        "er": "räumt um",
+        "wir": "räumen um",
+        "ihr": "räumt um",
+        "sie": "räumen um"
+      },
+      "Präteritum": {
+        "ich": "räumte um",
+        "du": "räumtest um",
+        "er": "räumte um",
+        "wir": "räumten um",
+        "ihr": "räumtet um",
+        "sie": "räumten um"
+      },
+      "Perfekt": {
+        "ich": "habe umgeräumt",
+        "du": "hast umgeräumt",
+        "er": "hat umgeräumt",
+        "wir": "haben umgeräumt",
+        "ihr": "habt umgeräumt",
+        "sie": "haben umgeräumt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte umgeräumt",
+        "du": "hattest umgeräumt",
+        "er": "hatte umgeräumt",
+        "wir": "hatten umgeräumt",
+        "ihr": "hattet umgeräumt",
+        "sie": "hatten umgeräumt"
+      },
+      "Futur I": {
+        "ich": "werde umräumen",
+        "du": "wirst umräumen",
+        "er": "wird umräumen",
+        "wir": "werden umräumen",
+        "ihr": "werdet umräumen",
+        "sie": "werden umräumen"
+      },
+      "Futur II": {
+        "ich": "werde umgeräumt haben",
+        "du": "wirst umgeräumt haben",
+        "er": "wird umgeräumt haben",
+        "wir": "werden umgeräumt haben",
+        "ihr": "werdet umgeräumt haben",
+        "sie": "werden umgeräumt haben"
+      }
+    },
+    "imperative": [
+      "räume (du) um",
+      "räumen wir um",
+      "räumt (ihr) um",
+      "räumen Sie um"
+    ],
+    "english": [
+      "rearrange",
+      "clear out",
+      "rearrange things",
+      "tidy up"
+    ],
+    "definitions_de": [
+      "etwas von einem Ort an einen anderen Ort legen, bringen, stellen, zum Beispiel um eine neue Ordnung oder Platz zu schaffen"
+    ],
+    "synonyms": [
+      "bringen",
+      "stellen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wenn wir die Möbel in die Scheune umräumen, kriegen wir auf dem Dachboden mehr Platz.",
+        "en": "When we move the furniture into the barn, we will have more space in the attic."
+      },
+      {
+        "de": "Ich habe am Wochenende in der Garage umgeräumt, jetzt passen auch die Fahrräder wieder rein.",
+        "en": "I cleaned up the garage over the weekend, now the bicycles fit in again."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/umra3umen.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/umra3umen.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/umra3umen.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/umra3umen.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/umra3umen.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/umra3umen.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/umra3umen.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/umra3umen.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/umra3umen.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/umra3umen.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/umra3umen.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/umra3umen.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/umra3umen.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/umra3umen.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/umra3umen.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/umra3umen.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/umra3umen.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/umra3umen.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/umra3umen.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/umra3umen.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/umra3umen.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/umra3umen.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/umra3umen.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/umra3umen.htm",
+    "rank": 6319,
+    "zipf": 2.04,
+    "first_seen": "2026-10-19T23:44:35+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "a414a37848cb5835"
   },
   {
     "id": "unterhalten",
@@ -21269,11 +22253,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/unter=halten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/unterhalten.htm",
-    "rank": 1284,
+    "rank": 1295,
     "zipf": 4.41,
     "first_seen": "2026-10-19T13:45:25+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "bc7e52e14a4cb004"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "bb3498ff74d6c8e8"
   },
   {
     "id": "unternehmen",
@@ -21603,11 +22587,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/unterrichten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/unterrichten.htm",
-    "rank": 1883,
+    "rank": 1947,
     "zipf": 3.91,
     "first_seen": "2026-10-16T22:37:28+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "261678c84ffee72f"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8af448eff5f7925a"
   },
   {
     "id": "untersuchen",
@@ -21783,11 +22767,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/untersuchen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/untersuchen.htm",
-    "rank": 1463,
+    "rank": 1500,
     "zipf": 4.25,
     "first_seen": "2026-10-08T13:06:24+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "67e4500531880083"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "d4515e33f08c4bf7"
   },
   {
     "id": "verbessern",
@@ -21959,11 +22943,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verbessern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verbessern.htm",
-    "rank": 1104,
+    "rank": 1107,
     "zipf": 4.48,
     "first_seen": "2026-10-18T11:24:25+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "0c1b8f6b15015f91"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "98eeda9aae56aace"
   },
   {
     "id": "verbieten",
@@ -22116,11 +23100,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verbieten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verbieten.htm",
-    "rank": 1583,
+    "rank": 1626,
     "zipf": 4.16,
     "first_seen": "2026-10-14T12:51:43+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ed34d1075b1b6ee7"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "fa1b1e29cb956942"
   },
   {
     "id": "verbringen",
@@ -22303,11 +23287,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verbringen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verbringen.htm",
-    "rank": 1268,
+    "rank": 1272,
     "zipf": 4.42,
     "first_seen": "2026-10-19T12:36:55+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "66cb3572f10f1259"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "31eef51199774f79"
   },
   {
     "id": "vereinbaren",
@@ -22470,11 +23454,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vereinbaren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vereinbaren.htm",
-    "rank": 2033,
+    "rank": 2103,
     "zipf": 3.8,
     "first_seen": "2026-10-13T23:57:23+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "7705ff8cedf4b167"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "6642963b0571c96d"
   },
   {
     "id": "verfassen",
@@ -22624,11 +23608,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verfassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verfassen.htm",
-    "rank": 2182,
+    "rank": 2256,
     "zipf": 3.69,
     "first_seen": "2026-10-19T12:18:59+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "6b003c1b416cc422"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "389e68e2dfca3c78"
   },
   {
     "id": "verlaufen",
@@ -22780,11 +23764,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verlaufen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verlaufen.htm",
-    "rank": 1562,
+    "rank": 1605,
     "zipf": 4.17,
     "first_seen": "2026-10-16T23:33:50+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "c7bfb542eb62117c"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "034a8b4cdee8f32c"
   },
   {
     "id": "verletzen",
@@ -22958,11 +23942,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verletzen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verletzen.htm",
-    "rank": 1743,
+    "rank": 1800,
     "zipf": 4.03,
     "first_seen": "2026-10-12T14:12:33+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "c23efdfc669da1b3"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "1217f12f8f06ea63"
   },
   {
     "id": "verlieben",
@@ -23105,11 +24089,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verlieben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verlieben.htm",
-    "rank": 2142,
+    "rank": 2216,
     "zipf": 3.72,
     "first_seen": "2026-10-08T14:36:39+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "1173e25ce8c55751"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3c759e91ec5c240f"
   },
   {
     "id": "verlieren",
@@ -23282,11 +24266,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verlieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verlieren.htm",
-    "rank": 543,
+    "rank": 544,
     "zipf": 4.8,
     "first_seen": "2026-10-08T13:12:20+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "4934f537fbf8b5ee"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "6de89c5b42d84d1f"
   },
   {
     "id": "vermeiden",
@@ -23445,11 +24429,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vermeiden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vermeiden.htm",
-    "rank": 958,
+    "rank": 961,
     "zipf": 4.55,
     "first_seen": "2026-10-17T11:06:13+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "98e6ad6faefdacf7"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "56eca40ff148ad14"
   },
   {
     "id": "verschlafen",
@@ -23601,11 +24585,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verschlafen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verschlafen.htm",
-    "rank": 2418,
+    "rank": 2500,
     "zipf": 3.54,
     "first_seen": "2026-10-08T13:57:06+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "23fbbba3485b8873"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "77ceb406a47dfbba"
   },
   {
     "id": "verschwinden",
@@ -23777,11 +24761,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verschwinden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verschwinden.htm",
-    "rank": 1147,
+    "rank": 1150,
     "zipf": 4.46,
     "first_seen": "2026-10-12T08:03:44+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "348fbbeee2cd64f5"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0f6ff61a18e59a8a"
   },
   {
     "id": "versprechen",
@@ -23950,11 +24934,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/versprechen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/versprechen.htm",
-    "rank": 1302,
+    "rank": 1319,
     "zipf": 4.4,
     "first_seen": "2026-10-12T14:45:28+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "6d58bfe0b9fbc46e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8752c902c8a6bbda"
   },
   {
     "id": "versuchen",
@@ -24280,11 +25264,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vertreten_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vertreten.htm",
-    "rank": 581,
+    "rank": 582,
     "zipf": 4.77,
     "first_seen": "2026-10-15T00:23:37+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "4cc87815c7bdc300"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "b6c5791e60f4bc80"
   },
   {
     "id": "verwechseln",
@@ -24439,11 +25423,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verwechseln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verwechseln.htm",
-    "rank": 1908,
+    "rank": 1974,
     "zipf": 3.88,
     "first_seen": "2026-10-17T12:05:18+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "4f410789aa5b0f11"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4e2058b49fdcfa12"
   },
   {
     "id": "verwenden",
@@ -24603,11 +25587,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verwenden_regelm.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verwenden.htm",
-    "rank": 823,
+    "rank": 826,
     "zipf": 4.63,
     "first_seen": "2026-10-14T08:52:58+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "fb603f48c0810998"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ed70c9ed581e81e0"
   },
   {
     "id": "vera3ndern",
@@ -24769,11 +25753,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vera3ndern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vera3ndern.htm",
-    "rank": 1120,
+    "rank": 1123,
     "zipf": 4.47,
     "first_seen": "2026-10-12T14:12:54+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "c4c8c904367d213b"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "de9066a49d13a1a8"
   },
   {
     "id": "vorbeigehen",
@@ -24927,11 +25911,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vorbeigehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vorbeigehen.htm",
-    "rank": 2651,
+    "rank": 2745,
     "zipf": 3.4,
     "first_seen": "2026-10-08T12:52:06+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "03df573aeabe3f21"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "beb9f862031fc70f"
   },
   {
     "id": "vorbereiten",
@@ -25089,11 +26073,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vorbereiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vorbereiten.htm",
-    "rank": 1616,
+    "rank": 1662,
     "zipf": 4.13,
     "first_seen": "2026-10-17T21:32:12+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "1b2493ab0047941d"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "39495b05e86f0850"
   },
   {
     "id": "vorgehen",
@@ -25279,11 +26263,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vorgehen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vorgehen.htm",
-    "rank": 1212,
+    "rank": 1215,
     "zipf": 4.44,
     "first_seen": "2026-10-18T21:58:05+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "d6caa372c8945a26"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "7ac400b862dbb929"
   },
   {
     "id": "vorschlagen",
@@ -25438,11 +26422,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vorschlagen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vorschlagen.htm",
-    "rank": 1939,
+    "rank": 2006,
     "zipf": 3.86,
     "first_seen": "2026-10-16T22:39:06+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "64cdc4e9a772a78a"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8155dce60632956d"
   },
   {
     "id": "vortragen",
@@ -25615,11 +26599,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vortragen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vortragen.htm",
-    "rank": 2736,
+    "rank": 2836,
     "zipf": 3.35,
     "first_seen": "2026-10-18T11:45:24+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "83873d1fd9bce223"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "c306ee67500adbb0"
   },
   {
     "id": "wachsen",
@@ -25780,11 +26764,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wachsen_unr_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wachsen.htm",
-    "rank": 1150,
+    "rank": 1153,
     "zipf": 4.46,
     "first_seen": "2026-10-18T12:44:11+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ed82b48063db30c3"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "60105a1d0dd722f3"
   },
   {
     "id": "wagen",
@@ -25944,11 +26928,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wagen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wagen.htm",
-    "rank": 484,
+    "rank": 485,
     "zipf": 4.84,
     "first_seen": "2026-10-08T13:35:02+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "246ff10ab97adf7e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "6a412810e19b264d"
   },
   {
     "id": "weinen",
@@ -26112,11 +27096,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/weinen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/weinen.htm",
-    "rank": 1398,
+    "rank": 1432,
     "zipf": 4.32,
     "first_seen": "2026-10-15T23:15:18+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "f96d37fd5a99a312"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "8f4bdc0572c0be75"
   },
   {
     "id": "weiterarbeiten",
@@ -26261,11 +27245,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/weiterarbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/weiterarbeiten.htm",
-    "rank": 3046,
+    "rank": 3161,
     "zipf": 3.19,
     "first_seen": "2026-10-08T11:34:50+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "6c58ede837ef67b3"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "d66411d56644d990"
   },
   {
     "id": "werfen",
@@ -26448,11 +27432,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/werfen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/werfen.htm",
-    "rank": 863,
+    "rank": 866,
     "zipf": 4.61,
     "first_seen": "2026-10-16T12:08:08+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "4604100217f6b667"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "1e1b03e63241b710"
   },
   {
     "id": "wirken",
@@ -26631,11 +27615,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wirken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wirken.htm",
-    "rank": 617,
+    "rank": 618,
     "zipf": 4.75,
     "first_seen": "2026-10-08T10:47:03+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "c666f2ee4921c62e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "9ea9aefd20c814f9"
   },
   {
     "id": "wohlfu3hlen",
@@ -26777,11 +27761,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wohlfu3hlen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wohlfu3hlen.htm",
-    "rank": 2495,
+    "rank": 2580,
     "zipf": 3.49,
     "first_seen": "2026-10-12T08:10:19+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "75ca0452b0fefdbd"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "06508cf99032f020"
   },
   {
     "id": "wundern",
@@ -26952,11 +27936,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wundern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wundern.htm",
-    "rank": 1617,
+    "rank": 1663,
     "zipf": 4.13,
     "first_seen": "2026-10-15T22:20:07+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "85e63e9ac8f9cb2e"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "4adf0cd657e507ee"
   },
   {
     "id": "zeichnen",
@@ -27159,11 +28143,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zeichnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zeichnen.htm",
-    "rank": 1456,
+    "rank": 1493,
     "zipf": 4.26,
     "first_seen": "2026-10-16T22:08:17+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "5b0faf1ac9e2a3ca"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "0562302fde3eb426"
   },
   {
     "id": "zumachen",
@@ -27324,11 +28308,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zumachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zumachen.htm",
-    "rank": 2666,
+    "rank": 2760,
     "zipf": 3.39,
     "first_seen": "2026-10-08T10:57:35+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "21fc357667a90621"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "13fae0173280008c"
   },
   {
     "id": "zunehmen",
@@ -27507,11 +28491,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zunehmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zunehmen.htm",
-    "rank": 2228,
+    "rank": 2304,
     "zipf": 3.66,
     "first_seen": "2026-10-18T21:29:29+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "653073d61f189dbd"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "508a8d32a2c47e08"
   },
   {
     "id": "zurechtkommen",
@@ -27674,11 +28658,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zurechtkommen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zurechtkommen.htm",
-    "rank": 3285,
+    "rank": 3411,
     "zipf": 3.09,
     "first_seen": "2026-10-08T11:08:55+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "d5677c1e07a88162"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "62e757bc2f744922"
   },
   {
     "id": "zusammenarbeiten",
@@ -27835,11 +28819,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zusammenarbeiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zusammenarbeiten.htm",
-    "rank": 1927,
+    "rank": 1993,
     "zipf": 3.87,
     "first_seen": "2026-10-08T11:50:52+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "2768868ab3d2ea79"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "3c758e40804fb92c"
   },
   {
     "id": "zusammenfassen",
@@ -28014,11 +28998,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zusammenfassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zusammenfassen.htm",
-    "rank": 2402,
+    "rank": 2482,
     "zipf": 3.55,
     "first_seen": "2026-10-19T12:18:59+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "ab13d97af95cc419"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "ef2d1a8857cdef2a"
   },
   {
     "id": "a3ndern",
@@ -28373,11 +29357,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/a3rgern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/a3rgern.htm",
-    "rank": 1872,
+    "rank": 1935,
     "zipf": 3.92,
     "first_seen": "2026-10-12T15:09:19+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "75d666446cc59f9a"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "7f6d7e609ff19ad0"
   },
   {
     "id": "a3us5ern",
@@ -28545,10 +29529,173 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/a3us5ern.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/a3us5ern.htm",
-    "rank": 1420,
+    "rank": 1456,
     "zipf": 4.3,
     "first_seen": "2026-10-08T14:23:02+00:00",
-    "updated_at": "2026-10-19T14:04:31+00:00",
-    "hash": "82d0a93fff476fe7"
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "e295bb837b8dc5f5"
+  },
+  {
+    "id": "u3bersetzen",
+    "type": "verb",
+    "infinitive": "übersetzen",
+    "level": "A2",
+    "conjugation_class": "regelmäßig",
+    "auxiliaries": [
+      "haben"
+    ],
+    "auxiliary_raw": "haben",
+    "present_3sg": "übersetzt",
+    "praeteritum_3sg": "übersetzte",
+    "perfekt_3sg": "hat übersetzt",
+    "partizip2": "übersetzt",
+    "separable_prefix": null,
+    "separable": false,
+    "reflexive_use": false,
+    "objects": [],
+    "prepositions": [],
+    "usage_pattern_raw": null,
+    "indicative": {
+      "Präsens": {
+        "ich": "übersetze",
+        "du": "übersetzt",
+        "er": "übersetzt",
+        "wir": "übersetzen",
+        "ihr": "übersetzt",
+        "sie": "übersetzen"
+      },
+      "Präteritum": {
+        "ich": "übersetzte",
+        "du": "übersetztest",
+        "er": "übersetzte",
+        "wir": "übersetzten",
+        "ihr": "übersetztet",
+        "sie": "übersetzten"
+      },
+      "Perfekt": {
+        "ich": "habe übersetzt",
+        "du": "hast übersetzt",
+        "er": "hat übersetzt",
+        "wir": "haben übersetzt",
+        "ihr": "habt übersetzt",
+        "sie": "haben übersetzt"
+      },
+      "Plusquamperfekt": {
+        "ich": "hatte übersetzt",
+        "du": "hattest übersetzt",
+        "er": "hatte übersetzt",
+        "wir": "hatten übersetzt",
+        "ihr": "hattet übersetzt",
+        "sie": "hatten übersetzt"
+      },
+      "Futur I": {
+        "ich": "werde übersetzen",
+        "du": "wirst übersetzen",
+        "er": "wird übersetzen",
+        "wir": "werden übersetzen",
+        "ihr": "werdet übersetzen",
+        "sie": "werden übersetzen"
+      },
+      "Futur II": {
+        "ich": "werde übersetzt haben",
+        "du": "wirst übersetzt haben",
+        "er": "wird übersetzt haben",
+        "wir": "werden übersetzt haben",
+        "ihr": "werdet übersetzt haben",
+        "sie": "werden übersetzt haben"
+      }
+    },
+    "imperative": [
+      "übersetze (du)",
+      "übersetzen wir",
+      "übersetzt (ihr)",
+      "übersetzen Sie"
+    ],
+    "english": [
+      "translate",
+      "assemble",
+      "compile",
+      "construe",
+      "convert",
+      "decode",
+      "exceed",
+      "increase",
+      "interpret",
+      "overset",
+      "render",
+      "rise",
+      "surpass",
+      "transform",
+      "transmit"
+    ],
+    "definitions_de": [
+      "etwas in eine andere Sprache übertragen, kompilieren, übertragen, (ver-)dolmetschen, dolmetschen",
+      "etwas über das übliche Maß hinaus besetzen, überbesetzen",
+      "[Technik] die Lineargeschwindigkeit, Rotationsgeschwindigkeit, Kraft, das Drehmoment eines Antriebs transformieren, wenn der nummerische Wert dabei größer wird"
+    ],
+    "synonyms": [
+      "kompilieren",
+      "übertragen",
+      "dolmetschen",
+      "überbesetzen"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Er hat seinen Satz übersetzt.",
+        "en": "He translated his sentence."
+      },
+      {
+        "de": "Welcher Teil ist nicht übersetzt worden?",
+        "en": "Which part has not been translated?"
+      },
+      {
+        "de": "Toms Buch ist in viele Sprachen übersetzt worden.",
+        "en": "Tom's book has been translated into many languages."
+      },
+      {
+        "de": "Welcher Teil wurde übersetzt?",
+        "en": "Which part was translated?"
+      },
+      {
+        "de": "Welcher Teil wurde nicht übersetzt?",
+        "en": "Which part hasn't been translated?"
+      },
+      {
+        "de": "Marias Sätze sind leicht zu übersetzen.",
+        "en": "Mary's sentences are easy to translate."
+      }
+    ],
+    "audio": {
+      "infinitiv": "https://www.verbformen.de/konjugation/infinitiv/u3ber=setzen_hat.mp3",
+      "stammformen": "https://www.verbformen.de/konjugation/stammformen/u3ber=setzen_hat.mp3",
+      "indikativ_praesens": "https://www.verbformen.de/konjugation/indikativ/praesens/u3ber=setzen_hat.mp3",
+      "indikativ_praeteritum": "https://www.verbformen.de/konjugation/indikativ/praeteritum/u3ber=setzen_hat.mp3",
+      "imperativ": "https://www.verbformen.de/konjugation/imperativ/u3ber=setzen_hat.mp3",
+      "konjunktiv_praesens": "https://www.verbformen.de/konjugation/konjunktiv/praesens/u3ber=setzen_hat.mp3",
+      "konjunktiv_praeteritum": "https://www.verbformen.de/konjugation/konjunktiv/praeteritum/u3ber=setzen_hat.mp3",
+      "infinitive": "https://www.verbformen.de/konjugation/infinitive/u3ber=setzen_hat.mp3",
+      "partizipien": "https://www.verbformen.de/konjugation/partizipien/u3ber=setzen_hat.mp3",
+      "indikativ_perfekt": "https://www.verbformen.de/konjugation/indikativ/perfekt/u3ber=setzen_hat.mp3",
+      "indikativ_plusquamperfekt": "https://www.verbformen.de/konjugation/indikativ/plusquamperfekt/u3ber=setzen_hat.mp3",
+      "indikativ_futur1": "https://www.verbformen.de/konjugation/indikativ/futur1/u3ber=setzen_hat.mp3",
+      "indikativ_futur2": "https://www.verbformen.de/konjugation/indikativ/futur2/u3ber=setzen_hat.mp3",
+      "konjunktiv_perfekt": "https://www.verbformen.de/konjugation/konjunktiv/perfekt/u3ber=setzen_hat.mp3",
+      "konjunktiv_plusquamperfekt": "https://www.verbformen.de/konjugation/konjunktiv/plusquamperfekt/u3ber=setzen_hat.mp3",
+      "konjunktiv_futur1": "https://www.verbformen.de/konjugation/konjunktiv/futur1/u3ber=setzen_hat.mp3",
+      "konjunktiv_futur2": "https://www.verbformen.de/konjugation/konjunktiv/futur2/u3ber=setzen_hat.mp3",
+      "konditional_praeteritum": "https://www.verbformen.de/konjugation/konditional/praeteritum/u3ber=setzen_hat.mp3",
+      "konditional_plusquamperfekt": "https://www.verbformen.de/konjugation/konditional/plusquamperfekt/u3ber=setzen_hat.mp3",
+      "infinitiv1": "https://www.verbformen.de/konjugation/infinitiv1/u3ber=setzen_hat.mp3",
+      "infinitiv2": "https://www.verbformen.de/konjugation/infinitiv2/u3ber=setzen_hat.mp3",
+      "partizip1": "https://www.verbformen.de/konjugation/partizip1/u3ber=setzen_hat.mp3",
+      "partizip2": "https://www.verbformen.de/konjugation/partizip2/u3ber=setzen_hat.mp3"
+    },
+    "source_url": "https://www.verbformen.de/konjugation/u3bersetzen.htm",
+    "rank": 1958,
+    "zipf": 3.9,
+    "first_seen": "2026-10-20T01:15:48+00:00",
+    "updated_at": "2026-10-20T01:38:00+00:00",
+    "hash": "efa6660b66237bd1"
   }
 ]
