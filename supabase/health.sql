@@ -30,3 +30,7 @@ create table if not exists public.sync_health (
 alter table public.sync_health enable row level security;
 drop policy if exists "public read" on public.sync_health;
 create policy "public read" on public.sync_health for select using (true);
+
+-- Explicit Data API access (Supabase stops granting this automatically for new tables from 2026-10-30).
+grant select on public.sync_health to anon, authenticated;
+grant select, insert, update, delete on public.sync_health to service_role;

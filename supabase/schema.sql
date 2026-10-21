@@ -48,3 +48,8 @@ drop policy if exists "public read" on public.meta;
 create policy "public read" on public.nouns for select using (true);
 create policy "public read" on public.verbs for select using (true);
 create policy "public read" on public.meta  for select using (true);
+
+-- Explicit Data API access (Supabase stops granting this automatically for new tables from 2026-10-30).
+-- The app reads with the publishable key (anon / signed-in users); the sync job writes with the secret key (service_role).
+grant select on public.nouns, public.verbs, public.meta to anon, authenticated;
+grant select, insert, update, delete on public.nouns, public.verbs, public.meta to service_role;
