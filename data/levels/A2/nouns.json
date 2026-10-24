@@ -1,5 +1,56 @@
 [
   {
+    "id": "Abendkurs",
+    "type": "noun",
+    "lemma": "Abendkurs",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Abendkurse",
+    "genitive": "Abendkurses",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "evening class",
+      "evening course",
+      "night class"
+    ],
+    "definitions_de": [
+      "[Schule] am Abend stattfindende Lehrveranstaltung"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "In Abendkursen können Frauen die Selbstverteidigung erlernen.",
+        "en": "In evening courses, women can learn self-defense."
+      },
+      {
+        "de": "John nimmt weiter an einem Abendkurs über Journalismus teil.",
+        "en": "John continues to participate in an evening course on journalism."
+      },
+      {
+        "de": "Sie lernte in ihrem Abendkurs Spanisch.",
+        "en": "She learned Spanish in her evening course."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Abendkurs.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Abendkurs.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Abendkurs.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Abendkurs.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Abendkurs.htm",
+    "rank": 9159,
+    "zipf": 1.77,
+    "first_seen": "2026-10-23T23:10:02+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "592a84a0071c7d14"
+  },
+  {
     "id": "Abitur",
     "type": "noun",
     "lemma": "Abitur",
@@ -64,11 +115,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Abitur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Abitur.htm",
-    "rank": 1798,
+    "rank": 1807,
     "zipf": 4.22,
     "first_seen": "2026-10-23T12:05:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0c1562014f1b6320"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d32214308a2b4e82"
   },
   {
     "id": "Abiturzeugnis",
@@ -130,11 +181,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Abiturzeugnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Abiturzeugnis.htm",
-    "rank": 8354,
+    "rank": 8600,
     "zipf": 1.94,
     "first_seen": "2026-10-23T12:05:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "562771ad680ee036"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8442345b7c7c158f"
   },
   {
     "id": "Absage",
@@ -209,11 +260,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Absage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Absage.htm",
-    "rank": 2434,
+    "rank": 2489,
     "zipf": 3.85,
     "first_seen": "2026-10-15T11:38:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5d63a43d1144dbad"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "60cb443940eae313"
   },
   {
     "id": "Absatz",
@@ -297,11 +348,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Absatz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Absatz.htm",
-    "rank": 1324,
+    "rank": 1330,
     "zipf": 4.4,
     "first_seen": "2026-10-15T11:38:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e50806acb1fc1455"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8ee32e0e16df2cc7"
   },
   {
     "id": "Abschluss",
@@ -472,11 +523,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Abschlusspru3fung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Abschlusspru3fung.htm",
-    "rank": 3710,
+    "rank": 3801,
     "zipf": 3.25,
     "first_seen": "2026-10-14T12:59:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ae6019478c2a5583"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bb15bb2d397b983d"
   },
   {
     "id": "Abschnitt",
@@ -566,11 +617,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Abschnitt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Abschnitt.htm",
-    "rank": 1064,
+    "rank": 1070,
     "zipf": 4.5,
     "first_seen": "2026-10-17T21:10:24+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "74a10b56bfd84a57"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f5b0187f6a0e9af0"
   },
   {
     "id": "Absicht",
@@ -649,11 +700,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Absicht.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Absicht.htm",
-    "rank": 1152,
+    "rank": 1158,
     "zipf": 4.46,
     "first_seen": "2026-10-18T11:47:07+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4f08f045735b95f4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f9a2b2530d4727c7"
   },
   {
     "id": "Acht",
@@ -763,11 +814,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Actionfilm.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Actionfilm.htm",
-    "rank": 5230,
+    "rank": 5362,
     "zipf": 2.78,
     "first_seen": "2026-10-22T23:13:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2188666bc740c27c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d21062b49c82bdde"
   },
   {
     "id": "Album",
@@ -956,11 +1007,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Altenpfleger.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Altenpfleger.htm",
-    "rank": 4386,
+    "rank": 4498,
     "zipf": 3.02,
     "first_seen": "2026-10-08T14:11:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "238b45173d45f559"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ace98b9c3d4b03e6"
   },
   {
     "id": "Alternative",
@@ -1076,11 +1127,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Altersangabe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Altersangabe.htm",
-    "rank": 7618,
+    "rank": 7833,
     "zipf": 2.15,
     "first_seen": "2026-10-22T23:14:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "fc348fa984702caf"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5f21559fc7c3430f"
   },
   {
     "id": "Anbieter",
@@ -1147,11 +1198,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Anbieter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Anbieter.htm",
-    "rank": 1243,
+    "rank": 1249,
     "zipf": 4.43,
     "first_seen": "2026-10-18T22:01:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9d98dd3edbae0510"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "14ce4c92215493cf"
   },
   {
     "id": "Angabe",
@@ -1242,11 +1293,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Angabe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Angabe.htm",
-    "rank": 1759,
+    "rank": 1765,
     "zipf": 4.23,
     "first_seen": "2026-10-14T12:08:54+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "450be6374f723444"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "82ff00f9bcb0a060"
   },
   {
     "id": "Anwalt",
@@ -1318,11 +1369,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Anwalt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Anwalt.htm",
-    "rank": 1046,
+    "rank": 1052,
     "zipf": 4.51,
     "first_seen": "2026-10-13T01:46:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "3a8d808bf0435763"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "568db1f1a2c262a6"
   },
   {
     "id": "Apparat",
@@ -1403,11 +1454,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Apparat.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Apparat.htm",
-    "rank": 2661,
+    "rank": 2719,
     "zipf": 3.73,
     "first_seen": "2026-10-14T22:35:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8c4599ce01907b32"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e50727e0254a8226"
   },
   {
     "id": "Arbeitskollege",
@@ -1472,11 +1523,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arbeitskollege.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arbeitskollege.htm",
-    "rank": 4970,
+    "rank": 5097,
     "zipf": 2.85,
     "first_seen": "2026-10-21T12:25:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "da4fd2bbd9d5a0fe"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b6d66145305dfd3e"
   },
   {
     "id": "Arbeitsverha3ltnis",
@@ -1541,11 +1592,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arbeitsverha3ltnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arbeitsverha3ltnis.htm",
-    "rank": 3632,
+    "rank": 3722,
     "zipf": 3.28,
     "first_seen": "2026-10-15T22:42:19+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "31594af2ba08b9a1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c7a2858e4839d20b"
   },
   {
     "id": "Arena",
@@ -1607,11 +1658,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arena.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arena.htm",
-    "rank": 1614,
+    "rank": 1620,
     "zipf": 4.29,
     "first_seen": "2026-10-21T22:34:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8ae1f0b114f61f55"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "211b0e8e9ab958b7"
   },
   {
     "id": "Art",
@@ -1743,11 +1794,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arztkittel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arztkittel.htm",
-    "rank": 8914,
+    "rank": 9190,
     "zipf": 1.76,
     "first_seen": "2026-10-12T08:11:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "fc512511aee6f5f0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4e0da556fb5a3809"
   },
   {
     "id": "Arztpraxis",
@@ -1808,11 +1859,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Arztpraxis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Arztpraxis.htm",
-    "rank": 3946,
+    "rank": 4043,
     "zipf": 3.16,
     "first_seen": "2026-10-12T08:11:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "86f81758b7e82c8c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "752740eb7be35803"
   },
   {
     "id": "Aspekt",
@@ -1878,11 +1929,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Aspekt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Aspekt.htm",
-    "rank": 1871,
+    "rank": 1911,
     "zipf": 4.18,
     "first_seen": "2026-10-21T12:11:36+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "53db23f39cd1be7d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "eb84fc9b8564d129"
   },
   {
     "id": "Aufenthalt",
@@ -1965,11 +2016,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Aufenthalt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Aufenthalt.htm",
-    "rank": 1740,
+    "rank": 1746,
     "zipf": 4.24,
     "first_seen": "2026-10-14T23:04:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6503b0d7416c5ee8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d73fe48f9dfb5d63"
   },
   {
     "id": "Auftrag",
@@ -2132,11 +2183,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Auftritt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Auftritt.htm",
-    "rank": 871,
+    "rank": 874,
     "zipf": 4.61,
     "first_seen": "2026-10-16T11:48:30+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6fa575fd9733bcda"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "91e8cc8a422b360f"
   },
   {
     "id": "Ausbildung",
@@ -2301,11 +2352,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ausdruck_seu.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ausdruck.htm",
-    "rank": 1007,
+    "rank": 1013,
     "zipf": 4.53,
     "first_seen": "2026-10-17T12:47:38+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b411b07b14b1d5d3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "0d7e14a628b9e9f3"
   },
   {
     "id": "Ausnahme",
@@ -2367,11 +2418,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ausnahme.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ausnahme.htm",
-    "rank": 955,
+    "rank": 961,
     "zipf": 4.56,
     "first_seen": "2026-10-16T22:43:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "85ce310114aec554"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f7dfc866be491964"
   },
   {
     "id": "Austauschschu3ler",
@@ -2423,11 +2474,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Austauschschu3ler.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Austauschschu3ler.htm",
-    "rank": 5236,
+    "rank": 5368,
     "zipf": 2.78,
     "first_seen": "2026-10-21T12:43:23+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c113fe13e0a8fdf3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "575fae611675bb7d"
   },
   {
     "id": "Austauschschu3lerin",
@@ -2473,11 +2524,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Austauschschu3lerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Austauschschu3lerin.htm",
-    "rank": 7416,
+    "rank": 7622,
     "zipf": 2.21,
     "first_seen": "2026-10-21T12:43:23+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7def258644639f2f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "62359c2dda260653"
   },
   {
     "id": "Autor",
@@ -2618,11 +2669,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Autorin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Autorin.htm",
-    "rank": 1801,
+    "rank": 1810,
     "zipf": 4.22,
     "first_seen": "2026-10-14T23:03:24+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "59d800314ad883e1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "dbd7753c9dd3f5b0"
   },
   {
     "id": "Banker",
@@ -2684,11 +2735,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Banker.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Banker.htm",
-    "rank": 3103,
+    "rank": 3169,
     "zipf": 3.51,
     "first_seen": "2026-10-14T00:43:37+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "43f4851416983ceb"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f68de09da1c216ec"
   },
   {
     "id": "Bankerin",
@@ -2723,11 +2774,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bankerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bankerin.htm",
-    "rank": 7865,
+    "rank": 8090,
     "zipf": 2.08,
     "first_seen": "2026-10-14T00:43:37+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "18405aca112b3665"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "0874225001c95cfb"
   },
   {
     "id": "Bauernhof",
@@ -2795,11 +2846,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bauernhof.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bauernhof.htm",
-    "rank": 2597,
+    "rank": 2654,
     "zipf": 3.77,
     "first_seen": "2026-10-18T22:04:32+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6da7b4647797f750"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e139010377ac5247"
   },
   {
     "id": "Bedienung",
@@ -2879,11 +2930,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bedienung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bedienung.htm",
-    "rank": 2580,
+    "rank": 2637,
     "zipf": 3.78,
     "first_seen": "2026-10-18T11:42:15+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0a2b12b75be72fa3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6f2f28005b574b0c"
   },
   {
     "id": "Begegnung",
@@ -2947,11 +2998,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Begegnung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Begegnung.htm",
-    "rank": 1802,
+    "rank": 1811,
     "zipf": 4.22,
     "first_seen": "2026-10-23T12:08:19+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "58726df3d94a7757"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e92d96ee2e491045"
   },
   {
     "id": "Begeisterung",
@@ -3026,11 +3077,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Begeisterung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Begeisterung.htm",
-    "rank": 1974,
+    "rank": 2017,
     "zipf": 4.12,
     "first_seen": "2026-10-20T00:15:52+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ccb41a2539ebdec7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4882e0c6b884d45a"
   },
   {
     "id": "Besitzerin",
@@ -3092,11 +3143,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Besitzerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Besitzerin.htm",
-    "rank": 3391,
+    "rank": 3473,
     "zipf": 3.38,
     "first_seen": "2026-10-17T11:10:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f7b1036be7ddc662"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ef7bc47fb3adefc2"
   },
   {
     "id": "Bestsellerliste",
@@ -3148,11 +3199,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bestsellerliste.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bestsellerliste.htm",
-    "rank": 5874,
+    "rank": 6028,
     "zipf": 2.61,
     "first_seen": "2026-10-13T02:45:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6167b8d9d79c04d1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b3bfe3ae8d82a444"
   },
   {
     "id": "Besucherin",
@@ -3218,11 +3269,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Besucherin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Besucherin.htm",
-    "rank": 5640,
+    "rank": 5783,
     "zipf": 2.67,
     "first_seen": "2026-10-14T00:56:15+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2b139650a5854081"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "964c904aadd85ca2"
   },
   {
     "id": "Bibliothek",
@@ -3285,11 +3336,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bibliothek.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bibliothek.htm",
-    "rank": 1327,
+    "rank": 1333,
     "zipf": 4.4,
     "first_seen": "2026-10-19T13:08:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ea11eac4f0b614b5"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2bd63cf97c51b3de"
   },
   {
     "id": "Blut",
@@ -3437,11 +3488,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Blo3dsinn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Blo3dsinn.htm",
-    "rank": 1913,
+    "rank": 1954,
     "zipf": 4.16,
     "first_seen": "2026-10-18T11:51:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "78f53c2fd189db0d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c4f405b0e67343fc"
   },
   {
     "id": "Boden",
@@ -3619,11 +3670,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Box.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Box.htm",
-    "rank": 1484,
+    "rank": 1490,
     "zipf": 4.34,
     "first_seen": "2026-10-20T22:29:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "336db8cac35f0448"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "487c7c3d365cdf92"
   },
   {
     "id": "Breite",
@@ -3773,11 +3824,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Briefkasten.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Briefkasten.htm",
-    "rank": 2615,
+    "rank": 2672,
     "zipf": 3.76,
     "first_seen": "2026-10-13T02:21:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "3e492d8699bae487"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d65c3035355bd24f"
   },
   {
     "id": "Bru3cke",
@@ -3860,11 +3911,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bru3cke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bru3cke.htm",
-    "rank": 874,
+    "rank": 877,
     "zipf": 4.61,
     "first_seen": "2026-10-16T11:50:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d009a771af0125e0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "0be22e215366434e"
   },
   {
     "id": "Buchverlag",
@@ -3900,11 +3951,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Buchverlag.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Buchverlag.htm",
-    "rank": 6385,
+    "rank": 6554,
     "zipf": 2.48,
     "first_seen": "2026-10-20T00:21:27+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1fef9d81d27979f3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "13c4695250c0c94b"
   },
   {
     "id": "Burg",
@@ -3974,11 +4025,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Burg.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Burg.htm",
-    "rank": 1372,
+    "rank": 1378,
     "zipf": 4.38,
     "first_seen": "2026-10-20T00:20:24+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "47bd6c9e80ca53a5"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f060cbdc0718217d"
   },
   {
     "id": "Ba3r",
@@ -4045,11 +4096,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ba3r_nn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ba3r.htm",
-    "rank": 2185,
+    "rank": 2235,
     "zipf": 4.0,
     "first_seen": "2026-10-13T10:53:33+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "47202ca7d9cb47c2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "77478d069ed056d4"
   },
   {
     "id": "Bu3cherei",
@@ -4110,11 +4161,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Bu3cherei.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Bu3cherei.htm",
-    "rank": 2832,
+    "rank": 2892,
     "zipf": 3.64,
     "first_seen": "2026-10-14T12:32:07+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "67d27dfca3392d9b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cb876acb4bfa3c43"
   },
   {
     "id": "Cache",
@@ -4159,11 +4210,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Cache.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Cache.htm",
-    "rank": 3566,
+    "rank": 3654,
     "zipf": 3.31,
     "first_seen": "2026-10-13T14:21:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ac6684c1c5a63788"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1a4b637830e6621a"
   },
   {
     "id": "Chance",
@@ -4308,11 +4359,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Chaos.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Chaos.htm",
-    "rank": 1452,
+    "rank": 1458,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:36:32+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0ce0936ed0353652"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c2872cdd6b813ec2"
   },
   {
     "id": "Checkliste",
@@ -4357,11 +4408,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Checkliste.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Checkliste.htm",
-    "rank": 3712,
+    "rank": 3803,
     "zipf": 3.25,
     "first_seen": "2026-10-13T02:45:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4ed71dd7c235d936"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b3dcf0b33fe35466"
   },
   {
     "id": "Chefin",
@@ -4434,11 +4485,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Chefin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Chefin.htm",
-    "rank": 2243,
+    "rank": 2293,
     "zipf": 3.97,
     "first_seen": "2026-10-12T14:23:46+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b6dc2574f30e7fce"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ccb7a0a4ae3077d3"
   },
   {
     "id": "Computerprogramm",
@@ -4499,11 +4550,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Computerprogramm.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Computerprogramm.htm",
-    "rank": 5349,
+    "rank": 5482,
     "zipf": 2.75,
     "first_seen": "2026-10-16T22:34:28+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a42a6219bf140ad9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "018fad6f98584999"
   },
   {
     "id": "Dach",
@@ -4574,11 +4625,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dach.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Dach.htm",
-    "rank": 934,
+    "rank": 939,
     "zipf": 4.57,
     "first_seen": "2026-10-08T10:51:10+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "43de7f4516069790"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6579dcbeea0b8aac"
   },
   {
     "id": "Datei",
@@ -4637,11 +4688,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Datei.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Datei.htm",
-    "rank": 2014,
+    "rank": 2059,
     "zipf": 4.1,
     "first_seen": "2026-10-20T23:00:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d188ea7475c009d9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "dce4790d5963c6b8"
   },
   {
     "id": "Dauer",
@@ -4722,11 +4773,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dauer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Dauer.htm",
-    "rank": 935,
+    "rank": 940,
     "zipf": 4.57,
     "first_seen": "2026-10-16T22:24:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f3cd13e26d575501"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9e1d8f53758e5430"
   },
   {
     "id": "Deal",
@@ -4798,11 +4849,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Deal_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Deal.htm",
-    "rank": 1350,
+    "rank": 1356,
     "zipf": 4.39,
     "first_seen": "2026-10-13T20:44:32+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8cb0d12c2748a6bd"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c743660fb78574ae"
   },
   {
     "id": "Delfin",
@@ -4870,11 +4921,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Delfin_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Delfin.htm",
-    "rank": 4316,
+    "rank": 4425,
     "zipf": 3.04,
     "first_seen": "2026-10-21T00:01:31+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "32b1bef050973262"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "dd4d9eae3c9c6232"
   },
   {
     "id": "Deutschbuch",
@@ -4925,11 +4976,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Deutschbuch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Deutschbuch.htm",
-    "rank": 6387,
+    "rank": 6556,
     "zipf": 2.48,
     "first_seen": "2026-10-13T14:10:20+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c798862682c95cd2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "de110280e75c3af1"
   },
   {
     "id": "Direktor",
@@ -4996,11 +5047,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Direktor.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Direktor.htm",
-    "rank": 1158,
+    "rank": 1164,
     "zipf": 4.46,
     "first_seen": "2026-10-08T10:51:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9a86a67e1fbd2f4b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "05fcb962e48f1fb3"
   },
   {
     "id": "Disko",
@@ -5059,11 +5110,81 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Disko.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Disko.htm",
-    "rank": 4099,
+    "rank": 4202,
     "zipf": 3.11,
     "first_seen": "2026-10-14T12:41:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "10f30c8ed51dc1ae"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f663a82c6f15a8a3"
+  },
+  {
+    "id": "Distanz",
+    "type": "noun",
+    "lemma": "Distanz",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Distanzen",
+    "genitive": "Distanz",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "distance",
+      "detachment",
+      "reserve",
+      "respectful distance"
+    ],
+    "definitions_de": [
+      "Abstand zwischen zwei Orten, Punkten, Entfernung",
+      "bereits zurückgelegte Strecke",
+      "Haltung anderen gegenüber, respektvollen Abstand zu halten, Zurückhaltung"
+    ],
+    "synonyms": [
+      "Punkten",
+      "Entfernung",
+      "Zurückhaltung"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Tom hielt Distanz.",
+        "en": "Tom kept his distance."
+      },
+      {
+        "de": "Es ist schwer die Distanz zu bestimmen.",
+        "en": "It is difficult to determine the distance."
+      },
+      {
+        "de": "Er sagt, er brauche Zeit und Distanz.",
+        "en": "He says he needs time and distance."
+      },
+      {
+        "de": "Wenn sie zu mir sprachen, dann meinten sie eine andere, zu der ich auf Distanz gegangen war.",
+        "en": "When they spoke to me, they meant another one, to which I had kept my distance."
+      },
+      {
+        "de": "Distanz bedeutet Abstand.",
+        "en": "Distance means distance."
+      },
+      {
+        "de": "Wo bleibt die kritische Distanz zum Kanzler in den Medien?",
+        "en": "Where is the critical distance to the Chancellor in the media?"
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Distanz.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Distanz.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Distanz.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Distanz.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Distanz.htm",
+    "rank": 1871,
+    "zipf": 4.2,
+    "first_seen": "2026-10-23T22:54:16+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7ff0342913620385"
   },
   {
     "id": "Disziplin",
@@ -5131,11 +5252,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Disziplin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Disziplin.htm",
-    "rank": 2035,
+    "rank": 2080,
     "zipf": 4.09,
     "first_seen": "2026-10-20T22:33:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "353f19faa475bc4a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "21f82a9684c6acca"
   },
   {
     "id": "Doktorin",
@@ -5184,11 +5305,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Doktorin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Doktorin.htm",
-    "rank": 7140,
+    "rank": 7333,
     "zipf": 2.28,
     "first_seen": "2026-10-08T14:41:52+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "dfa6a70b10e23def"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7b96f1cc935958a0"
   },
   {
     "id": "Dom",
@@ -5256,11 +5377,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dom_se.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Dom.htm",
-    "rank": 1875,
+    "rank": 1915,
     "zipf": 4.18,
     "first_seen": "2026-10-13T20:46:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "fd565cda063adee4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "22d06047d857a5ea"
   },
   {
     "id": "Dose",
@@ -5335,11 +5456,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dose.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Dose.htm",
-    "rank": 2337,
+    "rank": 2388,
     "zipf": 3.91,
     "first_seen": "2026-10-23T12:11:08+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bcb9a77a8cdbf386"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e0359b98ecaaf33d"
   },
   {
     "id": "Dunkelheit",
@@ -5420,11 +5541,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Dunkelheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Dunkelheit.htm",
-    "rank": 2016,
+    "rank": 2061,
     "zipf": 4.1,
     "first_seen": "2026-10-18T22:07:35+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0f75426a5bb7e24d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "37d1f5e0802d00f1"
   },
   {
     "id": "Durchschnitt",
@@ -5500,11 +5621,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Durchschnitt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Durchschnitt.htm",
-    "rank": 1538,
+    "rank": 1544,
     "zipf": 4.32,
     "first_seen": "2026-10-21T11:46:37+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a74ad45c31f43b97"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "38a651cd1a49d1fa"
   },
   {
     "id": "Effekt",
@@ -5565,11 +5686,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Effekt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Effekt.htm",
-    "rank": 1278,
+    "rank": 1284,
     "zipf": 4.42,
     "first_seen": "2026-10-19T12:17:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "434fa2394c0306fd"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2367aa96d2118e2f"
   },
   {
     "id": "Eigenschaft",
@@ -5644,11 +5765,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Eigenschaft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Eigenschaft.htm",
-    "rank": 2171,
+    "rank": 2220,
     "zipf": 4.01,
     "first_seen": "2026-10-17T20:53:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e9fac69542da0c1b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "567208c79f1ab72f"
   },
   {
     "id": "Eindruck",
@@ -5862,11 +5983,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Einkaufszentrum.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Einkaufszentrum.htm",
-    "rank": 2616,
+    "rank": 2673,
     "zipf": 3.76,
     "first_seen": "2026-10-15T12:27:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ea9ef8c455d32995"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "daea1129d48b7e64"
   },
   {
     "id": "Einsatz",
@@ -6035,11 +6156,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Einwohner.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Einwohner.htm",
-    "rank": 1069,
+    "rank": 1075,
     "zipf": 4.5,
     "first_seen": "2026-10-17T21:15:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e243a0e016bd04b8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ff6bbcde9b3ebda6"
   },
   {
     "id": "Einwohnerin",
@@ -6078,11 +6199,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Einwohnerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Einwohnerin.htm",
-    "rank": 8423,
+    "rank": 8672,
     "zipf": 1.92,
     "first_seen": "2026-10-17T21:15:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f50177a37434c3e5"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "31deafdc5a230d6d"
   },
   {
     "id": "Englischlehrerin",
@@ -6141,11 +6262,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Englischlehrerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Englischlehrerin.htm",
-    "rank": 6467,
+    "rank": 6637,
     "zipf": 2.46,
     "first_seen": "2026-10-14T00:58:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1e8ae0223b15c7b8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e40d00a66b5df8e0"
   },
   {
     "id": "Erde",
@@ -6295,11 +6416,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ereignis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ereignis.htm",
-    "rank": 1745,
+    "rank": 1751,
     "zipf": 4.24,
     "first_seen": "2026-10-19T12:18:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b9e9359a85c29dc1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a391797350fdfaf2"
   },
   {
     "id": "Erinnerung",
@@ -6517,11 +6638,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Erlebnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Erlebnis.htm",
-    "rank": 1845,
+    "rank": 1872,
     "zipf": 4.2,
     "first_seen": "2026-10-20T22:33:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "200f0885ba34b54d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6e258afe09ad444f"
   },
   {
     "id": "Erwartung",
@@ -6596,11 +6717,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Erwartung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Erwartung.htm",
-    "rank": 2583,
+    "rank": 2640,
     "zipf": 3.78,
     "first_seen": "2026-10-21T22:41:25+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bd0547a5dd1f752d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2eee4c7f7988cbba"
   },
   {
     "id": "Fahrerin",
@@ -6669,11 +6790,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fahrerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fahrerin.htm",
-    "rank": 3820,
+    "rank": 3913,
     "zipf": 3.21,
     "first_seen": "2026-10-15T12:33:22+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d85797b00ae347bf"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "936e986e713db165"
   },
   {
     "id": "Fall",
@@ -6919,11 +7040,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fallschirm.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fallschirm.htm",
-    "rank": 3821,
+    "rank": 3914,
     "zipf": 3.21,
     "first_seen": "2026-10-08T14:00:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4fc0aaa366b58751"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "303b6bc473b53f5d"
   },
   {
     "id": "Ferienwohnung",
@@ -6987,11 +7108,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ferienwohnung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ferienwohnung.htm",
-    "rank": 3347,
+    "rank": 3426,
     "zipf": 3.4,
     "first_seen": "2026-10-08T10:59:36+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0b6d32abfc6881e4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "785d66d48e8a93e3"
   },
   {
     "id": "Fernsehen",
@@ -7128,11 +7249,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fernsehgera3t.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fernsehgera3t.htm",
-    "rank": 5789,
+    "rank": 5938,
     "zipf": 2.63,
     "first_seen": "2026-10-13T14:56:42+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c97f8d7b161b0d45"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "fd574412a969498e"
   },
   {
     "id": "Fernsehsender",
@@ -7199,11 +7320,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fernsehsender.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fernsehsender.htm",
-    "rank": 2840,
+    "rank": 2900,
     "zipf": 3.64,
     "first_seen": "2026-10-17T21:54:45+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f075705e4bd8e647"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "20ef36620d6f5fab"
   },
   {
     "id": "Festival",
@@ -7239,11 +7360,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Festival_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Festival.htm",
-    "rank": 1119,
+    "rank": 1125,
     "zipf": 4.48,
     "first_seen": "2026-10-17T22:44:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e7c7e037d9df0a1e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e929fa35e880283b"
   },
   {
     "id": "Feuerwehr",
@@ -7315,11 +7436,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Feuerwehr.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Feuerwehr.htm",
-    "rank": 1092,
+    "rank": 1098,
     "zipf": 4.49,
     "first_seen": "2026-10-17T21:39:58+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "daba812c912766cc"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f0d5b85b526101db"
   },
   {
     "id": "Figur",
@@ -7414,11 +7535,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Figur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Figur.htm",
-    "rank": 992,
+    "rank": 998,
     "zipf": 4.54,
     "first_seen": "2026-10-17T11:14:22+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d9cb9b6aee6628d3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e3ff8e76a1bf93ea"
   },
   {
     "id": "Filmregisseur",
@@ -7462,11 +7583,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Filmregisseur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Filmregisseur.htm",
-    "rank": 5500,
+    "rank": 5637,
     "zipf": 2.71,
     "first_seen": "2026-10-21T23:29:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f2c94fdc49f21cfd"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "224fc1a6e3e739c3"
   },
   {
     "id": "Filmteam",
@@ -7510,11 +7631,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Filmteam.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Filmteam.htm",
-    "rank": 5646,
+    "rank": 5789,
     "zipf": 2.67,
     "first_seen": "2026-10-12T14:38:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "64101a6a4eb8ab0d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2a4e47e2a3eb32df"
   },
   {
     "id": "Finale",
@@ -7638,11 +7759,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Flascheno3ffner.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Flascheno3ffner.htm",
-    "rank": 6086,
+    "rank": 6246,
     "zipf": 2.56,
     "first_seen": "2026-10-19T12:49:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2a7c12b3590ec9c3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6e3820b540d61002"
   },
   {
     "id": "Fleck",
@@ -7724,11 +7845,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fleck.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fleck.htm",
-    "rank": 2299,
+    "rank": 2350,
     "zipf": 3.94,
     "first_seen": "2026-10-15T23:24:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e239ece0853e786a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "403f3a8fff73b12f"
   },
   {
     "id": "Flug",
@@ -7796,11 +7917,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Flug.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Flug.htm",
-    "rank": 1093,
+    "rank": 1099,
     "zipf": 4.49,
     "first_seen": "2026-10-17T21:40:19+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "66181a5e0a2cc752"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "22a10d34294edf38"
   },
   {
     "id": "Fla3che",
@@ -7881,11 +8002,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fla3che.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fla3che.htm",
-    "rank": 956,
+    "rank": 962,
     "zipf": 4.56,
     "first_seen": "2026-10-16T22:45:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "3f025f057007525d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "82bf71f7e02cdd82"
   },
   {
     "id": "Folge",
@@ -8047,11 +8168,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Forum.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Forum.htm",
-    "rank": 1016,
+    "rank": 1022,
     "zipf": 4.53,
     "first_seen": "2026-10-17T11:35:05+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "12e12179191632f1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2c544dbed3580d17"
   },
   {
     "id": "Frauenberuf",
@@ -8094,11 +8215,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Frauenberuf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Frauenberuf.htm",
-    "rank": 8093,
+    "rank": 8329,
     "zipf": 2.02,
     "first_seen": "2026-10-08T11:02:03+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5969df492439e144"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "54195e6ad0387cda"
   },
   {
     "id": "Frauenchor",
@@ -8144,11 +8265,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Frauenchor.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Frauenchor.htm",
-    "rank": 5463,
+    "rank": 5599,
     "zipf": 2.72,
     "first_seen": "2026-10-08T11:02:03+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ad270a473f39d649"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3d2d4cf6be72f693"
   },
   {
     "id": "Freiheit",
@@ -8360,11 +8481,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Freundschaft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Freundschaft.htm",
-    "rank": 1216,
+    "rank": 1222,
     "zipf": 4.44,
     "first_seen": "2026-10-08T11:46:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "73b8152c3c072b74"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "39deaed1ed63c16c"
   },
   {
     "id": "Fus5baller",
@@ -8424,11 +8545,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fus5baller.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fus5baller.htm",
-    "rank": 2440,
+    "rank": 2495,
     "zipf": 3.85,
     "first_seen": "2026-10-13T23:47:59+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "21e54c72e2dc74e6"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f2551884612056d4"
   },
   {
     "id": "Fus5ballfan",
@@ -8490,11 +8611,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fus5ballfan.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fus5ballfan.htm",
-    "rank": 4474,
+    "rank": 4589,
     "zipf": 3.0,
     "first_seen": "2026-10-13T23:47:59+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "75a048bd6190350a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a7755e37d7be1e46"
   },
   {
     "id": "Fus5ga3ngerzone",
@@ -8557,11 +8678,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fus5ga3ngerzone.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fus5ga3ngerzone.htm",
-    "rank": 2888,
+    "rank": 2950,
     "zipf": 3.62,
     "first_seen": "2026-10-21T12:41:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8df89ab9496e826a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1a4fdef60eb7459a"
   },
   {
     "id": "Fa3higkeit",
@@ -8631,11 +8752,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fa3higkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fa3higkeit.htm",
-    "rank": 1689,
+    "rank": 1695,
     "zipf": 4.26,
     "first_seen": "2026-10-19T12:19:41+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8113e86b79a54804"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5809349c93cc7d58"
   },
   {
     "id": "Fu3hrerschein",
@@ -8697,11 +8818,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Fu3hrerschein.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Fu3hrerschein.htm",
-    "rank": 1861,
+    "rank": 1901,
     "zipf": 4.19,
     "first_seen": "2026-10-18T11:57:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "17211b691cb25563"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c460ee829553694d"
   },
   {
     "id": "Gang",
@@ -8800,11 +8921,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gang_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gang.htm",
-    "rank": 895,
+    "rank": 900,
     "zipf": 4.6,
     "first_seen": "2026-10-16T18:50:59+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2f59d55c72944839"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "0df0f139bb83a169"
   },
   {
     "id": "Garage",
@@ -8871,11 +8992,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Garage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Garage.htm",
-    "rank": 2111,
+    "rank": 2157,
     "zipf": 4.05,
     "first_seen": "2026-10-08T11:33:25+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a0af9fd1b35bb78d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "132db291ad5e3f36"
   },
   {
     "id": "Gastarbeiter",
@@ -8932,11 +9053,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gastarbeiter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gastarbeiter.htm",
-    "rank": 3666,
+    "rank": 3757,
     "zipf": 3.27,
     "first_seen": "2026-10-16T12:28:48+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c525ec641644cb68"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7ed50f0bb0bf6929"
   },
   {
     "id": "Gastfreundschaft",
@@ -8998,11 +9119,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gastfreundschaft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gastfreundschaft.htm",
-    "rank": 3151,
+    "rank": 3218,
     "zipf": 3.49,
     "first_seen": "2026-10-16T12:28:48+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ffa5f38cbb5a703e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9d5b5e964dfa5dce"
   },
   {
     "id": "Geburt",
@@ -9073,11 +9194,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geburt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geburt.htm",
-    "rank": 1072,
+    "rank": 1078,
     "zipf": 4.5,
     "first_seen": "2026-10-17T21:19:30+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "929558808ba53e26"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "03a641157f0e13fc"
   },
   {
     "id": "Geburtstagsfeier",
@@ -9137,11 +9258,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geburtstagsfeier.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geburtstagsfeier.htm",
-    "rank": 3637,
+    "rank": 3727,
     "zipf": 3.28,
     "first_seen": "2026-10-14T22:57:47+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c26351003223ee78"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "af3e0a7cdf0c6e81"
   },
   {
     "id": "Geba3ude",
@@ -9288,11 +9409,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gebu3hr.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gebu3hr.htm",
-    "rank": 2377,
+    "rank": 2430,
     "zipf": 3.89,
     "first_seen": "2026-10-22T22:52:49+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "037c08120734bc8a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "852c7be30820d6da"
   },
   {
     "id": "Gedanke",
@@ -9361,11 +9482,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gedanke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gedanke.htm",
-    "rank": 1309,
+    "rank": 1315,
     "zipf": 4.41,
     "first_seen": "2026-10-13T01:40:23+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0357c42bee85e028"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "65c1e4f45ce392c3"
   },
   {
     "id": "Geduld",
@@ -9426,11 +9547,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Geduld.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geduld.htm",
-    "rank": 1719,
+    "rank": 1725,
     "zipf": 4.25,
     "first_seen": "2026-10-22T12:59:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "85fbc5fac647d9e1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "87b2e98f48dddbee"
   },
   {
     "id": "Gefahr",
@@ -9811,11 +9932,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gegenteil.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gegenteil.htm",
-    "rank": 911,
+    "rank": 916,
     "zipf": 4.59,
     "first_seen": "2026-10-16T12:29:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "60729c91390ae3bf"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "af35c228f4a11765"
   },
   {
     "id": "Gegenvorschlag",
@@ -9856,11 +9977,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gegenvorschlag.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gegenvorschlag.htm",
-    "rank": 4947,
+    "rank": 5074,
     "zipf": 2.86,
     "first_seen": "2026-10-16T22:39:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "65f4e38f82c88f40"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e78f022feddec0ab"
   },
   {
     "id": "Gehalt",
@@ -9938,11 +10059,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gehalt_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gehalt.htm",
-    "rank": 1379,
+    "rank": 1385,
     "zipf": 4.38,
     "first_seen": "2026-10-08T15:29:08+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c9376ff8bbd54e9b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "098ce6765a5c2b40"
   },
   {
     "id": "Geldbo3rse",
@@ -10004,11 +10125,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Geldbo3rse.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Geldbo3rse.htm",
-    "rank": 3248,
+    "rank": 3323,
     "zipf": 3.44,
     "first_seen": "2026-10-08T11:19:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "64634123bfb8e488"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f52b84ae84741086"
   },
   {
     "id": "Gela3nde",
@@ -10084,11 +10205,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gela3nde.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gela3nde.htm",
-    "rank": 1120,
+    "rank": 1126,
     "zipf": 4.48,
     "first_seen": "2026-10-18T11:10:31+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c21826420ca1c6bb"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "158e7b944520f3b8"
   },
   {
     "id": "Gela3nder",
@@ -10151,11 +10272,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gela3nder.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gela3nder.htm",
-    "rank": 3400,
+    "rank": 3482,
     "zipf": 3.38,
     "first_seen": "2026-10-18T11:10:31+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "481d3cda47ec273b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2dbd003589daf654"
   },
   {
     "id": "Gesicht",
@@ -10267,11 +10388,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Gigabyte.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Gigabyte.htm",
-    "rank": 4077,
+    "rank": 4178,
     "zipf": 3.12,
     "first_seen": "2026-10-15T11:40:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "64987b83f79799f1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1c912352c3047d3c"
   },
   {
     "id": "Glu3ckwunschkarte",
@@ -10303,11 +10424,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Glu3ckwunschkarte.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Glu3ckwunschkarte.htm",
-    "rank": 7987,
+    "rank": 8218,
     "zipf": 2.05,
     "first_seen": "2026-10-20T12:20:27+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "df7cd249577fba5a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "72806686d2e30845"
   },
   {
     "id": "Gold",
@@ -10428,11 +10549,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Graffito_neut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Graffito.htm",
-    "rank": 6748,
+    "rank": 6924,
     "zipf": 2.39,
     "first_seen": "2026-10-18T12:45:15+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5dc4cbd8eab2d70c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "176f019af3c9f536"
   },
   {
     "id": "Grafiker",
@@ -10476,11 +10597,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Grafiker.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Grafiker.htm",
-    "rank": 3520,
+    "rank": 3607,
     "zipf": 3.33,
     "first_seen": "2026-10-18T11:33:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "26b8cd954fd62571"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8090a72ee7775e59"
   },
   {
     "id": "Grund",
@@ -10635,11 +10756,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Grundschule.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Grundschule.htm",
-    "rank": 1667,
+    "rank": 1673,
     "zipf": 4.27,
     "first_seen": "2026-10-22T12:01:58+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1347dde05dcee8a9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d7b1a251e5a8b0d8"
   },
   {
     "id": "Ga3stehaus",
@@ -10700,11 +10821,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ga3stehaus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ga3stehaus.htm",
-    "rank": 3927,
+    "rank": 4024,
     "zipf": 3.17,
     "first_seen": "2026-10-15T11:29:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "21d18018fa4d95a1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5d0c871cd1bbed4d"
   },
   {
     "id": "Halsband",
@@ -10766,11 +10887,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Halsband.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Halsband.htm",
-    "rank": 3667,
+    "rank": 3758,
     "zipf": 3.27,
     "first_seen": "2026-10-18T11:58:42+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bc3d36d4a0b5499d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a611e7d2be3d2f56"
   },
   {
     "id": "Hammer",
@@ -10858,11 +10979,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hammer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hammer.htm",
-    "rank": 1336,
+    "rank": 1342,
     "zipf": 4.4,
     "first_seen": "2026-10-19T13:18:27+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c0f93c4c8e185532"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cf4a2df36b51139e"
   },
   {
     "id": "Handlung",
@@ -10947,11 +11068,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Handlung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Handlung.htm",
-    "rank": 1256,
+    "rank": 1262,
     "zipf": 4.43,
     "first_seen": "2026-10-17T21:25:34+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "19e9c80e319688fe"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a9e8d2c7e95dd4aa"
   },
   {
     "id": "Handwerker",
@@ -11026,11 +11147,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Handwerker.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Handwerker.htm",
-    "rank": 1981,
+    "rank": 2024,
     "zipf": 4.12,
     "first_seen": "2026-10-12T14:45:48+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9ef43e922652d303"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6e895faae6466861"
   },
   {
     "id": "Hauptsache",
@@ -11098,11 +11219,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hauptsache.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hauptsache.htm",
-    "rank": 1410,
+    "rank": 1416,
     "zipf": 4.37,
     "first_seen": "2026-10-15T22:37:45+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "391fa6e4466c5985"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c3fe6699c9de4b40"
   },
   {
     "id": "Hauptschulabschluss",
@@ -11150,11 +11271,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hauptschulabschluss.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hauptschulabschluss.htm",
-    "rank": 4210,
+    "rank": 4318,
     "zipf": 3.08,
     "first_seen": "2026-10-14T12:59:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "39f6c26c0aaf8ac2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c480bc458556de67"
   },
   {
     "id": "Hausarzt",
@@ -11217,11 +11338,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hausarzt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hausarzt.htm",
-    "rank": 3022,
+    "rank": 3088,
     "zipf": 3.55,
     "first_seen": "2026-10-08T11:44:56+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4afbe72f0ad529b1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e1718e8646472ceb"
   },
   {
     "id": "Haushalt",
@@ -11290,11 +11411,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Haushalt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Haushalt.htm",
-    "rank": 1460,
+    "rank": 1466,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:44:54+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "82f874f7bcfedaa4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4dec4daf2c6ddd5b"
   },
   {
     "id": "Hausa3rztin",
@@ -11338,11 +11459,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hausa3rztin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hausa3rztin.htm",
-    "rank": 6231,
+    "rank": 6395,
     "zipf": 2.52,
     "first_seen": "2026-10-08T11:44:56+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6263aebfa1164caa"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4873a256eece0917"
   },
   {
     "id": "Heimatort",
@@ -11405,11 +11526,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Heimatort.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Heimatort.htm",
-    "rank": 3544,
+    "rank": 3631,
     "zipf": 3.32,
     "first_seen": "2026-10-20T23:13:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "3252cdbd8b3eedf6"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bed345da9b066ca1"
   },
   {
     "id": "Hierarchie",
@@ -11472,11 +11593,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Hierarchie.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Hierarchie.htm",
-    "rank": 3067,
+    "rank": 3133,
     "zipf": 3.53,
     "first_seen": "2026-10-08T10:49:27+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e389672992d5f7b4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "58b59f5a0d50008d"
   },
   {
     "id": "Highlight",
@@ -11521,11 +11642,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Highlight.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Highlight.htm",
-    "rank": 2174,
+    "rank": 2223,
     "zipf": 4.01,
     "first_seen": "2026-10-16T22:49:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5170c676d7269932"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bda11912d9751be9"
   },
   {
     "id": "Himmel",
@@ -11827,11 +11948,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ho3rer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ho3rer.htm",
-    "rank": 2637,
+    "rank": 2695,
     "zipf": 3.75,
     "first_seen": "2026-10-12T14:09:04+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "55d67d41466fcd09"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "572e43d2a275feb6"
   },
   {
     "id": "Idiot",
@@ -11901,11 +12022,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Idiot.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Idiot.htm",
-    "rank": 2143,
+    "rank": 2191,
     "zipf": 4.03,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e0537cf087546c38"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b5d8bfbfd89eb20f"
   },
   {
     "id": "Idiotin",
@@ -11971,11 +12092,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Idiotin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Idiotin.htm",
-    "rank": 7781,
+    "rank": 8004,
     "zipf": 2.11,
     "first_seen": "2026-10-12T14:36:45+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4a70cdb3741a3be1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "fbdccf936019ce8f"
   },
   {
     "id": "Industrie",
@@ -12070,11 +12191,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Info_neut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Info.htm",
-    "rank": 1222,
+    "rank": 1228,
     "zipf": 4.44,
     "first_seen": "2026-10-16T23:48:08+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "69ff9ccc65238402"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a36aea870fdc886c"
   },
   {
     "id": "Informatikerin",
@@ -12118,11 +12239,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Informatikerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Informatikerin.htm",
-    "rank": 7303,
+    "rank": 7506,
     "zipf": 2.24,
     "first_seen": "2026-10-18T21:42:44+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0f7ecdf11c69ddcc"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1edd76d0bc60e016"
   },
   {
     "id": "Inhalt",
@@ -12293,11 +12414,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Instrument.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Instrument.htm",
-    "rank": 1722,
+    "rank": 1728,
     "zipf": 4.25,
     "first_seen": "2026-10-22T22:22:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f8dd48d2addad393"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bc8d6672195898b4"
   },
   {
     "id": "Jahrhundert",
@@ -12439,11 +12560,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kabel_neut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kabel.htm",
-    "rank": 1593,
+    "rank": 1599,
     "zipf": 4.3,
     "first_seen": "2026-10-21T13:08:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a4ec88e3f9067ea5"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1ed65542ac5a8299"
   },
   {
     "id": "Kaffeebohne",
@@ -12500,11 +12621,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kaffeebohne.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kaffeebohne.htm",
-    "rank": 8127,
+    "rank": 8363,
     "zipf": 2.01,
     "first_seen": "2026-10-08T14:58:36+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5eb42f789a5e14e6"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d95f33cc6454c268"
   },
   {
     "id": "Kaiser",
@@ -12628,11 +12749,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kaiserin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kaiserin.htm",
-    "rank": 2796,
+    "rank": 2855,
     "zipf": 3.66,
     "first_seen": "2026-10-15T11:44:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "29c3cebbfbdf446b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cf5a30d19642a6c1"
   },
   {
     "id": "Kapuzenjacke",
@@ -12671,11 +12792,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kapuzenjacke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kapuzenjacke.htm",
-    "rank": 6476,
+    "rank": 6646,
     "zipf": 2.46,
     "first_seen": "2026-10-08T14:10:44+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "628c8150452cec23"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "252d4c060fb4221a"
   },
   {
     "id": "Karriere",
@@ -12815,11 +12936,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kategorie.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kategorie.htm",
-    "rank": 913,
+    "rank": 918,
     "zipf": 4.59,
     "first_seen": "2026-10-16T12:33:19+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "22eab878dff4f06a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c39ffa26ea7cfff4"
   },
   {
     "id": "Kauffrau",
@@ -12868,11 +12989,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kauffrau.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kauffrau.htm",
-    "rank": 4768,
+    "rank": 4890,
     "zipf": 2.91,
     "first_seen": "2026-10-15T11:55:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6696564847658b16"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "373cfc6e8023bd77"
   },
   {
     "id": "Keller",
@@ -12941,11 +13062,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Keller.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Keller.htm",
-    "rank": 929,
+    "rank": 934,
     "zipf": 4.58,
     "first_seen": "2026-10-16T22:11:05+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "936b151801d21429"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "076251cd79ecce6a"
   },
   {
     "id": "Kette",
@@ -13019,11 +13140,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kette.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kette.htm",
-    "rank": 1694,
+    "rank": 1700,
     "zipf": 4.26,
     "first_seen": "2026-10-22T12:32:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7a599f548d1ffcf9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2e21b4a54905a986"
   },
   {
     "id": "Kinderarbeit",
@@ -13071,11 +13192,65 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kinderarbeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kinderarbeit.htm",
-    "rank": 3856,
+    "rank": 3950,
     "zipf": 3.2,
     "first_seen": "2026-10-08T11:56:28+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5680a8ad18640703"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "799c133947f10833"
+  },
+  {
+    "id": "Kinderfest",
+    "type": "noun",
+    "lemma": "Kinderfest",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Kinderfeste",
+    "genitive": "Kinderfest(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "children's festival",
+      "children's party",
+      "children's treat",
+      "kids' party"
+    ],
+    "definitions_de": [
+      "Event, feierliche Veranstaltung für Kinder"
+    ],
+    "synonyms": [
+      "Event"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Der Ausbruch von Windpocken hat schon viele Kinderfeste aufgepeppt.",
+        "en": "Chicken pox outbreaks have inspired many children's parties."
+      },
+      {
+        "de": "Die Partei veranstaltet regelmäßig Fackelmärsche, Kinderfeste und macht Propaganda vor Asylbewerberheimen in der Umgebung.",
+        "en": "The party regularly organizes torch marches, children's festivals, and conducts propaganda in front of asylum seeker homes in the area."
+      },
+      {
+        "de": "Nur zweieinhalb Wochen nach der Taufe der jüngsten Prinzessin, Charlotte, haben die Royals wieder ein Kinderfest gefeiert.",
+        "en": "Only two and a half weeks after the baptism of the youngest princess, Charlotte, the royals celebrated another children's party."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Kinderfest.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Kinderfest.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kinderfest.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kinderfest.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Kinderfest.htm",
+    "rank": 5678,
+    "zipf": 2.7,
+    "first_seen": "2026-10-23T22:23:08+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "744c9c95f3c85dc6"
   },
   {
     "id": "Kindheit",
@@ -13140,11 +13315,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kindheit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kindheit.htm",
-    "rank": 1461,
+    "rank": 1467,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:47:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0193a3f3a66eabe9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "66d31846b0491e66"
   },
   {
     "id": "Kinokarte",
@@ -13197,11 +13372,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kinokarte.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kinokarte.htm",
-    "rank": 7785,
+    "rank": 8008,
     "zipf": 2.11,
     "first_seen": "2026-10-15T23:25:31+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e9700169c91312cd"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "99335b0b0c989e75"
   },
   {
     "id": "Klassenfahrt",
@@ -13256,11 +13431,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Klassenfahrt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Klassenfahrt.htm",
-    "rank": 3931,
+    "rank": 4028,
     "zipf": 3.17,
     "first_seen": "2026-10-12T14:10:48+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5f531133cf7fdbb7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3b102a77669cc4f8"
   },
   {
     "id": "Klassenkamerad",
@@ -13321,11 +13496,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Klassenkamerad.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Klassenkamerad.htm",
-    "rank": 6268,
+    "rank": 6433,
     "zipf": 2.51,
     "first_seen": "2026-10-20T00:05:49+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "91f167ca6134227d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "53de9e423a7e4b43"
   },
   {
     "id": "Klassentreffen",
@@ -13382,11 +13557,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Klassentreffen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Klassentreffen.htm",
-    "rank": 4443,
+    "rank": 4557,
     "zipf": 3.01,
     "first_seen": "2026-10-08T12:53:27+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a21c5a8b51c85d96"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "84e366cd5157ec87"
   },
   {
     "id": "Kleiderschrank",
@@ -13455,11 +13630,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kleiderschrank.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kleiderschrank.htm",
-    "rank": 3225,
+    "rank": 3299,
     "zipf": 3.45,
     "first_seen": "2026-10-21T12:54:23+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a3aea558da6986d0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "01a8755a2dcc9fbd"
   },
   {
     "id": "Kleidungsstu3ck",
@@ -13523,11 +13698,11 @@
       "menge": "https://www.verbformen.de/deklination/substantive/menge/mehrere_Kleidungsstu3ck.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kleidungsstu3ck.htm",
-    "rank": 3723,
+    "rank": 3814,
     "zipf": 3.25,
     "first_seen": "2026-10-18T12:00:28+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6cf36ab9f8fcb009"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "641a7b8ae0105f31"
   },
   {
     "id": "Kleinbus",
@@ -13584,11 +13759,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kleinbus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kleinbus.htm",
-    "rank": 4952,
+    "rank": 5079,
     "zipf": 2.86,
     "first_seen": "2026-10-13T01:50:36+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0bffa7ca5e5ba247"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "89c3c5dafe1305f3"
   },
   {
     "id": "Kleine",
@@ -13716,11 +13891,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Klub.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Klub.htm",
-    "rank": 1920,
+    "rank": 1961,
     "zipf": 4.16,
     "first_seen": "2026-10-14T12:41:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "539c0c6d833eafe2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "65e41418c84e520b"
   },
   {
     "id": "Kochbuch",
@@ -13781,11 +13956,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kochbuch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kochbuch.htm",
-    "rank": 3547,
+    "rank": 3634,
     "zipf": 3.32,
     "first_seen": "2026-10-18T21:14:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9be0cf549f566030"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c06637721f7ed2a5"
   },
   {
     "id": "Kommentar",
@@ -13918,11 +14093,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kommunikation.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kommunikation.htm",
-    "rank": 974,
+    "rank": 980,
     "zipf": 4.55,
     "first_seen": "2026-10-16T23:05:41+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c6ca7cd3e00831ab"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7e2d136472b55f5d"
   },
   {
     "id": "Konferenz",
@@ -13987,11 +14162,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Konferenz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Konferenz.htm",
-    "rank": 1575,
+    "rank": 1581,
     "zipf": 4.31,
     "first_seen": "2026-10-21T12:25:22+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f82a4be3b0294f04"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "0046bbb568a6df02"
   },
   {
     "id": "Konflikt",
@@ -14051,11 +14226,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Konflikt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Konflikt.htm",
-    "rank": 1337,
+    "rank": 1343,
     "zipf": 4.4,
     "first_seen": "2026-10-19T23:39:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d028af833043d7b5"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ee6a31cc37411ea5"
   },
   {
     "id": "Konfliktsituation",
@@ -14088,11 +14263,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Konfliktsituation.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Konfliktsituation.htm",
-    "rank": 7786,
+    "rank": 8009,
     "zipf": 2.11,
     "first_seen": "2026-10-13T23:53:30+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7325a66f43923c89"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ce73c6f2434c44f3"
   },
   {
     "id": "Konsequenz",
@@ -14164,11 +14339,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Konsequenz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Konsequenz.htm",
-    "rank": 2038,
+    "rank": 2083,
     "zipf": 4.09,
     "first_seen": "2026-10-20T00:29:45+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7ffc230e79b58d49"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "19c38dad2b10fa6d"
   },
   {
     "id": "Kontext",
@@ -14231,11 +14406,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kontext.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kontext.htm",
-    "rank": 1463,
+    "rank": 1469,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:48:44+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "28ac7a46e96e3298"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "550c1cbfa99efa7a"
   },
   {
     "id": "Kontrolleur",
@@ -14300,11 +14475,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kontrolleur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kontrolleur.htm",
-    "rank": 4992,
+    "rank": 5119,
     "zipf": 2.85,
     "first_seen": "2026-10-13T02:23:57+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "82de57755bc46ea8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "17a18597d9524d1a"
   },
   {
     "id": "Konzept",
@@ -14423,11 +14598,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Konzerthaus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Konzerthaus.htm",
-    "rank": 4368,
+    "rank": 4479,
     "zipf": 3.03,
     "first_seen": "2026-10-16T11:58:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "23311e1c6e9e7254"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "45ea013ef0c1e987"
   },
   {
     "id": "Kooperation",
@@ -14489,11 +14664,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kooperation.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kooperation.htm",
-    "rank": 1338,
+    "rank": 1344,
     "zipf": 4.4,
     "first_seen": "2026-10-19T23:39:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5afd3ab0f2178643"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "fbc4e9e0be56cc61"
   },
   {
     "id": "Kopfball",
@@ -14527,11 +14702,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kopfball.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kopfball.htm",
-    "rank": 4049,
+    "rank": 4150,
     "zipf": 3.13,
     "first_seen": "2026-10-08T12:35:59+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "dd151e67054a4750"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7eaaf90bf1e13e46"
   },
   {
     "id": "Krankenpfleger",
@@ -14593,11 +14768,76 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Krankenpfleger.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Krankenpfleger.htm",
-    "rank": 3548,
+    "rank": 3635,
     "zipf": 3.32,
     "first_seen": "2026-10-08T10:51:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8bdbec99763ed593"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e9ea6f974d2cb29d"
+  },
+  {
+    "id": "Kredit",
+    "type": "noun",
+    "lemma": "Kredit",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Kredite",
+    "genitive": "Kredit(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "credit",
+      "loan",
+      "accommodation",
+      "advance",
+      "facility"
+    ],
+    "definitions_de": [
+      "[Finanzen] meist gegen Zahlung von Zinsen zur Verfügung gestelltes fremdes Kapital"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Ich brauche einen Kredit.",
+        "en": "I need a loan."
+      },
+      {
+        "de": "Kauf keine Sachen auf Kredit.",
+        "en": "Don't buy things on credit."
+      },
+      {
+        "de": "Ich habe einen Kredit aufgenommen.",
+        "en": "I have taken out a loan."
+      },
+      {
+        "de": "Ich brauchte einen Kredit.",
+        "en": "I needed a loan."
+      },
+      {
+        "de": "Josef erinnerte mich an meinen Kredit.",
+        "en": "Josef reminded me of my loan."
+      },
+      {
+        "de": "Wir haben ein Haus auf Kredit gekauft.",
+        "en": "We bought a house on credit."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Kredit_mask.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Kredit_mask.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kredit_mask.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kredit_mask.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Kredit.htm",
+    "rank": 1853,
+    "zipf": 4.21,
+    "first_seen": "2026-10-23T23:51:25+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "23f68aad42a570e9"
   },
   {
     "id": "Krieg",
@@ -14732,11 +14972,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Krimi.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Krimi.htm",
-    "rank": 2270,
+    "rank": 2321,
     "zipf": 3.96,
     "first_seen": "2026-10-23T12:39:25+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8abb5862683fe366"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cc5e505e1e97234a"
   },
   {
     "id": "Krise",
@@ -14797,11 +15037,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Krise.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Krise.htm",
-    "rank": 1050,
+    "rank": 1056,
     "zipf": 4.51,
     "first_seen": "2026-10-17T21:00:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "dfc9403be5fc21cf"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "980b744c18bf04a6"
   },
   {
     "id": "Kultur",
@@ -14937,11 +15177,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Kunsterziehung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kunsterziehung.htm",
-    "rank": 7112,
+    "rank": 7305,
     "zipf": 2.29,
     "first_seen": "2026-10-13T14:48:54+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a29dcb683b0159ad"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a34aeef6713a6580"
   },
   {
     "id": "Kursteilnehmer",
@@ -14996,11 +15236,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Kursteilnehmer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Kursteilnehmer.htm",
-    "rank": 5398,
+    "rank": 5532,
     "zipf": 2.74,
     "first_seen": "2026-10-14T12:48:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2dc77be7ac4a33d4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f6f093a8cf03d07a"
   },
   {
     "id": "Ko3nigin",
@@ -15069,11 +15309,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ko3nigin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ko3nigin.htm",
-    "rank": 1167,
+    "rank": 1173,
     "zipf": 4.46,
     "first_seen": "2026-10-08T14:49:10+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "493234a29adbbc81"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ed6c7654b67b1ff8"
   },
   {
     "id": "Ku3nstlerin",
@@ -15135,11 +15375,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ku3nstlerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ku3nstlerin.htm",
-    "rank": 2093,
+    "rank": 2139,
     "zipf": 4.06,
     "first_seen": "2026-10-14T22:49:46+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a54ab2b2a658f4e1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b46003db78737f61"
   },
   {
     "id": "Lagerfeuer",
@@ -15197,11 +15437,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lagerfeuer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lagerfeuer.htm",
-    "rank": 3167,
+    "rank": 3236,
     "zipf": 3.48,
     "first_seen": "2026-10-13T02:34:28+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0286bcab998b8748"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3becfb57ff581c54"
   },
   {
     "id": "Lagerhaus",
@@ -15270,11 +15510,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lagerhaus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lagerhaus.htm",
-    "rank": 3933,
+    "rank": 4030,
     "zipf": 3.17,
     "first_seen": "2026-10-15T22:53:56+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "75558518ca9abbde"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d53331fd26947dd4"
   },
   {
     "id": "Langeweile",
@@ -15334,11 +15574,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Langeweile.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Langeweile.htm",
-    "rank": 2442,
+    "rank": 2497,
     "zipf": 3.85,
     "first_seen": "2026-10-08T11:31:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e0e7e4878475526a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5eca2f734eff5374"
   },
   {
     "id": "Lauf",
@@ -15486,11 +15726,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lautsprecher.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lautsprecher.htm",
-    "rank": 2343,
+    "rank": 2394,
     "zipf": 3.91,
     "first_seen": "2026-10-20T12:56:11+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7d7c4e937528f182"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "43510707a843c59e"
   },
   {
     "id": "Lebensphase",
@@ -15551,11 +15791,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lebensphase.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lebensphase.htm",
-    "rank": 4953,
+    "rank": 5080,
     "zipf": 2.86,
     "first_seen": "2026-10-17T11:20:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ee4d779582a9464b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "29837a9cc08c0968"
   },
   {
     "id": "Lebkuchen",
@@ -15621,11 +15861,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lebkuchen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lebkuchen.htm",
-    "rank": 3724,
+    "rank": 3815,
     "zipf": 3.25,
     "first_seen": "2026-10-08T12:56:15+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8453885e40fde0fc"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "23fb304cb0517433"
   },
   {
     "id": "Lehre",
@@ -15707,11 +15947,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lehre_kn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lehre.htm",
-    "rank": 1169,
+    "rank": 1175,
     "zipf": 4.46,
     "first_seen": "2026-10-18T12:57:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2a1f4e64473a6706"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bb63749b1dd333c8"
   },
   {
     "id": "Leidenschaft",
@@ -15781,11 +16021,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Leidenschaft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Leidenschaft.htm",
-    "rank": 1466,
+    "rank": 1472,
     "zipf": 4.35,
     "first_seen": "2026-10-08T11:02:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "dd41318cf9456637"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c94d49d787da3ed4"
   },
   {
     "id": "Lieblingsbuch",
@@ -15845,11 +16085,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lieblingsbuch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lieblingsbuch.htm",
-    "rank": 5037,
+    "rank": 5165,
     "zipf": 2.84,
     "first_seen": "2026-10-12T14:51:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5b7d6d5553d89765"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bd3ccf699627465d"
   },
   {
     "id": "Lieblingsfarbe",
@@ -15908,11 +16148,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lieblingsfarbe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lieblingsfarbe.htm",
-    "rank": 4607,
+    "rank": 4724,
     "zipf": 2.96,
     "first_seen": "2026-10-12T14:51:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "437d8f8b29bef158"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "640ec7ba40d11a19"
   },
   {
     "id": "Link",
@@ -16146,11 +16386,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Loch_neut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Loch.htm",
-    "rank": 1259,
+    "rank": 1265,
     "zipf": 4.43,
     "first_seen": "2026-10-18T22:54:08+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "15b1e412688c761e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d31305aeb0008851"
   },
   {
     "id": "Logopa3din",
@@ -16187,11 +16427,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Logopa3din.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Logopa3din.htm",
-    "rank": 7189,
+    "rank": 7385,
     "zipf": 2.27,
     "first_seen": "2026-10-20T23:18:30+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e9c1dc7e384d72f4"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8ed2519a2f84763f"
   },
   {
     "id": "Los",
@@ -16359,6 +16599,93 @@
     "hash": "144961ddd2de06cf"
   },
   {
+    "id": "Luxemburger",
+    "type": "noun",
+    "lemma": "Luxemburger",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Luxemburger",
+    "genitive": "Luxemburgers",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "Luxembourger"
+    ],
+    "definitions_de": [
+      "Staatsbürger des Großherzogtums Luxemburg"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Mein Mann ist Luxemburger.",
+        "en": "My husband is a Luxembourger."
+      },
+      {
+        "de": "Die Ophthalmie war eine Erbkrankheit der Luxemburger, an der auch Johann, später genannt der Blinde, erkrankte.",
+        "en": "The ophthalmia was a hereditary disease of the Luxembourgers, which also affected Johann, later called the Blind."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Luxemburger.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Luxemburger.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Luxemburger.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Luxemburger.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Luxemburger.htm",
+    "rank": 3554,
+    "zipf": 3.35,
+    "first_seen": "2026-10-23T23:04:48+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "82b588bb7804e208"
+  },
+  {
+    "id": "Luxemburgerin",
+    "type": "noun",
+    "lemma": "Luxemburgerin",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Luxemburgerinnen",
+    "genitive": "Luxemburgerin",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "Luxembourger",
+      "Luxemburger"
+    ],
+    "definitions_de": [
+      "Staatsbürgerin von Luxemburg"
+    ],
+    "synonyms": [],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Meine Frau ist Luxemburgerin.",
+        "en": "My wife is a Luxembourger."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Luxemburgerin.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Luxemburgerin.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Luxemburgerin.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Luxemburgerin.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Luxemburgerin.htm",
+    "rank": 10386,
+    "zipf": 1.31,
+    "first_seen": "2026-10-23T23:04:48+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6edcc8bb3d41fe18"
+  },
+  {
     "id": "La3nge",
     "type": "noun",
     "lemma": "Länge",
@@ -16501,11 +16828,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Lu3ge.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Lu3ge.htm",
-    "rank": 1726,
+    "rank": 1732,
     "zipf": 4.25,
     "first_seen": "2026-10-13T02:42:10+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f7f839f4b063be3e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "64a76a4b472dd3f7"
   },
   {
     "id": "Magen",
@@ -16563,11 +16890,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Magen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Magen.htm",
-    "rank": 1779,
+    "rank": 1785,
     "zipf": 4.23,
     "first_seen": "2026-10-08T12:30:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a6c0ee5d124b547d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cacb7757dd1f9c54"
   },
   {
     "id": "Maibaum",
@@ -16612,11 +16939,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Maibaum.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Maibaum.htm",
-    "rank": 5363,
+    "rank": 5496,
     "zipf": 2.75,
     "first_seen": "2026-10-13T14:23:04+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "96e9fbcd9b539274"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "02f944af0ce73239"
   },
   {
     "id": "Mailbox",
@@ -16660,11 +16987,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mailbox.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mailbox.htm",
-    "rank": 4326,
+    "rank": 4435,
     "zipf": 3.04,
     "first_seen": "2026-10-15T22:25:49+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2b8d86c0613f18ac"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9eb101148b444d1b"
   },
   {
     "id": "Maler",
@@ -16731,11 +17058,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Maler.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Maler.htm",
-    "rank": 1848,
+    "rank": 1878,
     "zipf": 4.2,
     "first_seen": "2026-10-21T12:26:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "cc4dac6f44e09b1b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "79fdc26c64d31cb7"
   },
   {
     "id": "Malerei",
@@ -16800,11 +17127,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Malerei.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Malerei.htm",
-    "rank": 2026,
+    "rank": 2071,
     "zipf": 4.1,
     "first_seen": "2026-10-21T12:26:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "94110cd9f597384d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2e51c646b6a77dac"
   },
   {
     "id": "Mannschaft",
@@ -17023,11 +17350,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mauer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mauer.htm",
-    "rank": 1260,
+    "rank": 1266,
     "zipf": 4.43,
     "first_seen": "2026-10-18T22:19:08+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5c47f7a126621df1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "560a5dc42fcefec2"
   },
   {
     "id": "Maus",
@@ -17098,11 +17425,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Maus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Maus.htm",
-    "rank": 1811,
+    "rank": 1822,
     "zipf": 4.22,
     "first_seen": "2026-10-23T12:26:24+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b7cb11481d3617c6"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f052647ffdf1eecc"
   },
   {
     "id": "Mechanikerin",
@@ -17151,11 +17478,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mechanikerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mechanikerin.htm",
-    "rank": 8930,
+    "rank": 9206,
     "zipf": 1.76,
     "first_seen": "2026-10-15T23:28:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b22a1b34a9aa0b94"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "dd9ae979076147cd"
   },
   {
     "id": "Medaille",
@@ -17216,11 +17543,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Medaille.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Medaille.htm",
-    "rank": 2165,
+    "rank": 2214,
     "zipf": 4.02,
     "first_seen": "2026-10-15T23:28:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "adeb32e7d242a6ea"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cba70c6038b3270c"
   },
   {
     "id": "Medium",
@@ -17307,11 +17634,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Medium_neut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Medium.htm",
-    "rank": 1936,
+    "rank": 1977,
     "zipf": 4.15,
     "first_seen": "2026-10-13T20:47:42+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "218d8e768550dd01"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f6c76fc3b704631f"
   },
   {
     "id": "Medizin",
@@ -17382,11 +17709,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Medizin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Medizin.htm",
-    "rank": 961,
+    "rank": 967,
     "zipf": 4.56,
     "first_seen": "2026-10-16T22:53:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0b9361943363ab17"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d3e6e1959b0713d1"
   },
   {
     "id": "Meinung",
@@ -17506,11 +17833,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Meisterpru3fung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Meisterpru3fung.htm",
-    "rank": 4884,
+    "rank": 5010,
     "zipf": 2.88,
     "first_seen": "2026-10-12T15:02:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "cf7bafdff964954f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "60524702532c1967"
   },
   {
     "id": "Menge",
@@ -17678,11 +18005,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Messe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Messe.htm",
-    "rank": 1288,
+    "rank": 1294,
     "zipf": 4.42,
     "first_seen": "2026-10-19T12:29:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ef2a6fbfde62ef14"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8b2c493782ade15f"
   },
   {
     "id": "Mikrofon",
@@ -17740,11 +18067,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mikrofon.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mikrofon.htm",
-    "rank": 2689,
+    "rank": 2747,
     "zipf": 3.72,
     "first_seen": "2026-10-12T14:38:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d74bdb3187629310"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d0adab774d09003a"
   },
   {
     "id": "Mist",
@@ -17819,11 +18146,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mist.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mist.htm",
-    "rank": 1053,
+    "rank": 1059,
     "zipf": 4.51,
     "first_seen": "2026-10-12T08:40:34+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0bfb3b0e32f37d37"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "cd6c1f9a08b8e23e"
   },
   {
     "id": "Mitgliedsausweis",
@@ -17863,11 +18190,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mitgliedsausweis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mitgliedsausweis.htm",
-    "rank": 7400,
+    "rank": 7606,
     "zipf": 2.22,
     "first_seen": "2026-10-14T12:34:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "af7a205b88c06453"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "942ea354d326e000"
   },
   {
     "id": "Mittagspause",
@@ -17929,11 +18256,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mittagspause.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mittagspause.htm",
-    "rank": 2702,
+    "rank": 2760,
     "zipf": 3.71,
     "first_seen": "2026-10-21T22:51:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "82490e8e28fe5b08"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "518f61676fd77c41"
   },
   {
     "id": "Model",
@@ -17995,11 +18322,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Model_mask.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Model.htm",
-    "rank": 1751,
+    "rank": 1757,
     "zipf": 4.24,
     "first_seen": "2026-10-22T23:40:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ddc350dd497e9472"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a32fd227f057ce3c"
   },
   {
     "id": "Mond",
@@ -18076,11 +18403,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Mond.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Mond.htm",
-    "rank": 1470,
+    "rank": 1476,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:51:56+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5faee4b32eb63955"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4004ed954b9885f4"
   },
   {
     "id": "Morgenstunde",
@@ -18138,11 +18465,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Morgenstunde.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Morgenstunde.htm",
-    "rank": 7193,
+    "rank": 7389,
     "zipf": 2.27,
     "first_seen": "2026-10-16T12:34:23+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "3676eca81057ad9d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f5f9adb4c70a2e78"
   },
   {
     "id": "Motor",
@@ -18211,11 +18538,11 @@
       "plural2": "https://www.verbformen.de/deklination/substantive/plural2/der_Motor.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Motor.htm",
-    "rank": 1139,
+    "rank": 1145,
     "zipf": 4.47,
     "first_seen": "2026-10-18T11:35:57+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a5ae360be4b27da3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b48bb8d0a5536eda"
   },
   {
     "id": "Musikerin",
@@ -18275,11 +18602,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Musikerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Musikerin.htm",
-    "rank": 3858,
+    "rank": 3952,
     "zipf": 3.2,
     "first_seen": "2026-10-17T12:00:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ea0b4aed0f3b1e14"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "029d90c850b4c0d1"
   },
   {
     "id": "Muss",
@@ -18384,11 +18711,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ma3nnerchor.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ma3nnerchor.htm",
-    "rank": 4447,
+    "rank": 4561,
     "zipf": 3.01,
     "first_seen": "2026-10-08T12:34:13+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d7cb86fd40a418f2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "93e13e00e6a79d3f"
   },
   {
     "id": "Ma3uschen",
@@ -18458,11 +18785,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ma3uschen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ma3uschen.htm",
-    "rank": 4448,
+    "rank": 4562,
     "zipf": 3.01,
     "first_seen": "2026-10-23T12:26:24+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "099f700fa53d16d7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9383ad2c4c7b6fcc"
   },
   {
     "id": "Nachbarschaft",
@@ -18532,11 +18859,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nachbarschaft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nachbarschaft.htm",
-    "rank": 1965,
+    "rank": 2008,
     "zipf": 4.13,
     "first_seen": "2026-10-18T11:29:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c223313b5cdfe42d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "0203bc02274e392d"
   },
   {
     "id": "Nachrichtensprecher",
@@ -18600,11 +18927,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Nachrichtensprecher.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Nachrichtensprecher.htm",
-    "rank": 5330,
+    "rank": 5462,
     "zipf": 2.76,
     "first_seen": "2026-10-12T08:31:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a91452be86485b57"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f1c28624d3b31fd0"
   },
   {
     "id": "Natur",
@@ -18810,11 +19137,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Newcomer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Newcomer.htm",
-    "rank": 3227,
+    "rank": 3301,
     "zipf": 3.45,
     "first_seen": "2026-10-08T14:43:35+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b5a3ddf6aa498ac3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "786a4275f495f443"
   },
   {
     "id": "Niederlage",
@@ -18881,11 +19208,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Niederlage.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Niederlage.htm",
-    "rank": 1140,
+    "rank": 1146,
     "zipf": 4.47,
     "first_seen": "2026-10-18T11:36:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9d4ed3361021e86b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1e07493c12576966"
   },
   {
     "id": "Not",
@@ -19054,11 +19381,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Note.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Note.htm",
-    "rank": 1597,
+    "rank": 1603,
     "zipf": 4.3,
     "first_seen": "2026-10-15T23:24:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6945ba740feb4eeb"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c72899da576f8752"
   },
   {
     "id": "Ofen",
@@ -19136,11 +19463,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ofen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ofen.htm",
-    "rank": 1986,
+    "rank": 2029,
     "zipf": 4.12,
     "first_seen": "2026-10-13T13:56:28+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "02f0d286c3cc0874"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5e5230964963f4f2"
   },
   {
     "id": "Oper",
@@ -19206,11 +19533,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Oper.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Oper.htm",
-    "rank": 1754,
+    "rank": 1760,
     "zipf": 4.24,
     "first_seen": "2026-10-17T11:19:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "268999d3c7e47e04"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8ddea084084a8b7b"
   },
   {
     "id": "Operation",
@@ -19283,11 +19610,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Operation.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Operation.htm",
-    "rank": 1101,
+    "rank": 1107,
     "zipf": 4.49,
     "first_seen": "2026-10-17T11:19:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ba9115ba5c37ec9f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "64ccdb9184efc3d7"
   },
   {
     "id": "Operationssaal",
@@ -19351,11 +19678,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Operationssaal.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Operationssaal.htm",
-    "rank": 5941,
+    "rank": 6097,
     "zipf": 2.6,
     "first_seen": "2026-10-17T21:51:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "907cb66710c1b325"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8502c42e6e6f6b74"
   },
   {
     "id": "Paps",
@@ -19393,11 +19720,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Paps_se.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Paps.htm",
-    "rank": 6026,
+    "rank": 6184,
     "zipf": 2.58,
     "first_seen": "2026-10-08T20:43:58+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d2ec76281266f91d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2566f5c0bbbf0bae"
   },
   {
     "id": "Parallele",
@@ -19458,11 +19785,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Parallele.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Parallele.htm",
-    "rank": 3092,
+    "rank": 3158,
     "zipf": 3.52,
     "first_seen": "2026-10-18T22:22:58+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a8c10d3ca4f56731"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "71ca97fae8c6ea8e"
   },
   {
     "id": "Parkhaus",
@@ -19524,11 +19851,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Parkhaus.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Parkhaus.htm",
-    "rank": 2820,
+    "rank": 2880,
     "zipf": 3.65,
     "first_seen": "2026-10-15T11:45:46+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f38d0b627eb20e54"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "625640e5af471ed6"
   },
   {
     "id": "Parkplatz",
@@ -19600,11 +19927,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Parkplatz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Parkplatz.htm",
-    "rank": 1623,
+    "rank": 1629,
     "zipf": 4.29,
     "first_seen": "2026-10-21T22:52:25+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b7e264f91fa4045a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ad6c1d3301c28083"
   },
   {
     "id": "Partnerlook",
@@ -19642,11 +19969,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Partnerlook.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Partnerlook.htm",
-    "rank": 7610,
+    "rank": 7824,
     "zipf": 2.16,
     "first_seen": "2026-10-13T01:50:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8332e52d072121de"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8cf1b7a9b298a780"
   },
   {
     "id": "Partnerspiel",
@@ -19691,11 +20018,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Partnerspiel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Partnerspiel.htm",
-    "rank": 11183,
+    "rank": 11550,
     "zipf": 0.0,
     "first_seen": "2026-10-13T01:50:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "26c2ec89ae9cd16e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "06a9829595e2472a"
   },
   {
     "id": "Pech",
@@ -19766,11 +20093,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Pech.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Pech.htm",
-    "rank": 1784,
+    "rank": 1791,
     "zipf": 4.23,
     "first_seen": "2026-10-23T11:48:38+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "67fa06b13b708204"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7a589fa424d180c1"
   },
   {
     "id": "Personalausweis",
@@ -19829,11 +20156,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Personalausweis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Personalausweis.htm",
-    "rank": 3374,
+    "rank": 3455,
     "zipf": 3.39,
     "first_seen": "2026-10-12T14:18:53+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5fc54b99fc3188ea"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4ef2f4bb831384d4"
   },
   {
     "id": "Pflanze",
@@ -19897,11 +20224,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Pflanze.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Pflanze.htm",
-    "rank": 1967,
+    "rank": 2010,
     "zipf": 4.13,
     "first_seen": "2026-10-16T21:56:05+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "589b279d129bc957"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e67933cad3bd22ac"
   },
   {
     "id": "Phase",
@@ -19972,11 +20299,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Phase.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Phase.htm",
-    "rank": 1000,
+    "rank": 1006,
     "zipf": 4.54,
     "first_seen": "2026-10-17T11:20:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "20b927321ac20ff3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "113e2dd71d813ae3"
   },
   {
     "id": "Planet",
@@ -20033,11 +20360,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Planet.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Planet.htm",
-    "rank": 2148,
+    "rank": 2196,
     "zipf": 4.03,
     "first_seen": "2026-10-08T14:28:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c5e244114f354761"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "81c10dba977e23fe"
   },
   {
     "id": "Planung",
@@ -20101,11 +20428,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Planung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Planung.htm",
-    "rank": 1077,
+    "rank": 1083,
     "zipf": 4.5,
     "first_seen": "2026-10-16T22:08:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e1b777ffc9016dfd"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8662f8ea751a55b9"
   },
   {
     "id": "Platte",
@@ -20209,11 +20536,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Platte.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Platte.htm",
-    "rank": 1814,
+    "rank": 1825,
     "zipf": 4.22,
     "first_seen": "2026-10-23T12:27:49+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a853582a1e0f9d30"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b9e33a483c894c6b"
   },
   {
     "id": "Politik",
@@ -20352,11 +20679,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Polizist.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Polizist.htm",
-    "rank": 1579,
+    "rank": 1585,
     "zipf": 4.31,
     "first_seen": "2026-10-15T12:11:07+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d5f3cb52583549ee"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b37d29eb83813385"
   },
   {
     "id": "Polizistin",
@@ -20423,11 +20750,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Polizistin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Polizistin.htm",
-    "rank": 3072,
+    "rank": 3138,
     "zipf": 3.53,
     "first_seen": "2026-10-21T12:33:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ff94bb5c18384eb7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ffce90d4824fef7e"
   },
   {
     "id": "Pop",
@@ -20479,11 +20806,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Pop.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Pop.htm",
-    "rank": 1316,
+    "rank": 1322,
     "zipf": 4.41,
     "first_seen": "2026-10-19T12:56:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "807a6d88f7006cc0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "187167fe614cc298"
   },
   {
     "id": "Popcorn",
@@ -20549,11 +20876,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Popcorn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Popcorn.htm",
-    "rank": 2876,
+    "rank": 2938,
     "zipf": 3.63,
     "first_seen": "2026-10-19T12:56:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c3b220ada9a920e2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2cc913e4b066d491"
   },
   {
     "id": "Portion",
@@ -20622,11 +20949,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Portion.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Portion.htm",
-    "rank": 2388,
+    "rank": 2442,
     "zipf": 3.88,
     "first_seen": "2026-10-19T23:56:05+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4d8b6b3260e3e742"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c70f8cb7c1c180da"
   },
   {
     "id": "Position",
@@ -20768,11 +21095,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Prinzessin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Prinzessin.htm",
-    "rank": 1547,
+    "rank": 1553,
     "zipf": 4.32,
     "first_seen": "2026-10-18T21:49:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9e5cd1cf11901ec3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "18d674c3c7f98b12"
   },
   {
     "id": "Privatauto",
@@ -20818,11 +21145,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Privatauto.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Privatauto.htm",
-    "rank": 8717,
+    "rank": 8982,
     "zipf": 1.83,
     "first_seen": "2026-10-17T11:01:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "eceef83e91030743"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bd8f31e67c63d549"
   },
   {
     "id": "Produkt",
@@ -20890,11 +21217,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Produkt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Produkt.htm",
-    "rank": 1001,
+    "rank": 1007,
     "zipf": 4.54,
     "first_seen": "2026-10-15T11:58:52+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "86929911827fc49f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ade233d3c7e730ac"
   },
   {
     "id": "Profi",
@@ -20957,11 +21284,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Profi.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Profi.htm",
-    "rank": 1549,
+    "rank": 1555,
     "zipf": 4.32,
     "first_seen": "2026-10-21T12:00:43+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5295d1faff8739ea"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a56a5956653a7064"
   },
   {
     "id": "Projektgruppe",
@@ -21000,11 +21327,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Projektgruppe.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Projektgruppe.htm",
-    "rank": 4645,
+    "rank": 4763,
     "zipf": 2.95,
     "first_seen": "2026-10-14T00:14:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "06e46f3a02ca99c0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "684b8be293b7941b"
   },
   {
     "id": "Qualita3t",
@@ -21165,11 +21492,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Quatsch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Quatsch.htm",
-    "rank": 1550,
+    "rank": 1556,
     "zipf": 4.32,
     "first_seen": "2026-10-21T12:01:04+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0cda4056f422cc30"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "94ab358ac3e91859"
   },
   {
     "id": "Rad",
@@ -21244,11 +21571,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rad_sru.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rad.htm",
-    "rank": 1290,
+    "rank": 1296,
     "zipf": 4.42,
     "first_seen": "2026-10-19T13:40:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5f136b185ca78c6c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3e8a8965947a58ae"
   },
   {
     "id": "Rappen",
@@ -21289,11 +21616,11 @@
       "menge": "https://www.verbformen.de/deklination/substantive/menge/mehrere_Rappen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rappen.htm",
-    "rank": 3700,
+    "rank": 3791,
     "zipf": 3.26,
     "first_seen": "2026-10-20T00:48:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ae7ced5baa78c3e2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d0e7b0f4c7602491"
   },
   {
     "id": "Reaktion",
@@ -21427,11 +21754,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Realita3t.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Realita3t.htm",
-    "rank": 899,
+    "rank": 904,
     "zipf": 4.6,
     "first_seen": "2026-10-16T12:18:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a0778d6a8d3bc24e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "7a8bab19e0ded3a1"
   },
   {
     "id": "Redaktion",
@@ -21498,11 +21825,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Redaktion.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Redaktion.htm",
-    "rank": 1600,
+    "rank": 1606,
     "zipf": 4.3,
     "first_seen": "2026-10-15T23:09:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "eb8944121301b1bc"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "37ed96ba61ff1798"
   },
   {
     "id": "Regisseur",
@@ -21564,11 +21891,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Regisseur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Regisseur.htm",
-    "rank": 1653,
+    "rank": 1659,
     "zipf": 4.28,
     "first_seen": "2026-10-21T23:29:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e114f0b75774983c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "da399e1f164a80a8"
   },
   {
     "id": "Reifen",
@@ -21638,11 +21965,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Reifen.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Reifen.htm",
-    "rank": 1523,
+    "rank": 1529,
     "zipf": 4.33,
     "first_seen": "2026-10-20T23:21:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "43b53709224ae806"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6fc7f0307fda5730"
   },
   {
     "id": "Rennen",
@@ -21847,11 +22174,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ring.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ring.htm",
-    "rank": 1002,
+    "rank": 1008,
     "zipf": 4.54,
     "first_seen": "2026-10-17T11:21:05+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bae5c131d750d871"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5e076bbab0ef6c42"
   },
   {
     "id": "Roboter",
@@ -21916,11 +22243,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Roboter.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Roboter.htm",
-    "rank": 1840,
+    "rank": 1859,
     "zipf": 4.21,
     "first_seen": "2026-10-20T00:45:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e01be90cadcb8258"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "16af34e4566712aa"
   },
   {
     "id": "Rockmusik",
@@ -21980,11 +22307,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rockmusik.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rockmusik.htm",
-    "rank": 3578,
+    "rank": 3666,
     "zipf": 3.31,
     "first_seen": "2026-10-16T22:14:55+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "c2fbe6a7dc95ba26"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b027ad5666b707a2"
   },
   {
     "id": "Rolle",
@@ -22159,11 +22486,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rose.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rose.htm",
-    "rank": 1474,
+    "rank": 1480,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:55:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "cb93b3dd43c53077"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6b45dc1066a50d4a"
   },
   {
     "id": "Ruhe",
@@ -22388,11 +22715,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Rundfahrt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Rundfahrt.htm",
-    "rank": 3328,
+    "rank": 3407,
     "zipf": 3.41,
     "first_seen": "2026-10-13T14:06:53+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9a5f20ee62e61de7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2c0117b79f61aa46"
   },
   {
     "id": "Ra3tselecke",
@@ -22430,11 +22757,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ra3tselecke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ra3tselecke.htm",
-    "rank": 11236,
+    "rank": 11605,
     "zipf": 0.0,
     "first_seen": "2026-10-15T22:22:58+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e339ad356c7e3c95"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "18c4bf5e9e5e77a4"
   },
   {
     "id": "Schauspieler",
@@ -22499,11 +22826,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schauspieler.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schauspieler.htm",
-    "rank": 982,
+    "rank": 988,
     "zipf": 4.55,
     "first_seen": "2026-10-17T11:03:22+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ccb9009858890f26"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b7836cb1e4acd644"
   },
   {
     "id": "Schauspielerin",
@@ -22566,11 +22893,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schauspielerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schauspielerin.htm",
-    "rank": 1817,
+    "rank": 1828,
     "zipf": 4.22,
     "first_seen": "2026-10-17T11:03:22+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "eb4821c7ec1925f9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9036caefbd122b35"
   },
   {
     "id": "Schildkro3te",
@@ -22631,11 +22958,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schildkro3te.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schildkro3te.htm",
-    "rank": 3304,
+    "rank": 3380,
     "zipf": 3.42,
     "first_seen": "2026-10-22T12:41:55+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "244c349cd36c2bba"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4f152476a88b381d"
   },
   {
     "id": "Schlaf",
@@ -22705,11 +23032,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Schlaf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schlaf.htm",
-    "rank": 1039,
+    "rank": 1045,
     "zipf": 4.52,
     "first_seen": "2026-10-17T12:02:28+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f4b6c76b7dca789f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b61a4e17bcf94cd0"
   },
   {
     "id": "Schloss",
@@ -22837,11 +23164,84 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schlu3sselkind.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schlu3sselkind.htm",
-    "rank": 9878,
+    "rank": 10189,
     "zipf": 1.39,
     "first_seen": "2026-10-12T08:36:25+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7d1ecfb51327ab84"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "43be4f5f9caaf61e"
+  },
+  {
+    "id": "Schmuckstu3ck",
+    "type": "noun",
+    "lemma": "Schmuckstück",
+    "article": "das",
+    "articles": [
+      "das"
+    ],
+    "gender": "n",
+    "plural": "Schmuckstücke(r)",
+    "genitive": "Schmuckstück(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "gem",
+      "jewel",
+      "piece of jewellery",
+      "masterpiece",
+      "piece of jewelry",
+      "treasure",
+      "trinket"
+    ],
+    "definitions_de": [
+      "kostbarer Gegenstand, Bijou",
+      "besonders gelungener oder geschätzter Gegenstand",
+      "Liebste"
+    ],
+    "synonyms": [
+      "Bijou",
+      "Liebste"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Es ist ein Schmuckstück.",
+        "en": "It is a piece of jewelry."
+      },
+      {
+        "de": "So nennt man eine Sammlung von kostbaren Schmuckstücken, die man früher für ein wichtiges Fest getragen hat.",
+        "en": "This is called a collection of precious jewelry that was worn for an important celebration in the past."
+      },
+      {
+        "de": "Er vergoldete das Schmuckstück.",
+        "en": "He gilded the piece of jewelry."
+      },
+      {
+        "de": "Diese Schmuckstücke kommen aus Brasilien.",
+        "en": "These pieces of jewelry come from Brazil."
+      },
+      {
+        "de": "Onyx wird nur zu Schmuckstücken verarbeitet.",
+        "en": "Onyx is only processed into jewelry."
+      },
+      {
+        "de": "Ich wurde beim Fund des Schmuckstücks beobachtet.",
+        "en": "I was observed when I found the piece of jewelry."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Schmuckstu3ck.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Schmuckstu3ck.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Schmuckstu3ck.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schmuckstu3ck.mp3",
+      "menge": "https://www.verbformen.de/deklination/substantive/menge/mehrere_Schmuckstu3ck.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Schmuckstu3ck.htm",
+    "rank": 3735,
+    "zipf": 3.28,
+    "first_seen": "2026-10-23T22:32:56+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2c271c4d7b076206"
   },
   {
     "id": "Schriftsteller",
@@ -22902,11 +23302,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schriftsteller.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schriftsteller.htm",
-    "rank": 1475,
+    "rank": 1481,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:55:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "829ea5df3ea8c2b1"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3d4be7477ae5a76c"
   },
   {
     "id": "Schriftstellerin",
@@ -22968,11 +23368,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schriftstellerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schriftstellerin.htm",
-    "rank": 2976,
+    "rank": 3040,
     "zipf": 3.58,
     "first_seen": "2026-10-20T12:55:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "74e8c9bba8d842a7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d1b42832724ce2a1"
   },
   {
     "id": "Schritt",
@@ -23122,11 +23522,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schulabschluss.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schulabschluss.htm",
-    "rank": 2990,
+    "rank": 3054,
     "zipf": 3.57,
     "first_seen": "2026-10-14T12:59:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "0b6637407a396b82"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "05f64ff5663218f5"
   },
   {
     "id": "Schulzeit",
@@ -23189,11 +23589,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schulzeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schulzeit.htm",
-    "rank": 2484,
+    "rank": 2539,
     "zipf": 3.83,
     "first_seen": "2026-10-17T11:22:48+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e13b8af9b0f88c9f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "69b54186561f20b2"
   },
   {
     "id": "Schwarzbrot",
@@ -23245,11 +23645,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schwarzbrot.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schwarzbrot.htm",
-    "rank": 5948,
+    "rank": 6105,
     "zipf": 2.6,
     "first_seen": "2026-10-13T23:52:47+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "71423e416efe1082"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9230f7e2e7f7d985"
   },
   {
     "id": "Schweizer",
@@ -23379,11 +23779,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schweizerdeutsch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schweizerdeutsch.htm",
-    "rank": 4999,
+    "rank": 5126,
     "zipf": 2.85,
     "first_seen": "2026-10-13T14:45:47+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "26eb35ba7c9f49de"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4f459fbf70c4c2b2"
   },
   {
     "id": "Schweizerin",
@@ -23433,11 +23833,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Schweizerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Schweizerin.htm",
-    "rank": 4650,
+    "rank": 4769,
     "zipf": 2.95,
     "first_seen": "2026-10-13T14:45:47+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5082159fb80a95b7"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d19ade2e26732832"
   },
   {
     "id": "Selbstauslo3ser",
@@ -23473,11 +23873,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Selbstauslo3ser.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Selbstauslo3ser.htm",
-    "rank": 7507,
+    "rank": 7717,
     "zipf": 2.19,
     "first_seen": "2026-10-08T11:24:38+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f56a1ad58749a5af"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "fa9e475426c0c778"
   },
   {
     "id": "Sendung",
@@ -23632,11 +24032,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Senior.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Senior.htm",
-    "rank": 2328,
+    "rank": 2379,
     "zipf": 3.92,
     "first_seen": "2026-10-12T14:23:46+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4f6717167e73f8bf"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "f7f6dbcdccb98904"
   },
   {
     "id": "Servicekraft",
@@ -23679,11 +24079,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Servicekraft.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Servicekraft.htm",
-    "rank": 6863,
+    "rank": 7045,
     "zipf": 2.36,
     "first_seen": "2026-10-16T12:03:35+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4335ee218a075a65"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "805bb3ddc8b83945"
   },
   {
     "id": "Show",
@@ -23914,11 +24314,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sieb.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sieb.htm",
-    "rank": 3645,
+    "rank": 3736,
     "zipf": 3.28,
     "first_seen": "2026-10-08T10:45:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8a8edb186fe9693b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "41a16e525f039a21"
   },
   {
     "id": "Sieg",
@@ -24120,11 +24520,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Socke.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Socke.htm",
-    "rank": 3409,
+    "rank": 3491,
     "zipf": 3.38,
     "first_seen": "2026-10-08T10:49:11+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b536ddae5b87ecab"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "473c6c64f9833f92"
   },
   {
     "id": "Sorge",
@@ -24273,11 +24673,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sorte.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sorte.htm",
-    "rank": 2117,
+    "rank": 2163,
     "zipf": 4.05,
     "first_seen": "2026-10-15T23:24:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6749711b71f6beab"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6b26fa09f194e81a"
   },
   {
     "id": "Speicher",
@@ -24355,11 +24755,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Speicher.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Speicher.htm",
-    "rank": 2232,
+    "rank": 2282,
     "zipf": 3.98,
     "first_seen": "2026-10-19T12:28:04+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "817f19ae5032e0a9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a0e93884cdaa942d"
   },
   {
     "id": "Spiegel",
@@ -24494,11 +24894,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Spiegelbild.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Spiegelbild.htm",
-    "rank": 3475,
+    "rank": 3560,
     "zipf": 3.35,
     "first_seen": "2026-10-14T23:38:11+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8df9d90b9a0fded6"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4fee8be83d084916"
   },
   {
     "id": "Spielbeginn",
@@ -24559,11 +24959,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Spielbeginn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Spielbeginn.htm",
-    "rank": 4677,
+    "rank": 4797,
     "zipf": 2.94,
     "first_seen": "2026-10-13T23:58:47+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "dfac87dfed94369e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "562715a3d5afd3ef"
   },
   {
     "id": "Spieler",
@@ -24699,11 +25099,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sportart.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sportart.htm",
-    "rank": 2785,
+    "rank": 2843,
     "zipf": 3.67,
     "first_seen": "2026-10-14T00:16:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1db3d67e5af75c83"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3618c26cea261afb"
   },
   {
     "id": "Sprachenschule",
@@ -24751,11 +25151,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sprachenschule.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sprachenschule.htm",
-    "rank": 9093,
+    "rank": 9376,
     "zipf": 1.71,
     "first_seen": "2026-10-13T14:49:41+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1182dd3c11922875"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "73eb51b4097e202a"
   },
   {
     "id": "Sprecher",
@@ -24836,11 +25236,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sprecher.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sprecher.htm",
-    "rank": 1476,
+    "rank": 1482,
     "zipf": 4.35,
     "first_seen": "2026-10-20T12:56:11+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bfc552f4ac6dca91"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b3e51674684dd0e0"
   },
   {
     "id": "Sprichwort",
@@ -24904,11 +25304,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sprichwort.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sprichwort.htm",
-    "rank": 2853,
+    "rank": 2915,
     "zipf": 3.64,
     "first_seen": "2026-10-21T22:26:21+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6b8fc6cf0b6fae1b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "285a94c47b46d154"
   },
   {
     "id": "Spruch",
@@ -24988,11 +25388,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Spruch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Spruch.htm",
-    "rank": 1819,
+    "rank": 1831,
     "zipf": 4.22,
     "first_seen": "2026-10-23T12:33:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "68f2788dd70130c3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6221174215297379"
   },
   {
     "id": "Stadion",
@@ -25053,11 +25453,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stadion.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stadion.htm",
-    "rank": 1145,
+    "rank": 1151,
     "zipf": 4.47,
     "first_seen": "2026-10-18T11:42:57+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "92c690b3bc309847"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "114aacb42a013329"
   },
   {
     "id": "Station",
@@ -25130,11 +25530,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Station.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Station.htm",
-    "rank": 1146,
+    "rank": 1152,
     "zipf": 4.47,
     "first_seen": "2026-10-18T11:43:18+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e56c93483005a073"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1fe8f7d722b7b74d"
   },
   {
     "id": "Stehplatz",
@@ -25180,11 +25580,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stehplatz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stehplatz.htm",
-    "rank": 5950,
+    "rank": 6107,
     "zipf": 2.6,
     "first_seen": "2026-10-13T02:43:36+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f687b10a224e1cac"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1347b0224cc480f5"
   },
   {
     "id": "Stein",
@@ -25351,11 +25751,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stern.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stern.htm",
-    "rank": 1082,
+    "rank": 1088,
     "zipf": 4.5,
     "first_seen": "2026-10-17T21:27:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7c8eff2ef4d7ae55"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1d3d834977c889bd"
   },
   {
     "id": "Stil",
@@ -25497,11 +25897,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Stille.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stille.htm",
-    "rank": 1703,
+    "rank": 1709,
     "zipf": 4.26,
     "first_seen": "2026-10-12T14:25:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "65f5fee7319ac3a8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5c64cba1da40419c"
   },
   {
     "id": "Stimme",
@@ -25721,11 +26121,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stockwerk.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stockwerk.htm",
-    "rank": 2897,
+    "rank": 2959,
     "zipf": 3.62,
     "first_seen": "2026-10-17T12:04:14+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "40cf41d0eb37f43b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "03a0ddbc25bcc290"
   },
   {
     "id": "Stoff",
@@ -25815,11 +26215,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stoff.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stoff.htm",
-    "rank": 1198,
+    "rank": 1204,
     "zipf": 4.45,
     "first_seen": "2026-10-18T21:21:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5bbf5f6433a4c277"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "6254a912c8fba4c5"
   },
   {
     "id": "Strand",
@@ -25883,11 +26283,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Strand.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Strand.htm",
-    "rank": 1232,
+    "rank": 1238,
     "zipf": 4.44,
     "first_seen": "2026-10-18T21:52:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b2dae24ecf8cf67c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "33ee78c71565b57e"
   },
   {
     "id": "Strecke",
@@ -26057,11 +26457,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Streit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Streit.htm",
-    "rank": 885,
+    "rank": 890,
     "zipf": 4.61,
     "first_seen": "2026-10-16T12:04:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "7993f5a207031c48"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8fd874547cfe550c"
   },
   {
     "id": "Strom",
@@ -26198,11 +26598,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Stundenplan.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Stundenplan.htm",
-    "rank": 3890,
+    "rank": 3986,
     "zipf": 3.19,
     "first_seen": "2026-10-08T13:16:53+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "10ec1745ef53cd15"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "98d83cbeefc91feb"
   },
   {
     "id": "Szene",
@@ -26341,11 +26741,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Sa3ngerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Sa3ngerin.htm",
-    "rank": 1988,
+    "rank": 2031,
     "zipf": 4.12,
     "first_seen": "2026-10-18T22:26:30+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "43094046384a8f8e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c22ea05f38556fa1"
   },
   {
     "id": "Tagesablauf",
@@ -26406,11 +26806,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tagesablauf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tagesablauf.htm",
-    "rank": 3732,
+    "rank": 3823,
     "zipf": 3.25,
     "first_seen": "2026-10-08T13:50:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4ba56436dac32f27"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4f4d9f479dd7a046"
   },
   {
     "id": "Taschenrechner",
@@ -26473,11 +26873,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Taschenrechner.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Taschenrechner.htm",
-    "rank": 3940,
+    "rank": 4037,
     "zipf": 3.17,
     "first_seen": "2026-10-13T02:38:40+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "42a94e898e22ccd9"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1ff6ec356ffe865d"
   },
   {
     "id": "Teamarbeit",
@@ -26521,11 +26921,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Teamarbeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Teamarbeit.htm",
-    "rank": 4007,
+    "rank": 4106,
     "zipf": 3.15,
     "first_seen": "2026-10-12T14:38:09+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ade321dbc269229c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4cd943fe48d7858a"
   },
   {
     "id": "Technikerin",
@@ -26576,11 +26976,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Technikerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Technikerin.htm",
-    "rank": 8047,
+    "rank": 8281,
     "zipf": 2.04,
     "first_seen": "2026-10-14T12:37:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1e5d45e5ac2561bd"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "edaf602c6c7442de"
   },
   {
     "id": "Teilnehmer",
@@ -26718,11 +27118,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Teilnehmerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Teilnehmerin.htm",
-    "rank": 4089,
+    "rank": 4190,
     "zipf": 3.12,
     "first_seen": "2026-10-14T12:48:16+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9dc523d43b448f72"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3af9ca9c884a8d49"
   },
   {
     "id": "Telefongespra3ch",
@@ -26787,11 +27187,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Telefongespra3ch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Telefongespra3ch.htm",
-    "rank": 4679,
+    "rank": 4799,
     "zipf": 2.94,
     "first_seen": "2026-10-08T14:25:51+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "304563eb1b795007"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a6ceea57c3f3f0b2"
   },
   {
     "id": "Telefonzentrale",
@@ -26838,11 +27238,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Telefonzentrale.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Telefonzentrale.htm",
-    "rank": 6833,
+    "rank": 7012,
     "zipf": 2.37,
     "first_seen": "2026-10-16T22:40:55+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "406d3615733e4d79"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "201604d792c9d5e6"
   },
   {
     "id": "Temperatur",
@@ -26909,11 +27309,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Temperatur.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Temperatur.htm",
-    "rank": 985,
+    "rank": 991,
     "zipf": 4.55,
     "first_seen": "2026-10-17T11:04:48+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8d0d89e8562b8475"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a237469b693c2171"
   },
   {
     "id": "Tierarzt",
@@ -26980,11 +27380,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tierarzt.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tierarzt.htm",
-    "rank": 2801,
+    "rank": 2860,
     "zipf": 3.66,
     "first_seen": "2026-10-16T12:05:41+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "206135a713ef818d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1fbfed729e8488c9"
   },
   {
     "id": "Tiera3rztin",
@@ -27049,11 +27449,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tiera3rztin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tiera3rztin.htm",
-    "rank": 4274,
+    "rank": 4383,
     "zipf": 3.06,
     "first_seen": "2026-10-16T12:05:41+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "97205a9a4d464011"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b487495176be419c"
   },
   {
     "id": "Top",
@@ -27171,11 +27571,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Topf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Topf.htm",
-    "rank": 2103,
+    "rank": 2149,
     "zipf": 4.06,
     "first_seen": "2026-10-14T00:30:39+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "1bd25ebf172ebb66"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8a908a08614c8f18"
   },
   {
     "id": "Tor",
@@ -27314,11 +27714,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Tourist.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Tourist.htm",
-    "rank": 2958,
+    "rank": 3020,
     "zipf": 3.59,
     "first_seen": "2026-10-14T23:39:57+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8b08b9d9e9803b36"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ac281e6234ccd692"
   },
   {
     "id": "Trainerin",
@@ -27378,11 +27778,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Trainerin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Trainerin.htm",
-    "rank": 3411,
+    "rank": 3493,
     "zipf": 3.38,
     "first_seen": "2026-10-14T12:57:42+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bb978dc4c592efea"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bf093dc98b9c1e4e"
   },
   {
     "id": "Transport",
@@ -27454,11 +27854,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Transport.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Transport.htm",
-    "rank": 1629,
+    "rank": 1635,
     "zipf": 4.29,
     "first_seen": "2026-10-21T22:57:20+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "8f81fbaea90fdd72"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "df3f468cedacffb7"
   },
   {
     "id": "Traum",
@@ -27585,11 +27985,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Traumberuf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Traumberuf.htm",
-    "rank": 4708,
+    "rank": 4829,
     "zipf": 2.93,
     "first_seen": "2026-10-12T15:18:22+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "eb90bdacae2c6c43"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ec4499ff5fdf8fca"
   },
   {
     "id": "Trikot",
@@ -27633,11 +28033,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Trikot_neut.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Trikot.htm",
-    "rank": 2236,
+    "rank": 2286,
     "zipf": 3.98,
     "first_seen": "2026-10-21T00:05:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "00e9453dcc606996"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "dc1850e9bc5ef0f7"
   },
   {
     "id": "Ta3ter",
@@ -27770,11 +28170,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ta3terin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ta3terin.htm",
-    "rank": 5154,
+    "rank": 5285,
     "zipf": 2.81,
     "first_seen": "2026-10-15T23:14:35+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "604d898c4c6e088e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "97b1b21ac1e0985b"
   },
   {
     "id": "Ufer",
@@ -27836,11 +28236,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Ufer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Ufer.htm",
-    "rank": 1821,
+    "rank": 1833,
     "zipf": 4.22,
     "first_seen": "2026-10-23T12:36:57+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "4d2946fc3d7c0ee2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "36322d5d4d016aaf"
   },
   {
     "id": "Umbau",
@@ -27918,11 +28318,11 @@
       "plural2": "https://www.verbformen.de/deklination/substantive/plural2/der_Umbauten.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Umbau.htm",
-    "rank": 1885,
+    "rank": 1925,
     "zipf": 4.18,
     "first_seen": "2026-10-08T10:53:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2055d96fe45ab4ee"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "634a28b5376cabb9"
   },
   {
     "id": "Umwelt",
@@ -27988,6 +28388,83 @@
     "first_seen": "2026-10-16T11:27:50+00:00",
     "updated_at": "2026-10-23T13:40:13+00:00",
     "hash": "3f32eac55faa1b41"
+  },
+  {
+    "id": "Umzug",
+    "type": "noun",
+    "lemma": "Umzug",
+    "article": "der",
+    "articles": [
+      "der"
+    ],
+    "gender": "m",
+    "plural": "Umzüge",
+    "genitive": "Umzug(e)s",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "move",
+      "procession",
+      "relocation",
+      "parade",
+      "march",
+      "procesiune",
+      "removal",
+      "tenancy changeover"
+    ],
+    "definitions_de": [
+      "[Zuhause] Wechsel des Wohnsitzes, Auszug, Übersiedlung, Umsiedlung, Wohnortverlegung, Wohnsitzwechsel",
+      "[Tradition] geordneter Marsch von Menschen, die eventuell auch von Fahrzeugen begleitet werden, Aufmarsch, Aufzug"
+    ],
+    "synonyms": [
+      "Auszug",
+      "Übersiedlung",
+      "Umsiedlung",
+      "Wohnortverlegung",
+      "Wohnsitzwechsel",
+      "Aufmarsch",
+      "Aufzug"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wann steigt der Umzug?",
+        "en": "When does the parade start?"
+      },
+      {
+        "de": "Ich bin wegen des Umzugs schon ganz aufgeregt.",
+        "en": "I'm excited about the move."
+      },
+      {
+        "de": "Tom half mir beim Umzug.",
+        "en": "Tom helped me to move."
+      },
+      {
+        "de": "Dort gibt es am Montag Umzüge.",
+        "en": "There are parades on Monday."
+      },
+      {
+        "de": "Die Umzüge kann man im Fernsehen sehen.",
+        "en": "The parades can be seen on television."
+      },
+      {
+        "de": "Beim Umzug habe ich auf deine Hilfe gebaut.",
+        "en": "I relied on your help during the move."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Umzug.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Umzug.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Umzug.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Umzug.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Umzug.htm",
+    "rank": 1861,
+    "zipf": 4.21,
+    "first_seen": "2026-10-23T22:36:46+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "1e36cf0f3bf379a9"
   },
   {
     "id": "Unordnung",
@@ -28061,11 +28538,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Unordnung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Unordnung.htm",
-    "rank": 3649,
+    "rank": 3740,
     "zipf": 3.28,
     "first_seen": "2026-10-20T12:36:32+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ae1395f927ed1da8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "24812c664c15355e"
   },
   {
     "id": "Unsinn",
@@ -28145,11 +28622,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Unsinn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Unsinn.htm",
-    "rank": 1607,
+    "rank": 1613,
     "zipf": 4.3,
     "first_seen": "2026-10-21T22:28:07+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5c9141b4a3351030"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "caa815d7bb4f8262"
   },
   {
     "id": "Unterhaltung",
@@ -28234,11 +28711,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Unterhaltung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Unterhaltung.htm",
-    "rank": 1297,
+    "rank": 1303,
     "zipf": 4.42,
     "first_seen": "2026-10-19T12:36:33+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f1ea143e0842c507"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b3cb984ef5f3dd2c"
   },
   {
     "id": "Untersuchung",
@@ -28316,11 +28793,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Untersuchung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Untersuchung.htm",
-    "rank": 931,
+    "rank": 936,
     "zipf": 4.58,
     "first_seen": "2026-10-16T22:17:42+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "af086116fd606f2c"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4e92059f7d6e7c4c"
   },
   {
     "id": "Variante",
@@ -28400,11 +28877,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Variante.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Variante.htm",
-    "rank": 1132,
+    "rank": 1138,
     "zipf": 4.48,
     "first_seen": "2026-10-14T12:58:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "77844220c0456d9f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "56dafdb0066a03d5"
   },
   {
     "id": "Veranstaltung",
@@ -28898,11 +29375,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Verletzung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Verletzung.htm",
-    "rank": 1558,
+    "rank": 1564,
     "zipf": 4.32,
     "first_seen": "2026-10-21T12:08:46+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ad9b6cad6f14140e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ab4b705ed099b864"
   },
   {
     "id": "Versicherung",
@@ -28979,11 +29456,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Versicherung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Versicherung.htm",
-    "rank": 1391,
+    "rank": 1397,
     "zipf": 4.38,
     "first_seen": "2026-10-20T00:38:47+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "bad9907f5bdf052d"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e80cd55fc5045f35"
   },
   {
     "id": "Versteck",
@@ -29053,11 +29530,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Versteck.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Versteck.htm",
-    "rank": 2941,
+    "rank": 3003,
     "zipf": 3.6,
     "first_seen": "2026-10-23T11:59:11+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "d6014634dc3b8963"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "3d6086c2c32e6086"
   },
   {
     "id": "Vera3nderung",
@@ -29131,11 +29608,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vera3nderung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vera3nderung.htm",
-    "rank": 1441,
+    "rank": 1447,
     "zipf": 4.36,
     "first_seen": "2026-10-17T21:30:29+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "40c51fc5e748ea45"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "c251824fd9220a42"
   },
   {
     "id": "Videokonferenz",
@@ -29188,11 +29665,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Videokonferenz.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Videokonferenz.htm",
-    "rank": 5563,
+    "rank": 5702,
     "zipf": 2.7,
     "first_seen": "2026-10-13T14:33:37+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "851dc57f612d660f"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "4d941a3df0dccc07"
   },
   {
     "id": "Vorbereitung",
@@ -29256,11 +29733,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vorbereitung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vorbereitung.htm",
-    "rank": 1178,
+    "rank": 1184,
     "zipf": 4.46,
     "first_seen": "2026-10-18T12:13:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "ff95628fa929909b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "df8f0682488b7961"
   },
   {
     "id": "Vorbild",
@@ -29334,11 +29811,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vorbild.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vorbild.htm",
-    "rank": 1272,
+    "rank": 1278,
     "zipf": 4.43,
     "first_seen": "2026-10-19T12:11:52+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "77feb24e9198f282"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d8f2ec2f80c43f0b"
   },
   {
     "id": "Vordergrund",
@@ -29398,11 +29875,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vordergrund.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vordergrund.htm",
-    "rank": 1582,
+    "rank": 1588,
     "zipf": 4.31,
     "first_seen": "2026-10-21T12:39:50+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "54421ae802bda837"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "2d6fda236d947b87"
   },
   {
     "id": "Vorschlag",
@@ -29472,11 +29949,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Vorschlag.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Vorschlag.htm",
-    "rank": 948,
+    "rank": 953,
     "zipf": 4.57,
     "first_seen": "2026-10-16T22:39:06+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "eacb6a1395ca0644"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "637cf510c127b507"
   },
   {
     "id": "Wagen",
@@ -29647,11 +30124,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Waggon.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Waggon.htm",
-    "rank": 3975,
+    "rank": 4074,
     "zipf": 3.16,
     "first_seen": "2026-10-18T12:18:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "3e21124b89e69578"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "bc769f77d238cdf2"
   },
   {
     "id": "Wahnsinn",
@@ -29720,11 +30197,11 @@
       "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wahnsinn.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wahnsinn.htm",
-    "rank": 1442,
+    "rank": 1448,
     "zipf": 4.36,
     "first_seen": "2026-10-20T12:29:31+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9a41a43d28b202b0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "07c37e7d5d02a85b"
   },
   {
     "id": "Wand",
@@ -29867,11 +30344,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wartezimmer.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wartezimmer.htm",
-    "rank": 3679,
+    "rank": 3770,
     "zipf": 3.27,
     "first_seen": "2026-10-08T11:48:45+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "a725041dbc4da594"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "68e84acbb8e6a626"
   },
   {
     "id": "Weis5brot",
@@ -29931,11 +30408,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Weis5brot.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Weis5brot.htm",
-    "rank": 4427,
+    "rank": 4541,
     "zipf": 3.02,
     "first_seen": "2026-10-08T10:54:00+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "6da501c4c2d2d278"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "5204509bfcbdefed"
   },
   {
     "id": "Werbung",
@@ -30171,11 +30648,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wettbewerb.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wettbewerb.htm",
-    "rank": 988,
+    "rank": 994,
     "zipf": 4.55,
     "first_seen": "2026-10-17T11:07:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "43e517608cfc6ba8"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9cd0bc3a3bcc1e25"
   },
   {
     "id": "Widerspruch",
@@ -30260,11 +30737,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Widerspruch.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Widerspruch.htm",
-    "rank": 1634,
+    "rank": 1640,
     "zipf": 4.29,
     "first_seen": "2026-10-20T11:55:58+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "e9f7a71be6fb20f0"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e37a34bdc346a354"
   },
   {
     "id": "Wiese",
@@ -30326,11 +30803,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wiese.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wiese.htm",
-    "rank": 2059,
+    "rank": 2104,
     "zipf": 4.08,
     "first_seen": "2026-10-22T12:13:57+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b22d5de40b0bb9a2"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a8575bb5924104f3"
   },
   {
     "id": "Wirklichkeit",
@@ -30396,11 +30873,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wirklichkeit.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wirklichkeit.htm",
-    "rank": 1346,
+    "rank": 1352,
     "zipf": 4.4,
     "first_seen": "2026-10-08T10:59:26+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "51d9e82db3c4ef7a"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "8ce9aeb475562291"
   },
   {
     "id": "Wirtschaft",
@@ -30635,11 +31112,87 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wolf.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Wolf.htm",
-    "rank": 950,
+    "rank": 955,
     "zipf": 4.57,
     "first_seen": "2026-10-16T22:40:35+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "57c5af779e513013"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ebc0c8412a1b9812"
+  },
+  {
+    "id": "Wa3sche",
+    "type": "noun",
+    "lemma": "Wäsche",
+    "article": "die",
+    "articles": [
+      "die"
+    ],
+    "gender": "f",
+    "plural": "Wäschen",
+    "genitive": "Wäsche",
+    "singular_only": false,
+    "plural_only": false,
+    "level": "A2",
+    "english": [
+      "laundry",
+      "underwear",
+      "washing",
+      "car wash",
+      "clothes",
+      "laundering",
+      "linen",
+      "lingerie",
+      "wash"
+    ],
+    "definitions_de": [
+      "[Kleidung] Gesamtheit mehrerer Kleidungs- und Textilstücke, die kürzlich gewaschen wurden oder gewaschen werden sollen",
+      "der Vorgang des Waschens von",
+      "meist im Ausland stattfindende Vorgehensweise, Geld so anzulegen, dass seine Herkunft aus kriminellen Machenschaften nicht mehr nachweisbar ist, Geldwäsche",
+      "[Haushalt] Unterwäsche, Dessous"
+    ],
+    "synonyms": [
+      "Geldwäsche",
+      "Unterwäsche",
+      "Dessous"
+    ],
+    "ipa": [],
+    "examples": [
+      {
+        "de": "Wo ist die Wäsche?",
+        "en": "Where is the laundry?"
+      },
+      {
+        "de": "Ich hänge die Wäsche auf.",
+        "en": "I'll hang the washing out."
+      },
+      {
+        "de": "Schmutzige Wäsche wäscht man zu Hause.",
+        "en": "Dirty laundry is washed at home."
+      },
+      {
+        "de": "Tom liebt den Geruch von frischer Wäsche.",
+        "en": "Tom loves the smell of clean laundry."
+      },
+      {
+        "de": "Ich gebe die Hose in die Wäsche.",
+        "en": "I put the pants in the laundry."
+      },
+      {
+        "de": "Der Hausmann wäscht die Wäsche in der Waschmaschine.",
+        "en": "The househusband washes the laundry in the washing machine."
+      }
+    ],
+    "audio": {
+      "grundform": "https://www.verbformen.de/deklination/substantive/grundform/der_Wa3sche.mp3",
+      "stammformen": "https://www.verbformen.de/deklination/substantive/stammformen/der_Wa3sche.mp3",
+      "singular": "https://www.verbformen.de/deklination/substantive/singular/der_Wa3sche.mp3",
+      "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Wa3sche.mp3"
+    },
+    "source_url": "https://www.verbformen.de/deklination/substantive/Wa3sche.htm",
+    "rank": 2179,
+    "zipf": 4.04,
+    "first_seen": "2026-10-23T23:19:10+00:00",
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "ccf7a7c76ad33add"
   },
   {
     "id": "Zeichnung",
@@ -30728,11 +31281,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeichnung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeichnung.htm",
-    "rank": 2213,
+    "rank": 2263,
     "zipf": 3.99,
     "first_seen": "2026-10-16T22:08:17+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "f6f1e7cfe5a6a361"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "a2a30bd662a81876"
   },
   {
     "id": "Zeitpunkt",
@@ -30862,11 +31415,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeitungsartikel.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeitungsartikel.htm",
-    "rank": 3706,
+    "rank": 3797,
     "zipf": 3.26,
     "first_seen": "2026-10-14T00:11:02+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "aff5ebcee38b1d76"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "237bafe00a16ce6c"
   },
   {
     "id": "Zeugnis",
@@ -30941,11 +31494,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zeugnis.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zeugnis.htm",
-    "rank": 2331,
+    "rank": 2382,
     "zipf": 3.92,
     "first_seen": "2026-10-12T14:29:01+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "9cebcf9b05b254c6"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b7a428cde1a5af52"
   },
   {
     "id": "Zuhause",
@@ -31151,11 +31704,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_Zusammenfassung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/Zusammenfassung.htm",
-    "rank": 1972,
+    "rank": 2015,
     "zipf": 4.13,
     "first_seen": "2026-10-21T12:49:12+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "5f36c0750842546e"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9ec53db2bbde6c88"
   },
   {
     "id": "Zuschauer",
@@ -31289,11 +31842,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_O3sterreicher.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/O3sterreicher.htm",
-    "rank": 1528,
+    "rank": 1534,
     "zipf": 4.33,
     "first_seen": "2026-10-13T14:18:20+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "86509a8a78cba2e3"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "e028c3a563414e91"
   },
   {
     "id": "O3sterreicherin",
@@ -31351,11 +31904,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_O3sterreicherin.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/O3sterreicherin.htm",
-    "rank": 4654,
+    "rank": 4773,
     "zipf": 2.95,
     "first_seen": "2026-10-13T14:18:20+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2ea742a94da09965"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "d20b79ce520a6211"
   },
   {
     "id": "U3bersetzung",
@@ -31433,11 +31986,11 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_U3bersetzung.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/U3bersetzung.htm",
-    "rank": 1005,
+    "rank": 1011,
     "zipf": 4.54,
     "first_seen": "2026-10-17T11:25:59+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "2cbc6e30669f3924"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "9b0acadb878a6249"
   },
   {
     "id": "U3bersicht",
@@ -31512,10 +32065,10 @@
       "plural": "https://www.verbformen.de/deklination/substantive/plural/der_U3bersicht.mp3"
     },
     "source_url": "https://www.verbformen.de/deklination/substantive/U3bersicht.htm",
-    "rank": 1088,
+    "rank": 1094,
     "zipf": 4.5,
     "first_seen": "2026-10-17T21:33:37+00:00",
-    "updated_at": "2026-10-23T13:40:13+00:00",
-    "hash": "b994e1d55d24812b"
+    "updated_at": "2026-10-24T00:19:31+00:00",
+    "hash": "b8199489266025ae"
   }
 ]
