@@ -20,11 +20,11 @@
       "Akk"
     ],
     "prepositions": [
-      "von+D",
       "nach+D",
+      "von+D",
       "auf+A"
     ],
-    "usage_pattern_raw": "Akk., von+D, nach+D, auf+A",
+    "usage_pattern_raw": "Akk., nach+D, von+D, auf+A",
     "indicative": {
       "Präsens": {
         "ich": "fahre ab",
@@ -160,11 +160,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abfahren_ist.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abfahren.htm",
-    "rank": 7785,
+    "rank": 7818,
     "zipf": 3.28,
     "first_seen": "2026-10-08T05:21:31+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "400e418b104f6fab"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "ec5de3b39360d67f"
   },
   {
     "id": "abfliegen",
@@ -291,11 +291,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abfliegen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abfliegen.htm",
-    "rank": 17710,
+    "rank": 17784,
     "zipf": 2.3,
     "first_seen": "2026-10-12T15:33:13+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "0abe1961c7a9f12d"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "624794c9ba92d321"
   },
   {
     "id": "abgeben",
@@ -325,7 +325,7 @@
       "an+A",
       "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., bei+D, in+A, von+D, an+A, mit+D",
+    "usage_pattern_raw": "sich+A, Dat., Akk., bei+D, in+A, von+D, an+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "gebe ab",
@@ -491,8 +491,8 @@
     "rank": 1528,
     "zipf": 4.35,
     "first_seen": "2026-10-07T11:09:24+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "5bd9f4780c9dff90"
+    "updated_at": "2026-11-24T02:57:21+00:00",
+    "hash": "30dfb260f715bb66"
   },
   {
     "id": "abholen",
@@ -828,11 +828,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/abrechnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/abrechnen.htm",
-    "rank": 9362,
+    "rank": 9406,
     "zipf": 3.07,
     "first_seen": "2026-10-16T22:33:24+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3521c1e3513fc0d7"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "1a08687afc3a217e"
   },
   {
     "id": "absagen",
@@ -856,7 +856,7 @@
       "Dat"
     ],
     "prepositions": [],
-    "usage_pattern_raw": "Akk., Dat.",
+    "usage_pattern_raw": "Dat., Akk.",
     "indicative": {
       "Präsens": {
         "ich": "sage ab",
@@ -996,8 +996,8 @@
     "rank": 4350,
     "zipf": 3.77,
     "first_seen": "2026-10-07T10:29:47+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "66189c3efa9d4205"
+    "updated_at": "2026-11-24T02:58:03+00:00",
+    "hash": "0c08daaaeb01842d"
   },
   {
     "id": "anbieten",
@@ -1480,11 +1480,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anklicken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anklicken.htm",
-    "rank": 7595,
+    "rank": 7626,
     "zipf": 3.31,
     "first_seen": "2026-10-20T00:06:32+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "701afaed4cc66c95"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "4ed46b6e39958644"
   },
   {
     "id": "ankommen",
@@ -1508,15 +1508,15 @@
       "Dat"
     ],
     "prepositions": [
-      "für+A",
-      "gegen+A",
       "bei+D",
-      "in+D",
+      "gegen+A",
       "auf+D",
+      "in+D",
+      "auf+A",
       "mit+D",
-      "auf+A"
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., für+A, gegen+A, bei+D, in+D, auf+D, mit+D, auf+A",
+    "usage_pattern_raw": "Dat., Akk., bei+D, gegen+A, auf+D, in+D, auf+A, mit+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "komme an",
@@ -1666,8 +1666,8 @@
     "rank": 2486,
     "zipf": 4.09,
     "first_seen": "2026-10-07T10:32:28+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "266aba9cac08577a"
+    "updated_at": "2026-11-24T02:58:25+00:00",
+    "hash": "f0ecc7fb9efba8a8"
   },
   {
     "id": "ankreuzen",
@@ -1793,11 +1793,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ankreuzen_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ankreuzen.htm",
-    "rank": 9531,
+    "rank": 9576,
     "zipf": 3.05,
     "first_seen": "2026-10-24T22:32:59+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "9a2a2018d6863d8b"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "df012ce8307a776f"
   },
   {
     "id": "anmachen",
@@ -1970,11 +1970,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anmachen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anmachen.htm",
-    "rank": 7249,
+    "rank": 7275,
     "zipf": 3.36,
     "first_seen": "2026-10-07T10:29:50+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "c029106fdb458b65"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "6fffee5d86ec79b9"
   },
   {
     "id": "anmalen",
@@ -2134,11 +2134,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anmalen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anmalen.htm",
-    "rank": 12849,
+    "rank": 12906,
     "zipf": 2.71,
     "first_seen": "2026-10-21T12:26:26+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "bcba7c826427f57c"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "41613f3de159197b"
   },
   {
     "id": "anmelden",
@@ -2458,11 +2458,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anprobieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anprobieren.htm",
-    "rank": 11469,
+    "rank": 11523,
     "zipf": 2.84,
     "first_seen": "2026-10-21T12:00:21+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "2cf8c29dc9a57e59"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "361c5595e49d3b1a"
   },
   {
     "id": "anrufen",
@@ -2977,11 +2977,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/anspannen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/anspannen.htm",
-    "rank": 13762,
+    "rank": 13822,
     "zipf": 2.63,
     "first_seen": "2026-10-17T21:57:14+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "5d203dfc744317d1"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "38af8d3efab2b407"
   },
   {
     "id": "ansprechen",
@@ -3005,12 +3005,12 @@
       "Dat"
     ],
     "prepositions": [
-      "für+A",
       "bei+D",
       "um+A",
-      "auf+A"
+      "auf+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., für+A, bei+D, um+A, auf+A, als",
+    "usage_pattern_raw": "Dat., Akk., bei+D, um+A, auf+A, für+A, als",
     "indicative": {
       "Präsens": {
         "ich": "spreche an",
@@ -3167,8 +3167,8 @@
     "rank": 2892,
     "zipf": 4.01,
     "first_seen": "2026-10-07T11:54:02+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "5b8bad2fe0bae714"
+    "updated_at": "2026-11-24T02:59:29+00:00",
+    "hash": "d772a3987722cd95"
   },
   {
     "id": "antworten",
@@ -3355,7 +3355,7 @@
       "Dat"
     ],
     "prepositions": [],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., Dat.",
+    "usage_pattern_raw": "sich+A, sich+D, Dat., Akk.",
     "indicative": {
       "Präsens": {
         "ich": "ziehe an",
@@ -3504,8 +3504,8 @@
     "rank": 2179,
     "zipf": 4.16,
     "first_seen": "2026-10-08T05:26:25+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "7199abbed0c575f2"
+    "updated_at": "2026-11-24T02:59:50+00:00",
+    "hash": "d99082fccf56bf47"
   },
   {
     "id": "arbeiten",
@@ -3528,16 +3528,16 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "über+A",
       "gegen+A",
-      "bis+A",
       "bei+D",
-      "mit+D",
+      "bis+A",
+      "aus+D",
+      "über+A",
       "an+D",
-      "aus+D"
+      "für+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., für+A, über+A, gegen+A, bis+A, bei+D, mit+D, an+D, aus+D, als",
+    "usage_pattern_raw": "sich+A, Akk., gegen+A, bei+D, bis+A, aus+D, über+A, an+D, für+A, mit+D, als",
     "indicative": {
       "Präsens": {
         "ich": "arbeite",
@@ -3683,8 +3683,8 @@
     "rank": 92,
     "zipf": 5.4,
     "first_seen": "2026-10-07T11:39:32+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "98c81e757c02b0c9"
+    "updated_at": "2026-11-24T03:00:11+00:00",
+    "hash": "9dab04a20e9bc0fe"
   },
   {
     "id": "atmen",
@@ -4211,12 +4211,12 @@
       "Dat"
     ],
     "prepositions": [
+      "nach+D",
       "zu+D",
       "für+A",
-      "mit+D",
-      "nach+D"
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., zu+D, für+A, mit+D, nach+D",
+    "usage_pattern_raw": "sich+A, Dat., Akk., nach+D, zu+D, für+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "mache auf",
@@ -4355,8 +4355,8 @@
     "rank": 3536,
     "zipf": 3.89,
     "first_seen": "2026-10-07T10:29:50+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "316b265344ef84ab"
+    "updated_at": "2026-11-24T03:00:54+00:00",
+    "hash": "af41ac7c6572d274"
   },
   {
     "id": "aufrufen",
@@ -4853,11 +4853,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aufschreiben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aufschreiben.htm",
-    "rank": 7115,
+    "rank": 7140,
     "zipf": 3.38,
     "first_seen": "2026-10-07T15:43:13+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "42267442df4bc562"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "82fea62eb8e97154"
   },
   {
     "id": "aufstehen",
@@ -4878,13 +4878,13 @@
     "reflexive_use": false,
     "objects": [],
     "prepositions": [
-      "für+A",
       "gegen+A",
       "auf+D",
+      "von+D",
       "in+D",
-      "von+D"
+      "für+A"
     ],
-    "usage_pattern_raw": "für+A, gegen+A, auf+D, in+D, von+D",
+    "usage_pattern_raw": "gegen+A, auf+D, von+D, in+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "stehe auf",
@@ -5015,8 +5015,8 @@
     "rank": 1905,
     "zipf": 4.23,
     "first_seen": "2026-10-08T05:30:35+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "dfa23d0762701a70"
+    "updated_at": "2026-11-24T03:02:57+00:00",
+    "hash": "fc317650cebb9d1b"
   },
   {
     "id": "ausdru3cken",
@@ -5478,11 +5478,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/aushaben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/aushaben.htm",
-    "rank": 30474,
+    "rank": 30607,
     "zipf": 0.0,
     "first_seen": "2026-10-07T10:26:18+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "120a81f1c6863211"
+    "updated_at": "2026-11-24T07:16:51+00:00",
+    "hash": "c03da66827190abe"
   },
   {
     "id": "aushalten",
@@ -5506,7 +5506,7 @@
       "Dat"
     ],
     "prepositions": [],
-    "usage_pattern_raw": "sich, Akk., Dat.",
+    "usage_pattern_raw": "sich, Dat., Akk.",
     "indicative": {
       "Präsens": {
         "ich": "halte aus",
@@ -5654,8 +5654,8 @@
     "rank": 3358,
     "zipf": 3.92,
     "first_seen": "2026-10-07T11:57:55+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "a268e35aae52d15a"
+    "updated_at": "2026-11-24T03:03:39+00:00",
+    "hash": "ba6b026bdf01826f"
   },
   {
     "id": "ausprobieren",
@@ -5970,11 +5970,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausschneiden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausschneiden.htm",
-    "rank": 11473,
+    "rank": 11527,
     "zipf": 2.84,
     "first_seen": "2026-10-21T22:22:51+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "8e06c8b116b35bc3"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "48f50ae66db8b5c6"
   },
   {
     "id": "aussehen",
@@ -5997,11 +5997,11 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
+      "nach+D",
       "mit+D",
-      "nach+D"
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., für+A, mit+D, nach+D, wie, als",
+    "usage_pattern_raw": "Akk., nach+D, mit+D, für+A, wie, als",
     "indicative": {
       "Präsens": {
         "ich": "sehe aus",
@@ -6131,8 +6131,8 @@
     "rank": 566,
     "zipf": 4.78,
     "first_seen": "2026-10-07T10:30:23+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "c5e5c35cc2a8ef11"
+    "updated_at": "2026-11-24T03:04:22+00:00",
+    "hash": "aa44d60eebc8f1e6"
   },
   {
     "id": "ausstrecken",
@@ -6287,11 +6287,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ausstrecken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ausstrecken.htm",
-    "rank": 12105,
+    "rank": 12160,
     "zipf": 2.78,
     "first_seen": "2026-10-21T12:04:53+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "b958e62e8e8c51e3"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "7dbebeec9ff04270"
   },
   {
     "id": "aussuchen",
@@ -6640,11 +6640,11 @@
       "Dat"
     ],
     "prepositions": [
-      "zu+D",
       "aus+D",
+      "zu+D",
       "auf+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., zu+D, aus+D, auf+A",
+    "usage_pattern_raw": "Dat., Akk., aus+D, zu+D, auf+A",
     "indicative": {
       "Präsens": {
         "ich": "ziehe aus",
@@ -6782,8 +6782,8 @@
     "rank": 3795,
     "zipf": 3.85,
     "first_seen": "2026-10-08T05:34:45+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "e5476dcc2558013d"
+    "updated_at": "2026-11-24T03:05:04+00:00",
+    "hash": "10462ac5f243941a"
   },
   {
     "id": "baden",
@@ -7290,7 +7290,7 @@
     "prepositions": [
       "für+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., für+A",
+    "usage_pattern_raw": "Dat., Akk., für+A",
     "indicative": {
       "Präsens": {
         "ich": "bedeute",
@@ -7439,8 +7439,8 @@
     "rank": 1057,
     "zipf": 4.52,
     "first_seen": "2026-10-07T13:20:42+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "56c58c88c81ef41f"
+    "updated_at": "2026-11-24T03:05:46+00:00",
+    "hash": "2d6cbda1ee1a9cb3"
   },
   {
     "id": "beeilen",
@@ -7594,11 +7594,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/beeilen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/beeilen.htm",
-    "rank": 7864,
+    "rank": 7898,
     "zipf": 3.27,
     "first_seen": "2026-11-14T14:18:57+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "15858cde7bf43457"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "af2ba8ff632e6324"
   },
   {
     "id": "beenden",
@@ -8136,13 +8136,13 @@
       "Dat"
     ],
     "prepositions": [
-      "durch+A",
       "zu+D",
-      "für+A",
       "von+D",
-      "an+A"
+      "durch+A",
+      "an+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., durch+A, zu+D, für+A, von+D, an+A",
+    "usage_pattern_raw": "Dat., Akk., zu+D, von+D, durch+A, an+A, für+A",
     "indicative": {
       "Präsens": {
         "ich": "bekomme",
@@ -8281,8 +8281,8 @@
     "rank": 87,
     "zipf": 5.42,
     "first_seen": "2026-10-08T05:36:52+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "7a74b25c4f1107c3"
+    "updated_at": "2026-11-24T03:06:08+00:00",
+    "hash": "858bdfdba6f4fb3e"
   },
   {
     "id": "bellen",
@@ -8623,7 +8623,7 @@
     "prepositions": [
       "zu+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., zu+D",
+    "usage_pattern_raw": "sich+A, Dat., Akk., zu+D",
     "indicative": {
       "Präsens": {
         "ich": "bereite",
@@ -8756,8 +8756,8 @@
     "rank": 2062,
     "zipf": 4.19,
     "first_seen": "2026-10-08T05:39:18+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "228fd041ddce9303"
+    "updated_at": "2026-11-24T03:07:30+00:00",
+    "hash": "5a83bfe3c806ffe9"
   },
   {
     "id": "berichten",
@@ -10654,13 +10654,13 @@
       "Akk"
     ],
     "prepositions": [
-      "durch+A",
-      "an+A",
       "unter+D",
       "um+A",
-      "unter+A"
+      "unter+A",
+      "durch+A",
+      "an+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., durch+A, an+A, unter+D, um+A, unter+A",
+    "usage_pattern_raw": "sich+A, Akk., unter+D, um+A, unter+A, durch+A, an+A",
     "indicative": {
       "Präsens": {
         "ich": "binde",
@@ -10811,8 +10811,8 @@
     "rank": 2850,
     "zipf": 4.02,
     "first_seen": "2026-10-07T10:26:26+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "922af6f73dd35aad"
+    "updated_at": "2026-11-24T03:08:55+00:00",
+    "hash": "08dc460817e62dd4"
   },
   {
     "id": "bitten",
@@ -10835,11 +10835,11 @@
       "Akk"
     ],
     "prepositions": [
+      "um+A",
       "zu+D",
-      "für+A",
-      "um+A"
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., zu+D, für+A, um+A",
+    "usage_pattern_raw": "Akk., um+A, zu+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "bitte",
@@ -10997,8 +10997,8 @@
     "rank": 1074,
     "zipf": 4.51,
     "first_seen": "2026-10-07T10:29:16+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "4f319332a8f3ce9e"
+    "updated_at": "2026-11-24T03:09:16+00:00",
+    "hash": "408382ca408f04b6"
   },
   {
     "id": "bleiben",
@@ -11021,13 +11021,13 @@
       "Dat"
     ],
     "prepositions": [
-      "für+A",
+      "unter+D",
       "bei+D",
       "von+D",
       "in+D",
-      "unter+D"
+      "für+A"
     ],
-    "usage_pattern_raw": "Dat., für+A, bei+D, von+D, in+D, unter+D, wie, als",
+    "usage_pattern_raw": "Dat., unter+D, bei+D, von+D, in+D, für+A, wie, als",
     "indicative": {
       "Präsens": {
         "ich": "bleibe",
@@ -11176,8 +11176,8 @@
     "rank": 100,
     "zipf": 5.37,
     "first_seen": "2026-10-07T11:27:41+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "be0695c599c309c2"
+    "updated_at": "2026-11-24T03:09:37+00:00",
+    "hash": "dc3e5a043bd1f2b5"
   },
   {
     "id": "brauchen",
@@ -11200,10 +11200,10 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "von+D"
+      "von+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., für+A, von+D",
+    "usage_pattern_raw": "Akk., von+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "brauche",
@@ -11339,8 +11339,8 @@
     "rank": 196,
     "zipf": 5.16,
     "first_seen": "2026-10-07T11:39:05+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3606a558f69beb8e"
+    "updated_at": "2026-11-24T03:09:58+00:00",
+    "hash": "b2929733dec69287"
   },
   {
     "id": "bringen",
@@ -11676,11 +11676,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/campen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/campen.htm",
-    "rank": 8234,
+    "rank": 8273,
     "zipf": 3.22,
     "first_seen": "2026-10-25T21:53:44+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "5c95c7c29611f421"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "663c8c22acf6b532"
   },
   {
     "id": "chatten",
@@ -11822,11 +11822,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/chatten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/chatten.htm",
-    "rank": 7128,
+    "rank": 7153,
     "zipf": 3.38,
     "first_seen": "2026-10-19T12:45:23+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3c395351afd0073e"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "17980d655526ab75"
   },
   {
     "id": "danken",
@@ -12307,11 +12307,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/dazugeho3ren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/dazugeho3ren.htm",
-    "rank": 9548,
+    "rank": 9593,
     "zipf": 3.05,
     "first_seen": "2026-10-07T11:12:59+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "2b97a14c584a0800"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "a3a2fb6fe0657514"
   },
   {
     "id": "dekorieren",
@@ -12466,11 +12466,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/dekorieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/dekorieren.htm",
-    "rank": 9813,
+    "rank": 9859,
     "zipf": 3.02,
     "first_seen": "2026-10-29T13:21:17+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "d8dc7e30edceb5ae"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "117b66cd7930c036"
   },
   {
     "id": "denken",
@@ -12493,13 +12493,13 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "über+A",
       "bei+D",
+      "über+A",
       "von+D",
-      "an+A"
+      "an+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., für+A, über+A, bei+D, von+D, an+A",
+    "usage_pattern_raw": "sich+A, sich+D, Akk., bei+D, über+A, von+D, an+A, für+A",
     "indicative": {
       "Präsens": {
         "ich": "denke",
@@ -12647,8 +12647,8 @@
     "rank": 151,
     "zipf": 5.23,
     "first_seen": "2026-10-07T10:54:28+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "aa8bc11a7d19ea63"
+    "updated_at": "2026-11-24T03:11:24+00:00",
+    "hash": "dbeb88e285636b61"
   },
   {
     "id": "diskutieren",
@@ -12823,11 +12823,11 @@
     "reflexive_use": false,
     "objects": [],
     "prepositions": [
+      "an+D",
       "vor+D",
-      "an+A",
-      "an+D"
+      "an+A"
     ],
-    "usage_pattern_raw": "vor+D, an+A, an+D",
+    "usage_pattern_raw": "an+D, vor+D, an+A",
     "indicative": {
       "Präsens": {
         "ich": "komme dran",
@@ -12966,11 +12966,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/drankommen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/drankommen.htm",
-    "rank": 16391,
+    "rank": 16462,
     "zipf": 2.41,
     "first_seen": "2026-10-07T12:39:23+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "3854387f59891591"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "8e47a51caeb0b20a"
   },
   {
     "id": "drucken",
@@ -13783,11 +13783,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einatmen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einatmen.htm",
-    "rank": 7615,
+    "rank": 7646,
     "zipf": 3.31,
     "first_seen": "2026-10-07T10:24:54+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "da50ff4c067cceb7"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "a8383010f06e2b32"
   },
   {
     "id": "einfu3llen",
@@ -13920,11 +13920,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einfu3llen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einfu3llen.htm",
-    "rank": 15569,
+    "rank": 15637,
     "zipf": 2.48,
     "first_seen": "2026-10-24T22:05:45+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "edf29c1f1c2ac70d"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "eaeb700daaa4efe8"
   },
   {
     "id": "einkaufen",
@@ -14563,11 +14563,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einpacken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einpacken.htm",
-    "rank": 6257,
+    "rank": 6279,
     "zipf": 3.52,
     "first_seen": "2026-10-23T11:48:17+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "32fbffa0bcbaa1ac"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "5a0d2e0401c1ff7a"
   },
   {
     "id": "einsammeln",
@@ -14714,11 +14714,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/einsammeln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/einsammeln.htm",
-    "rank": 7474,
+    "rank": 7505,
     "zipf": 3.33,
     "first_seen": "2026-10-07T12:27:49+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "4481b935a0e0525c"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "4dec2b6643ce5d45"
   },
   {
     "id": "einschlafen",
@@ -15189,11 +15189,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/emailen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/emailen.htm",
-    "rank": 27128,
+    "rank": 27243,
     "zipf": 1.43,
     "first_seen": "2026-10-19T13:11:06+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "6f8e90d1b8eb8212"
+    "updated_at": "2026-11-24T07:16:51+00:00",
+    "hash": "4c34802c86effae5"
   },
   {
     "id": "empfehlen",
@@ -15384,12 +15384,12 @@
       "Akk"
     ],
     "prepositions": [
-      "in+D",
       "auf+D",
-      "mit+D",
-      "auf+A"
+      "in+D",
+      "auf+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "Akk., in+D, auf+D, mit+D, auf+A, als",
+    "usage_pattern_raw": "Akk., auf+D, in+D, auf+A, mit+D, als",
     "indicative": {
       "Präsens": {
         "ich": "ende",
@@ -15517,8 +15517,8 @@
     "rank": 1395,
     "zipf": 4.4,
     "first_seen": "2026-10-08T05:49:45+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "60dd9c21baa34a01"
+    "updated_at": "2026-11-24T03:14:54+00:00",
+    "hash": "3970c1688663a3f0"
   },
   {
     "id": "entschuldigen",
@@ -15541,14 +15541,14 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
       "wegen+D",
       "bei+D",
+      "wegen+G",
       "von+D",
-      "mit+D",
-      "wegen+G"
+      "für+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., für+A, wegen+D, bei+D, von+D, mit+D, wegen+G",
+    "usage_pattern_raw": "sich+A, Akk., wegen+D, bei+D, wegen+G, von+D, für+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "entschuldige",
@@ -15693,8 +15693,8 @@
     "rank": 2231,
     "zipf": 4.15,
     "first_seen": "2026-10-07T13:42:59+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "04eefeabcdb1daff"
+    "updated_at": "2026-11-24T03:15:15+00:00",
+    "hash": "1205f72a5c30fa60"
   },
   {
     "id": "erga3nzen",
@@ -15717,10 +15717,10 @@
       "Akk"
     ],
     "prepositions": [
-      "durch+A",
-      "zu+D"
+      "zu+D",
+      "durch+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., durch+A, zu+D",
+    "usage_pattern_raw": "sich+A, Akk., zu+D, durch+A",
     "indicative": {
       "Präsens": {
         "ich": "ergänze",
@@ -15862,8 +15862,8 @@
     "rank": 3039,
     "zipf": 3.98,
     "first_seen": "2026-10-07T11:35:53+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "20bf9890a59613f6"
+    "updated_at": "2026-11-24T03:15:36+00:00",
+    "hash": "f0f7c9c91b62b8d8"
   },
   {
     "id": "erkla3ren",
@@ -17338,14 +17338,14 @@
       "Akk"
     ],
     "prepositions": [
-      "zu+D",
-      "in+A",
-      "in+D",
       "unter+D",
-      "an+D",
-      "nach+D"
+      "in+A",
+      "zu+D",
+      "nach+D",
+      "in+D",
+      "an+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., zu+D, in+A, in+D, unter+D, an+D, nach+D",
+    "usage_pattern_raw": "sich+A, Akk., unter+D, in+A, zu+D, nach+D, in+D, an+D",
     "indicative": {
       "Präsens": {
         "ich": "finde",
@@ -17496,8 +17496,8 @@
     "rank": 60,
     "zipf": 5.6,
     "first_seen": "2026-10-07T11:05:34+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "acf95a1aa93d12a8"
+    "updated_at": "2026-11-24T03:19:25+00:00",
+    "hash": "05d08b53c4751551"
   },
   {
     "id": "fliegen",
@@ -17981,10 +17981,10 @@
       "Akk"
     ],
     "prepositions": [
-      "um+A",
-      "nach+D"
+      "nach+D",
+      "um+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., um+A, nach+D",
+    "usage_pattern_raw": "sich+A, Akk., nach+D, um+A",
     "indicative": {
       "Präsens": {
         "ich": "frage",
@@ -18119,8 +18119,8 @@
     "rank": 80,
     "zipf": 5.47,
     "first_seen": "2026-10-08T05:56:44+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3316adfd48f28c86"
+    "updated_at": "2026-11-24T03:19:47+00:00",
+    "hash": "73bee04ec3c23036"
   },
   {
     "id": "fressen",
@@ -18616,11 +18616,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/fru3hstu3cken.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/fru3hstu3cken.htm",
-    "rank": 5982,
+    "rank": 5987,
     "zipf": 3.57,
     "first_seen": "2026-10-17T21:18:48+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "6bb2ce8aa9c07121"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "6c51118590025d85"
   },
   {
     "id": "funktionieren",
@@ -18804,11 +18804,11 @@
       "Akk"
     ],
     "prepositions": [
-      "mit+D",
       "nach+D",
-      "an+D"
+      "an+D",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., mit+D, nach+D, an+D, wie, als",
+    "usage_pattern_raw": "sich+A, Akk., nach+D, an+D, mit+D, als, wie",
     "indicative": {
       "Präsens": {
         "ich": "fühle",
@@ -18947,8 +18947,8 @@
     "rank": 507,
     "zipf": 4.82,
     "first_seen": "2026-10-07T15:09:23+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "566793c7432babae"
+    "updated_at": "2026-11-24T03:20:07+00:00",
+    "hash": "01b6017bf6a3595d"
   },
   {
     "id": "geben",
@@ -18972,11 +18972,11 @@
       "Dat"
     ],
     "prepositions": [
-      "für+A",
       "von+D",
+      "für+A",
       "an+A"
     ],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., Dat., für+A, von+D, an+A, als",
+    "usage_pattern_raw": "sich+A, sich+D, Dat., Akk., von+D, für+A, an+A, als",
     "indicative": {
       "Präsens": {
         "ich": "gebe",
@@ -19125,8 +19125,8 @@
     "rank": 61,
     "zipf": 5.6,
     "first_seen": "2026-10-07T10:31:01+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "6d1041ce288ed7f9"
+    "updated_at": "2026-11-24T03:20:49+00:00",
+    "hash": "a1beadb16932c725"
   },
   {
     "id": "gefallen",
@@ -19506,11 +19506,11 @@
       "Dat"
     ],
     "prepositions": [
+      "unter+D",
       "zu+D",
-      "für+A",
-      "unter+D"
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, Dat., zu+D, für+A, unter+D",
+    "usage_pattern_raw": "sich+A, Dat., unter+D, zu+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "gehöre",
@@ -19660,8 +19660,8 @@
     "rank": 281,
     "zipf": 5.03,
     "first_seen": "2026-10-07T10:57:55+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "0d413547fdae9634"
+    "updated_at": "2026-11-24T03:21:32+00:00",
+    "hash": "3173bcf05be2b01c"
   },
   {
     "id": "genies5en",
@@ -19973,11 +19973,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/gernhaben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/gernhaben.htm",
-    "rank": 23178,
+    "rank": 23276,
     "zipf": 1.84,
     "first_seen": "2026-10-07T11:57:45+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "c8df1bb386e12d19"
+    "updated_at": "2026-11-24T07:16:51+00:00",
+    "hash": "020438fa8de70d59"
   },
   {
     "id": "gestalten",
@@ -20361,7 +20361,7 @@
     "prepositions": [
       "an+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., an+A",
+    "usage_pattern_raw": "Dat., Akk., an+A",
     "indicative": {
       "Präsens": {
         "ich": "glaube",
@@ -20517,8 +20517,8 @@
     "rank": 220,
     "zipf": 5.12,
     "first_seen": "2026-10-07T10:43:04+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "f9c878bc60d5a2c7"
+    "updated_at": "2026-11-24T03:23:14+00:00",
+    "hash": "e7912a6c9abaf202"
   },
   {
     "id": "gratulieren",
@@ -21030,14 +21030,14 @@
     ],
     "prepositions": [
       "zu+D",
-      "für+A",
       "von+D",
       "in+D",
-      "an+A",
       "an+D",
-      "auf+A"
+      "auf+A",
+      "für+A",
+      "an+A"
     ],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., zu+D, für+A, von+D, in+D, an+A, an+D, auf+A",
+    "usage_pattern_raw": "sich+A, sich+D, Akk., zu+D, von+D, in+D, an+D, auf+A, für+A, an+A",
     "indicative": {
       "Präsens": {
         "ich": "halte",
@@ -21203,8 +21203,8 @@
     "rank": 108,
     "zipf": 5.34,
     "first_seen": "2026-10-07T11:50:49+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "64c1e835df387236"
+    "updated_at": "2026-11-24T03:23:36+00:00",
+    "hash": "a8fdd11eb46bca7a"
   },
   {
     "id": "heiraten",
@@ -21386,14 +21386,14 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "über+A",
+      "nach+D",
       "auf+D",
-      "in+D",
+      "über+A",
       "von+D",
-      "nach+D"
+      "in+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., für+A, über+A, auf+D, in+D, von+D, nach+D",
+    "usage_pattern_raw": "Akk., nach+D, auf+D, über+A, von+D, in+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "heiße",
@@ -21529,8 +21529,8 @@
     "rank": 489,
     "zipf": 4.83,
     "first_seen": "2026-10-08T06:03:18+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "8a9e320e848d8154"
+    "updated_at": "2026-11-24T03:24:18+00:00",
+    "hash": "949a69b2cf5123fb"
   },
   {
     "id": "helfen",
@@ -21855,11 +21855,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/hinlegen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/hinlegen.htm",
-    "rank": 6324,
+    "rank": 6346,
     "zipf": 3.51,
     "first_seen": "2026-10-28T23:57:41+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "650c4007ad0c41df"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "6860f5e25c2743d7"
   },
   {
     "id": "hoffen",
@@ -22205,14 +22205,14 @@
       "Akk"
     ],
     "prepositions": [
-      "durch+A",
+      "bei+D",
       "zu+D",
       "von+D",
-      "bei+D",
+      "durch+A",
       "an+D",
       "auf+A"
     ],
-    "usage_pattern_raw": "Akk., durch+A, zu+D, von+D, bei+D, an+D, auf+A",
+    "usage_pattern_raw": "Akk., bei+D, zu+D, von+D, durch+A, an+D, auf+A",
     "indicative": {
       "Präsens": {
         "ich": "höre",
@@ -22363,8 +22363,8 @@
     "rank": 237,
     "zipf": 5.09,
     "first_seen": "2026-10-07T10:57:55+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3430c05362fce65e"
+    "updated_at": "2026-11-24T03:25:00+00:00",
+    "hash": "dc4f9bef6ba57a06"
   },
   {
     "id": "informieren",
@@ -22561,10 +22561,10 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "auf+A"
+      "auf+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., für+A, auf+A",
+    "usage_pattern_raw": "sich+A, Akk., auf+A, für+A",
     "indicative": {
       "Präsens": {
         "ich": "interessiere",
@@ -22702,8 +22702,8 @@
     "rank": 1240,
     "zipf": 4.45,
     "first_seen": "2026-10-07T15:24:33+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "037d656575ac513f"
+    "updated_at": "2026-11-24T03:26:04+00:00",
+    "hash": "dde7c1dd417d5159"
   },
   {
     "id": "jobben",
@@ -22848,11 +22848,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/jobben.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/jobben.htm",
-    "rank": 14643,
+    "rank": 14707,
     "zipf": 2.56,
     "first_seen": "2026-10-07T12:54:34+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "9a46098f96939509"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "598b922601215304"
   },
   {
     "id": "joggen",
@@ -23136,11 +23136,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/kapieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/kapieren.htm",
-    "rank": 6753,
+    "rank": 6777,
     "zipf": 3.44,
     "first_seen": "2026-11-11T15:01:28+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3304257794784826"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "f771982df0a6b764"
   },
   {
     "id": "kaufen",
@@ -24795,22 +24795,22 @@
       "Dat"
     ],
     "prepositions": [
-      "durch+A",
-      "zu+D",
-      "für+A",
-      "von+D",
-      "in+A",
-      "an+A",
-      "um+A",
-      "über+D",
-      "hinter+A",
-      "hinter+D",
-      "mit+D",
-      "nach+D",
       "aus+D",
-      "auf+A"
+      "zu+D",
+      "um+A",
+      "durch+A",
+      "über+D",
+      "auf+A",
+      "in+A",
+      "nach+D",
+      "hinter+A",
+      "von+D",
+      "hinter+D",
+      "an+A",
+      "mit+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., Dat., durch+A, zu+D, für+A, von+D, in+A, an+A, um+A, über+D, hinter+A, hinter+D, mit+D, nach+D, aus+D, auf+A",
+    "usage_pattern_raw": "Dat., Akk., aus+D, zu+D, um+A, durch+A, über+D, auf+A, in+A, nach+D, hinter+A, von+D, hinter+D, an+A, mit+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "komme",
@@ -24966,8 +24966,8 @@
     "rank": 46,
     "zipf": 5.71,
     "first_seen": "2026-10-07T10:30:53+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "ddd98a1ef09918c8"
+    "updated_at": "2026-11-24T03:29:32+00:00",
+    "hash": "728f6430a611105b"
   },
   {
     "id": "kontrollieren",
@@ -25481,13 +25481,13 @@
       "Akk"
     ],
     "prepositions": [
-      "durch+A",
       "zu+D",
-      "für+A",
       "von+D",
-      "an+A"
+      "durch+A",
+      "an+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., durch+A, zu+D, für+A, von+D, an+A",
+    "usage_pattern_raw": "sich+A, Akk., zu+D, von+D, durch+A, an+A, für+A",
     "indicative": {
       "Präsens": {
         "ich": "kriege",
@@ -25627,8 +25627,8 @@
     "rank": 816,
     "zipf": 4.64,
     "first_seen": "2026-10-07T13:39:36+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "77060ebde7f87bdd"
+    "updated_at": "2026-11-24T03:29:54+00:00",
+    "hash": "1dcff1efbd0193ae"
   },
   {
     "id": "ko3nnen",
@@ -26147,20 +26147,20 @@
       "Akk"
     ],
     "prepositions": [
-      "durch+A",
+      "unter+D",
+      "gegen+A",
+      "in+A",
+      "aus+D",
+      "bis+A",
+      "nach+D",
       "zu+D",
       "über+A",
-      "gegen+A",
-      "bis+A",
-      "in+A",
       "auf+D",
-      "unter+D",
       "über+D",
-      "nach+D",
-      "aus+D",
+      "durch+A",
       "auf+A"
     ],
-    "usage_pattern_raw": "Akk., durch+A, zu+D, über+A, gegen+A, bis+A, in+A, auf+D, unter+D, über+D, nach+D, aus+D, auf+A, als",
+    "usage_pattern_raw": "Akk., unter+D, gegen+A, in+A, aus+D, bis+A, nach+D, zu+D, über+A, auf+D, über+D, durch+A, auf+A, als",
     "indicative": {
       "Präsens": {
         "ich": "laufe",
@@ -26307,8 +26307,8 @@
     "rank": 269,
     "zipf": 5.05,
     "first_seen": "2026-10-08T06:11:02+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "0b597380e132b96c"
+    "updated_at": "2026-11-24T03:30:37+00:00",
+    "hash": "ada56348331bd649"
   },
   {
     "id": "leben",
@@ -26331,14 +26331,14 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "von+D",
-      "bei+D",
-      "in+D",
       "unter+D",
-      "mit+D"
+      "bei+D",
+      "von+D",
+      "in+D",
+      "mit+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., für+A, von+D, bei+D, in+D, unter+D, mit+D",
+    "usage_pattern_raw": "sich+A, Akk., unter+D, bei+D, von+D, in+D, mit+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "lebe",
@@ -26479,8 +26479,8 @@
     "rank": 34,
     "zipf": 5.86,
     "first_seen": "2026-10-07T10:32:09+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "de91b73e71577beb"
+    "updated_at": "2026-11-24T03:30:57+00:00",
+    "hash": "df13836297931b87"
   },
   {
     "id": "legen",
@@ -27175,19 +27175,19 @@
       "Dat"
     ],
     "prepositions": [
-      "vor+D",
+      "unter+D",
       "bei+D",
+      "nach+D",
       "auf+D",
+      "neben+D",
       "in+D",
       "zwischen+D",
-      "unter+D",
       "über+D",
-      "an+D",
       "hinter+D",
-      "nach+D",
-      "neben+D"
+      "an+D",
+      "vor+D"
     ],
-    "usage_pattern_raw": "Akk., Dat., vor+D, bei+D, auf+D, in+D, zwischen+D, unter+D, über+D, an+D, hinter+D, nach+D, neben+D",
+    "usage_pattern_raw": "Dat., Akk., unter+D, bei+D, nach+D, auf+D, neben+D, in+D, zwischen+D, über+D, hinter+D, an+D, vor+D",
     "indicative": {
       "Präsens": {
         "ich": "liege",
@@ -27325,8 +27325,8 @@
     "rank": 178,
     "zipf": 5.2,
     "first_seen": "2026-10-08T06:14:31+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "0efc54ba4a0ba173"
+    "updated_at": "2026-11-24T03:32:02+00:00",
+    "hash": "b2499a2e1e2a5f07"
   },
   {
     "id": "losfahren",
@@ -27493,11 +27493,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/losfahren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/losfahren.htm",
-    "rank": 8184,
+    "rank": 8223,
     "zipf": 3.23,
     "first_seen": "2026-11-08T13:45:16+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "ed47d687a16d02e1"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "5f66416de5511aa5"
   },
   {
     "id": "losgehen",
@@ -27707,15 +27707,15 @@
       "Dat"
     ],
     "prepositions": [
+      "bei+D",
+      "aus+D",
+      "in+A",
       "zu+D",
       "in+D",
-      "in+A",
-      "bei+D",
-      "an+A",
-      "aus+D",
-      "auf+A"
+      "auf+A",
+      "an+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., zu+D, in+D, in+A, bei+D, an+A, aus+D, auf+A",
+    "usage_pattern_raw": "sich+A, Dat., Akk., bei+D, aus+D, in+A, zu+D, in+D, auf+A, an+A",
     "indicative": {
       "Präsens": {
         "ich": "mache",
@@ -27853,8 +27853,8 @@
     "rank": 26,
     "zipf": 5.98,
     "first_seen": "2026-10-08T06:16:17+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "a70fc30e0fdb28c1"
+    "updated_at": "2026-11-24T03:32:44+00:00",
+    "hash": "e17ac0ca248cb920"
   },
   {
     "id": "malen",
@@ -27879,7 +27879,7 @@
     "prepositions": [
       "auf+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., auf+A, wie, als",
+    "usage_pattern_raw": "sich+A, Akk., auf+A, als, wie",
     "indicative": {
       "Präsens": {
         "ich": "male",
@@ -28026,8 +28026,8 @@
     "rank": 2405,
     "zipf": 4.11,
     "first_seen": "2026-10-07T10:27:23+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "dd05c4974068f966"
+    "updated_at": "2026-11-24T03:33:05+00:00",
+    "hash": "18e43c08b1d808f2"
   },
   {
     "id": "markieren",
@@ -29974,15 +29974,15 @@
       "Dat"
     ],
     "prepositions": [
-      "zu+D",
-      "für+A",
-      "von+D",
-      "in+A",
       "bei+D",
       "aus+D",
-      "auf+A"
+      "in+A",
+      "zu+D",
+      "von+D",
+      "auf+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., Dat., zu+D, für+A, von+D, in+A, bei+D, aus+D, auf+A, als",
+    "usage_pattern_raw": "sich+A, sich+D, Dat., Akk., bei+D, aus+D, in+A, zu+D, von+D, auf+A, für+A, als",
     "indicative": {
       "Präsens": {
         "ich": "nehme",
@@ -30127,8 +30127,8 @@
     "rank": 84,
     "zipf": 5.45,
     "first_seen": "2026-10-07T11:35:33+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "ad685862a4b6c5e8"
+    "updated_at": "2026-11-24T03:35:13+00:00",
+    "hash": "532d78623d36e95a"
   },
   {
     "id": "nennen",
@@ -30457,11 +30457,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/notieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/notieren.htm",
-    "rank": 6622,
+    "rank": 6646,
     "zipf": 3.46,
     "first_seen": "2026-10-13T02:13:27+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "f48ecbf8b899dd4c"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "fa3d84b6a5e3abd7"
   },
   {
     "id": "nummerieren",
@@ -30606,11 +30606,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/nummerieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/nummerieren.htm",
-    "rank": 19718,
+    "rank": 19806,
     "zipf": 2.14,
     "first_seen": "2026-10-07T14:20:34+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "7bb6be4e7ec09364"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "84a989a2b21da173"
   },
   {
     "id": "ordnen",
@@ -30774,11 +30774,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/ordnen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/ordnen.htm",
-    "rank": 6212,
+    "rank": 6234,
     "zipf": 3.53,
     "first_seen": "2026-11-04T14:24:43+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "8a5fbe77b85dc62d"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "9bf40729955c5fd7"
   },
   {
     "id": "organisieren",
@@ -31166,13 +31166,13 @@
       "Dat"
     ],
     "prepositions": [
-      "zu+D",
-      "für+A",
-      "in+A",
       "bei+D",
-      "auf+A"
+      "in+A",
+      "zu+D",
+      "auf+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., zu+D, für+A, in+A, bei+D, auf+A",
+    "usage_pattern_raw": "sich+A, Dat., Akk., bei+D, in+A, zu+D, auf+A, für+A",
     "indicative": {
       "Präsens": {
         "ich": "passe",
@@ -31330,8 +31330,8 @@
     "rank": 818,
     "zipf": 4.64,
     "first_seen": "2026-10-07T14:28:19+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "6d9b1f438901eaef"
+    "updated_at": "2026-11-24T03:37:17+00:00",
+    "hash": "50837ccf7ec6c725"
   },
   {
     "id": "passieren",
@@ -31355,10 +31355,10 @@
       "Dat"
     ],
     "prepositions": [
-      "mit+D",
-      "aus+D"
+      "aus+D",
+      "mit+D"
     ],
-    "usage_pattern_raw": "Akk., Dat., mit+D, aus+D",
+    "usage_pattern_raw": "Dat., Akk., aus+D, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "passiere",
@@ -31488,8 +31488,8 @@
     "rank": 574,
     "zipf": 4.78,
     "first_seen": "2026-10-08T06:24:17+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "65dd66576f9e0c7d"
+    "updated_at": "2026-11-24T03:37:38+00:00",
+    "hash": "d7c7125e44f8e1cf"
   },
   {
     "id": "planen",
@@ -34225,11 +34225,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/renovieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/renovieren.htm",
-    "rank": 7022,
+    "rank": 7047,
     "zipf": 3.4,
     "first_seen": "2026-11-13T01:24:28+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "a5eb71ee4fe4e13f"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "d28dc47510c198f3"
   },
   {
     "id": "reparieren",
@@ -34539,11 +34539,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/reservieren.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/reservieren.htm",
-    "rank": 6768,
+    "rank": 6792,
     "zipf": 3.44,
     "first_seen": "2026-10-25T21:52:41+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "ea72aad2919d30ce"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "f83bd9c6a0a2eabc"
   },
   {
     "id": "riechen",
@@ -34736,13 +34736,13 @@
       "Akk"
     ],
     "prepositions": [
-      "zu+D",
       "bei+D",
+      "nach+D",
+      "zu+D",
       "um+A",
-      "mit+D",
-      "nach+D"
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., zu+D, bei+D, um+A, mit+D, nach+D",
+    "usage_pattern_raw": "sich+A, Akk., bei+D, nach+D, zu+D, um+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "rufe",
@@ -34885,8 +34885,8 @@
     "rank": 1064,
     "zipf": 4.52,
     "first_seen": "2026-10-07T10:41:03+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "bcdceb81b7958ab2"
+    "updated_at": "2026-11-24T03:38:41+00:00",
+    "hash": "f88958a64f1f4d80"
   },
   {
     "id": "ra3umen",
@@ -35412,7 +35412,7 @@
     "prepositions": [
       "nach+D"
     ],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., Dat., nach+D",
+    "usage_pattern_raw": "sich+A, sich+D, Dat., Akk., nach+D",
     "indicative": {
       "Präsens": {
         "ich": "schaffe",
@@ -35546,8 +35546,8 @@
     "rank": 233,
     "zipf": 5.1,
     "first_seen": "2026-10-08T06:27:05+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "e92bbf331ba50144"
+    "updated_at": "2026-11-24T03:39:24+00:00",
+    "hash": "59d1a39fc09efece"
   },
   {
     "id": "scheinen",
@@ -36781,16 +36781,16 @@
       "Dat"
     ],
     "prepositions": [
-      "für+A",
-      "über+A",
-      "in+A",
-      "von+D",
-      "an+A",
       "wegen+G",
+      "in+A",
+      "über+A",
+      "von+D",
       "an+D",
-      "auf+A"
+      "auf+A",
+      "an+A",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, sich+D, Akk., Dat., für+A, über+A, in+A, von+D, an+A, wegen+G, an+D, auf+A",
+    "usage_pattern_raw": "sich+A, sich+D, Dat., Akk., wegen+G, in+A, über+A, von+D, an+D, auf+A, an+A, für+A",
     "indicative": {
       "Präsens": {
         "ich": "schreibe",
@@ -36934,8 +36934,8 @@
     "rank": 140,
     "zipf": 5.25,
     "first_seen": "2026-10-07T15:43:13+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "cece9e3aca74eefd"
+    "updated_at": "2026-11-24T03:40:27+00:00",
+    "hash": "b133c1939553973a"
   },
   {
     "id": "schwimmen",
@@ -37229,11 +37229,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/scha3len.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/scha3len.htm",
-    "rank": 8200,
+    "rank": 8239,
     "zipf": 3.23,
     "first_seen": "2026-10-29T23:52:05+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "9627433fdc27fcb8"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "d55d55a852dd310d"
   },
   {
     "id": "sehen",
@@ -37256,15 +37256,15 @@
       "Akk"
     ],
     "prepositions": [
-      "vor+D",
-      "in+D",
-      "von+D",
-      "mit+D",
-      "um+A",
       "nach+D",
-      "auf+A"
+      "um+A",
+      "von+D",
+      "in+D",
+      "auf+A",
+      "vor+D",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., vor+D, in+D, von+D, mit+D, um+A, nach+D, auf+A, als",
+    "usage_pattern_raw": "sich+A, Akk., nach+D, um+A, von+D, in+D, auf+A, vor+D, mit+D, als",
     "indicative": {
       "Präsens": {
         "ich": "sehe",
@@ -37409,8 +37409,8 @@
     "rank": 49,
     "zipf": 5.69,
     "first_seen": "2026-10-07T10:30:23+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "a09c26338a54e61a"
+    "updated_at": "2026-11-24T03:40:48+00:00",
+    "hash": "c7a59489649073ae"
   },
   {
     "id": "sein",
@@ -37768,14 +37768,14 @@
       "Dat"
     ],
     "prepositions": [
-      "über+A",
       "vor+A",
       "in+A",
-      "an+A",
+      "über+A",
       "über+D",
-      "auf+A"
+      "auf+A",
+      "an+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., über+A, vor+A, in+A, an+A, über+D, auf+A",
+    "usage_pattern_raw": "sich+A, Dat., Akk., vor+A, in+A, über+A, über+D, auf+A, an+A",
     "indicative": {
       "Präsens": {
         "ich": "setze",
@@ -37922,8 +37922,8 @@
     "rank": 234,
     "zipf": 5.1,
     "first_seen": "2026-10-08T06:36:10+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "2e0fea39de52e391"
+    "updated_at": "2026-11-24T03:42:10+00:00",
+    "hash": "e52b248c37f65912"
   },
   {
     "id": "shoppen",
@@ -38702,11 +38702,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/skypen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/skypen.htm",
-    "rank": 15978,
+    "rank": 16047,
     "zipf": 2.45,
     "first_seen": "2026-10-22T22:31:57+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "1a38d1de3b84daba"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "6d71957bbb15d68d"
   },
   {
     "id": "sollen",
@@ -38892,18 +38892,18 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
       "gegen+A",
-      "in+A",
-      "in+D",
-      "auf+D",
       "bei+D",
-      "mit+D",
+      "in+A",
       "um+A",
+      "auf+D",
+      "neben+D",
+      "in+D",
       "an+D",
-      "neben+D"
+      "mit+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., für+A, gegen+A, in+A, in+D, auf+D, bei+D, mit+D, um+A, an+D, neben+D",
+    "usage_pattern_raw": "sich+A, Akk., gegen+A, bei+D, in+A, um+A, auf+D, neben+D, in+D, an+D, mit+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "spiele",
@@ -39047,8 +39047,8 @@
     "rank": 89,
     "zipf": 5.42,
     "first_seen": "2026-10-07T12:57:55+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "097406e7d3f23647"
+    "updated_at": "2026-11-24T03:43:34+00:00",
+    "hash": "0d0f2f7c410172e8"
   },
   {
     "id": "sprechen",
@@ -39071,16 +39071,16 @@
       "Akk"
     ],
     "prepositions": [
-      "zu+D",
-      "für+A",
-      "vor+D",
-      "über+A",
       "gegen+A",
+      "aus+D",
+      "zu+D",
+      "über+A",
       "von+D",
-      "mit+D",
-      "aus+D"
+      "vor+D",
+      "für+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "Akk., zu+D, für+A, vor+D, über+A, gegen+A, von+D, mit+D, aus+D, als",
+    "usage_pattern_raw": "Akk., gegen+A, aus+D, zu+D, über+A, von+D, vor+D, für+A, mit+D, als",
     "indicative": {
       "Präsens": {
         "ich": "spreche",
@@ -39233,8 +39233,8 @@
     "rank": 217,
     "zipf": 5.13,
     "first_seen": "2026-10-07T11:54:02+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "c46fbfb5fed98aa3"
+    "updated_at": "2026-11-24T03:43:55+00:00",
+    "hash": "e249b86e2c0f9b5f"
   },
   {
     "id": "stattfinden",
@@ -39413,21 +39413,21 @@
     ],
     "prepositions": [
       "zu+D",
-      "für+A",
-      "vor+D",
-      "auf+D",
-      "unter+D",
       "um+A",
-      "über+D",
-      "hinter+D",
       "neben+D",
+      "auf+D",
+      "über+D",
+      "auf+A",
+      "vor+D",
+      "unter+D",
       "gegenüber+D",
-      "über+A",
-      "mit+D",
       "nach+D",
-      "auf+A"
+      "über+A",
+      "hinter+D",
+      "für+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., zu+D, für+A, vor+D, auf+D, unter+D, um+A, über+D, hinter+D, neben+D, gegenüber+D, über+A, mit+D, nach+D, auf+A",
+    "usage_pattern_raw": "sich+A, Dat., Akk., zu+D, um+A, neben+D, auf+D, über+D, auf+A, vor+D, unter+D, gegenüber+D, nach+D, über+A, hinter+D, für+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "stehe",
@@ -39568,8 +39568,8 @@
     "rank": 76,
     "zipf": 5.5,
     "first_seen": "2026-10-08T06:41:25+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "454fcf465246c972"
+    "updated_at": "2026-11-24T03:44:17+00:00",
+    "hash": "f6e7453484e53180"
   },
   {
     "id": "stellen",
@@ -39593,21 +39593,21 @@
       "Dat"
     ],
     "prepositions": [
+      "gegen+A",
       "zu+D",
       "neben+A",
-      "für+A",
-      "gegen+A",
-      "von+D",
-      "an+A",
       "über+D",
-      "hinter+A",
-      "über+A",
-      "zwischen+A",
+      "auf+A",
       "vor+A",
+      "über+A",
+      "hinter+A",
+      "von+D",
       "unter+A",
-      "auf+A"
+      "zwischen+A",
+      "für+A",
+      "an+A"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., zu+D, neben+A, für+A, gegen+A, von+D, an+A, über+D, hinter+A, über+A, zwischen+A, vor+A, unter+A, auf+A",
+    "usage_pattern_raw": "sich+A, Dat., Akk., gegen+A, zu+D, neben+A, über+D, auf+A, vor+A, über+A, hinter+A, von+D, unter+A, zwischen+A, für+A, an+A",
     "indicative": {
       "Präsens": {
         "ich": "stelle",
@@ -39769,8 +39769,8 @@
     "rank": 96,
     "zipf": 5.38,
     "first_seen": "2026-10-07T13:57:53+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "b7ef0c40a8f04eec"
+    "updated_at": "2026-11-24T03:44:38+00:00",
+    "hash": "fcd329fb699eb672"
   },
   {
     "id": "stimmen",
@@ -39793,12 +39793,12 @@
       "Akk"
     ],
     "prepositions": [
-      "zu+D",
-      "für+A",
       "gegen+A",
-      "nach+D"
+      "zu+D",
+      "nach+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., zu+D, für+A, gegen+A, nach+D",
+    "usage_pattern_raw": "Akk., gegen+A, zu+D, nach+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "stimme",
@@ -39956,8 +39956,8 @@
     "rank": 360,
     "zipf": 4.96,
     "first_seen": "2026-10-07T11:35:28+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3b327eedfb57c54c"
+    "updated_at": "2026-11-24T03:44:59+00:00",
+    "hash": "b9a0cf40278439ee"
   },
   {
     "id": "studieren",
@@ -40962,11 +40962,11 @@
     ],
     "prepositions": [
       "bei+D",
-      "mit+D",
+      "nach+D",
       "um+A",
-      "nach+D"
+      "mit+D"
     ],
-    "usage_pattern_raw": "Akk., Dat., bei+D, mit+D, um+A, nach+D",
+    "usage_pattern_raw": "Dat., Akk., bei+D, nach+D, um+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "telefoniere",
@@ -41104,8 +41104,8 @@
     "rank": 3078,
     "zipf": 3.98,
     "first_seen": "2026-10-07T14:24:21+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "15ef60416a8b6124"
+    "updated_at": "2026-11-24T03:45:42+00:00",
+    "hash": "e3bb0a2bc36b1810"
   },
   {
     "id": "tragen",
@@ -41474,10 +41474,10 @@
     "prepositions": [
       "zu+D",
       "in+D",
-      "mit+D",
-      "auf+A"
+      "auf+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., zu+D, in+D, mit+D, auf+A",
+    "usage_pattern_raw": "sich+A, Akk., zu+D, in+D, auf+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "treffe",
@@ -41619,8 +41619,8 @@
     "rank": 142,
     "zipf": 5.25,
     "first_seen": "2026-10-08T06:45:14+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "3ceb6b8d96ddd9ae"
+    "updated_at": "2026-11-24T03:46:04+00:00",
+    "hash": "b7ea8298ac4fb959"
   },
   {
     "id": "trinken",
@@ -41976,7 +41976,7 @@
       "in+A",
       "an+A"
     ],
-    "usage_pattern_raw": "sich+D, sich+A, Akk., Dat., gegen+A, in+A, an+A, als",
+    "usage_pattern_raw": "sich+D, sich+A, Dat., Akk., gegen+A, in+A, an+A, als",
     "indicative": {
       "Präsens": {
         "ich": "tue",
@@ -42124,8 +42124,8 @@
     "rank": 65,
     "zipf": 5.58,
     "first_seen": "2026-10-07T10:30:12+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "11480b88496c7191"
+    "updated_at": "2026-11-24T03:47:46+00:00",
+    "hash": "a6f3518ff13ddfdc"
   },
   {
     "id": "twittern",
@@ -42241,11 +42241,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/twittern_hat.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/twittern.htm",
-    "rank": 9130,
+    "rank": 9172,
     "zipf": 3.11,
     "first_seen": "2026-10-15T13:14:00+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "d7efcda791638b1b"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "64f2bddb1687baaf"
   },
   {
     "id": "umsteigen",
@@ -42557,11 +42557,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/umtauschen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/umtauschen.htm",
-    "rank": 9286,
+    "rank": 9329,
     "zipf": 3.09,
     "first_seen": "2026-10-27T23:19:53+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "147b99e116549c12"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "7152ada17f0c1d68"
   },
   {
     "id": "umziehen",
@@ -43036,11 +43036,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/unterstreichen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/unterstreichen.htm",
-    "rank": 6352,
+    "rank": 6374,
     "zipf": 3.51,
     "first_seen": "2026-10-25T21:38:21+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "182b64a5a4a64c7c"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "2a280bf2ac3354a8"
   },
   {
     "id": "variieren",
@@ -43362,11 +43362,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verabreden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verabreden.htm",
-    "rank": 8209,
+    "rank": 8248,
     "zipf": 3.23,
     "first_seen": "2026-10-31T22:41:07+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "1cf89f9b206f41f8"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "96b36729262982ae"
   },
   {
     "id": "verabschieden",
@@ -44352,11 +44352,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/verkleiden.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/verkleiden.htm",
-    "rank": 7442,
+    "rank": 7472,
     "zipf": 3.34,
     "first_seen": "2026-10-27T00:06:56+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "4f811c5b98c36cfa"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "06be9ea16c00ac42"
   },
   {
     "id": "vermieten",
@@ -45189,13 +45189,13 @@
       "Akk"
     ],
     "prepositions": [
+      "unter+D",
       "zu+D",
       "von+D",
-      "unter+D",
-      "mit+D",
-      "auf+A"
+      "auf+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., zu+D, von+D, unter+D, mit+D, auf+A, als",
+    "usage_pattern_raw": "sich+A, Akk., unter+D, zu+D, von+D, auf+A, mit+D, als",
     "indicative": {
       "Präsens": {
         "ich": "verstehe",
@@ -45273,14 +45273,11 @@
       "latch on",
       "mean",
       "parse",
+      "see",
       "see into",
       "see through",
       "spend time uselessly",
-      "take point",
-      "ken",
-      "realize",
-      "savvy",
-      "see"
+      "take point"
     ],
     "definitions_de": [
       "(Gesprochenes) deutlich akustisch wahrnehmen, hören",
@@ -45350,8 +45347,8 @@
     "rank": 194,
     "zipf": 5.17,
     "first_seen": "2026-10-07T11:58:03+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "1c1f2fc3c49291c4"
+    "updated_at": "2026-11-24T03:48:28+00:00",
+    "hash": "7dc6de26c05f291f"
   },
   {
     "id": "verteilen",
@@ -45694,11 +45691,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/vorspielen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/vorspielen.htm",
-    "rank": 10571,
+    "rank": 10621,
     "zipf": 2.94,
     "first_seen": "2026-10-19T12:56:00+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "d30359bb0ede54cf"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "e494d85c4a655d9c"
   },
   {
     "id": "vorstellen",
@@ -46062,10 +46059,10 @@
     "prepositions": [
       "auf+D",
       "von+D",
-      "mit+D",
-      "auf+A"
+      "auf+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "Akk., auf+D, von+D, mit+D, auf+A",
+    "usage_pattern_raw": "Akk., auf+D, von+D, auf+A, mit+D",
     "indicative": {
       "Präsens": {
         "ich": "warte",
@@ -46213,8 +46210,8 @@
     "rank": 309,
     "zipf": 5.01,
     "first_seen": "2026-10-07T11:24:20+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "5519c30b4895fb26"
+    "updated_at": "2026-11-24T03:49:31+00:00",
+    "hash": "cfa1eac7f087158a"
   },
   {
     "id": "waschen",
@@ -46837,11 +46834,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wehtun.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wehtun.htm",
-    "rank": 8285,
+    "rank": 8324,
     "zipf": 3.22,
     "first_seen": "2026-11-15T15:00:44+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "398dd609a1f88542"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "5ab0ef005e4083c5"
   },
   {
     "id": "weitermachen",
@@ -47141,11 +47138,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/weitersuchen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/weitersuchen.htm",
-    "rank": 17705,
+    "rank": 17779,
     "zipf": 2.31,
     "first_seen": "2026-10-07T12:54:16+00:00",
-    "updated_at": "2026-11-23T18:10:08+00:00",
-    "hash": "120f3a544ca55be3"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "b1ff17debc48890e"
   },
   {
     "id": "werden",
@@ -47169,12 +47166,12 @@
       "Dat"
     ],
     "prepositions": [
+      "aus+D",
       "zu+D",
       "von+D",
-      "mit+D",
-      "aus+D"
+      "mit+D"
     ],
-    "usage_pattern_raw": "Akk., Dat., zu+D, von+D, mit+D, aus+D, wie, als",
+    "usage_pattern_raw": "Dat., Akk., aus+D, zu+D, von+D, mit+D, als, wie",
     "indicative": {
       "Präsens": {
         "ich": "werde",
@@ -47308,8 +47305,8 @@
     "rank": 7,
     "zipf": 6.49,
     "first_seen": "2026-10-07T10:27:53+00:00",
-    "updated_at": "2026-10-14T19:30:41+00:00",
-    "hash": "5398ef748dae1aea"
+    "updated_at": "2026-11-24T03:50:35+00:00",
+    "hash": "436ba29d244272f1"
   },
   {
     "id": "wiederholen",
@@ -47609,11 +47606,11 @@
       "Akk"
     ],
     "prepositions": [
+      "um+A",
       "über+A",
-      "von+D",
-      "um+A"
+      "von+D"
     ],
-    "usage_pattern_raw": "Akk., über+A, von+D, um+A",
+    "usage_pattern_raw": "Akk., um+A, über+A, von+D",
     "indicative": {
       "Präsens": {
         "ich": "weiß",
@@ -47748,8 +47745,8 @@
     "rank": 70,
     "zipf": 5.55,
     "first_seen": "2026-10-07T10:28:13+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "fc102cbc4f5bb497"
+    "updated_at": "2026-11-24T03:50:56+00:00",
+    "hash": "6a84a11d593c9e49"
   },
   {
     "id": "wohnen",
@@ -47942,10 +47939,10 @@
       "Akk"
     ],
     "prepositions": [
-      "für+A",
-      "von+D"
+      "von+D",
+      "für+A"
     ],
-    "usage_pattern_raw": "Akk., für+A, von+D",
+    "usage_pattern_raw": "Akk., von+D, für+A",
     "indicative": {
       "Präsens": {
         "ich": "will",
@@ -48085,8 +48082,8 @@
     "rank": 47,
     "zipf": 5.71,
     "first_seen": "2026-10-07T10:28:42+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "14de93915d9b8cbf"
+    "updated_at": "2026-11-24T03:52:18+00:00",
+    "hash": "c320229c24bfc425"
   },
   {
     "id": "wa3hlen",
@@ -48109,11 +48106,11 @@
       "Akk"
     ],
     "prepositions": [
+      "unter+D",
       "zu+D",
-      "zwischen+D",
-      "unter+D"
+      "zwischen+D"
     ],
-    "usage_pattern_raw": "Akk., zu+D, zwischen+D, unter+D, als",
+    "usage_pattern_raw": "Akk., unter+D, zu+D, zwischen+D, als",
     "indicative": {
       "Präsens": {
         "ich": "wähle",
@@ -48253,8 +48250,8 @@
     "rank": 369,
     "zipf": 4.95,
     "first_seen": "2026-10-07T15:20:48+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "abcd4073e8c03fc3"
+    "updated_at": "2026-11-24T03:49:10+00:00",
+    "hash": "b175e5ed570aaae1"
   },
   {
     "id": "wu3nschen",
@@ -48574,11 +48571,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/wu3rfeln.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/wu3rfeln.htm",
-    "rank": 7373,
+    "rank": 7402,
     "zipf": 3.35,
     "first_seen": "2026-11-13T15:24:46+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "214755bead495355"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "a4f5d04571d27a95"
   },
   {
     "id": "zahlen",
@@ -48925,12 +48922,12 @@
       "Dat"
     ],
     "prepositions": [
-      "durch+A",
       "in+D",
-      "mit+D",
-      "auf+A"
+      "durch+A",
+      "auf+A",
+      "mit+D"
     ],
-    "usage_pattern_raw": "sich+A, Akk., Dat., durch+A, in+D, mit+D, auf+A, als",
+    "usage_pattern_raw": "sich+A, Dat., Akk., in+D, durch+A, auf+A, mit+D, als",
     "indicative": {
       "Präsens": {
         "ich": "zeige",
@@ -49088,8 +49085,8 @@
     "rank": 126,
     "zipf": 5.29,
     "first_seen": "2026-10-07T13:28:13+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "c76d958527210cb5"
+    "updated_at": "2026-11-24T03:52:39+00:00",
+    "hash": "bed29ea6a52bffc6"
   },
   {
     "id": "ziehen",
@@ -49112,12 +49109,12 @@
       "Akk"
     ],
     "prepositions": [
+      "aus+D",
       "zu+D",
-      "an+D",
       "nach+D",
-      "aus+D"
+      "an+D"
     ],
-    "usage_pattern_raw": "Akk., zu+D, an+D, nach+D, aus+D",
+    "usage_pattern_raw": "Akk., aus+D, zu+D, nach+D, an+D",
     "indicative": {
       "Präsens": {
         "ich": "ziehe",
@@ -49248,8 +49245,8 @@
     "rank": 271,
     "zipf": 5.05,
     "first_seen": "2026-10-08T06:53:35+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "ae8bcb83fd919fab"
+    "updated_at": "2026-11-24T03:53:00+00:00",
+    "hash": "bc8957eb0274a3fc"
   },
   {
     "id": "zubereiten",
@@ -49409,11 +49406,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zubereiten.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zubereiten.htm",
-    "rank": 7375,
+    "rank": 7404,
     "zipf": 3.35,
     "first_seen": "2026-10-24T22:18:02+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "92285a579a1e61b8"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "846943800af01d12"
   },
   {
     "id": "zuho3ren",
@@ -50080,11 +50077,11 @@
       "partizip2": "https://www.verbformen.de/konjugation/partizip2/zusammenpassen.mp3"
     },
     "source_url": "https://www.verbformen.de/konjugation/zusammenpassen.htm",
-    "rank": 9693,
+    "rank": 9739,
     "zipf": 3.04,
     "first_seen": "2026-10-28T00:04:46+00:00",
-    "updated_at": "2026-11-23T18:10:07+00:00",
-    "hash": "5e488d20a04d2d5f"
+    "updated_at": "2026-11-24T07:16:50+00:00",
+    "hash": "84ab7f66a1fd538b"
   },
   {
     "id": "za3hlen",
